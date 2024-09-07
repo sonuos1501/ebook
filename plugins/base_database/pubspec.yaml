@@ -1,0 +1,33 @@
+name: database
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.0.2
+  injectable: 1.5.0
+  fluro: 2.0.3
+  floor: 1.2.0
+  gson: ^0.1.4
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  injectable_generator: any
+  floor_generator: 1.2.0
+  retrofit_generator: any
+  build_runner: any
+  json_serializable: any
+  built_value_generator: any
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true

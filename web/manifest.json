@@ -1,6 +1,6 @@
 {
-    "name": "ebook",
-    "short_name": "ebook",
+    "name": "base_3_19_4_getx_mvvm",
+    "short_name": "base_3_19_4_getx_mvvm",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

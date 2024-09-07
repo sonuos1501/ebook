@@ -1,0 +1,33 @@
+name: base_https
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+100
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+  flutter: ">=1.12.13+hotfix.6"
+
+#E:\flutter\flutter\bin\flutter packages pub run build_runner build --delete-conflicting-outputs
+dependencies:
+  injectable: 1.5.0
+  flutter:
+    sdk: flutter
+  base_core:
+    path: ../base_core
+  database:
+    path: ../base_database
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  injectable_generator: any
+  floor_generator: 1.2.0
+  retrofit_generator: any
+  build_runner: any
+  json_serializable: any
+  built_value_generator: any
+  flutter_lints: 1.0.0
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true

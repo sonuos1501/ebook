@@ -1,0 +1,115 @@
+name: base_core
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+
+  # Thư viện hỗ trợ Dependency Injection
+  get_it: 7.2.0
+  # Thư viên hỗ trợ việc pull, refresh and load more data
+  pull_to_refresh: ^2.0.0
+  # Thư viện mở rộng của thư viện Stream trong Dart, cung cấp các khả năng lập trình phản ứng (Reactive Programming) mạnh mẽ hơn.
+  rxdart: 0.27.1
+  # Thư viện hỗ trợ download, navigate to link
+  url_launcher: ^6.1.5
+  # Thư viện Flutter đơn giản và mạnh mẽ cho phép bạn tạo hiệu ứng chuyển đổi dạng carousel giữa các thẻ (cards) hoặc các widget khác.
+  card_swiper: ^3.0.1
+  # Plugin Flutter cho phép bạn hiển thị nội dung web bên trong ứng dụng Flutter.
+  webview_flutter: ^4.0.6
+  # Thư viện Flutter cho phép bạn thực hiện giao tiếp giữa các thành phần (components) trong ứng dụng bằng cách sử dụng mô hình phát (publish) và đăng ký (subscribe)
+  event_bus: ^2.0.0
+  # Thư viện Flutter dùng để hiển thị các chỉ báo tiến trình (progress indicators) dưới dạng thanh ngang (linear) hoặc vòng tròn (circular) với khả năng tùy chỉnh cao
+  percent_indicator: ^4.2.2
+  # Thư viện Flutter cho phép bạn lưu hình ảnh hoặc video vào thư viện (gallery) của thiết bị
+  # image_gallery_saver: ^1.7.1
+  # Thư viện Flutter giúp bạn quản lý và yêu cầu quyền (permissions) trên cả Android và iOS
+  permission_handler: ^10.2.0
+  # Thư viện Flutter của bạn tự động thay đổi hướng màn hình dựa trên cảm biến của thiết bị
+  auto_orientation: ^2.2.1
+  # Thư viện wakelock cho phép bạn kiểm soát trạng thái giữ màn hình của thiết bị luôn bật hoặc cho phép nó tự động tắt
+  wakelock: ^0.6.2
+  # Thư viện video_player là một trong những thư viện phổ biến nhất trong Flutter để phát video từ nhiều nguồn khác nhau như tệp cục bộ, URL, hoặc từ các luồng dữ liệu khác
+  video_player: ^2.4.8
+  # Thư viện pin_code_fields là một công cụ hữu ích trong Flutter để tạo ra các trường nhập mã PIN, OTP (One-Time Password), hoặc bất kỳ loại mã nào yêu cầu người dùng nhập một chuỗi ký tự ngắn
+  pin_code_fields: ^7.4.0
+  # Thư viện flutter_notification_channel cung cấp các công cụ để tạo và quản lý các kênh thông báo (notification channels) trên Android trong ứng dụng Flutter
+  flutter_notification_channel: 2.0.0
+  # Thư viện flutter_local_notifications cung cấp các công cụ để hiển thị thông báo cục bộ trên cả Android và iOS trong ứng dụng Flutter
+  flutter_local_notifications: 12.0.3
+  # Thư viện firebase_messaging cho phép bạn tích hợp dịch vụ thông báo đẩy (push notifications) của Firebase vào ứng dụng Flutter
+  firebase_messaging: 14.0.4
+  # Thư viện firebase_core_platform_interface là một phần của bộ công cụ Firebase dành cho Flutter, cung cấp giao diện nền tảng để các thư viện Firebase khác có thể hoạt động trên các nền tảng khác nhau (Android, iOS)
+  firebase_core_platform_interface: 4.8.0
+  # Thư viện firebase_messaging_platform_interface là một phần của hệ sinh thái Firebase dành cho Flutter, cung cấp giao diện nền tảng cho các thư viện Firebase Messaging
+  firebase_messaging_platform_interface: 4.2.5
+  # Thư viện flutter_styled_toast là một công cụ hữu ích trong Flutter giúp bạn dễ dàng hiển thị các thông báo (toast) với thiết kế tùy chỉnh và linh hoạt
+  flutter_styled_toast: ^2.0.0
+  # Thư viện flutter_svg là một công cụ phổ biến trong Flutter dùng để hiển thị và quản lý các tệp hình ảnh SVG (Scalable Vector Graphics)
+  flutter_svg: ^2.0.9
+  # Thư viện bloc (Business Logic Component) là một công cụ phổ biến trong Flutter dùng để quản lý trạng thái của ứng dụng một cách hiệu quả và có tổ chức
+  bloc: 8.0.1
+  # Thư viện intl (Internationalization) trong Flutter giúp xử lý các tác vụ liên quan đến định dạng và dịch nội dung cho các ứng dụng đa ngôn ngữ
+  intl: 0.18.1
+  # Thư viện graphql_flutter là một công cụ mạnh mẽ để tích hợp GraphQL vào ứng dụng Flutter. Nó cung cấp các tiện ích để thực hiện các truy vấn, đột biến (mutations), và đăng ký (subscriptions) GraphQL một cách dễ dàng
+  graphql_flutter: ^5.1.2
+  # Thư viện device_info_plus là một công cụ mạnh mẽ trong Flutter, giúp bạn truy cập thông tin chi tiết về thiết bị đang chạy ứng dụng của bạn
+  device_info_plus: ^3.2.2
+  # Là plugins giúp giao tiếp với native
+  bridge_native:
+    path: plugins/bridge_native_1.0.0
+  # flustars là một thư viện tiện ích cho Flutter, cung cấp nhiều công cụ và chức năng hỗ trợ cho việc phát triển ứng dụng
+  flustars: ^2.0.1
+  # equatable là một thư viện Dart giúp đơn giản hóa việc so sánh các đối tượng bằng cách chỉ định các trường mà bạn muốn so sánh
+  equatable: 2.0.3
+  # injectable là một thư viện Dart giúp quản lý Dependency Injection (DI) một cách dễ dàng và mạnh mẽ, đặc biệt khi kết hợp với các công cụ tạo mã tự động như injectable_generator và build_runner
+  injectable: 1.5.0
+  # json_annotation là một thư viện Dart hỗ trợ việc chuyển đổi giữa đối tượng Dart và JSON, rất hữu ích cho việc serialize và deserialize dữ liệu
+  json_annotation: ^4.8.0
+  # get là một thư viện Dart cho Flutter, cung cấp các công cụ cho quản lý trạng thái, điều hướng, và dependency injection
+  get: ^4.6.1
+  # fluttertoast là một thư viện Flutter cho phép bạn hiển thị các thông báo dạng toast trên màn hình. Phiên bản 8.0.1-nullsafety.0
+  fluttertoast: ^8.0.1-nullsafety.0
+  auto_route: 3.2.0
+  youtube_explode_dart: ^1.11.0
+  connectivity: 3.0.6
+  path_provider: 2.0.11
+  lottie: ^1.2.2
+  flutter_cache_manager: 3.3.1
+  cached_network_image: 3.3.0
+  permission_handler_platform_interface: 3.9.0
+  fluro: 2.0.3
+  floor: 1.2.0
+  gson: ^0.1.4
+  dio: ^4.0.6
+  logger: any
+  flutter_dotenv: ^5.0.2
+  sqflite: ^2.0.2
+  flutter_easyloading: any
+  shared_preferences: ^2.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  injectable_generator: any
+  floor_generator: 1.2.0
+  build_runner: any
+  json_serializable: any
+  built_value_generator: any
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets_base/bases/
