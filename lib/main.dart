@@ -1,125 +1,211 @@
-import 'package:flutter/material.dart';
+// ignore_for_file: depend_on_referenced_packages, library_private_types_in_public_api, avoid_print
+import 'dart:async';
+import 'dart:developer';
+import 'dart:io';
 
-void main() {
+import 'package:base_core/config.dart';
+import 'package:base_core/vn.base.cores/common/storage.dart';
+import 'package:base_core/vn.base.cores/res/resources.dart';
+import 'package:base_core/vn.base.cores/utils/utils.dart';
+import 'package:base_https/vn.base.https/gen/injection.dart';
+// import 'package:chatbot/chatbot.dart';
+import 'package:connectivity/connectivity.dart';
+import 'package:ebook/routers.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'package:flustars/flustars.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
+import 'package:flutter_easyloading/flutter_easyloading.dart';
+import 'package:get/get.dart';
+import 'package:graphql_flutter/graphql_flutter.dart';
+import 'package:injectable/injectable.dart';
+import 'package:permission_handler/permission_handler.dart';
+
+import 'pages.dart';
+
+BuildContext? mContext;
+
+Future<void> main() async {
+  const env = Environment.dev;
+  WidgetsFlutterBinding.ensureInitialized();
+  HttpOverrides.global = MyHttpOverrides();
+  await SystemChrome.setPreferredOrientations(
+    [
+      DeviceOrientation.portraitUp,
+      DeviceOrientation.portraitDown,
+    ],
+  );
+  await Device.initDeviceInfo();
+  await Get.putAsync<StorageService>(() => StorageService().init());
+  await dotenv.load(fileName: 'plugins/base_https/${_env(env)}');
+  await initHiveForFlutter();
+  await configureDependencies(env);
+
+  EventBus.to.addListener(_logout, name: 'logout');
+  await Firebase.initializeApp();
+  // await ChatBot.init(env: env);
   runApp(const MyApp());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
-
-  // This widget is the root of your application.
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        // This is the theme of your application.
-        //
-        // TRY THIS: Try running your application with "flutter run". You'll see
-        // the application has a purple toolbar. Then, without quitting the app,
-        // try changing the seedColor in the colorScheme below to Colors.green
-        // and then invoke "hot reload" (save your changes or press the "hot
-        // reload" button in a Flutter-supported IDE, or press "r" if you used
-        // the command line to start the app).
-        //
-        // Notice that the counter didn't reset back to zero; the application
-        // state is not lost during the reload. To reset the state, use hot
-        // restart instead.
-        //
-        // This works for code too, not just values: Most code changes can be
-        // tested with just a hot reload.
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-        useMaterial3: true,
-      ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
-    );
+String _env(String env) {
+  switch (env) {
+    case Environment.dev:
+      return '.env';
+    case Environment.prod:
+      return '.prod.env';
+    case Environment.test:
+      return '.stag.env';
+    default:
+      return '.env';
   }
 }
 
-class MyHomePage extends StatefulWidget {
-  const MyHomePage({super.key, required this.title});
-
-  // This widget is the home page of your application. It is stateful, meaning
-  // that it has a State object (defined below) that contains fields that affect
-  // how it looks.
-
-  // This class is the configuration for the state. It holds the values (in this
-  // case the title) provided by the parent (in this case the App widget) and
-  // used by the build method of the State. Fields in a Widget subclass are
-  // always marked "final".
-
-  final String title;
-
-  @override
-  State<MyHomePage> createState() => _MyHomePageState();
+void _logout(data) {
+  print('logout event bus');
+  if (!StorageService.to.getBool('RememberPassword')) {
+    StorageService.to.remove('UsernameLogin');
+    StorageService.to.remove('PasswordLogin');
+  }
+  StorageService.to.remove('parentProfile');
+  StorageService.to.removeToken();
+  StorageService.to.remove(Constant.keyFCMToken);
+  //Get.offAllNamed(TechJARouters.login);
 }
 
-class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0;
+class MyApp extends StatefulWidget {
+  final Widget? home;
+  final ThemeData? theme;
 
-  void _incrementCounter() {
-    setState(() {
-      // This call to setState tells the Flutter framework that something has
-      // changed in this State, which causes it to rerun the build method below
-      // so that the display can reflect the updated values. If we changed
-      // _counter without calling setState(), then the build method would not be
-      // called again, and so nothing would appear to happen.
-      _counter++;
+  const MyApp({super.key, this.home, this.theme});
+
+  @override
+  _MyAppState createState() => _MyAppState();
+}
+
+bool isForeground = false;
+
+class MyHttpOverrides extends HttpOverrides {
+  @override
+  HttpClient createHttpClient(SecurityContext? context) {
+    return super.createHttpClient(context)
+      ..badCertificateCallback =
+          (X509Certificate cert, String host, int port) => true;
+  }
+}
+
+class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
+  late StreamSubscription<ConnectivityResult> _subscription;
+  bool isUploadSuccess = true;
+
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addObserver(this);
+    _checkNetwork();
+    _subscription = Connectivity().onConnectivityChanged.listen(
+      (ConnectivityResult result) {
+        if (result == ConnectivityResult.wifi ||
+            result == ConnectivityResult.mobile) {
+          log('NETWORK is connected');
+        } else {
+          log('NETWORK is gone');
+        }
+        config.networkStateChanged(result);
+      },
+    );
+    _initMethod();
+  }
+
+  @override
+  void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
+    _subscription.cancel();
+    super.dispose();
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) async {
+    isForeground = false;
+    switch (state) {
+      case AppLifecycleState.inactive:
+        break;
+      case AppLifecycleState.resumed:
+        isForeground = true;
+        break;
+      case AppLifecycleState.paused:
+        break;
+      case AppLifecycleState.detached:
+        break;
+      default:
+    }
+  }
+
+  final ThemeData _theme = ThemeData(
+    brightness: Brightness.dark,
+    canvasColor: Colours.main,
+    splashColor: Colours.transparent,
+    indicatorColor: Colours.black,
+    scaffoldBackgroundColor: Colours.main,
+    visualDensity: VisualDensity.standard,
+    fontFamily: 'Regular',
+    highlightColor: Colours.transparent,
+    appBarTheme: AppBarTheme(
+      elevation: 8.0,
+      color: Colours.main,
+      systemOverlayStyle: SystemUiOverlayStyle.dark.copyWith(
+        systemNavigationBarColor: Colours.main,
+        statusBarColor: Colours.main,
+        systemNavigationBarDividerColor: Colours.main,
+      ),
+    ),
+  );
+
+  @override
+  Widget build(BuildContext context) {
+    setDesignWHD(800, 1280);
+    ScreenUtil.getInstance();
+
+    mContext = context;
+    return AnnotatedRegion<SystemUiOverlayStyle>(
+      value: SystemUiOverlayStyle.dark.copyWith(
+        statusBarColor: Colours.transparent,
+        systemNavigationBarDividerColor: Colours.main,
+      ),
+      child: GetMaterialApp(
+        title: 'ebook',
+        theme: _theme,
+        getPages: AppPages.pages,
+        debugShowCheckedModeBanner: false,
+        initialRoute: Routers.root,
+        initialBinding: InitialBinding(),
+        builder: EasyLoading.init(),
+      ),
+    );
+  }
+
+  void _initMethod() {}
+
+  void _checkNetwork() async {
+    var connectivityResult = await (Connectivity().checkConnectivity());
+    config.networkStateChanged(connectivityResult);
+  }
+}
+
+class InitialBinding extends Bindings {
+  @override
+  void dependencies() async {
+    Map<Permission, PermissionStatus> data = await [
+      Permission.storage,
+      Permission.camera,
+      Permission.phone,
+      Permission.mediaLibrary,
+      Permission.requestInstallPackages,
+    ].request();
+    data.forEach((key, value) async {
+      if (value == PermissionStatus.denied) {
+        exit(0);
+      }
     });
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    // This method is rerun every time setState is called, for instance as done
-    // by the _incrementCounter method above.
-    //
-    // The Flutter framework has been optimized to make rerunning build methods
-    // fast, so that you can just rebuild anything that needs updating rather
-    // than having to individually change instances of widgets.
-    return Scaffold(
-      appBar: AppBar(
-        // TRY THIS: Try changing the color here to a specific color (to
-        // Colors.amber, perhaps?) and trigger a hot reload to see the AppBar
-        // change color while the other colors stay the same.
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        // Here we take the value from the MyHomePage object that was created by
-        // the App.build method, and use it to set our appbar title.
-        title: Text(widget.title),
-      ),
-      body: Center(
-        // Center is a layout widget. It takes a single child and positions it
-        // in the middle of the parent.
-        child: Column(
-          // Column is also a layout widget. It takes a list of children and
-          // arranges them vertically. By default, it sizes itself to fit its
-          // children horizontally, and tries to be as tall as its parent.
-          //
-          // Column has various properties to control how it sizes itself and
-          // how it positions its children. Here we use mainAxisAlignment to
-          // center the children vertically; the main axis here is the vertical
-          // axis because Columns are vertical (the cross axis would be
-          // horizontal).
-          //
-          // TRY THIS: Invoke "debug painting" (choose the "Toggle Debug Paint"
-          // action in the IDE, or press "p" in the console), to see the
-          // wireframe for each widget.
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[
-            const Text(
-              'You have pushed the button this many times:',
-            ),
-            Text(
-              '$_counter',
-              style: Theme.of(context).textTheme.headlineMedium,
-            ),
-          ],
-        ),
-      ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
-        tooltip: 'Increment',
-        child: const Icon(Icons.add),
-      ), // This trailing comma makes auto-formatting nicer for build methods.
-    );
   }
 }

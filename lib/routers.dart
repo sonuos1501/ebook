@@ -1,1 +1,3 @@
-class Routers {}
+class Routers {
+  static const String root = '/';
+}
