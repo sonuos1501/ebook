@@ -173,7 +173,7 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
         systemNavigationBarDividerColor: Colours.main,
       ),
       child: GetMaterialApp(
-        title: 'ebook',
+        title: 'Sách điện tử',
         theme: _theme,
         getPages: AppPages.pages,
         debugShowCheckedModeBanner: false,
