@@ -12,10 +12,15 @@ dependencies:
   flutter:
     sdk: flutter
 
+  flutter_udid: ^3.0.0
+
   cupertino_icons: ^1.0.6
 
   base_core:
     path: plugins/base_core
+  base_https:
+    path: plugins/base_https
+
   get: ^4.6.6
 
 dev_dependencies:
@@ -50,10 +55,10 @@ flutter:
         - asset: assets/fonts/GoogleSansThin.ttf
 
   assets:
-    # - plugins/base_https/.env
-    # - plugins/base_https/.stag.env
-    # - plugins/base_https/.prod.env
-    # - plugins/base_core/assets_base/bases/
+    - plugins/base_https/.env
+    - plugins/base_https/.stag.env
+    - plugins/base_https/.prod.env
+    - plugins/base_core/assets_base/bases/
     # assets-generator-begin
     - assets/images/
     - assets/images/settings/
