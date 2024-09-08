@@ -11,7 +11,6 @@ import 'package:base_https/vn.base.https/gen/injection.dart';
 // import 'package:chatbot/chatbot.dart';
 import 'package:connectivity/connectivity.dart';
 import 'package:ebook/routers.dart';
-import 'package:firebase_core/firebase_core.dart';
 import 'package:flustars/flustars.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -43,7 +42,6 @@ Future<void> main() async {
   await configureDependencies(env);
 
   EventBus.to.addListener(_logout, name: 'logout');
-  await Firebase.initializeApp();
   // await ChatBot.init(env: env);
   runApp(const MyApp());
 }
@@ -63,13 +61,13 @@ String _env(String env) {
 
 void _logout(data) {
   print('logout event bus');
-  if (!StorageService.to.getBool('RememberPassword')) {
-    StorageService.to.remove('UsernameLogin');
-    StorageService.to.remove('PasswordLogin');
-  }
-  StorageService.to.remove('parentProfile');
-  StorageService.to.removeToken();
-  StorageService.to.remove(Constant.keyFCMToken);
+  // if (!StorageService.to.getBool('RememberPassword')) {
+  //   StorageService.to.remove('UsernameLogin');
+  //   StorageService.to.remove('PasswordLogin');
+  // }
+  // StorageService.to.remove('parentProfile');
+  // StorageService.to.removeToken();
+  // StorageService.to.remove(Constant.keyFCMToken);
   //Get.offAllNamed(TechJARouters.login);
 }
 
@@ -195,17 +193,17 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
 class InitialBinding extends Bindings {
   @override
   void dependencies() async {
-    Map<Permission, PermissionStatus> data = await [
-      Permission.storage,
-      Permission.camera,
-      Permission.phone,
-      Permission.mediaLibrary,
-      Permission.requestInstallPackages,
-    ].request();
-    data.forEach((key, value) async {
-      if (value == PermissionStatus.denied) {
-        exit(0);
-      }
-    });
+    // Map<Permission, PermissionStatus> data = await [
+    //   Permission.storage,
+    //   Permission.camera,
+    //   Permission.phone,
+    //   Permission.mediaLibrary,
+    //   Permission.requestInstallPackages,
+    // ].request();
+    // data.forEach((key, value) async {
+    //   if (value == PermissionStatus.denied) {
+    //     exit(0);
+    //   }
+    // });
   }
 }

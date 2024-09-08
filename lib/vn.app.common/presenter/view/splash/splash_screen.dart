@@ -64,9 +64,9 @@ class SplashScreen {
           ),
           Gaps.vGap209,
           Container(
-            padding: EdgeInsets.fromLTRB(64.dp, 0.dp, 0.dp, 0.dp),
+            padding: EdgeInsets.only(left: 64.dp),
             child: Column(
-              crossAxisAlignment: CrossAxisAlignment.center,
+              crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[
                 Text(
                   'Chào mừng bạn',

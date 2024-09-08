@@ -19,7 +19,6 @@ abstract class ScreenCommonState<T extends StatefulWidget,
   late StreamSubscription<ConnectivityResult> subscription;
   Object? data;
   late V vm;
-  EventChannel? _stream;
   var isShow = false;
   var isCheckingTime = false;
 
@@ -33,19 +32,7 @@ abstract class ScreenCommonState<T extends StatefulWidget,
     initViewModel();
     vm = Get.find<V>();
 
-    //stream for bridge native
-    _stream = const EventChannel('bridgeStream');
-    _stream?.receiveBroadcastStream().listen((onData) {
-      debugPrint('receiveBroadcastStream data from NATIVE: $onData');
-      if (onData == null) {
-        log("Error: bridgeStream: You didn't get data!");
-        return;
-      }
-      doCheckTimeCounting(onData);
-      doNativeDataBack(onData);
-    });
     WidgetsBinding.instance.addObserver(this);
-    //wowProvider.apiStream.listen((event) => handleStream(event));
     SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual,
         overlays: SystemUiOverlay.values);
     SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
@@ -160,40 +147,4 @@ abstract class ScreenCommonState<T extends StatefulWidget,
     // Get.offAndToNamed(baseRouters.login);
   }
 
-  void doNativeDataBack(onData) {
-    //TODO: handle data from native back
-  }
-
-  void doCheckTimeCounting(onData) {
-    // if (!isCheckingTime) return;
-
-    // print('doCheckTimeCounting...');
-    // print('SON $onData');
-    // String key = onData['key'];
-    // if (key == 'time_counting') {
-    //   CountTimer.to.counting();
-    // } else if (key == 'check_time_access' ||
-    //     key == 'check_time_recent_task_access') {
-    //   final vmAcc = Get.isRegistered<StudentSelectAccountViewModel>()
-    //       ? Get.find<StudentSelectAccountViewModel>()
-    //       : null;
-    //   if (vmAcc == null) return;
-    //   vmAcc.loadAllWeekTimeManagement();
-    //   vmAcc.loadWeekdaysTimeManagement();
-    //   vmAcc.checkTime(vmAcc.currentChild, false, (vl) {
-    //     print('checkTime...$vl');
-    //     if (!vl) {
-    //       if (key == 'check_time_access') {
-    //         EventBus.to.notificationListener(
-    //             name: checkTimeNotification, parameter: false);
-    //         if (!isForeground) {
-    //           sendToNative(key: 'get_off_app', data: {'value': true});
-    //         }
-    //       } else {
-    //         sendToNative(key: 'get_off_app', data: {'value': true});
-    //       }
-    //     }
-    //   });
-    // }
-  }
 }

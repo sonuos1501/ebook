@@ -1,5 +1,3 @@
-// ignore_for_file: depend_on_referenced_packages
-
 import 'package:ebook/vn.app.common/presenter/view/base_view.dart';
 import 'package:ebook/vn.app.common/presenter/view/splash/splash_screen.dart';
 import 'package:ebook/vn.app.common/presenter/view/splash/splash_vm.dart';
