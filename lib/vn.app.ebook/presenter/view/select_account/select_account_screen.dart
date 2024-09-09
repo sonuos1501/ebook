@@ -29,12 +29,6 @@ class SelectAccountScreen {
       alignment: Alignment.topLeft,
       width: MediaQuery.of(context).size.width,
       height: MediaQuery.of(context).size.height,
-      decoration: const BoxDecoration(
-        image: DecorationImage(
-          image: AssetImage(R.commonBackgroundChooseUser),
-          fit: BoxFit.cover,
-        ),
-      ),
       child: Stack(
         children: [
           Align(
