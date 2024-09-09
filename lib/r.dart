@@ -1,4 +1,7 @@
 class R {
+  /// ![](http://127.0.0.1:9527/assets/.DS_Store)
+  static const assets = 'assets/.DS_Store';
+
   /// ![](http://127.0.0.1:9527/assets/images/settings/img_reading_mode.webp)
   static const settingsImgReadingMode =
       'assets/images/settings/img_reading_mode.webp';
@@ -202,6 +205,10 @@ class R {
   /// ![](http://127.0.0.1:9527/assets/images/common/img_chevron_left.webp)
   static const commonImgChevronLeft =
       'assets/images/common/img_chevron_left.webp';
+
+  /// ![](http://127.0.0.1:9527/assets/images/common/background_choose_user.jpg)
+  static const commonBackgroundChooseUser =
+      'assets/images/common/background_choose_user.jpg';
 
   /// ![](http://127.0.0.1:9527/assets/images/common/ic_unchecked_24.webp)
   static const commonIcUnchecked24 =

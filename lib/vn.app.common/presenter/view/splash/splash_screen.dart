@@ -28,14 +28,10 @@ class SplashScreen {
       alignment: Alignment.topLeft,
       width: MediaQuery.of(context).size.width,
       height: MediaQuery.of(context).size.height,
-      decoration: BoxDecoration(
-        gradient: LinearGradient(
-          colors: [
-            Colors.transparent,
-            const Color(0xFF00359E).withOpacity(0.12),
-          ],
-          begin: Alignment.topCenter,
-          end: Alignment.bottomCenter,
+      decoration: const BoxDecoration(
+        image: DecorationImage(
+          image: AssetImage(R.commonBackgroundChooseUser),
+          fit: BoxFit.cover,
         ),
       ),
       child: Column(
