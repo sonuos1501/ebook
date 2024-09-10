@@ -1,10 +1,146 @@
 part of resources;
 
 class Colours {
+  static const Map<int, Color> bard = <int, Color>{
+    25: Color(0xFFFCFAFF),
+    50: Color(0xFFE3F2FD),
+    100: Color(0xFFBBDEFB),
+    200: Color(0xFF90CAF9),
+    300: Color(0xFF64B5F6),
+    400: Color(0xFF42A5F5),
+    500: Color(0xFF03A9F4),
+    600: Color(0xFF1E88E5),
+    700: Color(0xFF1976D2),
+    800: Color(0xFF1565C0),
+    900: Color(0xFF0D47A1),
+    950: Color.fromARGB(255, 10, 33, 163),
+  };
+
+  static const Map<int, Color> greyLight = <int, Color>{
+    25: Color(0xFFFCFCFD),
+    50: Color(0xFFF9FAFB),
+    100: Color(0xFFF2F4F7),
+    200: Color(0xFFEAECF0),
+    300: Color(0xFFD0D5DD),
+    400: Color(0xFF98A2B3),
+    500: Color(0xFF667085),
+    600: Color(0xFF475467),
+    700: Color(0xFF344054),
+    800: Color(0xFF182230),
+    900: Color(0xFF101828),
+    950: Color(0xFF0C111D),
+  };
+
+  static const Map<int, Color> greyDart = <int, Color>{
+    25: Color(0xFFFAFAFA),
+    50: Color(0xFFF5F5F6),
+    100: Color(0xFFF0F1F1),
+    200: Color(0xFFECECED),
+    300: Color(0xFFCECFD2),
+    400: Color(0xFF94969C),
+    500: Color(0xFF85888E),
+    600: Color(0xFF61646C),
+    700: Color(0xFF333741),
+    800: Color(0xFF1F242F),
+    900: Color(0xFF161B26),
+    950: Color(0xFF0C111D),
+  };
+
+  static const Map<int, Color> error = <int, Color>{
+    25: Color(0xFFFFFBFA),
+    50: Color(0xFFFEF3F2),
+    100: Color(0xFFFEE4E2),
+    200: Color(0xFFFECDCA),
+    300: Color(0xFFFDA29B),
+    400: Color(0xFFF97066),
+    500: Color(0xFFF04438),
+    600: Color(0xFFD92D20),
+    700: Color(0xFFB42318),
+    800: Color(0xFF912018),
+    900: Color(0xFF7A271A),
+    950: Color(0xFF55160C),
+  };
+
+  static const Map<int, Color> waring = <int, Color>{
+    25: Color(0xFFFFFCF5),
+    50: Color(0xFFFFFAEB),
+    100: Color(0xFFFEF0C7),
+    200: Color(0xFFFEDF89),
+    300: Color(0xFFFEC84B),
+    400: Color(0xFFFDB022),
+    500: Color(0xFFF79009),
+    600: Color(0xFFDC6803),
+    700: Color(0xFFB54708),
+    800: Color(0xFF93370D),
+    900: Color(0xFF7A2E0E),
+    950: Color(0xFF4E1D09),
+  };
+
+  static const Map<int, Color> success = <int, Color>{
+    25: Color(0xFFF6FEF9),
+    50: Color(0xFFECFDF3),
+    100: Color(0xFFDCFAE6),
+    200: Color(0xFFABEFC6),
+    300: Color(0xFF75E0A7),
+    400: Color(0xFF47CD89),
+    500: Color(0xFF17B26A),
+    600: Color(0xFF079455),
+    700: Color(0xFF067647),
+    800: Color(0xFF085D3A),
+    900: Color(0xFF074D31),
+    950: Color(0xFF053321),
+  };
+
+  /// Secondary
+  static const Map<int, Color> teal = <int, Color>{
+    25: Color(0xFFF6FEFC),
+    50: Color(0xFFF0FDF9),
+    100: Color(0xFFCCFBEF),
+    200: Color(0xFF99F6E0),
+    300: Color(0xFF5FE9D0),
+    400: Color(0xFF2ED3B7),
+    500: Color(0xFF15B79E),
+    600: Color(0xFF0E9384),
+    700: Color(0xFF107569),
+    800: Color(0xFF125D56),
+    900: Color(0xFF134E48),
+    950: Color(0xFF0A2926),
+  };
+
+  static const Map<int, Color> orangeLight = <int, Color>{
+    25: Color(0xFFFEFAF5),
+    50: Color(0xFFFEF6EE),
+    100: Color(0xFFFDEAD7),
+    200: Color(0xFFF9DBAF),
+    300: Color(0xFFF7B27A),
+    400: Color(0xFFF38744),
+    500: Color(0xFFEF6820),
+    600: Color(0xFFE04F16),
+    700: Color(0xFFB93815),
+    800: Color(0xFF932F19),
+    900: Color(0xFF772917),
+    950: Color(0xFF511C10),
+  };
+
+  static const Map<int, Color> orangeDark = <int, Color>{
+    25: Color(0xFFFFF9F5),
+    50: Color(0xFFFFF4ED),
+    100: Color(0xFFFFE6D5),
+    200: Color(0xFFFFD6AE),
+    300: Color(0xFFFF9C66),
+    400: Color(0xFFFF692E),
+    500: Color(0xFFFF4405),
+    600: Color(0xFFE62E05),
+    700: Color(0xFFBC1B06),
+    800: Color(0xFF97180C),
+    900: Color(0xFF771A0D),
+    950: Color(0xFF57130A),
+  };
+
   static const Color red = Color(0xFFFF4759);
   static const black = Colors.black;
   static const white = Colors.white;
-  static const white40 =  Color(0x66FFFFFF);
+  static const white40 = Color(0x66FFFFFF);
   static const blue = Color(0xFF0681d0);
   static const green = Colors.green;
   static const yellow = Colors.yellow;
@@ -52,7 +188,7 @@ class Colours {
   static const Color cFFFFFF = Color(0xFFFFFFFF);
   static const Color c2FE3EB = Color(0xFF2FE3EB);
   static const Color cADB4EC = Color(0xFFADB4EC);
-  static const Color cADB4EC0D = Color(0xDADB4EC);
+  static const Color cADB4EC0D = Color(0x0dadb4ec);
   static const Color c1F1F1F = Color(0x66494952);
   static const Color c24242E = Color(0xFF24242E);
   static const Color c494952 = Color(0xFF494952);

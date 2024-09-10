@@ -19,4 +19,6 @@ class SelectAccountViewModel extends BaseViewModel {
       grade: 5,
     ),
   ];
+
+  ChildrenEntity currentUser(userIndex) => users[userIndex];
 }

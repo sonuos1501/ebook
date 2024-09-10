@@ -8,6 +8,12 @@ class BottomBarItemModel {
   final String? iconSelected;
   final Widget child;
 
-  BottomBarItemModel(this.index, this.id, this.title, this.icon,
-      this.iconSelected, this.child);
+  BottomBarItemModel(
+    this.index,
+    this.id,
+    this.title,
+    this.icon,
+    this.iconSelected,
+    this.child,
+  );
 }

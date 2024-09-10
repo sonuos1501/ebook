@@ -43,7 +43,9 @@ class SelectAccountScreen {
               runSpacing: 16.dp,
               children: _getStudentAccountCards(
                 accounts: main.vm.users,
-                onAccountSelected: (id) {},
+                onAccountSelected: (id) {
+                  main.onAccountSelected(id);
+                },
               ),
             ).marginSymmetric(
               horizontal: MediaQuery.of(context).size.width * 0.18,

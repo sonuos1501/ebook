@@ -2,6 +2,7 @@
 
 import 'package:ebook/routers.dart';
 import 'package:ebook/vn.app.common/presenter/view/splash/splash.dart';
+import 'package:ebook/vn.app.ebook/presenter/view/ebook_host/ebook_host.dart';
 import 'package:ebook/vn.app.ebook/presenter/view/select_account/select_account.dart';
 import 'package:get/get.dart';
 
@@ -15,6 +16,11 @@ class AppPages {
     GetPage(
       name: Routers.selectAccount,
       page: () => const SelectAccountState(),
+      transition: Transition.leftToRight,
+    ),
+    GetPage(
+      name: Routers.ebookHost,
+      page: () => const EbookHostState(),
       transition: Transition.leftToRight,
     ),
   ];
