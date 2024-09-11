@@ -32,3 +32,5 @@ part 'src/time_utils.dart';
 part 'src/validations.dart';
 
 part 'src/version.dart';
+
+part 'src/color_extends.dart';

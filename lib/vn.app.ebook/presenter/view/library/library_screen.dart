@@ -1,8 +1,12 @@
 // ignore_for_file: depend_on_referenced_packages
 
+import 'package:base_core/vn.base.cores/res/resources.dart';
+import 'package:base_core/vn.base.cores/utils/utils.dart';
 import 'package:ebook/vn.app.common/presenter/view/splash/splash_vm.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import '../../widgets/item_library.dart';
+import '../../widgets/title_appbar.dart';
 import 'library.dart';
 
 class LibraryScreen {
@@ -25,9 +29,37 @@ class LibraryScreen {
       child: SizedBox(
         width: MediaQuery.of(context).size.width,
         height: MediaQuery.of(context).size.height,
-        child: const Column(
-          children: [
-            Expanded(child: Placeholder()),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: <Widget>[
+            Gaps.vGap30,
+            const TitleAppBarBig(title: 'Thư viện'),
+            Gaps.vGap15,
+            Expanded(
+              child: GridView.builder(
+                gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                  crossAxisCount: 2,
+                  mainAxisSpacing: 10.dp,
+                  crossAxisSpacing: 10.dp,
+                  mainAxisExtent: 230.dp,
+                ),
+                itemCount: main.vm.library.length,
+                itemBuilder: (context, index) {
+                  final library = main.vm.library[index];
+                  return ItemLibrary(
+                    color: ColorExtends(library.color),
+                    title: library.name,
+                    logo: Image.asset(
+                      library.image,
+                      width: 500.dp,
+                      height: 500.dp,
+                      fit: BoxFit.fill,
+                    ),
+                    callback: (v) {},
+                  );
+                },
+              ),
+            ),
           ],
         ),
       ),
