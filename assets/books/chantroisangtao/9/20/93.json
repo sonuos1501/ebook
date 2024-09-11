@@ -1,0 +1,4 @@
+{
+    "pageNumber": 93,
+    "pageText": "B. Ứng dụng của elip trong thiết kế\nVí dụ: Một gầm cầu có mặt cắt hình nửa elip cao 6 m rộng 20 m. Hãy vẽ elip biểu diễn mặt cắt đó.\nHướng dẫn:\nTa có a = 10, b = 6 nên elip có phương trình chính tắc x^2/100 + y^2/36 = 1.\nThao tác:\n– Nhập phương trình elip theo cú pháp x^2/100 + y^2/36 = 1 {y>=0} vào vùng nhập lệnh.\n- Quan sát hình vẽ elip trên vùng làm việc (Hình 2).\n\n– Vẽ trang trí mô phỏng theo thực tế:\n\nHình 3. Gầm cầu có dạng hình nửa elip\n3 Thiết kế một đường hầm có mặt cắt hình nửa elip cao 4 m rộng 10 m.\n\nHình 4. Đường hầm có mặt cắt hình nửa elip \n"
+}

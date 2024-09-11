@@ -1,0 +1,4 @@
+{
+    "pageNumber": 22,
+    "pageText": "## Trích xuất thông tin từ ảnh:\n\n**Bài toán 6:**\n\n* Một cửa hàng nhập về 8190 quả trứng gà và 6000 quả trứng vịt.\n* Trứng được để trong các vỉ, mỗi vỉ có 30 quả.\n* Yêu cầu: Tính tổng số vỉ trứng cửa hàng nhập về.\n\n**Mục Vui học:**\n\n* Hình ảnh:  Đường có các cột đèn dọc hai bên, khoảng cách giữa hai cột đèn là 34m.\n* Yêu cầu: Tính chiều dài đoạn đường từ cột đèn đầu tiên đến cột đèn cuối cùng.\n\n**Mục Thử thách:**\n\n*  Hình ảnh: Đường có các cột đèn dọc một bên, khoảng cách giữa 2 cột đèn liền nhau là 34m. Chiều dài đoạn đường từ cột đèn đầu tiên đến cột đèn cuối cùng là 646m.\n* Yêu cầu: Tính số cột đèn trên đoạn đường.\n\n**Mục Thực tế:**\n\n*  Yêu cầu: Đếm số cây xanh trên một đoạn đường đến trường, ước lượng khoảng cách giữa hai cây liền nhau và tính độ dài đoạn đường. \n"
+}

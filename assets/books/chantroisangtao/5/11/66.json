@@ -1,0 +1,4 @@
+{
+    "pageNumber": 66,
+    "pageText": "Vẽ hình vuông, lục giác đều: Học sinh tự thực hiện tương tự như cách vẽ tam giác đều nhưng với số điểm lần lượt là 4 và 6.\n\n**Thực hành 2:** Sử dụng phần mềm GeoGebra Classic 5 để vẽ tam giác đều, hình vuông và lục giác đều với độ dài cạnh có thể thay đổi (hình động).\nVẽ hình động của tam giác đều\n\n**Bước 1:** Tạo một thanh trượt để vẽ một đoạn thẳng a có độ dài thay đổi.\n\n - Nhấp chuột vào nút   và chọn thẻ Thanh trượt, rồi di chuyển con trỏ tới vùng làm việc, nháy chuột trái, cửa sổ Thanh trượt hiện ra trên màn hình, nhập vào ô Cực tiểu giá trị 0, Cực đại giá trị 5 và chọn OK (hình bên).\n\nTa được thanh trượt a có giá trị thay đổi từ 0 đến 5 như hình bên.\n\n**Bước 2:** Vẽ một đoạn thẳng AB có độ dài bằng a.\n\n- Nhấp chuột vào nút  và chọn thẻ Đoạn thẳng với độ dài cố định.\n\n - Vẽ điểm A và khai báo độ dài đoạn AB cần vẽ bằng a rồi bấm OK.\n\n– Ta được đoạn thẳng AB như hình bên. \n"
+}

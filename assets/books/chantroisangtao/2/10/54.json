@@ -1,0 +1,4 @@
+{
+    "pageNumber": 54,
+    "pageText": "**Bài 1**\n\nTính (theo mẫu).\nMẫu: 15 : 3\n15 | 3\n 15 | 5\n  0\n15 : 3 = 5\n\na) 14 : 2\n9 : 3\n27 : 3\n\nb) 12 : 4\n32 : 4\n35 : 5\n\n\n**Bài 2**\n\nTính (theo mẫu).\nMẫu: 17 : 3\n17 | 3\n 15 | 5\n  2\n17 : 3 = 5 (dư 2)\n\na) 15 : 2\n10 : 3\n23 : 3\n\nb) 9 : 4\n32 : 5\n18 : 5\n\n**Bài 3**\n\n| Số cái bánh để xếp vào hộp | Số bánh mỗi hộp | Số hộp bánh | Số bánh còn dư |\n|---|---|---|---|\n| 19 | 2 | 9 | 1 |\n| 19 | 5 | ... | ... |\n| 19 | 4 | ... | ... |\n\nCáo nhận nhiệm vụ chia đều 18 cái kẹo thành 3 phần.\n18 | 3\n15 | 5\n  3\n\nCáo chia cho hai chú gấu mỗi chú 5 cái kẹo, phần kẹo còn lại là của cáo.\nEm có đồng ý với cách chia này không?\nTại sao?\n\n**Thử thách**\n\nCác con bọ rùa màu vàng và màu đỏ có cách chọn khác nhau để đậu vào các lá cây. Tiếp theo, chiếc lá nào sẽ có cả bọ rùa màu vàng và bọ rùa màu đỏ cùng đậu?\n\n(Hình ảnh các con bọ rùa đậu trên các lá cây được đánh số từ 1 đến 24) \n"
+}

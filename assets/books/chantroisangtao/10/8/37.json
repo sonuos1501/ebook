@@ -1,0 +1,4 @@
+{
+    "pageNumber": 37,
+    "pageText": "Output:\n```text\n4. Hãy xác định phép vị tự biến đường tròn (O; R) thành đường tròn (O'; R') (R≠ R') trong\ncác trường hợp sau:\na) Hai đường tròn cắt nhau.\nb) Hai đường tròn tiếp xúc ngoài.\nc) Hai đường tròn tiếp xúc trong.\nd) Hai đường tròn đựng nhau.\ne) Hai đường tròn ở ngoài nhau.\n5. Cho hai đường tròn (I; R) và (I'; R') (Hình 12)\ncó tâm phân biệt và bán kính khác nhau. Hãy\nchứng minh có hai phép vị tự biến đường tròn\n(1; R) thành đường tròn (I'; R').\n6. Cho hình thang ABCD có hai đáy là AB và CD với CD = 1/2 AB. Gọi I là giao điểm của hai\nđường chéo AC và BD. Tìm phép vị tự biến AB thành CD.\n7. Tìm các tỉ số vị tự của phép biến hình được thực\nhiện trên cây thước vẽ truyền trong Hình 13.\n8. Trong Hình 14, tìm phép vị tự được dùng để biên 4 tam giác nhỏ thành 4 tam giác lớn.\n```"
+}

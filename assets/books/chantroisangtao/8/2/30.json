@@ -1,0 +1,4 @@
+{
+    "pageNumber": 30,
+    "pageText": "```table\nBảng 5.2. Bảng chi phí cho mạng điện trong nhà\n| STT | Chủng loại thiết bị, vật liệu | Đơn vị | Số lượng | Đơn giá  (đồng) | Thành tiền (đồng) |\n|---|---|---|---|---|---|\n| 1  | Dây điện đôi VCmd 2 x 2,5 | ? | ? | ? | ? |\n| 2  | Dây điện đôi VCmd 2 x 0,75 | ? | ? | ? | ? |\n| 3  | CB 10 A | ? | ? | ? | ? |\n| 4  | Bóng đèn LED 220 V - 20 W | ? | ? | ? | ? |\n| 5  | Công tắc 2 cực | ? | ? | ? | ? |\n| 6  | Công tắc 3 cực | ? | ? | ? | ? |\n| 7  | Ổ cắm điện 220V- 10 A | ? | ? | ? | ? |\n| 8  | Bảng điện 200 x 300 mm | ? | ? | ? | ? |\n| 9  | Bảng điện 110 x 180 mm | ? | ? | ? | ? |\n| 10 | Nẹp nhựa vuông 25 mm | ? | ? | ? | ? |\n|  | Tổng cộng |  |  | ? |  |\n```\n\n* **Công thức tính thành tiền:** \n   Thành tiền = Số lượng × Đơn giá\n\n* **Công thức tính tổng chi phí:**\n    Tổng cộng = Thành tiền 1 + Thành tiền 2 + ... \n"
+}

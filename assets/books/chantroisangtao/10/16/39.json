@@ -1,0 +1,4 @@
+{
+    "pageNumber": 39,
+    "pageText": "4. - Với mọi số thực m, phương trình cotx = m có nghiệm\nx = α + κπ, κ∈ Z,\nvới a là góc thuộc (0; π) sao cho cota = m. \n\nChú ý: cotx = cota° ⇔ x = a° + k180°, k ∈ Z.\n\nVí dụ 5. Giải các phương trình sau:\na)  cotx = -\\sqrt{3}/3 ;                      b) cot 3x = cot\\pi/7.\n\nGiải\n\na)  Vi -\\sqrt{3}/3 = cot{2\\pi}/3 nên phương trình cotx = -\\sqrt{3}/3 = cot{2\\pi}/3 có các nghiệm là\n\nx = {2\\pi}/3 + κπ, κ ∈ Z. \n\nb) cot3x = cot\\pi/7  ⇔ 3x = \\pi/7 + κπ, k ∈ Z\n                        ⇔ x = \\pi/21 + k\\pi/3, k ∈ Z.\n\nVậy phương trình có các nghiệm là x = \\pi/21 + k\\pi/3, k ∈ Z.\n\nGiải các phương trình sau:\n5 a) cotx = 1;                                  b) cot(3x + 30°) = cot 75°.\n\n6. Giải phương trình lượng giác bằng máy tính cầm tay\n\nTa có thể giải phương trình lượng giác dạng sin x = m, cosx = m, tan x = m và cot x = m bằng\nmáy tính cầm tay như trong ví dụ sau: \n"
+}

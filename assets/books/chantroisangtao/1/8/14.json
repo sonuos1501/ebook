@@ -1,0 +1,4 @@
+{
+    "pageNumber": 14,
+    "pageText": "BẢNG NHÂN 2\n\nTính các tích trong bảng nhân 2.\n\n2 x 1 = ?.  2 x 1 = 2\n                     2 × 2 = 4\n                     2×3=6\n                     2×4=8\n2 x 2 = ?.  2 x 5 = 10\n                     2 x 6 = 12\n                     2 x 7 = 14\n2 x 3 = ?.  2 x 8 = 16\n                     2 x 9 = 18\n                     2 x 10 = 20\n2 x 4 = ?\n\nMình đếm.  Mình cộng.\n\n1  Số?\n\n2  4  6  ?  ?  12  ?  ?  18  20 \n\n2 Đố bạn các phép nhân trong bảng.\n\n2 x 8 = 16      Dựa vào tích 2 x 5:\n                     10 + 2 + 2 + 2\n2 x 8 = ?        Dựa vào tích 2 x 10: \n                     20 - 2 - 2 \n"
+}

@@ -1,0 +1,4 @@
+{
+    "pageNumber": 80,
+    "pageText": "Output:\nVòng lặp 1.\nDãy số chưa sắp xếp\n20\n21\n17\n19\nVị trí đầu tiên\nĐổi chỗ\nSố nhỏ nhất\nHình 7a. Số nhỏ nhất chưa ở vị trí đầu tiên nên ta đổi chỗ hai số này\nSố nhỏ nhất đã đúng\nvị trí đầu dãy\nDãy số chưa sắp xếp\n17\n21\n20\n19\nHình 7b. Kết quả sau vòng lặp 1\nHình 7. Vòng lặp 1 của thuật toán sắp xếp chọn\nVòng lặp 2.\nDãy số chưa sắp xếp\n17\n21\n20\n19\nVị trí đầu tiên\nSố nhỏ nhất\nĐổi chỗ\nHình 8a. Số nhỏ nhất chưa ở vị trí đầu tiên nên ta đổi chỗ hai số này\nChân trời sáng tạo\nSố nhỏ thứ hai đã\nđúng vị trí thứ hai\nDãy số chưa sắp xếp\n17\n19\n20\n21\nHình 8b. Kết quả sau vòng lặp 2\nHình 8. Vòng lặp 2 của thuật toán sắp xếp chọn\nVòng lặp 3.\nVị trí đầu tiên\nDãy số chưa sắp xếp\nSố nhỏ nhất\n17\n19\n20\n21\nHình 9a. Số nhỏ nhất đã ở vị trí đầu tiên nên ta không đổi chỗ\n80"
+}

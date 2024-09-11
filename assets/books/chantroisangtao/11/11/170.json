@@ -1,0 +1,4 @@
+{
+    "pageNumber": 170,
+    "pageText": "b) Một số ứng dụng của phần mềm mô phỏng Cisco Packet Tracer\nVí dụ 1: Mô phỏng mạng máy tính kết nối 5 máy khách, 1 máy chủ và 1 switch bằng cách\nthực hiện các bước sau:\n• Tại vùng chọn thiết bị, nháy chọn End Devices, sau đó kéo 5 máy khách và 1 máy chủ ra\nkhông gian làm việc (Hình 2).\n② Cấu hình cho máy khách.\nNháy đúp vào biểu tượng máy khách để bổ\nsung những thông tin chi tiết và tiến hành cài\nđặt các thông số cho máy khách đó trên mạng\nnhư IP, Gateway, tên máy, loại thiết bị dùng để\nkết nối vào mạng,... (Hình 3). Chẳng hạn, để\ncấu hình IP cho máy khách, nháy chọn Desktop,\nchọn IP Configuration (Hình 4a):\nDHCP: Sử dụng IP động.\nStatic: Sử dụng IP tĩnh.\nIPv4 Address: Nhập địa chỉ IP. Ví dụ cấu\nhình như Hình 4b.\nSau khi cấu hình xong, nháy chọn Config để\nthay đổi tên máy (Hình 4c). \n"
+}

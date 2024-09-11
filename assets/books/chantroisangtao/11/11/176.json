@@ -1,0 +1,4 @@
+{
+    "pageNumber": 176,
+    "pageText": "Hình 12. Thực hiện chương trình và kiểm tra tính đúng đắn của sơ đồ khối\n\n6. Để xem code của chương trình nháy chọn **Source Code Viewer** (Hình 13a), trong hộp thoại xuất hiện chọn ngôn ngữ lập trình cần xem, ví dụ: Python (Hình 13b).\n\nVí dụ 3: Lập sơ đồ khối nhập vào một mảng số nguyên có n phần tử. Tính tổng các phần tử chia hết cho 5.\n\n1. Ở bảng chọn khối lệnh chọn nhập giá trị n là kiểu số nguyên (Hình 14a và Hình 14b) và mảng số nguyên a (Hình 14c).\n2. Để nhập các giá trị cho mảng a, sử dụng vòng lặp for.\n* Để sử dụng vòng lặp for cần khai báo biến i (Hình 14d).\n* Chọn khối vòng lặp for và khai báo các giá trị của vòng lặp for như Hình 14e, chọn khối **Input** để nhập giá trị của mảng a (Hình 14g).\n\n```python\na = int(input())\nif a % 2 == 0:\n    print(str(a) + \" là số chẵn\")\nelse:\n    print(str(a) + \" là số lẻ\")\n```\n"
+}

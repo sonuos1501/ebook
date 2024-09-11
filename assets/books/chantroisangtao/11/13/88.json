@@ -1,0 +1,4 @@
+{
+    "pageNumber": 88,
+    "pageText": "HOẠT ĐỘNG 3. Sử dụng phần mềm GeoGebra để tính gần đúng\n∫(x^2-x-1)/(x+1)-(x-2) dx (từ 0 đến 2)\n\n1. Khởi động phần mềm GeoGebra đã cài đặt trên máy tính hoặc truy cập vào trang web:\nhttps://www.geogebra.org/ để sử dụng phiên bản online.\n\n2. Các bước thao tác trên GeoGebra:\n– Nhập hàm số theo cú pháp f:y=(x^2-x-1)/(x+1); g:y=x-2.\n– Nhập tích phân theo cú pháp TíchPhânGiữaHaiHàmSố(f, g, 0, 2).\n\nChú ý: Nếu đã tạo các thanh trượt a, b biểu thị giá trị đầu và giá trị cuối của tích phân thì\nnhập theo cú pháp TíchPhânGiữaHaiHàmSố(f, g, a, b), rồi dùng chuột để điều chỉnh giá trị\ncác thanh trượt của a, b.\n\n3. Quan sát kết quả như Hình 4.\n\nSử dụng phần mềm GeoGebra để minh hoạ và tính gần đúng\n∫(x^2+x-3)/(x-1) dx (từ 2 đến 6)\n"
+}

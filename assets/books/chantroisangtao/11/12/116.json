@@ -1,0 +1,4 @@
+{
+    "pageNumber": 116,
+    "pageText": "Bảng 1. Một số thuộc tính định dạng bảng\n| Thuộc tính | Dùng trong thẻ | Giải thích |\n|---|---|---|\n| border | <table> | Định dạng đường viền của bảng. |\n| cellspacing | <table> | Thiết lập khoảng cách giữa các ô trong bảng. |\n| cellpadding | <table> | Thiết lập khoảng cách từ nội dung đến các đường viền của ô trong bảng. |\n| colspan | <td>, <th> | Thiết lập số ô gộp trên cùng một hàng. |\n| rowspan | <td>, <th> | Thiết lập số ô gộp trên cùng một cột. |\n| width | <table>, <td>, <th> | Thiết lập chiều rộng của bảng hoặc ô. |\n| height | <table>, <td>, <th>, <tr> | Thiết lập chiều cao của bảng, ô hoặc hàng. |\n| bgcolor | <table>, <td>, <th>, <tr> | Thiết lập màu nền của bảng, ô hoặc hàng. |\n| align | <table>, <td>, <th>, <tr> | Thuộc tính align dùng trong thẻ <table> để canh lề bảng với trang. <br>Thuộc tính align dùng trong thẻ <td>, <th>, <tr> để canh lê nội dung bên trong ô hoặc các ô trong hàng. | \n"
+}

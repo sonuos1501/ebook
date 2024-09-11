@@ -1,0 +1,4 @@
+{
+    "pageNumber": 53,
+    "pageText": "Ví dụ 5: Cho tam giác ABC, vẽ đường thẳng a đi qua A và a // BC, vẽ đường thẳng c\nđi qua C và c // AB. Gọi D là giao điểm của a và c.\na) Chứng minh AB = CD, AD = BC.\nb) AC cắt BD tại O. Chứng minh ∆AOB = ∆COD.\nGiải\nGT | ∆ABC; A ∈ a, a // BC; C ∈ c, c // AB;\na cắt c tại D; AC cắt BD tại O.\nKL | a) AB = CD, AD = BC.\nb) ∆AOB = ∆COD.\na) Ta có AD // BC (a // BC theo giả thiết), suy ra Ĉ₁ = Â₁ (hai góc so le trong).\nTa có AB // DC (c // AB theo giả thiết), suy ra Â₂ = Ĉ₂ (hai góc so le trong).\nXét ∆BAC và ∆DCA, ta có:\nĈ₁ = Â₁ (chứng minh trên);\nAC là cạnh chung;\nÂ₂ = Ĉ₂ (chứng minh trên).\nSuy ra ∆BAC = ∆DCA (g.c.g).\nVậy ta có AB = CD, BC = AD (hai cạnh tương ứng).\nb) Xét ∆AOB và ∆COD, ta có:\nÂ₂ = Ĉ₂ (chứng minh trên);\nAB = CD (chứng minh trên);\nB₁ = D₁ (hai góc so le trong).\nSuy ra ∆AOB = ∆COD (g.c.g). \n"
+}

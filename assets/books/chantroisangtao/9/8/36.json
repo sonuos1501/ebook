@@ -1,0 +1,4 @@
+{
+    "pageNumber": 36,
+    "pageText": "36\ncác hệ số được viết thành bảng số như Hình 2 sau đây. Nếu sử dụng kí hiệu tổ hợp\nthì nhận được bảng như Hình 3.\n1\n1 1\n1 2 1\n1 3 3 1\n1 4 6 4 1\n1 5 10 10 5 1\nHình 2\nTừ các đẳng thức như\nCổ = C = 1,\nC + C = C,\ncó thể dự đoán rằng, với mỗi n ∈ N*,\nCổ = C = 4,\nC + C = C,\nC = C-,\nn\nn-k\n(0 ≤ k ≤ n);\n(2)\nC + C = C +\n(1 ≤ k ≤ n). (3)\nHãy chứng minh các công thức trên.\nGợi ý: Sử dụng công thức C =\nn!\n,\nk!(n-k)! n ∈ N, 0 ≤ k ≤ n.\nSử dụng công thức (3), với lưu ý rằng C = C = 1 với mọi n ∈ N, từ bảng số ở Hình 2,\nta có thể viết tiếp lần lượt từng hàng số để tạo thành một bảng số, được gọi là **tam giác\nPascal** (xem Hình 4).\nn = 0\n1\nn = 1\n1 1\nn=2\n1 2 1\nn = 3\n1 3 3 1\nn = 4\n1 4 6 4 1\nn = 5\n1 5 10 10 5 1\nn = 6\n1 6 15 20 15 6 1\nn = 7\n1 7 21 35 35 21 7 1\n... ...\nHình 4\nTrong thực hành, tam giác Pascal giúp ta nhanh chóng xác định các hệ số khi khai triển\nnhị thức Newton. \n"
+}

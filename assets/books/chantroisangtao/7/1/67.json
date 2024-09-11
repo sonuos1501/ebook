@@ -1,0 +1,4 @@
+{
+    "pageNumber": 67,
+    "pageText": "```\nBảng 9.1. Kí hiệu trong sơ đồ điện\nTên gọi | Kí hiệu | Tên gọi | Kí hiệu \n------- | -------- | -------- | --------\n Dòng điện một chiều | - | Dây pha | A\n Dòng điện xoay chiều | ~ | Dây trung tính | 0\n Cực dương | + | Hai dây dẫn chéo nhau | +\n Cực âm | - | Hai dây dẫn nối nhau | -\n Cầu dao hai cực; ba cực | == | Mạch điện ba pha | === hoặc #\n Công tắc thường (hai cực)| | Công tắc ba cực | \n Cầu chì | | Chấn lưu | \n Đèn huỳnh quang | | Chuông điện | \n Đèn sợi đốt | | Ổ điện | ○○ hoặc □\n Quạt trần | | Ổ điện và phích cắm điện | \n \n2. CÁC BỘ PHẬN CHÍNH CỦA MẠCH ĐIỆN\n2.1. Nguồn điện\na) Các loại pin\nb) Bình ắc quy\nc) Nguồn điện từ lưới điện\nd) Máy phát điện\nHình 9.4. Một số loại nguồn điện phổ biến\n```"
+}

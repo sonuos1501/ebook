@@ -1,0 +1,4 @@
+{
+    "pageNumber": 74,
+    "pageText": "2.2. Mô đun cảm biến nhiệt độ\n\nHình 10.5. Một số mô đun cảm biến nhiệt độ\n\nMô đun cảm biến nhiệt độ có vai trò phát hiện và phản hồi\ngiá trị về nhiệt độ cho mạch điện điều khiển (Hình 10.5).\n\n2.3. Mô đun cảm biến ánh sáng\n\nHình 10.6. Mô đun cảm biến ánh sáng\n\nMô đun cảm biến ánh sáng có vai trò phát hiện và phản hồi về cường độ ánh sáng cho\nmạch điện điều khiển (Hình 10.6).\n\n\nNên đọc kĩ các thông số kĩ thuật của mô đun cảm biến để sử dụng phù hợp với mạch điều khiển. Các\nthông số chính bao gồm:\n– Điện áp nguồn định mức (VDC).\n– Loại tín hiệu phản hồi (AO, DO, RO).\n– Phạm vi tác động (khoảng giá trị cảm biến phát hiện và phản hồi).\n– Khả năng chịu dòng điện (A) và điện áp tải (VAC, VDC).\n\n3. Em hãy chỉ ra vị trí của\ncảm biến trên các mô\nđun trong Hình 10.5. \n"
+}

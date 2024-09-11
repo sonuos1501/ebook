@@ -1,0 +1,4 @@
+{
+    "pageNumber": 98,
+    "pageText": "Để biểu diễn dữ liệu từ bảng thống kê trên vào biểu đồ\nhình quạt bên, ta thực hiện các bước như sau:\nBước 1: Xử lí số liệu\n– Tính tổng các số liệu: 120 + 60 +48 + 12 = 240.\n– Tính tỉ lệ phần trăm của từng số liệu so với toàn thể:\n120 / 240 = 50%;\n60 / 240 = 25%;\n48 / 240 = 20%;\n12 / 240 = 5%.\nBước 2: Biểu diễn số liệu\n– Ghi tên biểu đồ: Tỉ lệ phần trăm các loại trái cây được giao cho cửa hàng A.\n– Ghi chú tên các đối tượng và các tỉ lệ phần trăm trên biểu đồ.\nCam: 50%; Xoài: 25%; Bưởi: 20%; Mít: 5%.\nTa có biểu đồ như sau:\nThực hành 2: Hãy biểu diễn dữ liệu từ bảng thống kê sau đây vào biểu đồ 1.\n\n| Mục chi tiêu | Chi phí (đồng) | \n|:--:|:--:|\n| Ăn uống | 4 000 000 |\n| Giáo dục | 2 500 000 |\n| Điện nước | 1 500 000 |\n| Các khoản khác | 2 000 000 |\n"
+}

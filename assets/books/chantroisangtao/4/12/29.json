@@ -1,0 +1,4 @@
+{
+    "pageNumber": 29,
+    "pageText": "## TÌM HAI SỐ KHI BIẾT TỔNG VÀ TỈ SỐ CỦA HAI SỐ ĐÓ\n### Bài 10\nChia 20 kg gạo thành hai phần sao cho khối lượng phần này bằng 2/3 khối lượng của phần kia.\n\n- Chia gạo vào hai bao, cân từng bao rồi tính tỉ số\n- Vậy thì phải cân nhiều lần. Có cách nào khác không nhỉ?\n\n### Bài toán 1:\nTổng của hai số là 20. Tỉ số của hai số đó là 2/3. Tìm hai số đó.\n\n#### Bài giải\nTheo đề bài, ta có sơ đồ:\n- Số bé: |---|---|                20 gồm bao nhiêu phần bằng nhau?\n- Số lớn:|---|---|---|             20\n\nTheo sơ đồ, tổng số phần bằng nhau là: \n2 + 3 = 5 (phần)\n\nGiá trị của một phần là:\n20 : 5 = 4\n\nSố bé là:\n4 x 2 = 8\n\nSố lớn là:\n20 - 8 = 12\nĐáp số: Số bé: 8, Số lớn: 12. \n"
+}

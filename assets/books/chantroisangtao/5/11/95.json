@@ -1,0 +1,4 @@
+{
+    "pageNumber": 95,
+    "pageText": "- Muốn hiển thị tên cho hai điểm vừa vẽ,\nnháy chuột phải vào từng điểm và chọn thẻ\nHiển thị tên trong hộp thoại.\n\nPhần mềm sẽ tự động đặt tên cho hai điểm như sau:\n\nChú ý: Ta cũng có thể đặt tên khác cho một điểm đã có tên bằng cách:\n– Nháy chuột phải vào điểm muốn đổi tên rồi chọn thẻ Đổi tên.\n– Nhập tên mới (ví dụ đổi tên điểm A thành C).\n\n- Bấm OK, ta được:\n\n2. Vẽ đường thẳng đi qua hai điểm C và D\n- Vẽ hai điểm C, D.\n- Chọn công cụ Đường thẳng qua 2 điểm\ntrong hộp công cụ.\n\n- Nháy chuột vào vị trí hai điểm C và D,\nta vẽ được đường thẳng CD như hình bên.\n\n3. Vẽ tia có gốc là điểm E và đi qua điểm F\n- Vẽ hai điểm E và F.\n– Chọn công cụ Tia đi qua 2 điểm trong hộp công cụ.\n- Nháy chuột vào vị trí điểm E, rồi nháy\nchuột vào điểm F, ta vẽ được tia có gốc là E\nvà đi qua điểm F. \n"
+}

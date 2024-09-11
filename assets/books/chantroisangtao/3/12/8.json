@@ -1,0 +1,4 @@
+{
+    "pageNumber": 8,
+    "pageText": "Bài 41: PHÉP TRỪ CÁC SỐ TỰ NHIÊN\n\nNăm 2020, \ndân số tỉnh Hòa Bình là 861 216 người,\nnhiều hơn dân số tỉnh Cao Bằng là \n328 130 người. \n\nDân số tỉnh Cao Bằng là bao nhiêu? \n\n861 216 - 328 130 = ?\n\n- 8 6 1 2 1 6\n  3 2 8 1 3 0\n-------------\n  5 3 3 0 8 6\n \n 861 216 - 328 130 = 533 086\n\nThực hiện như phép trừ trong phạm vi 100 000.\n\n* 6 trừ 0 bằng 6, viết 6.\n* 1 không trừ được 3, lấy 11 trừ 3 bằng 8, viết 8, nhớ 1.\n* 1 thêm 1 bằng 2, 2 trừ 2 bằng 0, viết 0.\n* 1 không trừ được 8, lấy 11 trừ 8 bằng 3, viết 3, nhớ 1.\n* 2 thêm 1 bằng 3, 6 trừ 3 bằng 3, viết 3.\n* 8 trừ 3 bằng 5, viết 5.\n\n**1** Đặt tính rồi tính. \n\na) 764 933 - 241 532       b) 875 168 - 684 352\nc) 6 952 173 - 712 041      d) 37 159 645 - 2 613 914\n\n**2** Tính nhẩm.\n\na) 50 000 - 20 000 + 400 000      b) 730 000 - 30 000 - 400 000\nc) 970 000 - (60 000 + 10 000)   d) 400 000 + (90 000 - 60 000 - 30 000) \n"
+}

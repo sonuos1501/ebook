@@ -1,0 +1,4 @@
+{
+    "pageNumber": 174,
+    "pageText": "2 Chọn dữ liệu đầu vào và khai báo kiểu dữ liệu.\nTrong bảng chọn các khối lệnh, chọn khối Input để khai báo biến a (Hình 10a) và chọn khối\nDeclare để khai báo kiểu nguyên cho a (Hình 10b).\n\n\nHình 10. Khai báo biển\n• Để kiểm tra giá trị a chẳn hay lẻ, chọn khối lệnh if trong bảng chọn các khối lệnh và nhập\ncác giá trị gồm nhập điều kiện (Hình 11a), nhập kết quả khi điều kiện là đúng (Hình 11b), nhập\nquả khi điều kiện là sai (Hình 11c).\nLưu ý: Sử dụng kí tự & để xuất nhiều kết quả. \n"
+}

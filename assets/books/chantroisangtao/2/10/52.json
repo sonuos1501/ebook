@@ -1,0 +1,4 @@
+{
+    "pageNumber": 52,
+    "pageText": "```text\n1  Số?\nMỗi rổ có 12 quả xoài.\nSố rổ\t| 1 | 2 | 3 | 4 \n---------------------------\nSố quả trong các rổ | 12 | 24 | .?. | .?. \n\n2 Mỗi số là giá trị của biểu thức nào?\nA\t| B\t| C\n---------------------------\n120 x 2\t| 125 x 2\t| 60 × 2 × 3\n360\t| 240\t| 250\n\n3 Tính để biết mỗi bạn sẽ làm việc gì.\nTú | Tân | Sơn | Nam\n---------------------------\n113 x 5 - 562 | 2 : (99 - 97) | 82 - 27 - 53 | 82 - 27 x 3\n\n1 | 2 | 3 \n---------------------------\nGiúp bạn | Trồng cây | Vệ sinh môi trường \nthử thách | Trong 5 hộp này, 4 hộp còn đủ, 1 hộp thiếu 3 cái bút. Mỗi màu là 1 bút chì. | BÚT BÚT BÚT BÚT CHÌ MÀU 12 màu\n\nBiểu thức nào dưới đây chỉ cách tính số bút chì trong 5 hộp trên?\nA. 12 x 5\t| B. (12 - 3) x 5\t| C. 12 x 5 - 3\n```"
+}

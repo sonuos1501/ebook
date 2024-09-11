@@ -1,0 +1,4 @@
+{
+    "pageNumber": 114,
+    "pageText": "## Trò chơi Bin-gô!\n\n* Mỗi học sinh một thẻ bin-gô có kẻ sẵn ô số.\n* Giáo viên lần lượt đọc và viết các phép tính lên bảng (cộng, trừ trong phạm vi 100).\n* Học sinh tính rồi khoanh vào số chỉ kết quả trên thẻ. \n\nBạn nào khoanh đủ ba số theo một hàng (hàng dọc, hàng ngang hay hàng chéo) thì thắng cuộc và hô lớn \"Bin-gô!\".\n\nGiáo viên và các bạn cùng kiểm tra kết quả các phép tính của bạn thắng cuộc.\n\n**80 - 50 + 2**\n\n**Bin-gô!**\n| 1 | 61 | 19 | 45 | 1 |\n|---|---|---|---|---|\n| 45 | 32 | 0 | 27 | 19 |\n| 84 | 27 | 76 | 61 | 32 |\n\n**Bin-gô!**\n| 61 | 5 | 27 |\n|---|---|---|\n| 1 | 32 | 84 |\n| 19 | 76 | 45 |\n\n**Bin-gô!**\n| 45 | 76 | 84 |\n|---|---|---|\n| 32 | 7 | 1 |\n| 0 | 19 | 61 |\n\n**đất nước em**\n\n**Tìm vị trí tỉnh Cà Mau trên bản đồ (trang 130).**\n\n**Mũi Cà Mau - cực Nam của Tổ quốc.** \n"
+}

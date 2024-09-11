@@ -1,0 +1,4 @@
+{
+    "pageNumber": 77,
+    "pageText": "Output:\nTam giác ABC (Hình 5) có:\n– Ba đỉnh A, B, C.\n– Ba cạnh bằng nhau: AB = AC = BC.\n– Ba góc đỉnh A, B, C bằng nhau.\nTam giác ABC như thế được gọi là tam giác đều.\n\nThực hành 4\nCắt một tam giác đều bằng bìa theo các bước sau:\n– Lấy ba que tính bằng nhau xếp thành một hình tam giác đều trên tấm bìa.\n– Chấm các điểm ở đầu các que tính.\n– Nối các điểm và cắt theo đường nối.\nCắt các góc của hình tam giác trên và làm theo hướng dẫn sau để kiểm tra xem các góc của chúng có bằng nhau không.\n\nThực hành 5\nVẽ tam giác đều\nVẽ tam giác đều ABC cạnh 3 cm bằng thước và compa theo hướng dẫn sau:\n– Vẽ đoạn thẳng AB = 3 cm.\n– Lấy A, B làm tâm, vẽ hai đường tròn bán kính 3 cm.\nGọi C là một trong hai giao điểm của hai đường tròn. Nối C với A và C với B ta được tam giác đều ABC.\n– Hãy kiểm tra xem ba cạnh và ba góc của tam giác ABC có bằng nhau không. \n"
+}

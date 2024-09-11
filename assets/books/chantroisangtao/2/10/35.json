@@ -1,0 +1,4 @@
+{
+    "pageNumber": 35,
+    "pageText": "**TÍNH GIÁ TRỊ CỦA BIỂU THỨC (tiếp theo)**\n\n* Hai biểu thức dưới đây khác nhau ở điểm nào? \n  * 2 + 3 x 4\n  * (2 + 3) x 4 --> Đây là biểu thức có dấu ngoặc ().\n\n* Khi tính giá trị của biểu thức có dấu ngoặc () thì trước tiên ta thực hiện các phép tính trong ngoặc. \n  * (2 + 3) x 4 = 5 x 4\n  * = 20 \n\n**1. Tính giá trị của biểu thức.**\na) 80 - (30 + 25) \nb) (72 - 67) x 8 \nc) 50 : (10 : 2) \n\n**2.** Để chuẩn bị quà tặng cho các bạn có hoàn cảnh khó khăn, Trang xếp vào mỗi túi 1 quyển truyện và 4 quyển vở. Hỏi 10 túi như vậy có bao nhiêu quyển truyện và vở? \n\n**Thử thách**\nNa nói với Bi: \"Tớ đã mua trứng 2 lần, mỗi lần 3 vỉ trứng gà và 1 vỉ trứng vịt\". Biểu thức nào dưới đây giúp Na tính số vỉ trứng đã mua?\nA. 3 x 1 x 2\nB. 3 + 1 x 2 \nC. (3 + 1) x 2 \n"
+}

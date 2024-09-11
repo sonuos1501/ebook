@@ -1,0 +1,4 @@
+{
+    "pageNumber": 42,
+    "pageText": "```\n| Trăm | Chục | Đơn vị | Viết số | Đọc số |\n|---|---|---|---|---|\n| 1 | 0 | 1 | 101 | một trăm linh một |\n| 1 | 0 | 5 | ? | ? | \n| ? | ? | ? | ? | một trăm linh chín |\n\n```\n\n```\n| Viết số | Đọc số | Viết số | Đọc số |\n|---|---|---|---|\n| 101 | một trăm linh một | 106 | ? |\n| 102 | ? | ? | một trăm linh bảy |\n| ? | một trăm linh ba | ? | một trăm linh tám |\n| 104 | ? | 109 | ? |\n| ? | một trăm linh năm | 110 | ? |\n``` \n"
+}

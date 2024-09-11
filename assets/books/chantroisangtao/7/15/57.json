@@ -1,0 +1,4 @@
+{
+    "pageNumber": 57,
+    "pageText": "2. ÁP DỤNG TÍNH CHIA TỈ LỆ CỦA ĐƯỜNG PHÂN GIÁC CỦA TAM GIÁC\nTa có thể vận dụng tính chất của đường phân giác trong tam giác để tính tỉ lệ các\nđoạn thẳng hoặc khoảng cách.\nVí dụ 2. Cho tam giác OEF như trong Hình 4.\nTính tỉ số hai đoạn thẳng ME và MF.\n\n**Giải**\n\nTa có OM là đường phân giác của EOF trong\ntam giác OEF, suy ra:\nME / MF = OF / OF = 16 / 12 = 4 / 3\n\nVí dụ 3. Tính độ dài các đoạn BZ, UC, UZ trong Hình 5.\n\n**Giải**\nTam giác BCZ vuông tại C nên ta có:\nBZ = √(BC² + CZ²) = √(64+36)= 10.\n\nTa có BU là đường phân giác của CBZ trong\ntam giác BCZ, suy ra:\n\nUC / UZ = BC / BZ = 8 / 10 = 4 / 5 (1)\n\nTa lại có CZ = 6.  (2)\nTừ (1) và (2), ta có \nUC / 4 = UZ / 5 = (UC+UZ) / (4+5) = CZ / 9 = 6 / 9 = 2 / 3\n\nSuy ra UC = 4 * (2 / 3) = 8 / 3; UZ = 5 * (2 / 3) = 10 / 3.\n\n**Thực hành.** Tính độ dài cạnh MQ của tam giác MPQ\ntrong Hình 6.\n\n**BÀI TẬP**\n1. Tính độ dài x trong Hình 7.\n"
+}

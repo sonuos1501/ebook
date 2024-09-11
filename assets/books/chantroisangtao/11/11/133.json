@@ -1,0 +1,4 @@
+{
+    "pageNumber": 133,
+    "pageText": "```html\n<div class=\"left\">Vùng A</div>\n<div class=\"right\">Vùng B</div>\n<div class=\"clear-both\"></div>\n<div class=\"bottom\">Vùng khác</div>\n```\n\n```css\nclear: both;\n}\n.bottom {\n}\npadding: 40px;\nmargin-top: 10px;\nbackground: #ececec;\n```\n\n**Viết mã lệnh CSS để tạo ra 3 vùng A, B, C lần lượt nằm kế nhau theo phương ngang.**\n\n* Sử dụng thẻ `<div>` và mã lệnh CSS có thể giúp hiệu chỉnh bố cục của trang web một cách dễ dàng và linh hoạt.\n* Để đặt phần tử `<div>` nằm vào bên trái hoặc bên phải của trang web, em sử dụng thuộc tính `float` và chỉ định giá trị `left` hoặc `right` tương ứng. \n\n**LUYỆN TẬP**\n\n1. Em hãy trình bày những khai báo vùng chọn và thuộc tính dùng để định kiểu đường viền và màu nền cho bảng.\n2. Em hãy trình bày những thuộc tính và giá trị dùng để định kiểu cho thẻ `<div>` giúp tạo bố cục trang web.\n3. Ưu điểm của việc tạo bố cục trang web bằng các thẻ `<div>` là gì? \n"
+}

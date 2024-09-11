@@ -1,0 +1,4 @@
+{
+    "pageNumber": 178,
+    "pageText": "Integer s\nMain\nInteger in\nInput n\nInteger Array a[100]\nInteger i\nNext\ni=0 to n-1\nDone\nEnd\nFalse\na[i] %5==0\nTrue\ns=s+a[i]\nOutput s\nEnd\nHình 14h.\nHình 14i.\nHình 14k.\nHình 14. Thao tác tính tổng các phần tử chia hết cho 5 trong mảng\nEm hãy chạy chương trình với các bộ dữ liệu kiểm thử để kiểm tra tính đúng đắn của\nsơ đồ vừa tạo.\nPhần mềm Flowgorithm dùng để mô phỏng thuật toán bằng cách vẽ sơ đồ khối của một\nthuật toán rồi chuyển đổi sơ đồ khối này thành chương trình được viết bằng một ngôn ngữ\nlập trình cụ thể.\n177\n"
+}

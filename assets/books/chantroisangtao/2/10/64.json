@@ -1,0 +1,4 @@
+{
+    "pageNumber": 64,
+    "pageText": "## BẢNG NHÂN 8\n\n**Tính các tích trong bảng nhân 8.**\n\n- 8 x 1 = 8\n- 8 x 2 = 16\n- 8 x 3 = 24\n- 8 x 4 = 32\n- 8 x 5 = 40\n- 8 x 6 = 48\n- 8 x 7 = 56\n- 8 x 8 = 64\n- 8 x 9 = 72\n- 8 x 10 = 80\n\n**1. Số?**\n\n8 16 24  **32**  **40** 48  **56**  64  **72** 80\n\n**2. Đọc phép nhân trong bảng nhân 8 có tích là mỗi số dưới đây.**\n\n16 -> 8 x 2\n40 -> 8 x 5\n32 -> 8 x 4\n64 -> 8 x 8\n24 -> 8 x 3\n56 -> 8 x 7\n80 -> 8 x 10\n48 -> 8 x 6\n72 -> 8 x 9\n\n**1. Tính nhẩm.**\n\n- 8 x 3 = 24\n- 8 x 2 = 16\n- 8 x 7 = 56\n- 8 x 8 = 64\n- 8 x 5 = 40\n- 8 x 9 = 72\n- 8 x 4 = 32\n- 8 x 0 = 0\n- 8 x 6 = 48\n- 8 x 10 = 80\n\n**2. Mỗi chiếc xe có 18 bánh xe. Hỏi 8 chiếc xe như thế có bao nhiêu bánh xe?**\n"
+}

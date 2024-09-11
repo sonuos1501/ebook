@@ -1,0 +1,4 @@
+{
+    "pageNumber": 35,
+    "pageText": "## Bài 69 THỂ TÍCH CỦA MỘT HÌNH\n\nCó đủ chỗ để cất cuốn sách này không? Phần trống của hộp còn nhiều, chắc là đủ.\n\n* **Ví dụ 1**\n\nHình lập phương nằm hoàn toàn trong hình hộp chữ nhật.\n\nTa nói:\n - Thể tích hình lập phương bé hơn thể tích hình hộp chữ nhật.\n - Thể tích hình hộp chữ lớn hơn thể tích hình nhật lập phương.\n\n* **Ví dụ 2** \n\nHình A | Hình B\n------- | --------\nTrong ví dụ 2 và ví dụ 3, các hình lập phương nhỏ có kích thước như nhau.\n\nHình A và hình B, mỗi hình gồm 5 hình lập phương.\n\nTa nói: Thể tích hình A bằng thể tích hình B.\n\n* **Ví dụ 3**\n\nHình C | Hình D | Hình E\n------- | -------- | --------\nHình C gồm 5 hình lập phương, hình D gồm 4 hình lập phương. Hình E gồm 9 hình lập phương. \n\nTa nói: Thể tích hình E bằng tổng thể tích các hình C và D. \n"
+}

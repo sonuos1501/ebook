@@ -1,0 +1,4 @@
+{
+    "pageNumber": 8,
+    "pageText": "2. Định lí về dấu của tam thức bậc hai\n \nQuan sát đồ thị của các hàm số bậc hai trong các hình dưới đây. Trong mỗi trường hợp,\nhãy cho biết:\n– Các nghiệm (nếu có) và dấu của biệt thức Δ.\n– Các khoảng giá trị của x mà trên đó f(x) cùng dấu với hệ số của x². \n\na) y = f(x) = x² + 2x - 2\nb) y = f(x) = x² + 2x - 1\nc) y = f(x) = x² + 2x + 3\nd) y = f(x) = x² + 6x + 10\ne) y = f(x) = x² + 6x + 9\ng) y = f(x) = x² + 6x + 8\n\nCho tam thức bậc hai f(x) = ax² + bx + c (a≠0).\n• Nếu Δ < 0 thì f(x) cùng dấu với a với mọi giá trị x.\n• Nếu Δ = 0 và x = -b/2a là nghiệm kép của f(x) thì f(x) cùng dấu với a với mọi x khác x₀.\n• Nếu Δ > 0 và x₁, x₂ là hai nghiệm của f(x) (x₁ <x₂) thì f(x) trái dấu với a với mọi x trong\nkhoảng (x₁; x₂); f(x) cùng dấu với a với mọi x thuộc hai khoảng (-∞; x₁), (x₂; +∞). \n"
+}

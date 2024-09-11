@@ -19,9 +19,16 @@ class AppPages {
       transition: Transition.leftToRight,
     ),
     GetPage(
-      name: Routers.ebookHost,
+      name: Routers.library,
       page: () => const EbookHostState(),
       transition: Transition.leftToRight,
+      parameters: const {'screenName': Routers.library},
+    ),
+    GetPage(
+      name: Routers.textBook,
+      page: () => const EbookHostState(),
+      transition: Transition.leftToRight,
+      parameters: const {'screenName': Routers.textBook},
     ),
   ];
 }

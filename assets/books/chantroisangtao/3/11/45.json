@@ -1,0 +1,4 @@
+{
+    "pageNumber": 45,
+    "pageText": "Bài 19: TÌM SỐ TRUNG BÌNH CỘNG\n\nVí dụ 1: Rót vào bình thứ nhất 800 ml nước, rót vào bình thứ hai 400 ml nước. Nếu lượng nước đó được rót đều vào hai bình thì mỗi bình có bao nhiêu mi-li-lít nước?\n\nTổng lượng nước của hai bình là 1200 ml.\nSau khi rót đều, mỗi bình có 600 ml nước.\n \n800 ml  400 ml  ?  ?\n\nTa gọi số 600 là số trung bình cộng của hai số 800 và 400.\nTa nói: Bình thứ nhất có 800 ml, bình thứ hai có 400 ml, trung bình mỗi bình có 600 ml.\n\nVí dụ 2: Tuần trước, Thu thực hiện ba bài kiểm tra ném bóng vào rổ.\nKết quả các bài kiểm tra cho trong bảng sau:\n| Ngày kiểm tra | Thứ Ba | Thứ Năm | Thứ Bảy |\n|---|---|---|---|\n| Ném vào rổ | 5 (quả) | 7 (quả) | 6 (quả) | \n\nHỏi trung bình mỗi ngày Thu ném vào rổ bao nhiêu quả?\n\n5  7  6 ? ? ? \n\nTính số trung bình cộng của 5; 7 và 6:\n (5 + 7 + 6) : 3 = 6\n\nMuốn tìm số trung bình cộng của nhiều số, ta lấy tổng các số đó chia cho số các số hạng.\n"
+}

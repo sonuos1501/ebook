@@ -1,0 +1,4 @@
+{
+    "pageNumber": 55,
+    "pageText": "c) Thực hiện cập nhật thông tin tình hình quyên góp, quan sát và cho biết kết quả của hàm thay đổi trong trường hợp nào sau đây:\n- Cập nhật dữ liệu chữ vào ô tính trống.\n- Xoá dữ liệu trong ô tính đang chứa dữ liệu chữ.\n- Thay dữ liệu chữ trong ô tính bằng dữ liệu số.\n- Thay dữ liệu số trong ô tính bằng dữ liệu chữ.\n- Chỉnh sửa giá trị số trong ô tính đang chứa dữ liệu số.\n- Thay dữ liệu chữ trong ô tính bằng dữ liệu ngày.\na) Lập công thức tính tiền lãi của mặt hàng đầu tiên. Sao chép công thức để tính Tiền lãi cho các thiết bị còn lại (Tiền lãi = (Giá bán – Giá nhập) × Số lượng).\n\nb) Sử dụng hàm phù hợp để tính Tổng cộng, Cao nhất, Trung bình của Số lượng, Tiền lãi và Số mặt hàng đã bán.\n\nc) Định dạng bảng tính, chọn khuôn dạng trình bày dữ liệu và căn chỉnh dữ liệu để có bảng tính tương tự Hình 6. \n"
+}

@@ -1,0 +1,4 @@
+{
+    "pageNumber": 75,
+    "pageText": "&\n**Dấu hiệu nhận biết**\n\n3 Cho tứ giác ABCD có P là giao điểm của hai đường chéo. Giải thích tại sao AB // CD và AD // BC trong mỗi trường hợp sau:\nTrường hợp 1: AB = CD và AD = BC (Hình 7a).\nTrường hợp 2: AB // CD và AB = CD (Hình 7b).\nTrường hợp 3: AD // BC và AD = BC (Hình 7c).\nTrường hợp 4: A = C, B = D (Hình 7d).\nTrường hợp 5: PA = PC, PB = PD (Hinh 7e).\n\n\n**Ta có các dấu hiệu nhận biết một tứ giác là hình bình hành như sau:**\n1. Tứ giác có các cạnh đối song song là hình bình hành.\n2. Tứ giác có các cạnh đối bằng nhau là hình bình hành.\n3. Tứ giác có hai cạnh đối song song và bằng nhau là hình bình hành.\n4. Tứ giác có các góc đối bằng nhau là hình bình hành.\n5. Tứ giác có hái đường chéo cắt nhau tại trung điểm của mỗi đường là hình bình hành.\n\n**Ví dụ 3.** Trong các tứ giác ở Hình 8, tứ giác nào là hình bình hành? \n"
+}

@@ -1,0 +1,4 @@
+{
+    "pageNumber": 19,
+    "pageText": "Bài 6: BÀI TOÁN LIÊN QUAN ĐẾN RÚT VỀ ĐƠN VỊ\n\nThưởng đều 18 quyển sách cho 9 bạn trong tổ.\n3 bạn được thưởng bao nhiêu quyển nhỉ?\nTìm số sách 1 bạn được thưởng.\nTìm số sách 3 bạn được thưởng.\n\nBài toán: Thưởng đều 18 quyển sách cho 9 bạn. Hỏi 3 bạn sẽ được thưởng bao nhiêu quyển sách?\nTóm tắt\n9 bạn: 18 quyển\n3 bạn: ... quyển?\nBài giải\nSố sách mỗi bạn được thưởng là:\n18 : 9 = 2 (quyển)\nSố sách 3 bạn được thưởng là:\n2 x 3 = 6 (quyển)\nĐáp số: 6 quyển sách.\n\nChân trời sáng tạo\nTìm số sách 1 bạn được thưởng là bước Rút về đơn vị.\n\nSố?\na) 6 hộp: 24 cái bút\n1 hộp: ? cái bút\n3 hộp: ? cái bút.\nSố bút trong các hộp bằng nhau.\nb) 5 hộp: 30 cái thước\n1 hộp: ? cái thước\n7 hộp: ? cái thước.\nSố thước trong các hộp bằng nhau. \n"
+}

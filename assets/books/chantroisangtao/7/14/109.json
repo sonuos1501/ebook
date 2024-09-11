@@ -1,0 +1,4 @@
+{
+    "pageNumber": 109,
+    "pageText": "## Phân tích dữ liệu\n\n**Bảng số trái sầu riêng bán được theo từng tháng:**\n\n| Tháng | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Số trái sầu riêng bán được | 32 | 25 | 65 | 70 | 124 | 110 | 80 | 50 | 45 | 54 | 65 | 36 |\n\n**Nhận định:** Hằng năm, số trái sầu riêng bán được vào tháng 5 và tháng 6 nhiều hơn các tháng còn lại.\n\n## 1. Phát hiện vấn đề qua phân tích dữ liệu thống kê\n\n**Thống kê môn thể thao yêu thích của học sinh lớp 8A (mỗi học sinh chọn 1 môn):**\n\n| Môn thể thao | Nam | Nữ |\n|---|---|---|\n| Bóng đá | 17 | 4 |\n| Bóng chuyền | 3 | 2 |\n| Bóng bàn | 1 | 7 |\n| Cầu lông | 4 | 4 |\n\n**Phân tích:**\n\n- Bóng đá là môn thể thao có chênh lệch nam nữ chọn cao nhất (chênh lệch 13).\n\n**Thực hành:**\n\n-  Môn bóng bàn có tỉ lệ số học sinh nữ chọn so với số học sinh nam chọn cao nhất (7 nữ so với 1 nam). \n"
+}

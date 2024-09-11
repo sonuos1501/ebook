@@ -1,0 +1,4 @@
+{
+    "pageNumber": 69,
+    "pageText": "## Thông tin từ hình ảnh:\n\n1. **Bảng cộng – bảng trừ trong phạm vi 10.**\n\n    a) **Đọc bảng cộng theo hàng, theo cột, theo màu.**\n\n    Bảng cộng gồm các phép tính cộng từ 1+1 đến 9+1, được sắp xếp theo hàng và cột.\n\n    Ví dụ:\n        * Hàng đầu tiên: 1+1, 2+1, 3+1, 4+1, 5+1, 6+1, 7+1, 8+1, 9+1\n        * Cột đầu tiên: 1+1, 1+2, 1+3, 1+4, 1+5, 1+6, 1+7, 1+8, 1+9\n\n    b) **Đọc bảng trừ theo hàng, theo cột.**\n\n    Bảng trừ gồm các phép tính trừ từ 2-1 đến 10-9, được sắp xếp theo hàng và cột.\n\n    Ví dụ:\n        * Hàng đầu tiên: 2-1, 3-1, 4-1, 5-1, 6-1, 7-1, 8-1, 9-1, 10-1\n        * Cột đầu tiên: 2-1, 3-2, 4-3, 5-4, 6-5, 7-6, 8-7, 9-8, 10-9\n\n2. **Đọc 4 phép tính từ sơ đồ sau:**\n\n    Sơ đồ có dạng cây, với số 8 ở gốc, số 2 và số 6 là hai nhánh con.\n\n    Bốn phép tính có thể được suy ra từ sơ đồ là:\n        * 8 - 2 = 6\n        * 8 - 6 = 2\n        * 2 + 6 = 8\n        * 6 + 2 = 8 \n"
+}

@@ -1,0 +1,4 @@
+{
+    "pageNumber": 78,
+    "pageText": "| Chọn, lắp ghép lệnh | Chương trình Scratch | Kết quả khi chạy chương trình |\n|---|---|---|\n| 1 Chọn nhóm lệnh Sự kiện, kéo thả lệnh vào khu vực chương trình. 2 Chọn nhóm lệnh Chuyển động, kéo thả lệnh  di chuyển 10 bước vào cửa sổ lệnh, ghép với lệnh ở bước 1 và thay số bước thành 100. 3 Chọn nhóm lệnh Điều khiển, kéo thả và lắp ghép lệnh đợi 1 giây vào khối lệnh trong khu vực chương trình. |  Điều khiển cô bọ tiến thẳng về phía trước 100 bước. Khi bám vào di chuyển 100 bước đợi 1 giây Cô bọ dừng lại 1 giây. | Cô bọ sẽ di chuyển 100 bước sang bên phải và dừng lại 1 giây. | \n"
+}

@@ -1,0 +1,4 @@
+{
+    "pageNumber": 65,
+    "pageText": "```text\n| Phương diện so sánh | Thơ lục bát | Thơ song thất lục bát |\n|---|---|---|\n| Số chữ, số dòng | Một cặp lục bát gồm một dòng lục và một dòng bát. | Mỗi khổ thơ bốn dòng được cấu trúc bằng hai dòng thất kết nối với hai dòng lục bát. |\n| Vần | Tiếng thứ sáu của dòng lục vần với tiếng thứ sáu của dòng bát kế nó, tiếng thứ tám của dòng bát vần với tiếng thứ sáu của dòng lục tiếp theo. | Hiệp vẫn ở mỗi cặp, cặp song thất có vần trắc, cặp lục bát có vần bằng; giữa cặp song thất và cặp lục bát có vần liền. |\n```"
+}

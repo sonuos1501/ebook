@@ -1,0 +1,4 @@
+{
+    "pageNumber": 47,
+    "pageText": "46\nb) Vẽ một tam giác ABC rồi vẽ một đường thẳng song song với cạnh BC và cắt hai cạnh\nAB, AC lần lượt tại B' và C'. Trên cạnh AB, lấy đoạn AI làm đơn vị đo tính tỉ số AB' và B'B;\ntrên cạnh AC, lấy đoạn AJ làm đơn vị đo tính tỉ số AC' và C'C (Hình 5b).\nSo sánh các tỉ số AB'/AB AC'/AC AB'/B'B AC'/C'C\nvà và và\nAB AC B'B C'C' AB AC\n\nĐịnh lí Thalès\n\nNếu một đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì\nnó định ra trên hai cạnh đó các đoạn thẳng tương ứng tỉ lệ.\n\nGT ΔABC, B'C' // BC (B' ∈ AB, C' ∈ AC)\nKL AB'/AB = AC'/AC = B'B/BB = C'C/C'C\nAB'/AC' = AB/AC; B'B/C'C = AB/AC\n\nVí dụ 3. Tính độ dài x trong Hình 7, cho biết MN // QR.\nGiải\nXét APQR, có MN // QR, nên theo định lí\nThalès ta có:\nMQ/MP = NR/NP = x/12 = 4/8, suy ra x/12 = 4.12/8 = 6.\n\nThực hành 3. Tính độ dài x, y trong Hình 8. \n"
+}

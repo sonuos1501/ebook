@@ -1,0 +1,4 @@
+{
+    "pageNumber": 32,
+    "pageText": "- Trong cửa sổ **Advanced sharing settings** hiện ra, nháy chọn **Guest or Public**, chọn **File and printer sharing**, chọn **Turn on file and printer sharing** (Hình 8) để bật tính năng chia sẻ tệp và máy in.\n- Nháy chọn **All Networks**, chọn **Password protected sharing**, chọn **Turn off password protected sharing** (Hình 9) để tắt tính năng chia sẻ bằng mật khẩu, như vậy các máy tính khác trong cùng mạng nội bộ mới có thể truy cập và in được bằng máy in này. \n- Chọn **Save Changes**.\n- Quay lại cửa sổ **Control Panel**, nháy chọn **Devices and Printers** (Hình 10). Cửa sổ **Devices and Printers** hiện ra như Hình 11. \n"
+}

@@ -1,0 +1,4 @@
+{
+    "pageNumber": 87,
+    "pageText": "## HOẠT ĐỘNG 2. Sử dụng phần mềm GeoGebra để tính gần đúng ∫(3x-1)/(x+1) dx\n\n1. Khởi động phần mềm GeoGebra đã cài đặt trên máy tính hoặc truy cập vào trang web:\nhttps://www.geogebra.org/ để sử dụng phiên bản online.\n2. Các bước thao tác trên GeoGebra:\n – Nhập hàm số theo cú pháp f:y=(x-1)/(x+1); g:y=1.\n – Nhập tích phân theo cú pháp Tích Phân Giữa HaiHàm Số(f, g, 1, 3).\n **Chú ý:** Nếu đã tạo các thanh trượt a, b biểu thị giá trị đầu và giá trị cuối của tích phân thì\nnhập theo cú pháp Tích Phân Giữa HaiHàmSố(f, g, a, b), rồi dùng chuột để điều chỉnh giá trị\ncác thanh trượt của a, b.\n3. Quan sát kết quả như Hình 3.\n\n## Sử dụng phần mềm GeoGebra để minh hoạ và tính gần đúng ∫(2x+2)/ (x-1) dx. \n"
+}

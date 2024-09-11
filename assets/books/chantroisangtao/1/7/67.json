@@ -1,0 +1,4 @@
+{
+    "pageNumber": 67,
+    "pageText": "BẢNG TRỪ\n\nNêu các phép tính trừ còn thiếu trong bảng sau:\n11 - 2\n11 - 3 12 - 3\n? ? ?\n11 - 5 12 - 5 13 - 5 14 - 5\n? 12 - 6 13 - 6 ? 15 - 6\n11 - 7 12 - 7 ? 14 - 7 15 - 7 ?\n11 - 8 ? 13 - 8 14 - 8 ? 16 - 8 17 - 8\n11 - 9 12 - 9 13 - 9 ? 15 - 9 16 - 9 17 - 9 18 - 9\n\n• Đọc bảng trừ theo cột, theo hàng, theo màu.\n• Các ô cùng màu có điều gì đặc biệt?\n\n1 Trò chơi với bảng trừ.\n\na) Bạn A: Che một vài ô trong bảng trừ.\nBạn B: Nói các phép tính trừ bị che.\n(Ví dụ: 15 - 7 = 8.)\nĐổi vai: bạn B che, bạn A nói.\n\nb) Bạn A nói yêu cầu, ví dụ:\nViết các phép tính trừ có hiệu là 5.\nBạn B viết ra bảng con.\nĐổi vai: bạn B nói, bạn A viết.\n\nMười một\ntrừ hai\nbằng chín.\n\n11 - 6 12 - 7\n13 - 8 14 - 9\n"
+}

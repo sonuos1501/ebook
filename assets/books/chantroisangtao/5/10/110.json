@@ -1,0 +1,4 @@
+{
+    "pageNumber": 110,
+    "pageText": "**1. Ôn tập biểu đồ cột**\n\n& Theo em có nên dùng biểu đồ tranh để biểu diễn số liệu ở Hình 1 không? Tại sao?\n\nViệc thể hiện dữ liệu bằng biểu đồ tranh trong một số trường hợp sẽ tốn nhiều thời gian và khó thực hiện. Chúng ta hãy xem một cách khác để biểu thị dữ liệu: Vẽ các cột có chiều rộng không đổi, cách đều nhau và có chiều cao đại diện cho số liệu đã cho. Biểu đồ biểu diễn dữ liệu như vậy được gọi là biểu đồ cột.\n\nVí dụ 1: Từ bảng số liệu:\n\n| Con vật được nuôi | Số con | \n|---|---|\n| Chó | 8 | \n| Mèo | 5 | \n| Chim | 10 | \n| Cá | 12 | \n| Thỏ | 5 |\n\nTa có biểu đồ cột (Hình 2) sau đây:\n\n(Hình ảnh biểu đồ cột) \n"
+}

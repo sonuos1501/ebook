@@ -1,0 +1,4 @@
+{
+    "pageNumber": 92,
+    "pageText": "**TỔ CHỨC HOẠT ĐỘNG**\n\n1. Khởi động phần mềm GeoGebra Classic 5 đã cài đặt trên máy tính hoặc truy cập vào trang\nweb https://www.geogebra.org để sử dụng phiên bản online.\n2. Các bước thao tác trên GeoGebra:\n\n**HOẠT ĐỘNG 1. Vẽ elip bằng phần mềm GeoGebra**\n\n**A. Vẽ elip theo phương trình chính tắc**\n\nx²/a² + y²/b² = 1\n\n**Ví dụ:** Vẽ elip có phương trình x²/25 + y²/9 = 1.\n\n**Hướng dẫn:**\n\n– Nhập phương trình elip theo cú pháp x^2/25 + y^2/9 = 1 vào vùng nhập lệnh.\n– Quan sát hình vẽ elip xuất hiện trên vùng làm việc (Hình 1).\n\n**Hình 1. Vẽ elip theo phương trình chính tắc**\n\n**Vẽ các elip sau:**\n\na) x²/10 + y²/4 = 1;\n\nb) x²/12 + y²/3 = 1;\n\nc) x²/100 + y²/36 = 1. \n"
+}

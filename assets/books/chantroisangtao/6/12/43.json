@@ -1,0 +1,4 @@
+{
+    "pageNumber": 43,
+    "pageText": "**Hình 2b.** \n- Chọn khối ô tính **G4:G8**.\n\n**Hình 2c.** \n- Kết quả: \n    | STT | Họ và tên | Điểm trung bình môn |\n    |---|---|---|\n    | 1 | Nguyễn Kiều An | 8.9 |\n    | 2 | Vũ Thị Bình | 9.4 |\n    | 3 | Lê Hạnh Chi | 9.7 |\n    | 4 | Bùi Văn Dũng | 7.7 |\n    | 5 | Nguyễn Văn Hiệp | 9.0 |\n    | 6 | Phạm Thị Lan | 9.6 |\n\n**Hình 2. Sử dụng lệnh Copy, Paste để sao chép công thức** \n\n**Hình 3a.** \n1. Chọn ô tính **G3**.\n\n**Hình 3b.** \n2. Đưa con trỏ chuột đến góc phải dưới ô tính **G3** để trỏ chuột trở thành dấu **+**, rồi kéo thả chuột đến ô tính **G8**. Kết quả như Hình 2c.\n\n**Hình 3. Sử dụng chức năng tự động điền dữ liệu để sao chép công thức**\n\n**Công thức tính điểm trung bình môn:** \n\n```\n=(C8+D8+E8*2+F8*3)/7\n```\nTrong đó:\n- C8: Điểm thường xuyên 1\n- D8: Điểm thường xuyên 2\n- E8: Điểm giữa kì\n- F8: Điểm cuối kì\n"
+}

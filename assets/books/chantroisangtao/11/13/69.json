@@ -1,0 +1,4 @@
+{
+    "pageNumber": 69,
+    "pageText": "Phần THỐNG KÊ VÀ XÁC SUẤT\nChương VI XÁC SUẤT CÓ ĐIỀU KIỆN\n\nTrong chương này, chúng ta sẽ tìm hiểu khái niệm xác suất có điều kiện, các quy tắc tính xác suất liên quan đến\nxác suất có điều\nkiện và học cách vận dụng các điều này vào một số tình huống thực tiễn. \n\nThomas Bayes (1701-1761)\nP(A/B) =  (P(A)P(B|A)) / P(B),  P(B) > 0\n\nHọc xong chương này, bạn có thể:\n\n- Nhận biết được khái niệm về xác suất có điều kiện.\n- Giải thích được ý nghĩa của xác suất có điều kiện trong những tình huống thực tiễn quen thuộc.\n- Mô tả được công thức xác suất toàn phần, công thức Bayes thông qua bảng dữ liệu thống kê 2x2 và sơ đồ hình cây.\n- Sử dụng được công thức Bayes để tính xác suất có điều kiện và vận dụng vào một số bài toán thực tiễn.\n- Sử dụng được sơ đồ hình cây để tính xác suất có điều kiện trong một số bài toán thực tiễn liên quan tới thống kê. \n"
+}

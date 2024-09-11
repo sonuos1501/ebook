@@ -1,0 +1,4 @@
+{
+    "pageNumber": 33,
+    "pageText": "## Bài toán 2:\n\nMột phân xưởng may có số công nhân nữ gấp 5 lần số công nhân nam. Biết rằng số công nhân nữ nhiều hơn số công nhân nam là 48 người. Hỏi phân xưởng đó có bao nhiêu công nhân nữ, bao nhiêu công nhân nam?\n\n**Bài giải**\n\nXác định số bé, số lớn, hiệu số và tỉ số.\n\nTheo đề bài, ta có sơ đồ:\n\n- Số công nhân nữ: |---|---|---|---|---|\n- Số công nhân nam:|---|\n                                48 người\n\nTheo sơ đồ, hiệu số phần bằng nhau là:  **5 - 1 = 4**\n\nGiá trị của một phần hay số công nhân nam là:  **48 : 4 = 12**\n\nSố công nhân nữ là: **12 x 5 = 60**\n\n\n**Chân trời sáng tạo**\n\n## Tìm hai số khi biết hiệu và tỉ số của hai số đó.\n\n| Hiệu  | 27   | 100  | 40 000 |\n|---|---|---|---|\n| Tỉ số | 2/5   |  7/6 | 1/9     |\n| Số bé | 18   |  ?    |  ?      |\n| Số lớn | 45   |  ?    |  ?      | \n"
+}

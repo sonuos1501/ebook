@@ -1,0 +1,4 @@
+{
+    "pageNumber": 24,
+    "pageText": "| Các tiêu chí so sánh | Đồ thị chỉnh lưu nửa chu kì | Đồ thị chỉnh lưu cả chu kì |\n|---|---|---|\n| Chu kì | Bằng chu kì điện áp vào (T) | Bằng nửa chu kì điện áp vào (T/2) |\n| Biên độ | Bằng biên độ điện áp vào (U) | Bằng biên độ điện áp vào (U) |\n\n**BÀI TẬP**\n\n1. Giả sử có sẵn một số diode bán dẫn giống nhau chỉ cho phép dòng điện thuận tối đa cỡ 1,0 A. Trong khi ta lại cần một mạch chỉnh lưu cả chu kì cho phép hoạt động với dòng điện 2,5 A. Hãy vẽ sơ đồ mạch chỉnh lưu thoả mãn yêu cầu bài toán.\n\n2. Một bạn học sinh dự định lắp một mạch điện chỉnh lưu cả chu kì sử dụng cầu chỉnh lưu, nhưng do sơ suất nên mắc nhầm cực của diode Đ₂ (Hình 3P.1a). Đặt vào hai đầu A, B một điện áp xoay chiều có dạng như Hình 3P.1b. Hỏi ở đầu ra trên điện trở R có tạo được điện áp chỉnh lưu cả chu kì như Hình 3.11b không? Hãy vẽ hình dạng đồ thị điện áp ra trên điện trở R khi đó. \n"
+}

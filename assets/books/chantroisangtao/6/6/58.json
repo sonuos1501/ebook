@@ -1,0 +1,4 @@
+{
+    "pageNumber": 58,
+    "pageText": "## BÀI TẬP\n\n1. Dựa vào các thông tin về quãng đường và thời gian của một người đi xe đạp\ntrong hình dưới, hãy:\na) Lập bảng ghi các giá trị quãng đường s và thời gian t tương ứng của người này.\nb) Vẽ đồ thị quãng đường – thời gian của người đi xe đạp nói trên.\n\n| t (s) | 0 | 2 | 4 | 6 | 8 | 10 |\n|---|---|---|---|---|---|---|\n| s (m) | 0 | 10 | 20 | 30 | 40 | 50 |\n\n2. Dựa vào đồ thị quãng đường -\nthời gian của một ô tô (hình\nbên) để trả lời các câu hỏi sau:\na) Sau 50 giây, xe đi được bao\nnhiêu mét?\nb) Trên đoạn đường nào xe\nchuyển động nhanh hơn? Xác\nđịnh tốc độ của xe trên mỗi\nđoạn đường. \n"
+}

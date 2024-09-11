@@ -1,0 +1,4 @@
+{
+    "pageNumber": 16,
+    "pageText": "## Bảng Nhân 5\n\n**Tính các tích trong bảng nhân 5.** \n\n* 5 x 1 = **5**\n* 5 x 2 = **10**\n* 5 x 3 = **15**\n* 5 x 4 = **20**\n* 5 x 5 = **25**\n* 5 x 6 = **30**\n* 5 x 7 = **35**\n* 5 x 8 = **40**\n* 5 x 9 = **45**\n* 5 x 10 = **50**\n\n**Trò chơi: Thực hành với bảng nhân 5.**\n\n**Mỗi lượt chơi:**\n\n* Một vài bạn đứng trước lớp.\n* Các bạn dưới lớp đọc đồng thanh các kết quả ở bảng nhân 5: 5, 10, 15, 20, ...\n* Các bạn dưới lớp ngừng đọc theo hiệu lệnh của giáo viên.\n* Các bạn đứng trước lớp viết phép nhân có kết quả là số được đọc cuối cùng.\n* Cả lớp nhận xét và vỗ tay.\n\n..., 35            ..., 35\n\n**5 x 7 = 35**       **5 x 7 = 35**       **5 x 7 = 35**\n"
+}

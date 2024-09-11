@@ -1,0 +1,4 @@
+{
+    "pageNumber": 99,
+    "pageText": "HƯỚNG DẪN CHỨC NĂNG CỦA GEOGEBRA\n\nĐể vẽ đồ thị trên GeoGebra ta thực hiện các thao tác trên bốn vùng sau:\n\n1. Vùng chứa các thanh công cụ;\n2. Vùng hiển thị danh sách các đối tượng;\n3. Vùng làm việc: chứa đồ thị vẽ được và các thanh trượt biểu thị các hệ số a, b.\n4. Vùng nhập lệnh: để nhập công thức các hàm số và biểu thức.\n\nTIẾN HÀNH HOẠT ĐỘNG\nHOẠT ĐỘNG 1: Vẽ đồ thị hàm số y = ax + b với a, b nhập từ bàn phím\n\nVí dụ: Vẽ đồ thị hàm số y = 2x + 4.\n\n1. Khởi động phần mềm đã cài đặt trên máy tính hoặc\ntruy cập vào trang web: https://www.geogebra.org/ để\nsử dụng phần mềm online.\n2. Các bước thao tác trên GeoGebra:\nNhập công thức hàm số y = 2x + 4 vào vùng nhập lệnh.\nNhập lệnh: y=2x+4\n\nTa có đồ thị trên vùng làm việc như hình bên.\n\nThực hành 1. Vẽ đồ thị các hàm số bậc nhất sau:\n\na) y = -x - 2;\nb) y = x - 2;\nc) y = 1/2x + 1;\nd) y = -4x + 7.\n"
+}

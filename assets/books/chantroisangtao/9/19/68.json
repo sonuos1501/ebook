@@ -1,0 +1,4 @@
+{
+    "pageNumber": 68,
+    "pageText": "ii) Tìm mối liên hệ giữa hai góc BAC và BDC. Từ đó chứng minh rằng 2R = a / sin A\n\nb) Cho tam giác ABC với góc A vuông. Tính sinA và so sánh a với 2R để chứng tỏ ta\nvẫn có công thức 2R = a / sin A\n\nTừ 2, ta có định lí sau:\n**Định lí sin**\n\n- Trong tam giác ABC với BC = a, CA = b, AB = c, ta có:\na / sin A = b / sin B = c / sin C = 2R,\ntrong đó R là bán kính đường tròn ngoại tiếp tam giác ABC.\n\nTừ định lí sin, ta có hệ quả sau đây:\n**Hệ quả**\n\na = 2RsinA;        b = 2RsinB;        c = 2RsinC;\nsin A = a / 2R        sin B = b / 2R        sin C = c / 2R\n\n**Ví dụ 2**\nCho tam giác ABC có A = 72°, B = 83°, BC = 18. Tính độ dài các cạnh AC, AB và\nbán kính R của đường tròn ngoại tiếp tam giác đó.\n**Giải**\nĐặt a = BC, b = AC, c = AB.\nTa có: a = 18, C = 180° - (72° + 83°) = 25°.\nÁp dụng định lí sin, ta có a / sin A = b / sin B = c / sin C = 2R. \n"
+}

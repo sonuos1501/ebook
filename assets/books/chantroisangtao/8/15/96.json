@@ -1,0 +1,4 @@
+{
+    "pageNumber": 96,
+    "pageText": "c) Trường hợp 3: Tâm O nằm ngoài góc AMB\n(Hình 16c).\n\nVẽ đường kính MC. Ta có AMB = CMB-CМА.\nÁp dụng kết quả của Trường hợp 1 cho hai góc nội tiếp\nCMB và CMA, ta có \nCMB = sdCB/2 ; CMA = sdCA/2 \n\nsuy ra AMB = CMB-CMA = (sdCB-sdCA)/2 = sdAB/2\n\nVậy trong Trường hợp 3, ta có AMB = 1/2sd AB. \nKết luận: Ta luôn có AMB = 1/2 sd AB. \n\nVí dụ 4. Tính số đo của AMB và ANB trong Hình 17.\nGiải\nTrong Hình 17, ta có AOB = 90° và là góc ở tâm chắn\nAB nên sđ AB = AOB = 90°.\nAMB và ANB là hai góc nội tiếp chắn AB, suy ra \nAMB = ANB = 1/2sdAB = 1/2 * 90° = 45°.\n\nChú ý: Trong một đường tròn:\n• Các góc nội tiếp bằng nhau chắn các cung bằng nhau.\n• Các góc nội tiếp cùng chắn một cung hoặc chắn các cung bằng nhau thì bằng nhau.\n• Góc nội tiếp nhỏ hơn hoặc bằng 90° có số đo bằng nửa số đo của góc ở tâm cùng\nchắn một cung.\n• Góc nội tiếp chắn nửa đường tròn là góc vuông. \n"
+}

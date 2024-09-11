@@ -1,0 +1,4 @@
+{
+    "pageNumber": 38,
+    "pageText": "Với mọi số thực m, phương trình tanx = m có nghiệm \nx = α + κπ, κ ∈ Z, \nvới a là góc thuộc (-π/2; π/2) sao cho tana = m.\n\nChú ý: tanx = tana° ⇔ x = a° + k180°, k ∈ Z.\n\nVí dụ 4. Giải các phương trình sau:\na) tanx = √3;\nb) tan 2x = tan π/11 \nGiải\na) Vì √3 = tan π/3 nên phương trình tan x = √3 = tan π/3 an có các nghiệm là x = π/3 + kn, k ∈ Z.\nb) tan2x = tan π/11 <=> 2x = π/11 + kπ, k ∈ Z\n<=> x = π/22 + kπ/2, k ∈ Z\n\nVậy phương trình có các nghiệm là x = π/22 + kπ/2, k ∈ Z.\n\n✔4 Giải các phương trình sau:\na) tan x = 0;\nb) tan (30° - 3x) = tan 75°.\n\n5. Phương trình cotx = m\n\nTrong mặt phẳng toạ độ Oxy, cho C là điểm \ntrên trục côtang có toạ độ là (-1; 1) (Hình 7). \nNhững điểm nào biểu diễn góc lượng giác x \ncó cot x = -1? Xác định số đo của các góc \nlượng giác đó. \n"
+}

@@ -1,0 +1,4 @@
+{
+    "pageNumber": 12,
+    "pageText": "```\nTập tính tiền khi mua bán.\nEm có 100 000 đồng, em định mua hai hoặc ba món hàng trong các\nmặt hàng dưới đây. Hãy làm theo hướng dẫn sau:\n - Làm tròn giá tiền mỗi món hàng em định mua đến hàng chục nghìn\n(các số có năm chữ số) hoặc hàng nghìn (các số có bốn chữ số).\n - Tính nhẩm tổng số tiền các món hàng em chọn theo số đã làm\ntròn để xem có đủ tiền mua không.\n\n54 700 đồng/quả          32 200 đồng/cái     7 500 đồng/cái vòng tay\n61 000 đồng/quả           49 000 đồng/bộ      59 000 đồng/cái \n28 400 đồng/cái vợt      16 500 đồng/đôi       6 500 đồng/quả\n3 500 đồng/quả bóng \n\nQuan sát các hình sau.\n\nHình \nthứ nhất  thứ hai  thứ ba  thứ tư  thứ năm \nHình thứ bảy có bao nhiêu hình tam giác màu xanh?\n\n```"
+}

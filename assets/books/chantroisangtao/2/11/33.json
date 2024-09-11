@@ -1,0 +1,4 @@
+{
+    "pageNumber": 33,
+    "pageText": "GÓC VUÔNG, GÓC KHÔNG VUÔNG\n\n* Hai kim ở mỗi đồng hồ tạo thành hình ảnh góc. \n\n* Góc vuông\n   A\n   O ------ B \n   Góc đỉnh O;\n   cạnh OA, OB. \n   Q \n   P -------- M \n   Góc đỉnh M;\n   cạnh MP, MQ. \n\n* Góc không vuông \n   C\n    \\ \n     \\\n      \\ E \n       \\\n        \\\n         D\n  Góc đỉnh ...; \n  cạnh .., .. \n   H\n    \\ \n     \\\n      \\ K \n       \\\n        \\\n         L\n  Góc đỉnh ...; \n  cạnh .., .. \n\n* Dụng cụ kiểm tra góc vuông, vẽ góc vuông \n\n   Ê-ke \n\n   **Kiểm tra góc vuông** \n   A\n   O ----- B \n      \\  / \n       \\/\n        P\n   Q\n      \\  / \n       \\/\n        M \n   Các góc đỉnh O và đỉnh M là các góc vuông.\n\n   Vẽ góc vuông\n\n   D ----- C\n      \\  /\n       \\/\n        E\n   H \n     \\ \n      \\ \n       \\ K \n        \\\n         \\\n          L\n   Các góc đỉnh D và đỉnh K là các góc không vuông.\n"
+}

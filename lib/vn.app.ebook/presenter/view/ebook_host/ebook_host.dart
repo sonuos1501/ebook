@@ -3,6 +3,8 @@ import 'package:ebook/vn.app.common/presenter/model/bottom_bar_model.dart';
 import 'package:ebook/vn.app.common/presenter/view/base_view.dart';
 import 'package:ebook/vn.app.ebook/presenter/view/ebook_host/ebook_host_screen.dart';
 import 'package:ebook/vn.app.ebook/presenter/view/ebook_host/ebook_host_vm.dart';
+import 'package:ebook/vn.app.ebook/presenter/view/library/library.dart';
+import 'package:ebook/vn.app.ebook/presenter/view/text_book/text_book.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -53,7 +55,7 @@ class EbookHost extends BaseScreen<EbookHostState, EbookHostViewModel> {
         'Sách giáo khoa',
         R.tabbarIcHome,
         R.tabbarIcHomeSelected,
-        Container(),
+        TextBookState(currentUser: vm.currentUser),
       ),
       BottomBarItemModel(
         1,
@@ -61,7 +63,7 @@ class EbookHost extends BaseScreen<EbookHostState, EbookHostViewModel> {
         'Thư viện',
         R.tabbarIcReport,
         R.tabbarIcReportSelected,
-        Container(),
+        LibraryState(currentUser: vm.currentUser),
       ),
     ];
     listTab.sort((a, b) => a.index.compareTo(b.index));

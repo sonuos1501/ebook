@@ -1,0 +1,4 @@
+{
+    "pageNumber": 69,
+    "pageText": "Ví dụ 2. Cho tam giác ABC vuông tại A có cạnh góc vuông AC = 10 cm. Tính AB \ntrong mỗi trường hợp sau (kết quả làm tròn đến hàng phần trăm): \na) C=34°; \nb) B = 25°. \n\nGiải \na) Xét tam giác ABC vuông tại A, C = 34°, ta có: \nAB = AC. tan C = 10. tan 34° ≈ 6,75 (cm). \nb) Xét tam giác ABC vuông tại A, B = 25°, ta có: \nAB = AC. cot B = 10. cot25° ≈ 21,45 (cm). \n\nThực hành 1. Cho tam giác ABC vuông tại A có độ dài cạnh huyền bằng 20 cm. \nTính độ dài các cạnh góc vuông trong mỗi trường hợp sau (kết quả làm tròn đến hàng \nphần trăm): \na) B = 36°; \nb)Ĉ = 41°. \n\nThực hành 2. Tính độ dài cạnh góc vuông x của mỗi tam giác vuông trong Hình 3 \n(kết quả làm tròn đến hàng phần trăm). \n\nVận dụng 1. Một cần cẩu đang nâng một khối gỗ trên sông. Biết tay cẩu AB có \nchiều dài là 16 m và nghiêng một góc 42° so với phương nằm ngang (Hình 4). \nTính chiều dài BC của đoạn dây cáp (kết quả làm tròn đến hàng phần mười). \n"
+}

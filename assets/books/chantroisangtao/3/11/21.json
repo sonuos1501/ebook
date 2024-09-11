@@ -1,0 +1,4 @@
+{
+    "pageNumber": 21,
+    "pageText": "Bài 7: BÀI TOÁN LIÊN QUAN ĐẾN RÚT VỀ ĐƠN VỊ (tiếp theo)\nXếp đều 24 cái bánh vào các hộp thì được 3 hộp. Nếu có 40 cái bánh cùng loại thì sẽ xếp được bao nhiêu hộp như vậy?\nTìm số bánh trong 1 hộp. Tìm số hộp đựng 40 cái bánh.\nBài toán: Xếp đều 24 cái bánh vào 3 hộp. Hỏi có 40 cái bánh cùng loại thì xếp đều được bao nhiêu hộp như thế?\nTóm tắt\n24 cái bánh: 3 hộp\n40 cái bánh: ... hộp?\nBài giải\nSố bánh trong mỗi hộp là:\n24 : 3 = 8 (cái)\nSố hộp để xếp 40 cái bánh là:\n40 : 8 = 5 (hộp)\nĐáp số: 5 hộp.\nTìm số bánh trong 1 hộp là bước Rút về đơn vị.\n1. Số?\na) 8 cái bánh: 2 hộp\n...?.. cái bánh: 1 hộp\n12 cái bánh: ..?.. hộp.\nb) 18 cái bánh: 3 hộp\n...?.. cái bánh: 1 hộp\n12 cái bánh: ..?.. hộp.\nSố cái bánh trong các hộp bằng nhau. \n \n"
+}

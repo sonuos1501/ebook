@@ -1,0 +1,4 @@
+{
+    "pageNumber": 79,
+    "pageText": "## Phân tích hình ảnh\n\n**Hình 1:** 1/1 = 1,0 = 100%\n**Hình 2:** 1/2 = 0,5 = 50%\n**Hình 3:** 1/4 = 0,25 = 25%\n**Hình 4:** Hình tròn sẽ được chia thành 8 phần bằng nhau, 2 phần được tô màu => 2/8 = 0,25 = 25% \n\n## Thông tin bảng\n\n| Tên học sinh | Chiều cao (cm) | Giới tính | \n|---|---|---|\n| Dung | 144,3 | Nữ |\n| Hùng | 150,5 | Nam |\n| Tuyết | 152,2 | Nữ |\n| Phước | 142 | Nam |\n\n## Biểu đồ\n\nBiểu đồ cột thể hiện chiều cao của nhóm học sinh ( đơn vị cm)\n\n- Cột 1 (140cm): Phước \n- Cột 2 (145cm): Dung\n- Cột 3 (150cm): Hùng \n- Cột 4 (152cm): Tuyết\n\n## Trả lời câu hỏi \n\na) \n- Cột 1 (140cm): **Phước**\n- Cột 2 (145cm): **Dung**\n- Cột 3 (150cm): **Hùng**\n- Cột 4 (152cm): **Tuyết**\n\nb) \n- Theo ghi chú, chiều cao trung bình của trẻ 11 tuổi là: Nam: 143,1 cm  Nữ: 144,8 cm\n- Vậy bạn **Dung** đạt được chiều cao trung bình của trẻ 11 tuổi (Nữ). \n"
+}

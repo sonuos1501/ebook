@@ -1,0 +1,4 @@
+{
+    "pageNumber": 70,
+    "pageText": "| Tên | Hình vẽ | Tính chất cơ bản |\n|---|---|---|\n| Hình lăng trụ đứng |  | – Cạnh bên vuông góc với hai đáy. <br> – Mặt bên là các hình chữ nhật. |\n| Hình lăng trụ đều |  | – Hai đáy là hai đa giác đều. <br> – Mặt bên là các hình chữ nhật. <br> – Cạnh bên và đường nối tâm hai đáy vuông góc với hai đáy. |\n| Hình hộp đứng |  | – Bốn mặt bên là hình chữ nhật. <br> – Hai đáy là hình bình hành. |\n| Hình hộp chữ nhật | | – Sáu mặt là hình chữ nhật. <br> – Độ dài a, b, c của ba cạnh cùng đi qua một đỉnh gọi là ba kích thước của hình hộp chữ nhật. <br> – Độ dài đường chéo d được tính theo ba kích thước: <br> d = √(a^2 + b^2 + c^2) |\n| Hình lập phương |  | – Sáu mặt là hình vuông. <br> – Độ dài đường chéo d được tính theo độ dài cạnh a: <br> d = a√3. | \n"
+}

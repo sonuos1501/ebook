@@ -1,0 +1,4 @@
+{
+    "pageNumber": 9,
+    "pageText": "Ví dụ 1. Giải bài toán quy hoạch tuyến tính:\nF = 2x - 5y → max, min\nvới ràng buộc\n2x+y-4≥0\n2x-y≥0\n2x+3y-12≤0\ny ≥ 0.\n\nGiải\nTập phương án Ω là miền tứ giác ABCD\ntrên Hình 2.\nToạ độ giao điểm A của hai đường thẳng\n2x - y = 0 và 2x + y − 4 = 0 là nghiệm của\nhệ phương trình:\n{2x-y=0\n{2x+y-4=0  ⇒ {x=1 \n                                {y=2 ⇒ A(1; 2).\n\n\nTương tự, ta tìm được B(⅔; 3), C(6; 0), D(2; 0).\n\nGiá trị của biểu thức F tại các đỉnh của Ω:\nF(1; 2) = 2.1-5.2 = -8;\tF(⅔; 3)=2.⅔-5.3=-12;\nF(6; 0) = 2.6-5.0 = 12;\tF(2; 0) = 2.2-5.0=4.\nTừ đó, max F = F(6; 0) = 12; min F = F(⅔; 3)= -12.\n\nXét bài toán quy hoạch tuyến tính:\nF = 2x + y → max, min\nvới ràng buộc\nx+y-4≥0\n3x-y≥0\nx ≥0 (y≥1. (II)\nTập phương án Ω của bài toán là phần được\ntô màu trên Hình 3. Hai điểm A(1; 3) và B(3; 1)\ngọi là các đỉnh của Ω.\nVới giá trị F cho trước, xét đường thẳng\nd: 2x + y = F hay d: y = -2x + F. \n"
+}

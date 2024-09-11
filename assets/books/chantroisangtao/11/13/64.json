@@ -1,0 +1,4 @@
+{
+    "pageNumber": 64,
+    "pageText": "## Thông tin từ hình ảnh\n\n**2. Vận dụng của phương trình mặt cầu**\n\nPhương trình mặt cầu trong không gian có nhiều ứng dụng trong thiết kế, định vị, sản xuất,...\n\n**Ví dụ 4.** Công nghệ hỗ trợ trọng tài VAR (Video Assistant Referee) thiết lập một hệ toạ độ Oxyz để theo dõi vị trí của quả bóng M. Cho biết M đang nằm trên mặt sân có phương trình z = 0, đồng thời thuộc mặt cầu (S): (x−32)² + (y−50)² + (z−10)² = 109 (đơn vị độ dài tính theo mét). \n\na) Tìm toạ độ tâm I và bán kính R của mặt cầu (S). \n\nb) Tìm toạ độ hình chiếu vuông góc J của tâm I trên mặt sân. \n\nc) Tính khoảng cách từ vị trí M của quả bóng đến điểm J.\n\n**Hình 4** \n\n## Các công thức được đề cập đến trong hình \n\n- Phương trình mặt cầu dạng tổng quát: x² + y² + z² - 2ax - 2by - 2cz + d = 0 với a² + b² + c² - d > 0 là phương trình của mặt cầu tâm I(a; b; c), bán kính R = √(a² + b² + c² - d).\n"
+}

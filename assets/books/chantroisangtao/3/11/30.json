@@ -1,0 +1,4 @@
+{
+    "pageNumber": 30,
+    "pageText": "## Bài 13: TÍNH CHẤT GIAO HOÁN, TÍNH CHẤT KẾT HỢP CỦA PHÉP CỘNG\n\nMột quyển có giá 45 000 đồng, một quyển có giá 47 000 đồng.\n\n* Tớ lấy 45 000 đồng cộng với 47 000 đồng.\n* Tớ lấy 47 000 đồng cộng với 45 000 đồng.\n\n**Tính chất giao hoán của phép cộng**\n\nTính và so sánh giá trị các biểu thức:\n* 45 + 47 ? 47 + 45\n* 8154 + 695 ? 695 + 8154\n\n**a + b = b + a**\n\nKhi đổi chỗ các số hạng trong một tổng thì tổng không thay đổi.\n\n**Đợi tớ tính**\n\n59 000 đồng + 28 000 đồng + 12 000 đồng\n\nTính thế nào cho nhanh nhỉ?\n\n**Tính chất kết hợp của phép cộng**\n\nTính và so sánh giá trị các biểu thức:\n* (7 + 9) + 5 ? 7 + (9 + 5)\n* (59 + 28) + 12 ? 59 + (28 + 12)\n\n**(a + b) + c = a + (b + c)**\n\nKhi cộng một tổng hai số với số thứ ba, ta có thể cộng số thứ nhất với tổng của số thứ hai và số thứ ba.\n\n**Chú ý:** Ta có thể tính giá trị của biểu thức dạng a + b + c như sau:\n\na + b + c = (a + b) + c = a + (b + c)\n"
+}

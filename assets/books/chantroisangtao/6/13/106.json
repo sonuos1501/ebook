@@ -1,0 +1,4 @@
+{
+    "pageNumber": 106,
+    "pageText": "```text\nThực hành 2: Hãy phân tích biểu đồ đoạn thẳng sau:\n(mm) Lượng mưa trung bình các tháng năm 2019 tại Thành phố Hồ Chí Minh\n400\n350\n342\n309\n295\n300\n250\n260\n271\n213\n200\n150\n119\n100\n51\n50\n14\n4\n9\n47\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12 (Tháng)\n(Nguồn: https://kenhthoitiet.vn/)\nVận dụng 2: Nếu quy ước rằng lượng mưa của mỗi tháng trong mùa mưa phải trên 100 mm, em hãy cho biết mùa mưa tại Thành phố Hồ Chí Minh thường bắt đầu từ tháng nào và đến tháng nào thì kết thúc.\nBÀI TẬP\n1. Vẽ biểu đồ đoạn thẳng biểu diễn dữ liệu của bảng thống kê sau:\nSố học sinh lớp 7C đạt điểm tốt môn Toán trong 4 tháng\nTháng\tSố học sinh\n9\t8\n10\t5\n11\t9\n12\t12\n```"
+}

@@ -1,0 +1,4 @@
+{
+    "pageNumber": 50,
+    "pageText": "3 ĐIỆN TRỞ TƯƠNG ĐƯƠNG CỦA ĐOẠN MẠCH SONG SONG\nTìm hiểu điện trở tương đương của đoạn mạch song song\nĐiện trở tương đương Rtd của đoạn mạch điện gồm các điện trở R1, R2, ..., Rn mắc\nsong song được tính theo công thức:\n1/Rtd = 1/R1 + 1/R2 + ... + 1/Rn\n \nTrong đoạn mạch song song:\n- Tổng cường độ dòng điện trong các nhánh bằng cường độ dòng điện chạy\ntrong mạch chính:\nI = I1 + I2 + ... + In\n– Điện trở tương đương của đoạn mạch được tính theo công thức:\n1/Rtd = 1/R1 + 1/R2 + ... + 1/Rn\n \n1. Trả lời câu hỏi đã nêu ở phần Mở đầu bài học.\n2. Cho đoạn mạch điện AB gồm hai điện trở R1 = 30 Ω và R2 = 20 Ω mắc song song như hình bên\ndưới. Biết ampe kế A1 chỉ 2 A, ampe kế A2 chỉ 3 A.\na) Tính điện trở tương đương của đoạn mạch điện AB.\nb) Xác định số chỉ ampe kế A3.\n \nNêu một số ví dụ về đoạn mạch điện gồm các thiết bị điện mắc song song\ntrong thực tế.\n"
+}

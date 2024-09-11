@@ -1,0 +1,4 @@
+{
+    "pageNumber": 27,
+    "pageText": "## Diện tích xung quanh\n\n**Diện tích xung quanh của hình hộp chữ nhật là tổng diện tích bốn mặt bên của hình hộp chữ nhật.**\n\n**Ví dụ:** Tính diện tích xung quanh của hình hộp chữ nhật có chiều dài 5 cm, chiều rộng 3 cm và chiều cao 2 cm.\n\n**Diện tích xung quanh của hình hộp chữ nhật bằng diện tích hình chữ nhật nào trên hình khai triển?**\n\n- Chiều dài CD của hình chữ nhật ABCD được tính như thế nào?\n  5 + 3 + 5 + 3 = (5 + 3) x 2 = 16 (cm).\n- Chiều rộng của hình chữ nhật đó là số đo nào của hình hộp chữ nhật?\n**Diện tích xung quanh của hình hộp chữ nhật là:**\n16 x 2 = 32 (cm²).\n↑↑\nchu vi chiều\nđáy\ncao\n**Muốn tính diện tích xung quanh của hình hộp chữ nhật, ta có thể lấy chu vi mặt đáy nhân với chiều cao (cùng một đơn vị đo).**\n"
+}

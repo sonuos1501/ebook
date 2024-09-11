@@ -1,0 +1,4 @@
+{
+    "pageNumber": 73,
+    "pageText": "CHIA SỐ CÓ BA CHỮ SỐ\nCHO SỐ CÓ MỘT CHỮ SỐ\n\nXếp đều 136 quyển sách\nvào 4 ngăn tủ.\n\nMỗi ngăn có\nbao nhiêu quyển?\n\n136 : 4 = .?.\n\n136  | 4\n 12      34\n 16\n 16\n   0\n\n136 : 4 = 34\n\n* 13 chia 4 được 3, viết 3.\n* 3 nhân 4 bằng 12; 13 trừ 12 bằng 1.\n* Hạ 6, được 16; 16 chia 4 được 4, viết 4.\n* 4 nhân 4 bằng 16; 16 trừ 16 bằng 0.\n\n362 : 3 = .?.\n\n362  | 3\n  3       120\n  06\n  06\n  02\n    0\n    2\n\n362 : 3 = 120 (dư 2)\n\n* 3 chia 3 được 1, viết 1.\n* 1 nhân 3 bằng 3; 3 trừ 3 bằng 0.\n* Hạ 6; 6 chia 3 được 2, viết 2.\n* 2 nhân 3 bằng 6; 6 trừ 6 bằng 0.\n* Hạ 2; 2 chia 3 được 0, viết 0.\n* 0 nhân 3 bằng 0; 2 trừ 0 bằng 2.\n\nĐặt tính rồi tính.\n\na) 632 : 7\n   407 : 8\n\nb) 840 : 6\n   720 : 4 \n"
+}

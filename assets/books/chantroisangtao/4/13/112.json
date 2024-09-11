@@ -1,0 +1,4 @@
+{
+    "pageNumber": 112,
+    "pageText": "Output:\n```\na) Biểu đồ trên biểu diễn số hộp bánh các lớp khối 5 quyên góp ủng hộ cho các bạn học sinh vùng lũ.\n\nb) Trung bình mỗi lớp đóng góp: (18 + 15 + 20 + 22) : 4 = 18,75 (hộp bánh)\n\nc) Lớp 5D đóng góp được nhiều bánh nhất, 22 hộp bánh.\n\nd)  Số bánh cả khối 5 quyên góp được là: 18 + 15 + 20 + 22 = 75 (hộp bánh)\n   Nếu mỗi cái bánh được cắt ra thành 4 miếng thì số miếng bánh  là: 75 x 4 = 300 (miếng bánh) \n   Nếu mỗi học sinh ăn 2 miếng bánh thì số học sinh được chia bánh là: 300 : 2 = 150 (học sinh)\n\n3.\na) Các bạn Tổ 1 thu được 4 loại đồ dùng học tập: thước kẻ, bút chì, compa, tẩy.\nb) * Thước kẻ: 5 \n     * Bút chì: 7\n     * Compa: 4\n     * Tẩy: 8\n\nc) 8, 7, 5, 4\n \n4. \n| Trường tiểu học | Số học sinh | \n| ----------- | ----------- | \n| Bình Châu    | 213         | \n| Thạnh An     | 198         | \n| Hòa Lộc     | 200         | \n| Châu Thành  | 220         | \n \n```"
+}

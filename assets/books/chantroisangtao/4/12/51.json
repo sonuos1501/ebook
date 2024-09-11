@@ -1,0 +1,4 @@
+{
+    "pageNumber": 51,
+    "pageText": "* Mỗi số thập phân gồm hai phần: phần nguyên và phần thập phân, chúng được phân cách bởi dấu phẩy.\n* Những chữ số ở bên trái dấu phẩy thuộc về phần nguyên, những chữ số ở bên phải dấu phẩy thuộc về phần thập phân.\nVí dụ:\n40,072\nPhần nguyên | Phần thập phân\n------- | --------\n40 | 072 \n## 1 Viết theo mẫu.\nMẫu:\n2/10 = 0,2\na) Hình A\nb) 9/10 = 1,9\nHình B\n## 2 Viết các phân số thập phân, các hỗn số có chứa phân số thập phân thành số thập phân.\na) 4/10 91/100 55/1000\nb) 2 1/10; 1 6/100; 15 8/1000.\n## 3 Nêu các chữ số thuộc phần nguyên, phần thập phân của mỗi số thập phân sau.\nMẫu: Số 72,035 có phần nguyên gồm các chữ số 7; 2 (ở bên trái dấu phẩy), phần thập phân gồm các chữ số 0; 3; 5 (ở bên phải dấu phẩy).\na) 742,5\nb) 0,18\nc) 10,362\n50 \n"
+}

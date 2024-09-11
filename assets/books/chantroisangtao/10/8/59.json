@@ -1,0 +1,4 @@
+{
+    "pageNumber": 59,
+    "pageText": "K\n2\nCác đỉnh của đồ thị ở Hình 22 biểu thị các điểm\ndu lịch trong một thành phố, các cạnh biểu thị\nđường đi giữa các điểm du lịch này. Có hay không\nA\nE\nmột cách đi tham quan tất cả các điểm du lịch của\nthành phố, mỗi điểm qua đúng một lần, xuất phát\nB\nD\nF\nvà kết thúc tại cùng một điểm du lịch?\nBÀI TẬP\nC\nHình 22\n1. Mỗi đồ thị trong Hình 23 có chu trình Euler không? Nếu có hãy chỉ ra một chu trình như vậy.\nA\nD\nB\nB\nC\nD\nE\nC\na) Đồ thị G\nb) Đồ thị H\nHình 23\nA\nB\nC\n2. Đồ thị ở Hình 24 có đường đi Euler không? Nếu có\nhãy chỉ ra một đường đi như vậy.\nF\nE\nHình 24. Đồ thị H\nD\n3. 3. Chi ra một chu trình Hamilton của đồ thị ở Hình 25.\nE\nD\nB\nC\nHình 25. Đồ thị G\nA\nP\nB\n4. Chỉ ra một đường đi Hamilton của đồ thị ở Hình 26.\n58\nE\nM\nN\nF\nD\nC\nHình 26. Đồ thị H \n"
+}

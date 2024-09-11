@@ -1,0 +1,4 @@
+{
+    "pageNumber": 50,
+    "pageText": "Bài \n64 SO SÁNH HAI PHÂN SỐ\nMỗi cái bánh ở các hình dưới đây được chia thành các phần bằng nhau.\nViết phân số chỉ phần bánh sẽ ăn của từng bạn nhỏ đối với mỗi cái bánh.\nDựa vào hình vẽ, so sánh các phân số vừa viết ở mỗi hình.\n\n* So sánh hai phân số cùng mẫu số.\nVí dụ 1: So sánh hai phân số 1/9 và 2/9. \n1/9 < 2/9\n\nTrong hai phân số cùng mẫu số:\nPhân số nào có tử số bé hơn thì bé hơn.\nPhân số nào có tử số lớn hơn thì lớn hơn.\nNếu các tử số bằng nhau thì hai phân số đó bằng nhau.\n\n* So sánh hai phân số khác mẫu số.\nVí dụ 2: So sánh hai phân số 1/4 và 1/8. \n1/4 = (1 x 2)/(4 x 2) = 2/8\n2/8 > 1/8\nVậy 1/4 > 1/8\n\nMuốn so sánh hai phân số khác mẫu số, ta có thể quy đồng mẫu số hai\nphân số đó rồi so sánh hai phân số có cùng mẫu số.\n\n@ 1 So sánh hai phân số.\n a) 2/5 và 3/5    4/7 và 2/7      1/10 và 7/10       5/2 và 2/2\n b) 1/3 và 5/12  7/5 và 2/15     5/14 và 1/2     2/3 và 12/18 \n"
+}

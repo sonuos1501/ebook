@@ -1,0 +1,4 @@
+{
+    "pageNumber": 67,
+    "pageText": "Theo định lí côsin, ta có:\nAB² = BC² + AC² - 2.BC.AC.cos C\n= 12² + 8² - 2.12.8.cos115°\n≈ 289,14.\nVậy AB ≈ √289,14 ≈ 17.\n\nTheo hệ quả của định lí côsin, ta có cosA =  (AB² + AC² - BC²)/(2.AB.AC) = (17² + 8² - 12²)/(2.17.8) ≈ 0,7684.\nSuy ra Â ≈ 39°47', B = 180° - (Â + Ĉ) ≈ 25°13′.\n\n✔ Tính các cạnh và các góc chưa biết của tam giác ABC trong Hình 4.\n\n✔ Tính khoảng cách giữa hai điểm ở hai đầu của một hồ nước. Biết từ một điểm cách hai đầu hồ lần lượt là 800 m và 900 m người quan sát nhìn hai điểm này dưới một góc 70° (Hình 5).\n\n2. Định lí sin trong tam giác\n a) Cho tam giác ABC không phải là tam giác vuông có BC = a, AC = b, AB = c và R là bán kính của đường tròn ngoại tiếp tam giác đó. Vẽ đường kính BD.\n i) Tính sin BDC theo a và R. \n"
+}

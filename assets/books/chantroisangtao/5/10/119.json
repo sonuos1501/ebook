@@ -1,0 +1,4 @@
+{
+    "pageNumber": 119,
+    "pageText": "Bước 2. Lập bảng thống kê và vẽ các biểu đồ loại biểu đồ cột và cột kép biểu diễn dữ liệu thu\nthập được.\nVí dụ 1:\n\n|  | Nhiệt độ cao nhất (độ C) | Nhiệt độ thấp nhất (độ C) |\n|---|---|---|\n| Thứ Hai | 35 | 26 |\n| Thứ Ba | 36 | 26 |\n| Thứ Tư | 35 | 24 |\n| Thứ Năm | 35 | 23 |\n| Thứ Sáu | 36 | 25 |\n| Thứ Bảy | 37 | 25 |\n| Chủ nhật | 36 | 26 |\n\nBước 3. Đọc biểu đồ và nêu nhận xét về biến đổi nhiệt độ trong tuần.\nVí dụ 2:\n- Ngày nóng nhất trong tuần: Thứ Bảy.\n- Ngày mát nhất trong tuần: Thứ Năm.\n- Nhiệt độ giảm vào giữa tuần và tăng vào cuối tuần.\nBước 4. Mỗi nhóm lên trình bày sản phẩm và thuyết trình về nhận xét của mình.\nBước 5. Giáo viên đánh giá hoặc cho lớp đánh giá bằng bỏ phiếu. \n"
+}

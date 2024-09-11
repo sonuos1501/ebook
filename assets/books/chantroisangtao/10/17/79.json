@@ -1,0 +1,4 @@
+{
+    "pageNumber": 79,
+    "pageText": "* Thể tích khối hộp chữ nhật bằng tích ba kích thước.\nV= abc.\n\n## Thể tích khối chóp\n* Khoảng cách h từ đỉnh đến mặt phẳng đáy của một hình chóp gọi là chiều cao của hình chóp đó.\nNgười ta chứng minh được công thức sau đây:\n\n- Thể tích khối chóp bằng một phần ba diện tích đáy nhân với\nchiều cao.\n1\nV=-Sh.\n3\n\n## Thể tích khối chóp cụt đều\nĐể tìm thể tích khối chóp cụt đều, ta sử dụng công thức sau đây:\n1\nV = =h(S + √SS' + S')\n3\nvới h là chiều cao và S, S là diện tích hai đáy.\n\n## Thể tích khối lăng trụ \nKhoảng cách h giữa hai mặt phẳng đáy của hình lăng trụ là chiều cao của hình lăng trụ đó.\n* Cho khối lăng trụ tam giác ABC.A'B'C' (Hình 14).\nTìm cách chia khối lăng trụ thành ba khối chóp có\ncùng chiều cao và diện tích đáy.\n\n- Thể tích khối lăng trụ bằng tích diện tích đáy và chiều cao.\nV= Sh. \n"
+}

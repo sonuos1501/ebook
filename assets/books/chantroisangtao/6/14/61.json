@@ -1,0 +1,4 @@
+{
+    "pageNumber": 61,
+    "pageText": "Thực hành 2: Tìm số đo các góc chưa biết \ncủa mỗi tam giác trong Hình 7. \n\nM\nE\n70°\n70°\nN\nP\nF\nH\na)\nb)\nHình 7\nA\nVận dụng 1: Trong hình mái nhà ở Hình 8, \ntính góc B và góc C, biết Â = 110°. \n\nB\n\nHình 8\nC\n3 Cho tam giác ABC có A = C. Vẽ đường thẳng đi qua điểm B, vuông góc với AC và \ncắt AC tại điểm H (Hình 9). Em hãy làm theo gợi ý sau để chứng minh BA = BC. \nXét ∆AHB và ACHB cùng vuông tại H, ta có: \nBH là cạnh góc vuông ?; \nHAB = HCB suy ra ABH = CBH (?). \nVậy ∆AHB = ACHB. Suy ra BA = BC. \n\nB\n\nA A\nH C\nHình 9\n\nChân trời sáng tạo\nHoạt động trên là gợi ý để chứng minh định lí sau: \nĐịnh lí 2: \n+\nNếu một tam giác có hai góc bằng nhau thì tam giác đó là tam giác cân. \n\nC\nVí dụ 3: Tìm độ dài cạnh AC của tam giác ABC \ntrong Hình 10. \n\nGiải\nTam giác ABC trong Hình 10 có B và C \nbằng nhau nên tam giác ABC cân tại A, \nsuy ra AC = AB = 5 cm. \n\n5 cm\nA\n\nA\nB\nC\nHình 10\n61 \n"
+}

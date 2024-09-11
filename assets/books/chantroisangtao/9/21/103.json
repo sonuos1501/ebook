@@ -1,0 +1,4 @@
+{
+    "pageNumber": 103,
+    "pageText": "## Thông tin từ hình ảnh\n\n**Hiệu suất của động cơ:**\n\n* Tỉ số giữa công suất có ích và công suất toàn phần\n*  H = (P'/P) * 100% (16.5)\n*  ΔP = P - P' là công suất hao phí \n*  H = (A'/A) * 100% (16.6) \n    * A': Công có ích\n    * A: Công toàn phần \n    * ΔA = A - A': Công hao phí \n\n**Lưu ý:** Hiệu suất động cơ luôn nhỏ hơn 1 vì luôn có sự mất mát năng lượng.\n\n**Ví dụ minh họa:** Nâng cao hiệu quả công việc bằng cách sử dụng máy móc hiện đại (Hình 16.6). \n\n**Bài tập vận dụng:**\n\n* **Ví dụ 1:** Tính hiệu suất động cơ băng chuyền khi đẩy thùng hàng 30kg lên dốc cao 2m. Biết năng lượng sử dụng là 5000J.\n    * **Bài giải:**\n        * Công có ích: A' = mgh \n        * Hiệu suất: H = (A'/A) * 100% = (30 * 9.8 * 2 / 5000) * 100% ≈ 12%\n\n**Câu hỏi thảo luận:**\n\n* Chỉ ra những loại năng lượng cần cung cấp cho động cơ xe máy/ô tô vận hành.\n* Thảo luận về các yếu tố ảnh hưởng đến hiệu suất của động cơ xe. \n"
+}

@@ -1,0 +1,3470 @@
+{
+    "id": 6,
+    "name": "Lớp 7",
+    "books": [
+        {
+            "id": 0,
+            "name": "Âm nhạc 7",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/images/amnhac7.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/pdf/sgk-am-nhac-lop-7-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 7",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Chủ đề 1",
+                            "content": "Vui mùa khai trường",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 1,
+                            "title": "1.1",
+                            "content": "Hát: Bài hát Vui đến trường",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 2,
+                            "title": "1.2",
+                            "content": "Nhạc cụ thể hiện tiết tấu: Bài thực hành số 1",
+                            "numPage": 8
+                        },
+                        {
+                            "id": 3,
+                            "title": "1.3",
+                            "content": "Sáo recorder: Bài thực hành số 1",
+                            "numPage": 8
+                        },
+                        {
+                            "id": 4,
+                            "title": "1.4",
+                            "content": "Kèn phím: Bài thực hành số 1",
+                            "numPage": 9
+                        },
+                        {
+                            "id": 5,
+                            "title": "1.5",
+                            "content": "Lí thuyết âm nhạc: Dấu nhắc lại, khung thay đổi, dấu quay lại",
+                            "numPage": 9
+                        },
+                        {
+                            "id": 6,
+                            "title": "1.6",
+                            "content": "Đọc nhạc: Bài đọc nhạc số 1",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 7,
+                            "title": "Chủ đề 2",
+                            "content": "Gia đình yêu thương",
+                            "numPage": 13
+                        },
+                        {
+                            "id": 8,
+                            "title": "2.1",
+                            "content": "Hát: Bài hát Niềm vui gia đình",
+                            "numPage": 13
+                        },
+                        {
+                            "id": 9,
+                            "title": "2.2",
+                            "content": "Nhạc cụ thể hiện tiết tấu: Bài thực hành số 2",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 10,
+                            "title": "2.3",
+                            "content": "Sáo recorder: Bài thực hành số 2",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 11,
+                            "title": "2.4",
+                            "content": "Kèn phím: Bài thực hành số 2",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 12,
+                            "title": "2.5",
+                            "content": "Lí thuyết âm nhạc: Kí hiệu để tăng trường độ nốt nhạc",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 13,
+                            "title": "2.6",
+                            "content": "Thường thức âm nhạc: Một số thể loại ca khúc. Nghe nhạc: Nghe bài hát Ru con",
+                            "numPage": 17
+                        },
+                        {
+                            "id": 14,
+                            "title": "Chủ đề 3",
+                            "content": "Nhớ ơn thầy cô",
+                            "numPage": 20
+                        },
+                        {
+                            "id": 15,
+                            "title": "3.1",
+                            "content": "Hát: Bài hát Lời cô",
+                            "numPage": 21
+                        },
+                        {
+                            "id": 16,
+                            "title": "3.2",
+                            "content": "Nhạc cụ thể hiện tiết tấu: Bài thực hành số 3",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 17,
+                            "title": "3.3",
+                            "content": "Lí thuyết âm nhạc: Nhịp lấy đà",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 18,
+                            "title": "3.4",
+                            "content": "Đọc nhạc: Bài đọc nhạc số 2",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 19,
+                            "title": "3.5",
+                            "content": "Thường thức âm nhạc: Nhạc sĩ Hoàng Vân. Nghe nhạc: Nghe bài hát Bài ca người giáo viên nhân dân",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 20,
+                            "title": "Chủ đề 4",
+                            "content": "Em yêu dân ca",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 14,
+                            "title": "4.1",
+                            "content": "Hát: Bài hát Lí dĩa bánh bò",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 15,
+                            "title": "4.2",
+                            "content": "Sáo recorder/ Kèn phím: Bài thực hành số 3",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 16,
+                            "title": "4.3",
+                            "content": "Đọc nhạc: Bài đọc nhạc số 3",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 17,
+                            "title": "4.4",
+                            "content": "Thường thức âm nhạc: Dân ca một số vùng miền Việt Nam",
+                            "numPage": 29
+                        },
+                        {
+                            "id": 18,
+                            "title": "Chủ đề 5",
+                            "content": "Mùa xuân tươi đẹp",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 19,
+                            "title": "5.1",
+                            "content": "Hát: Bài hát Mùa xuân cho em",
+                            "numPage": 33
+                        },
+                        {
+                            "id": 20,
+                            "title": "5.2",
+                            "content": "Lí thuyết âm nhạc: Một số thuật ngữ về nhịp độ",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 21,
+                            "title": "5.3",
+                            "content": "Đọc nhạc: Bài đọc nhạc số 4",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 22,
+                            "title": "5.4",
+                            "content": "Thường thức âm nhạc: Nhạc sĩ Đỗ Nhuận. Nghe nhạc: Nghe bài hát Việt Nam quê hương tôi",
+                            "numPage": 35
+                        },
+                        {
+                            "id": 23,
+                            "title": "Chủ đề 6",
+                            "content": "Giai điệu vùng cao",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 24,
+                            "title": "6.1",
+                            "content": "Hát: Bài hát Vùng cao quê em",
+                            "numPage": 39
+                        },
+                        {
+                            "id": 25,
+                            "title": "6.2",
+                            "content": "Nhạc cụ thể hiện tiết tấu: Bài thực hành số 4",
+                            "numPage": 39
+                        },
+                        {
+                            "id": 26,
+                            "title": "6.3",
+                            "content": "Sáo recorder: Bài thực hành số 4",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 27,
+                            "title": "6.4",
+                            "content": "Kèn phím: Bài thực hành số 4",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 28,
+                            "title": "6.5",
+                            "content": "Thường thức âm nhạc: Giới thiệu một số nhạc cụ dân tộc miền núi phía Bắc. Nghe nhạc: Nghe tác phẩm Xuân về trên bản Mèo",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 29,
+                            "title": "Chủ đề 7",
+                            "content": "Âm nhạc bốn phương",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 30,
+                            "title": "7.1",
+                            "content": "Đọc nhạc: Bài đọc nhạc số 5",
+                            "numPage": 45
+                        },
+                        {
+                            "id": 31,
+                            "title": "7.2",
+                            "content": "Hát: Bài hát Cuộc đời tươi đẹp (Proud of you). Nhạc cụ thể hiện tiết tấu: Bài thực hành số 5",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 32,
+                            "title": "7.3",
+                            "content": "Lí thuyết âm nhạc: Một số kí hiệu, thuật ngữ về sắc thái cường độ",
+                            "numPage": 47
+                        },
+                        {
+                            "id": 33,
+                            "title": "7.4",
+                            "content": "Thường thức âm nhạc: Nhạc sĩ Ludwig van Beethoven.Nghe nhạc: Nghe trích đoạn Giao hưởng số 5",
+                            "numPage": 47
+                        },
+                        {
+                            "id": 34,
+                            "title": "Chủ đề 8",
+                            "content": "Giai điệu cuộc sống",
+                            "numPage": 50
+                        },
+                        {
+                            "id": 35,
+                            "title": "8.1",
+                            "content": "Hát: Bài hát Khúc hát chim sơn ca",
+                            "numPage": 51
+                        },
+                        {
+                            "id": 36,
+                            "title": "8.2",
+                            "content": "Sáo recorder: Bài thực hành số 5",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 37,
+                            "title": "8.3",
+                            "content": "Kèn phím: Bài thực hành số 5",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 38,
+                            "title": "8.4",
+                            "content": "Thường thức âm nhạc: Giới thiệu nhạc cụ phương Tây. Nghe nhạc: Nghe trích đoạn Asturias",
+                            "numPage": 53
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 58,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "HỒ NGỌC KHẢI",
+                    "NGUYỄN THỊ TỐ MAI"
+                ],
+                "bookEditor": [
+                    "NGUYỄN VĂN HẢO"
+                ],
+                "bookAuthor": [
+                    "LƯƠNG DIỆU ẢNH",
+                    "NGUYỄN ĐĂNG BỬU",
+                    "TRẦN ĐỨC LÂM",
+                    "PHẠM GIA HOÀNG MY"
+                ]
+            }
+        },
+        {
+            "id": 1,
+            "name": "Công nghệ 7",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/images/congnghe7.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/pdf/sgk-cong-nghe-lop-7-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "CHƯƠNG 1. MỞ ĐẦU VỀ TRỒNG TRỌT",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Nghề trồng trọt ở Việt Nam",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Các phương thức trồng trọt ở Việt Nam",
+                            "numPage": 10
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "CHƯƠNG 2. TRỒNG VÀ CHĂM SÓC CÂY TRỒNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 3",
+                            "content": "Quy trình trồng trọt",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 4",
+                            "content": "Nhân giống cây trồng bằng phương pháp giâm cành",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 5",
+                            "content": "Trồng và chăm sóc cây cải xanh",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 3,
+                            "title": "Dự án 1",
+                            "content": "Kế hoạch trồng và chăm sóc cây trồng trong gia đình",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 4,
+                            "title": "Ôn tập",
+                            "content": "Chương 1 và Chương 2",
+                            "numPage": 36
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "CHƯƠNG 3. TRỒNG, CHĂM SÓC VÀ BẢO VỆ RỪNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 6",
+                            "content": "Rừng ở Việt Nam",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 7",
+                            "content": "Trồng, chăm sóc và bảo vệ rừng",
+                            "numPage": 42
+                        },
+                        {
+                            "id": 2,
+                            "title": "Ôn tập",
+                            "content": "Chương 3",
+                            "numPage": 63
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "CHƯƠNG 4. MỞ ĐẦU VỀ CHĂN NUÔI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 8",
+                            "content": "Nghề chăn nuôi ở Việt Nam",
+                            "numPage": 50
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 9",
+                            "content": "Một số phương thức chăn nuôi ở Việt Nam",
+                            "numPage": 54
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Chương 5. NUÔI DƯỠNG, CHĂM SÓC VÀ PHÒNG, TRỊ BỆNH CHO VẬT NUÔI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 10",
+                            "content": "Kĩ thuật nuôi dưỡng và chăm sóc vật nuôi",
+                            "numPage": 58
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 11",
+                            "content": "Kĩ thuật chăn nuôi gà thịt thả vườn",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 2,
+                            "title": "Dự án 2",
+                            "content": "Kế hoạch nuôi dưỡng, chăm sóc vật nuôi trong gia đình",
+                            "numPage": 68
+                        },
+                        {
+                            "id": 3,
+                            "title": "Ôn tập",
+                            "content": "Chương 4 và Chương 5",
+                            "numPage": 70
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Chương 6. NUÔI THUỶ SẢN",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 12",
+                            "content": "Ngành thuỷ sản ở Việt Nam",
+                            "numPage": 72
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 13",
+                            "content": "Quy trình kĩ thuật nuôi thuỷ sản",
+                            "numPage": 75
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 14",
+                            "content": "Bảo vệ môi trường và nguồn lợi thuỷ sản",
+                            "numPage": 93
+                        },
+                        {
+                            "id": 3,
+                            "title": "Dự án 3",
+                            "content": "Kế hoạch nuôi dưỡng, chăm sóc thuỷ sản",
+                            "numPage": 86
+                        },
+                        {
+                            "id": 4,
+                            "title": "Ôn tập",
+                            "content": "Chương 6",
+                            "numPage": 89
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 94,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "BÙI VĂN HỒNG"
+                ],
+                "bookEditor": [
+                    "NGUYỄN THỊ CẨM VÂN"
+                ],
+                "bookAuthor": [
+                    "NGUYỄN THỊ HỒNG CHIẾM",
+                    "NGUYỄN TIẾN LỰC",
+                    "QUÁCH VĂN THIÊM",
+                    "NGUYỄN THỊ THUỶ"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "Giáo dục công dân 7",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/images/giaoduccongdan7.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/pdf/sgk-giao-duc-cong-dan-lop-7-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 7",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Tự hào về truyền thống quê hương",
+                            "numPage": 5
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Quan tâm, cảm thông và chia sẻ",
+                            "numPage": 11
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Học tập tự giác, tích cực",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 4",
+                            "content": "Giữ chữ tín",
+                            "numPage": 21
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 5",
+                            "content": "Bảo tồn di sản văn hoá",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 6",
+                            "content": "Nhận diện tình huống gây căng thẳng",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 6,
+                            "title": "Bài 7",
+                            "content": "Ứng phó với tâm lí căng thẳng",
+                            "numPage": 36
+                        },
+                        {
+                            "id": 7,
+                            "title": "Bài 8",
+                            "content": "Phòng, chống bạo lực học đường",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 8,
+                            "title": "Bài 9",
+                            "content": "Quản lí tiền",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 9,
+                            "title": "Bài 10",
+                            "content": "Nguyên nhân hậu quả của tệ nạn xã hội",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 10,
+                            "title": "Bài 11",
+                            "content": "Phòng, chống tệ nạn xã hội",
+                            "numPage": 45
+                        },
+                        {
+                            "id": 11,
+                            "title": "Bài 12",
+                            "content": "Quyền và nghĩa vụ của công dân trong gia đình",
+                            "numPage": 61
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 70,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "HUỲNH VĂN SƠN"
+                ],
+                "bookEditor": [
+                    "BÙI HỒNG QUÂN"
+                ],
+                "bookAuthor": [
+                    "ĐÀO LÊ HOÀ AN",
+                    "TRẦN TUẤN ANH",
+                    "NGUYỄN THANH HUÂN",
+                    "ĐỖ CÔNG NAM"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "name": "Giáo dục thể chất 7",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/images/giaoducthechat7.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/pdf/sgk-giao-duc-the-chat-lop-7-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 7",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Phần một",
+                            "content": "KIẾN THỨC CHUNG",
+                            "numPage": 4
+                        },
+                        {
+                            "id": 1,
+                            "title": "Chủ đề",
+                            "content": "LỰA CHỌN VÀ SỬ DỤNG CÁC YẾU TỐ CỦA MÔI TRƯỜNG TỰ NHIÊN TRONG TẬP LUYỆN THỂ DỤC THỂ THAO",
+                            "numPage": 4
+                        },
+                        {
+                            "id": 2,
+                            "title": "Phần hai",
+                            "content": "VẬN ĐỘNG CƠ BẢN",
+                            "numPage": 8
+                        },
+                        {
+                            "id": 3,
+                            "title": "Chủ đề I",
+                            "content": "CHẠY CỰ LI NGẮN (60 m)",
+                            "numPage": 8
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 1",
+                            "content": "Phối hợp trong giai đoạn xuất phát cao và chạy lao sau xuất phát",
+                            "numPage": 8
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 2",
+                            "content": "Phối hợp trong giai đoạn chạy lao sau xuất phát và chạy giữa quãng",
+                            "numPage": 11
+                        },
+                        {
+                            "id": 6,
+                            "title": "Bài 3",
+                            "content": "Phối hợp các giai đoạn trong chạy cự li ngắn (60 m)",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 7,
+                            "title": "Luyện tập",
+                            "content": "Một số trò chơi phát triển tố chất sức nhanh",
+                            "numPage": 17
+                        },
+                        {
+                            "id": 8,
+                            "title": "Chủ đề II",
+                            "content": "NHẢY XA KIỂU NGỒI",
+                            "numPage": 19
+                        },
+                        {
+                            "id": 9,
+                            "title": "Bài 1",
+                            "content": "Kĩ thuật giậm nhảy và bước bộ",
+                            "numPage": 19
+                        },
+                        {
+                            "id": 10,
+                            "title": "Bài 2",
+                            "content": "Kĩ thuật chạy đà và giậm nhảy",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 11,
+                            "title": "Bài 3",
+                            "content": "Phối hợp các giai đoạn kĩ thuật nhảy xa kiểu ngồi",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 12,
+                            "title": "Luyện tập",
+                            "content": "Một số trò chơi phát triển tố chất sức mạnh",
+                            "numPage": 29
+                        },
+                        {
+                            "id": 13,
+                            "title": "Chủ đề III",
+                            "content": "CHẠY CỰ LI TRUNG BÌNH",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 14,
+                            "title": "Bài 1",
+                            "content": "Phối hợp trong giai đoạn xuất phát và chạy giữa quãng",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 15,
+                            "title": "Bài 2",
+                            "content": "Phối hợp các giai đoạn trong chạy cự li trung bình",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 16,
+                            "title": "Luyện tập",
+                            "content": "Một số trò chơi phát triển tố chất sức bền",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 17,
+                            "title": "Chủ đề IV",
+                            "content": "BÀI TẬP THỂ DỤC",
+                            "numPage": 39
+                        },
+                        {
+                            "id": 18,
+                            "title": "Bài 1",
+                            "content": "Bài thể dục liên hoàn",
+                            "numPage": 39
+                        },
+                        {
+                            "id": 19,
+                            "title": "Bài 2",
+                            "content": "Bài thể dục liên hoàn (tiếp theo)",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 20,
+                            "title": "Luyện tập",
+                            "content": "Một số trò chơi phát triển tổ chất khéo léo",
+                            "numPage": 47
+                        },
+                        {
+                            "id": 21,
+                            "title": "Phần ba",
+                            "content": "THỂ THAO TỰ CHỌN",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 22,
+                            "title": "Chủ đề I",
+                            "content": "THỂ DỤC AEROBIC",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 23,
+                            "title": "Bài 1",
+                            "content": "Nhóm bài tập khởi động di chuyển thẳng",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 24,
+                            "title": "Bài 2",
+                            "content": "Các bước chân phối hợp Thể dục Aerobic",
+                            "numPage": 53
+                        },
+                        {
+                            "id": 25,
+                            "title": "Bài 3",
+                            "content": "Các bước chân phối hợp Thể dục Aerobic (tiếp theo)",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 26,
+                            "title": "Bài 4",
+                            "content": "Bài Thể dục Aerobic liên hoàn",
+                            "numPage": 61
+                        },
+                        {
+                            "id": 27,
+                            "title": "Luyện tập",
+                            "content": "Một số trò chơi vận động bổ trợ",
+                            "numPage": 66
+                        },
+                        {
+                            "id": 28,
+                            "title": "Chủ đề II",
+                            "content": "BÓNG ĐÁ",
+                            "numPage": 76
+                        },
+                        {
+                            "id": 29,
+                            "title": "Bài 1",
+                            "content": "Kĩ thuật tâng bóng bằng mu giữa bàn chân",
+                            "numPage": 68
+                        },
+                        {
+                            "id": 30,
+                            "title": "Bài 2",
+                            "content": "Kĩ thuật đá bóng bằng mu trong bàn chân",
+                            "numPage": 73
+                        },
+                        {
+                            "id": 31,
+                            "title": "Bài 3",
+                            "content": "Kĩ thuật dừng bóng bằng mu giữa bàn chân",
+                            "numPage": 76
+                        },
+                        {
+                            "id": 32,
+                            "title": "Luyện tập",
+                            "content": "Một số trò chơi vận động bổ trợ",
+                            "numPage": 79
+                        },
+                        {
+                            "id": 33,
+                            "title": "Chủ đề III",
+                            "content": "BÓNG RỔ",
+                            "numPage": 81
+                        },
+                        {
+                            "id": 34,
+                            "title": "Bài 1",
+                            "content": "Kĩ thuật dẫn bóng theo đường thẳng",
+                            "numPage": 81
+                        },
+                        {
+                            "id": 35,
+                            "title": "Bài 2",
+                            "content": "Kĩ thuật chuyền bóng tại chỗ và di chuyển",
+                            "numPage": 84
+                        },
+                        {
+                            "id": 36,
+                            "title": "Bài 3",
+                            "content": "Kĩ thuật hai bước ném rổ một tay trên vai",
+                            "numPage": 88
+                        },
+                        {
+                            "id": 37,
+                            "title": "Luyện tập",
+                            "content": "Một số trò chơi vận động bổ trợ",
+                            "numPage": 92
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 98,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "TRỊNH HỮU LỘC"
+                ],
+                "bookEditor": [
+                    "LƯU TRÍ DŨNG"
+                ],
+                "bookAuthor": [
+                    "LÊ MINH CHÍ",
+                    "NGUYỄN TRUNG KIÊN",
+                    "NGUYỄN THIÊN LÝ",
+                    "LÂM THANH MINH",
+                    "TRẦN BẢO NGỌC",
+                    "PHẠM THÁI VINH"
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "name": "Hoạt động trải nghiệm hướng nghiệp 7 - Bản một",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/images/hoatdonghuongnghieptrainghiem7_ban1.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/pdf/sgk-hoat-dong-trai-nghiem-huong-nghiep-lop-7-ban-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 7",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Chủ đề 1",
+                            "content": "Rèn luyện thói quen",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 1,
+                            "title": "Chủ đề 2",
+                            "content": "Rèn luyện sự kiên trì và chăm chỉ",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 2,
+                            "title": "Chủ đề 3",
+                            "content": "Hợp tác thực hiện nhiệm vụ chung",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 3,
+                            "title": "Chủ đề 4",
+                            "content": "Chia sẻ trách nhiệm trong gia đình",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 4,
+                            "title": "Chủ đề 5",
+                            "content": "Chi tiêu có kế hoạch",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 5,
+                            "title": "Chủ đề 6",
+                            "content": "Sống hoà hợp trong cộng đồng",
+                            "numPage": 47
+                        },
+                        {
+                            "id": 6,
+                            "title": "Chủ đề 7",
+                            "content": "Góp phần giảm thiểu hiệu ứng nhà kính",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 7,
+                            "title": "Chủ đề 8",
+                            "content": "Tìm hiểu các nghề ở địa phương",
+                            "numPage": 63
+                        },
+                        {
+                            "id": 8,
+                            "title": "Chủ đề 9",
+                            "content": "Tìm hiểu phẩm chất và năng lực cần có ở người lao động",
+                            "numPage": 70
+                        },
+                        {
+                            "id": 9,
+                            "title": "Tạm biệt lớp 7",
+                            "content": "",
+                            "numPage": 77
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 82,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "ĐINH THỊ KIM THOA",
+                    "VŨ QUANG TUYÊN"
+                ],
+                "bookEditor": [
+                    "NGUYỄN THỊ BÍCH LIÊN"
+                ],
+                "bookAuthor": [
+                    "NGUYỄN HỒNG KIÊN",
+                    "TRẦN BẢO NGỌC",
+                    "TRẤN THỊ QUỲNH TRANG",
+                    "PHẠM ĐÌNH VĂN"
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "name": "Hoạt động trải nghiệm hướng nghiệp 7 - Bản hai",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/images/hoatdonghuongnghieptrainghiem7_ban2.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/pdf/sgk-hoat-dong-trai-nghiem-huong-nghiep-lop-7-ban-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 7",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Chủ đề 1",
+                            "content": "Rèn luyện một số phẩm chất cá nhân trong học tập và cuộc sống",
+                            "numPage": 5
+                        },
+                        {
+                            "id": 1,
+                            "title": "Chủ đề 2",
+                            "content": "Rèn luyện kĩ năng kiểm soát cảm xúc và tự bảo vệ",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 2,
+                            "title": "Chủ đề 3",
+                            "content": "Phát triển mối quan hệ hoà đồng và hợp tác",
+                            "numPage": 24
+                        },
+                        {
+                            "id": 3,
+                            "title": "Chủ đề 4",
+                            "content": "Chăm sóc gia đình của em",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 4,
+                            "title": "Chủ đề 5",
+                            "content": "Chi tiêu hợp lí và tiết kiệm tiền",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 5,
+                            "title": "Chủ đề 6",
+                            "content": "Tham gia các hoạt động vì cộng đồng",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 6,
+                            "title": "Chủ đề 7",
+                            "content": "Bảo vệ môi trường và danh lam thắng cảnh",
+                            "numPage": 58
+                        },
+                        {
+                            "id": 7,
+                            "title": "Chủ đề 8",
+                            "content": "Tìm hiểu nghề ở địa phương",
+                            "numPage": 63
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 82,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "ĐINH THỊ KIM THOA"
+                ],
+                "bookEditor": [
+                    "VŨ ĐÌNH BẢY"
+                ],
+                "bookAuthor": [
+                    "VŨ PHƯƠNG LIÊN",
+                    "TRẦN BẢO NGỌC",
+                    "ĐỒNG VĂN TOÀN",
+                    "HUỲNH MỘNG TUYÊN"
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "name": "Khoa học tự nhiên 7",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/images/khoahoctunhien7.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/pdf/sgk-khoa-hoc-tu-nhien-lop-7-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Mở đầu",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Phương pháp và kĩ năng học tập môn Khoa học tự nhiên",
+                            "numPage": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "CHỦ ĐỀ 1. Nguyên tử – Nguyên tố hoá học – Sơ lược về bảng tuần hoàn các nguyên tố hoá học",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 2",
+                            "content": "Nguyên tử",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 3",
+                            "content": "Nguyên tố hoá học",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 4",
+                            "content": "Sơ lược bảng tuần hoàn các nguyên tố hoá học",
+                            "numPage": 22
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "CHỦ ĐỀ 2. Phân tử",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 5",
+                            "content": "Phân tử – Đơn chất – Hợp chất",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 6",
+                            "content": "Giới thiệu về liên kết hoá học",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 7",
+                            "content": "Hoá trị và công thức hoá học",
+                            "numPage": 45
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "CHỦ ĐỀ 3. Tốc độ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 8",
+                            "content": "Tốc độ chuyển động",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 9",
+                            "content": "Đồ thị quãng đường – thời gian",
+                            "numPage": 55
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 10",
+                            "content": "Đo tốc độ",
+                            "numPage": 59
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 11",
+                            "content": "Tốc độ và an toàn giao thông",
+                            "numPage": 62
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "CHỦ ĐỀ 4. Âm thanh",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 12",
+                            "content": "Mô tả sóng âm",
+                            "numPage": 65
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 13",
+                            "content": "Độ to và độ cao của âm",
+                            "numPage": 70
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 14",
+                            "content": "Phản xạ âm",
+                            "numPage": 74
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "CHỦ ĐỀ 5. Ánh sáng",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 15",
+                            "content": "Ánh sáng, tia sáng",
+                            "numPage": 78
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 16",
+                            "content": "Sự phản xạ ánh sáng",
+                            "numPage": 82
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 17",
+                            "content": "Ảnh của vật tạo bởi gương phẳng",
+                            "numPage": 86
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "CHỦ ĐỀ 6. TỪ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 18",
+                            "content": "Nam châm",
+                            "numPage": 90
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 19",
+                            "content": "Từ trường",
+                            "numPage": 94
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 20",
+                            "content": "Từ trường Trái Đất – Sử dụng la bàn",
+                            "numPage": 98
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 21",
+                            "content": "Nam châm điện",
+                            "numPage": 102
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "CHỦ ĐỀ 7. Trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 22",
+                            "content": "Vai trò của trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+                            "numPage": 105
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 23",
+                            "content": "Quang hợp ở thực vật",
+                            "numPage": 108
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 24",
+                            "content": "Thực hành chứng minh quang hợp ở cây xanh",
+                            "numPage": 114
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 25",
+                            "content": "Hô hấp tế bào",
+                            "numPage": 116
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 26",
+                            "content": "Thực hành về hô hấp tế bào ở thực vật thông qua sự nảy mầm của hạt",
+                            "numPage": 121
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 27",
+                            "content": "Trao đổi khí ở sinh vật",
+                            "numPage": 123
+                        },
+                        {
+                            "id": 6,
+                            "title": "Bài 28",
+                            "content": "Vai trò của nước và các chất dinh dưỡng đối với cơ thể sinh vật",
+                            "numPage": 128
+                        },
+                        {
+                            "id": 7,
+                            "title": "Bài 29",
+                            "content": "Trao đổi nước và các chất dinh dưỡng ở thực vật",
+                            "numPage": 131
+                        },
+                        {
+                            "id": 8,
+                            "title": "Bài 30",
+                            "content": "Trao đổi nước và các chất dinh dưỡng ở động vật",
+                            "numPage": 137
+                        },
+                        {
+                            "id": 9,
+                            "title": "Bài 31",
+                            "content": "Thực hành chứng minh thân vận chuyển nước và lá thoát hơi nước",
+                            "numPage": 143
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "CHỦ ĐỀ 8. Cảm ứng ở sinh vật và tập tính ở động vật",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 32",
+                            "content": "Cảm ứng ở sinh vật",
+                            "numPage": 145
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 33",
+                            "content": "Tập tính ở động vật",
+                            "numPage": 150
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "CHỦ ĐỀ 9. Sinh trưởng và phát triển ở sinh vật",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 34",
+                            "content": "Sinh trưởng và phát triển ở sinh vật",
+                            "numPage": 155
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 35",
+                            "content": "Các nhân tố ảnh hưởng đến sinh trưởng và phát triển của sinh vật",
+                            "numPage": 159
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 36",
+                            "content": "Thực hành chứng minh sinh trưởng và phát triển ở thực vật động vật",
+                            "numPage": 164
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "CHỦ ĐỀ 10. Sinh sản ở sinh vật",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 37",
+                            "content": "Sinh sản ở sinh vật",
+                            "numPage": 166
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 38",
+                            "content": "Các yếu tố ảnh hưởng đến sinh sản và điều hoà, điều khiển sinh sản ở sinh vật",
+                            "numPage": 175
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "CHỦ ĐỀ 11. Cơ thể sinh vật là một thể thống nhất",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 39",
+                            "content": "Chứng minh cơ thể sinh vật là một thể thống nhất",
+                            "numPage": 179
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 190,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "CAO CỰ GIÁC"
+                ],
+                "bookEditor": [
+                    "CAO CỰ GIÁC",
+                    "NGUYỄN ĐỨC HIỆP"
+                ],
+                "bookAuthor": [
+                    "NGUYỄN CÔNG CHUNG",
+                    "TRẦN HOÀNG ĐƯƠNG",
+                    "PHẠM THỊ HƯƠNG",
+                    "PHẠM THỊ LỊCH",
+                    "TRẦN THỊ KIM NGÂN",
+                    "TRẦN HOÀNG NGHIÊM",
+                    "LÊ CAO PHAN",
+                    "TRẦN NGỌC THẮNG",
+                    "NGUYỄN TẤN TRUNG"
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "name": "Lịch sử và địa lý 7",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/images/lichsudiali7.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/pdf/sgk-lich-su-va-dia-ly-lop-7-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "LỊCH SỬ: CHƯƠNG 1.TÂY ÂU TỪ THẾ KỈ V ĐẾN NỬA ĐẦU THẾ KỈ XVI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Quá trình hình thành và phát triển chế độ phong kiến ở Tây Âu",
+                            "numPage": 8
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Các cuộc phát kiến địa lí",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Sự hình thành quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu trung đại",
+                            "numPage": 17
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 4",
+                            "content": "Văn hoá Phục hưng",
+                            "numPage": 20
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 5",
+                            "content": "Phong trào Cải cách tôn giáo",
+                            "numPage": 24
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "CHƯƠNG 2.TRUNG QUỐC TỪ THẾ KỈ VII ĐẾN GIỮA THẾ KỈ XIX ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 6",
+                            "content": "Khái lược tiến trình lịch sử Trung Quốc từ thế kỉ VII đến giữa thế kỉ XIX",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 7",
+                            "content": "Các thành tựu văn hoá chủ yếu của Trung Quốc từ thế kỉ VII đến giữa thế kỉ XIX",
+                            "numPage": 30
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "CHƯƠNG 3.ẤN ĐỘ TỪ THẾ KỈ IV ĐẾN GIỮA THẾ KỈ XIX",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 8",
+                            "content": "Vương triều Gúp-ta",
+                            "numPage": 33
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 9",
+                            "content": "Vương triều Hồi giáo Đê-li",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 10",
+                            "content": "Đế quốc Mô-gôn",
+                            "numPage": 39
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "CHƯƠNG 4.ĐÔNG NAM Á TỪ NỬA SAU THẾ KỈ X ĐẾN NỬA ĐẦU THẾ KỈ XVI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 11",
+                            "content": "Khái quát về Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+                            "numPage": 42
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 12",
+                            "content": "Vương quốc Cam-pu-chia",
+                            "numPage": 45
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 13",
+                            "content": "Vương quốc Lào",
+                            "numPage": 48
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "CHƯƠNG 5.VIỆT NAM TỪ ĐẦU THẾ KỈ X ĐẾN ĐẦU THẾ KỈ XVI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 14",
+                            "content": "Công cuộc xây dựng và bảo vệ đất nước thời Ngô – Đinh – Tiền Lê (938 – 1009)",
+                            "numPage": 51
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 15",
+                            "content": "Công cuộc xây dựng và bảo vệ đất nước thời Lý (1009 – 1225)",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 16",
+                            "content": "Công cuộc xây dựng đất nước thời Trần (1226 – 1400)",
+                            "numPage": 65
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 17",
+                            "content": "Ba lần kháng chiến chống quân xâm lược Mông – Nguyên",
+                            "numPage": 71
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 18",
+                            "content": "Nhà Hồ và cuộc kháng chiến chống quân xâm lược Minh (1400 – 1407)",
+                            "numPage": 77
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 19",
+                            "content": "Khởi nghĩa Lam Sơn (1418 – 1427)",
+                            "numPage": 81
+                        },
+                        {
+                            "id": 6,
+                            "title": "Bài 20",
+                            "content": "Đại Việt thời Lê sơ (1428 – 1527)",
+                            "numPage": 86
+                        },
+                        {
+                            "id": 7,
+                            "title": "Bài 21",
+                            "content": "Vùng đất phía Nam từ đầu thế kỉ X đến đầu thế kỉ XVI92",
+                            "numPage": 92
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "ĐỊA LÍ: CHƯƠNG 1.BẢN ĐỒ - PHƯƠNG TIỆN THỂ HIỆN BỀ MẶT TRÁI ĐẤT",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Thiên nhiên châu Âu",
+                            "numPage": 97
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Đặc điểm dân cư, xã hội châu Âu",
+                            "numPage": 102
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Phương thức con người khai thác, sử dụng và bảo vệ thiên nhiên châu Âu",
+                            "numPage": 106
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 4",
+                            "content": "Liên minh châu Âu",
+                            "numPage": 109
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "CHƯƠNG 2.CHÂU Á",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 5",
+                            "content": "Thiên nhiên châu Á",
+                            "numPage": 111
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 6",
+                            "content": "Đặc điểm dân cư, xã hội châu Á",
+                            "numPage": 117
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 7",
+                            "content": "Bản đồ chính trị châu Á, các khu vực của châu Á",
+                            "numPage": 120
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 8",
+                            "content": "Thực hành: tìm hiểu các nền kinh tế lớn và kinh tế mới nổi ở châu Á",
+                            "numPage": 127
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "CHƯƠNG 3. CHÂU PHI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 9",
+                            "content": "Thiên nhiên châu Phi",
+                            "numPage": 128
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 10",
+                            "content": "Đặc điểm dân cư, xã hội châu Phi",
+                            "numPage": 133
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 11",
+                            "content": "Phương thức con người khai thác, sử dụng và bảo vệ thiên nhiên châu Phi",
+                            "numPage": 136
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 12",
+                            "content": "Thực hành: sưu tầm tư liệu về Cộng hoà Nam Phi",
+                            "numPage": 139
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "CHƯƠNG 4.CHÂU MỸ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 13",
+                            "content": "Phát kiến ra châu Mỹ, vị trí địa lí và phạm vi châu Mỹ",
+                            "numPage": 140
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 14",
+                            "content": "Thiên nhiên và dân cư, xã hội Bắc Mỹ",
+                            "numPage": 143
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 15",
+                            "content": "Phương thức con người khai thác tự nhiên bền vững, một số trung tâm kinh tế của Bắc Mỹ",
+                            "numPage": 150
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 16",
+                            "content": "Thiên nhiên Trung và Nam Mỹ",
+                            "numPage": 153
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 17",
+                            "content": "Đặc điểm dân cư Trung và Nam Mỹ, vấn đề đô thị hoá, văn hoá Mỹ Latinh",
+                            "numPage": 157
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 18",
+                            "content": "Vấn đề khai thác, sử dụng và bảo vệ rừng A-ma-dôn",
+                            "numPage": 160
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "CHƯƠNG 5.CHÂU ĐẠI DƯƠNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 19",
+                            "content": "Thiên nhiên châu Đại Dương",
+                            "numPage": 162
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 20",
+                            "content": "Đặc điểm dân cư, xã hội Ô-xtrây-li-a",
+                            "numPage": 166
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 21",
+                            "content": "Phương thức con người khai thác, sử dụng và bảo vệ thiên nhiên ở Ô-xtrây-li-a",
+                            "numPage": 170
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "CHƯƠNG 6.CHÂU NAM CỰC",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 22",
+                            "content": "Vị trí địa lí, lịch sử khám phá và nghiên cứu châu Nam Cực",
+                            "numPage": 173
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 23",
+                            "content": "Thiên nhiên châu Nam Cực",
+                            "numPage": 176
+                        },
+                        {
+                            "id": 2,
+                            "title": "Chủ đề chung 1",
+                            "content": "Các cuộc đại phát kiến địa lí",
+                            "numPage": 181
+                        },
+                        {
+                            "id": 3,
+                            "title": "Chủ đề chung 2",
+                            "content": "Đô thị: Lịch sử và hiện tại",
+                            "numPage": 187
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 198,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "NGUYỄN KIM HỒNG (phần Địa lí)"
+                ],
+                "bookEditor": [
+                    "HÀ BÍCH LIÊN (phần Lịch sử)",
+                    "MAI THỊ PHÚ PHƯƠNG (phần Lịch sử)",
+                    "PHAN VĂN PHÚ (phần Địa lí)",
+                    "MAI PHÚ THANH (phần Địa lí)"
+                ],
+                "bookAuthor": [
+                    "NGUYỄN ĐỨC HOÀ (phần Lịch sử)",
+                    "NGUYỄN TRÀ MY (phần Lịch sử)",
+                    "TRẦN VĂN NHÂN (phần Lịch sử)",
+                    "HỒ THANH TÂM (phần Lịch sử)",
+                    "NGUYỄN KIM TƯỜNG VY (phần Lịch sử)",
+                    "VŨ THỊ BẮC (phần Địa lí)",
+                    "TRẦN NGỌC ĐIỆP (phần Địa lí)",
+                    "NGUYỄN HÀ QUỲNH GIAO (phần Địa lí)",
+                    "HOÀNG THỊ KIỀU OANH (phần Địa lí)",
+                    "HUỲNH PHẨM DŨNG PHÁT (phần Địa lí)",
+                    "PHẠM ĐỖ VĂN TRUNG (phần Địa lí)"
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "name": "Mĩ thuật 7 - Bản một",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/images/mithuat7_ban1.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/pdf/sgk-my-thuat-lop-7-ban-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chủ đề: CHỮ CÁCH ĐIỆU TRONG ĐỜI SỐNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Nhịp điệu và sắc màu của chữ",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Logo dạng chữ",
+                            "numPage": 10
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "Chủ đề: NGHỆ THUẬT TRUNG ĐẠI VIỆT NAM",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 3",
+                            "content": "Đường diềm trang trí với hoạ tiết thời Lý",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 4",
+                            "content": "Trang phục áo dài với hoạ tiết dân tộc",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 5",
+                            "content": "Bìa sách với di sản kiến trúc Việt Nam",
+                            "numPage": 22
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Chủ đề: HÌNH KHỐI TRONG KHÔNG GIAN",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 6",
+                            "content": "Mẫu vật dạng khối trụ, khối cầu",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 7",
+                            "content": "Ngôi nhà trong tranh",
+                            "numPage": 30
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 8",
+                            "content": "Chao đèn trong trang trí kiến trúc",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 4",
+                            "content": "Hội xuân quê hương",
+                            "numPage": 43
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Tổng kết học kì I",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "TRƯNG BÀY SẢN PHẨM MĨ THUẬT",
+                            "content": "",
+                            "numPage": 38
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Chủ đề: NGHỆ THUẬT TRUNG ĐẠI THẾ GIỚI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 9",
+                            "content": "Cân bằng đối xứng trong kiến trúc Gothic",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 10",
+                            "content": "Hình khối của nhân vật trong điêu khắc",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 11",
+                            "content": "Vẻ đẹp của nhân vật trong tranh thời Phục hưng",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 12",
+                            "content": "Những mảnh ghép thú vị",
+                            "numPage": 52
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Chủ đề: CUỘC SỐNG XƯA VÀ NAY",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 13",
+                            "content": "Chạm khắc đình làng",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 14",
+                            "content": "Nét, màu trong tranh dân gian Hàng Trống",
+                            "numPage": 60
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 15",
+                            "content": "Tranh vẽ theo hình thức ước lệ",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 16",
+                            "content": "Sắc màu của tranh in",
+                            "numPage": 68
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Tổng kết năm học",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "TRƯNG BÀY SẢN PHẨM MĨ THUẬT",
+                            "content": "",
+                            "numPage": 72
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 78,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "NGUYỄN THỊ NHUNG"
+                ],
+                "bookEditor": [
+                    "NGUYỄN TUẤN CƯỜNG",
+                    "NGUYỄN HỒNG NGỌC"
+                ],
+                "bookAuthor": [
+                    "NGUYỄN ĐỨC GIANG",
+                    "VÔ THỊ NGUYÊN",
+                    "ĐÀM THỊ HẢI UYÊN",
+                    "TRẦN THỊ VÂN"
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "name": "Mĩ thuật 7 - Bản hai",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/images/mithuat7_ban2.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/pdf/sgk-my-thuat-lop-7-ban-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "CHỦ ĐỀ 1. BÌNH HOA TRONG SÁNG TẠO MỸ THUẬT",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Vẽ tĩnh vật",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Tạo hình bình hoa",
+                            "numPage": 10
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "CHỦ ĐỀ 2. ĐỘNG VẬT HOANG DÃ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 3",
+                            "content": "Cùng vẽ động vật",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 4",
+                            "content": "Tạo hình động vật hoang dã",
+                            "numPage": 18
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "CHỦ ĐỀ 3. MỸ THUẬT TRUNG ĐẠI THẾ GIỚI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 5",
+                            "content": "Thành tựu mĩ thuật trung đại thế giới",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 6",
+                            "content": "Tranh chân dung",
+                            "numPage": 26
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "CHỦ ĐỀ 4. THIÊN NHIÊN MUỐN MẪU",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 7",
+                            "content": "Sắc màu thiên nhiên",
+                            "numPage": 30
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 8",
+                            "content": "Thiên nhiên trong tranh in",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 2,
+                            "title": "TRƯNG BÀY CUỐI HỌC KỲ 1",
+                            "content": "",
+                            "numPage": 38
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "CHỦ ĐỀ 5. VẺ ĐẸP DI SẢN",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 9",
+                            "content": "Sản phẩm mĩ thuật 3D thể hiện về di tích",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 10",
+                            "content": "Thiết kế lỗ gỗ",
+                            "numPage": 44
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "CHỦ ĐỀ 6. MÔI TRƯỜNG QUANH EM",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 11",
+                            "content": "Em vẽ môi trường xanh – sạch – đẹp",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 12",
+                            "content": "Ngày hội thời trang",
+                            "numPage": 52
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "CHỦ ĐỀ 7. MĨ THUẬT TRUNG ĐẠI VIỆT NAM",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 13",
+                            "content": "Thành tựu mĩ thuật trung đại Việt Nam",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 14",
+                            "content": "Trang trí báo tường",
+                            "numPage": 60
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "CHỦ ĐỀ 8. ĂN TOÀN GIAO THÔNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 15",
+                            "content": "Em vẽ giao thông",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 16",
+                            "content": "Thiết kế tạo dáng phương tiện giao thông",
+                            "numPage": 68
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "BÀI TỔNG KẾT",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Giải thích thuật ngữ",
+                            "content": "",
+                            "numPage": 74
+                        },
+                        {
+                            "id": 1,
+                            "title": "Phiên âm tiếng nước ngoài",
+                            "content": "",
+                            "numPage": 75
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 78,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "NGUYỄN THỊ MAY"
+                ],
+                "bookEditor": [
+                    "HOÀNG MINH PHÚC"
+                ],
+                "bookAuthor": [
+                    "TRẦN ĐOÀN THANH NGỌC",
+                    "LÂM YẾN NHƯ"
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "name": "Ngữ văn 7 - Tập một",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/images/nguvan7_tap1.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/pdf/sgk-ngu-van-lop-7-tap-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "BÀI 1: TIẾNG NÓI CỦA VẠN VẬT (THƠ BỐN CHỮ, NĂM CHỮ)",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "ĐỌC",
+                            "content": "Lời của cây (Trần Hữu Thung)",
+                            "numPage": 13
+                        },
+                        {
+                            "id": 1,
+                            "title": "ĐỌC",
+                            "content": "Sang thu (Hữu Thỉnh)",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 2,
+                            "title": "ĐỌC",
+                            "content": "Ông Một (Vũ Hùng)",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 3,
+                            "title": "ĐỌC",
+                            "content": "Thực hành tiếng Việt",
+                            "numPage": 19
+                        },
+                        {
+                            "id": 4,
+                            "title": "ĐỌC",
+                            "content": "Con chim chiền chiện (Huy Cận)",
+                            "numPage": 21
+                        },
+                        {
+                            "id": 5,
+                            "title": "VIẾT",
+                            "content": "Làm một bài thơ bốn chữ hoặc năm chữ",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 6,
+                            "title": "VIẾT",
+                            "content": "Viết đoạn văn ghi lại cảm xúc về một bài thơ bốn chữ hoặc năm chữ",
+                            "numPage": 25
+                        },
+                        {
+                            "id": 7,
+                            "title": "NÓI VÀ NGHE",
+                            "content": "Tóm tắt ý chính do người khác trình bày",
+                            "numPage": 29
+                        },
+                        {
+                            "id": 8,
+                            "title": "ÔN TẬP",
+                            "content": "",
+                            "numPage": 30
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "BÀI 2: BÀI HỌC CUỘC SỐNG (TRUYỆN NGỤ NGÔN)",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "ĐỌC",
+                            "content": "Những cái nhìn hạn hẹp",
+                            "numPage": 33
+                        },
+                        {
+                            "id": 1,
+                            "title": "ĐỌC",
+                            "content": "Những tình huống hiểm nghèo",
+                            "numPage": 36
+                        },
+                        {
+                            "id": 2,
+                            "title": "ĐỌC",
+                            "content": "Biết người, biết ta",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 3,
+                            "title": "ĐỌC",
+                            "content": "Thực hành tiếng Việt",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 4,
+                            "title": "ĐỌC",
+                            "content": "Chân, Tay, Tai, Mắt, Miệng",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 5,
+                            "title": "VIẾT",
+                            "content": "Viết bài văn kể lại sự việc có thật liên quan đến nhân vật hoặc sự kiện lịch sử",
+                            "numPage": 45
+                        },
+                        {
+                            "id": 6,
+                            "title": "NÓI VÀ NGHE",
+                            "content": "Kể lại một truyện ngụ ngôn. Sử dụng và thưởng thức những cách nói thú vị, hài hước trong khi nói và nghe",
+                            "numPage": 50
+                        },
+                        {
+                            "id": 7,
+                            "title": "Ôn tập",
+                            "content": "",
+                            "numPage": 52
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "BÀI 3: NHỮNG GÓC NHÌN VĂN CHƯƠNG (NGHỊ LUẬN VĂN HỌC)",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "ĐỌC",
+                            "content": "Em bé thông minh – nhân vật kết tinh trí tuệ dân gian (Theo Trần Thị An)",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 1,
+                            "title": "ĐỌC",
+                            "content": "Hình ảnh hoa sen trong bài ca dao 'Trong đầm gì đẹp bằng sen' (Theo Hoàng Tiến Tựu)",
+                            "numPage": 59
+                        },
+                        {
+                            "id": 2,
+                            "title": "ĐỌC",
+                            "content": "Bức thư gửi chú lính chì dũng cảm (Li-xơ-bớt Đao-mon-tơ)",
+                            "numPage": 62
+                        },
+                        {
+                            "id": 3,
+                            "title": "ĐỌC",
+                            "content": "Thực hành tiếng Việt",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 4,
+                            "title": "ĐỌC",
+                            "content": "Sức hấp dẫn của truyện ngắn 'Chiếc lá cuối cùng' (Theo Minh Khuê)",
+                            "numPage": 65
+                        },
+                        {
+                            "id": 5,
+                            "title": "VIẾT",
+                            "content": "Viết bài văn phân tích đặc điểm nhân vật trong một tác phẩm văn học",
+                            "numPage": 67
+                        },
+                        {
+                            "id": 6,
+                            "title": "NÓI VÀ NGHE",
+                            "content": "Thảo luận nhóm về vấn đề gây tranh cãi",
+                            "numPage": 72
+                        },
+                        {
+                            "id": 7,
+                            "title": "Ôn tập",
+                            "content": "",
+                            "numPage": 75
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "BÀI 4: QUÀ TẶNG CỦA THIÊN NHIÊN (TẢN VĂN, TUỲ BÚT)",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "ĐỌC",
+                            "content": "Cốm Vòng (Vũ Bằng)",
+                            "numPage": 78
+                        },
+                        {
+                            "id": 1,
+                            "title": "ĐỌC",
+                            "content": "Mùa thu về Trùng Khánh nghe hạt dẻ hát ( Y Phương)",
+                            "numPage": 82
+                        },
+                        {
+                            "id": 2,
+                            "title": "ĐỌC",
+                            "content": "Thu sang (Đỗ Trọng Khơi)",
+                            "numPage": 86
+                        },
+                        {
+                            "id": 3,
+                            "title": "ĐỌC",
+                            "content": "Thực hành tiếng Việt",
+                            "numPage": 86
+                        },
+                        {
+                            "id": 4,
+                            "title": "ĐỌC",
+                            "content": "Mùa phơi sân trước (Nguyễn Ngọc Tư)",
+                            "numPage": 87
+                        },
+                        {
+                            "id": 5,
+                            "title": "VIẾT",
+                            "content": "Viết bài văn biểu cảm về con người, sự việc",
+                            "numPage": 89
+                        },
+                        {
+                            "id": 6,
+                            "title": "NÓI VÀ NGHE",
+                            "content": "Tóm tắt ý chính do người khác trình bày",
+                            "numPage": 94
+                        },
+                        {
+                            "id": 7,
+                            "title": "Ôn tập",
+                            "content": "",
+                            "numPage": 95
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "BÀI 5: TỪNG BƯỚC HOÀN THIỆN BẢN THÂN (VĂN BẢN THÔNG TIN)",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "ĐỌC",
+                            "content": "Chúng ta có thể đọc nhanh hơn? (A-đam Khu)",
+                            "numPage": 98
+                        },
+                        {
+                            "id": 1,
+                            "title": "ĐỌC",
+                            "content": "Cách ghi chép để nắm chắc nội dung bài học (Du Gia Huy)",
+                            "numPage": 102
+                        },
+                        {
+                            "id": 2,
+                            "title": "ĐỌC",
+                            "content": "Bài học từ cây cau (Nguyễn Văn Học)",
+                            "numPage": 105
+                        },
+                        {
+                            "id": 3,
+                            "title": "ĐỌC",
+                            "content": "Thực hành tiếng Việt",
+                            "numPage": 107
+                        },
+                        {
+                            "id": 4,
+                            "title": "ĐỌC",
+                            "content": "Phòng tránh đuối nước (Theo Nguyễn Trọng An)",
+                            "numPage": 109
+                        },
+                        {
+                            "id": 5,
+                            "title": "VIẾT",
+                            "content": "Viết văn bản thuyết minh về một quy tắc hoặc luật lệ trong trò chơi hay hoạt động",
+                            "numPage": 112
+                        },
+                        {
+                            "id": 6,
+                            "title": "NÓI VÀ NGHE",
+                            "content": "Giải thích quy tắc hoặc luật lệ trong một trò chơi hay hoạt động",
+                            "numPage": 118
+                        },
+                        {
+                            "id": 7,
+                            "title": "Ôn tập",
+                            "content": "",
+                            "numPage": 120
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "ÔN TẬP CUỐI HỌC KÌ I",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "BẢNG HƯỚNG DẪN KĨ NĂNG VIẾT",
+                            "content": "",
+                            "numPage": 125
+                        },
+                        {
+                            "id": 1,
+                            "title": "BẢNG TRA CỨU TIẾNG NƯỚC NGOÀI",
+                            "content": "",
+                            "numPage": 126
+                        },
+                        {
+                            "id": 2,
+                            "title": "BẢNG TRA CỨU THUẬT NGỮ",
+                            "content": "",
+                            "numPage": 127
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 130,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    ""
+                ],
+                "bookEditor": [
+                    "NGUYỄN THỊ HỒNG NAM",
+                    "NGUYỄN THÀNH THI"
+                ],
+                "bookAuthor": [
+                    "TRẦN LÊ DUY",
+                    "PHAN MẠNH HÙNG",
+                    "TĂNG THỊ TUYẾT MAI",
+                    "NGUYỄN THỊ NGỌC THUỶ",
+                    "PHAN THU VÂN"
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "name": "Ngữ văn 7 - Tập hai",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/images/nguvan7_tap2.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/pdf/sgk-ngu-van-lop-7-tap-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "BÀI 6: HÀNH TRÌNH TRI THỨC (NGHỊ LUẬN XÃ HỘI)",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "ĐỌC",
+                            "content": "Tự học – một thú vui bổ ích (Nguyễn Hiến Lê)",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 1,
+                            "title": "ĐỌC",
+                            "content": "Bàn về đọc sách (Chu Quang Tiềm)",
+                            "numPage": 9
+                        },
+                        {
+                            "id": 2,
+                            "title": "ĐỌC",
+                            "content": "Tôi đi học (Thanh Tịnh)",
+                            "numPage": 12
+                        },
+                        {
+                            "id": 3,
+                            "title": "ĐỌC",
+                            "content": "Thực hành tiếng Việt",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 4,
+                            "title": "ĐỌC",
+                            "content": "Đừng từ bỏ cố gắng (Theo Trần Thị Cẩm Quyên)",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 5,
+                            "title": "VIẾT",
+                            "content": "Viết bài văn nghị luận về một vấn đề trong đời sống",
+                            "numPage": 17
+                        },
+                        {
+                            "id": 6,
+                            "title": "NÓI VÀ NGHE",
+                            "content": "Trình bày ý kiến về một vấn đề trong đời sống",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 7,
+                            "title": "ÔN TẬP",
+                            "content": "",
+                            "numPage": 26
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "BÀI 7: TRÍ TUỆ DÂN GIAN (TỤC NGỮ)",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "ĐỌC",
+                            "content": "Những kinh nghiệm dân gian về thời tiết",
+                            "numPage": 29
+                        },
+                        {
+                            "id": 1,
+                            "title": "ĐỌC",
+                            "content": "Những kinh nghiệm dân gian về lao động sản xuất",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 2,
+                            "title": "ĐỌC",
+                            "content": "Tục ngữ và sáng tác văn chương",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 3,
+                            "title": "ĐỌC",
+                            "content": "Thực hành tiếng Việt",
+                            "numPage": 35
+                        },
+                        {
+                            "id": 4,
+                            "title": "ĐỌC",
+                            "content": "Những kinh nghiệm dân gian về con người và xã hội",
+                            "numPage": 36
+                        },
+                        {
+                            "id": 5,
+                            "title": "VIẾT",
+                            "content": "Viết bài văn nghị luận về một vấn đề trong đời sống",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 6,
+                            "title": "NÓI VÀ NGHE",
+                            "content": "Trao đổi một cách xây dựng, tôn trọng các ý kiến khác biệt",
+                            "numPage": 39
+                        },
+                        {
+                            "id": 7,
+                            "title": "Ôn tập",
+                            "content": "",
+                            "numPage": 41
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "BÀI 8: NÉT ĐẸP VĂN HOÁ VIỆT (VĂN BẢN THÔNG TIN)",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "ĐỌC",
+                            "content": "Trò chơi cướp cờ (Theo Nguyễn Thị Thanh Thuỷ)",
+                            "numPage": 45
+                        },
+                        {
+                            "id": 1,
+                            "title": "ĐỌC",
+                            "content": "Cách gọt củ hoa thuỷ tiên (Theo Giang Nam)",
+                            "numPage": 47
+                        },
+                        {
+                            "id": 2,
+                            "title": "ĐỌC",
+                            "content": "Hương khúc (Nguyễn Quang Thiều)",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 3,
+                            "title": "ĐỌC",
+                            "content": "Thực hành tiếng Việt",
+                            "numPage": 54
+                        },
+                        {
+                            "id": 4,
+                            "title": "ĐỌC",
+                            "content": "Kéo co (Trần Thị Ly)",
+                            "numPage": 55
+                        },
+                        {
+                            "id": 5,
+                            "title": "VIẾT",
+                            "content": "Viết văn bản tường trình",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 6,
+                            "title": "NÓI VÀ NGHE",
+                            "content": "Trao đổi một cách xây dựng, tôn trọng các ý kiến khác biệt",
+                            "numPage": 63
+                        },
+                        {
+                            "id": 7,
+                            "title": "Ôn tập",
+                            "content": "",
+                            "numPage": 65
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Bài 9: TRONG THẾ GIỚI VIỄN TƯỞNG (TRUYỆN KHOA HỌC VIỄN TƯỞNG)",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "ĐỌC",
+                            "content": "Dòng “Sông Đen” (Giuyn Véc-nơ)",
+                            "numPage": 68
+                        },
+                        {
+                            "id": 1,
+                            "title": "ĐỌC",
+                            "content": "Xưởng Sô-cô-la (Rô-a Đan)",
+                            "numPage": 75
+                        },
+                        {
+                            "id": 2,
+                            "title": "ĐỌC",
+                            "content": "Trái tim Đan-kô (Mác-xim Go-rơ-ki)",
+                            "numPage": 79
+                        },
+                        {
+                            "id": 3,
+                            "title": "ĐỌC",
+                            "content": "Thực hành tiếng Việt",
+                            "numPage": 83
+                        },
+                        {
+                            "id": 4,
+                            "title": "ĐỌC",
+                            "content": "Một ngày của Ích-chi-an (A-léc-xăng-đơ Rô-ma-nô-vích Bê-li-ép)",
+                            "numPage": 84
+                        },
+                        {
+                            "id": 5,
+                            "title": "VIẾT",
+                            "content": "Viết đoạn văn tóm tắt văn bản",
+                            "numPage": 89
+                        },
+                        {
+                            "id": 6,
+                            "title": "NÓI VÀ NGHE",
+                            "content": "Thảo luận nhóm về một vấn đề gây tranh cãi",
+                            "numPage": 92
+                        },
+                        {
+                            "id": 7,
+                            "title": "Ôn tập",
+                            "content": "",
+                            "numPage": 95
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "BÀI 10: LẮNG NGHE TRÁI TIM MÌNH (THƠ)",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "ĐỌC",
+                            "content": "Đợi mẹ (Vũ Quần Phương)",
+                            "numPage": 98
+                        },
+                        {
+                            "id": 1,
+                            "title": "ĐỌC",
+                            "content": "Một con mèo nằm ngủ trên ngực tôi (Anh Ngọc)",
+                            "numPage": 100
+                        },
+                        {
+                            "id": 2,
+                            "title": "ĐỌC",
+                            "content": "Lời trái tim (Pao-lô Cau-ê-lỗ)",
+                            "numPage": 102
+                        },
+                        {
+                            "id": 3,
+                            "title": "ĐỌC",
+                            "content": "Thực hành tiếng Việt",
+                            "numPage": 104
+                        },
+                        {
+                            "id": 4,
+                            "title": "ĐỌC",
+                            "content": "Mẹ (Đỗ Trung Lai)",
+                            "numPage": 105
+                        },
+                        {
+                            "id": 5,
+                            "title": "VIẾT",
+                            "content": "Viết bài văn biểu cảm về con người",
+                            "numPage": 106
+                        },
+                        {
+                            "id": 6,
+                            "title": "NÓI VÀ NGHE",
+                            "content": "Trình bày ý kiến về một vấn đề trong đời sống",
+                            "numPage": 112
+                        },
+                        {
+                            "id": 7,
+                            "title": "Ôn tập",
+                            "content": "",
+                            "numPage": 113
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "ÔN TẬP CUỐI HỌC KÌ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "BẢNG TRA CỨU TIẾNG NƯỚC NGOÀI",
+                            "content": "",
+                            "numPage": 117
+                        },
+                        {
+                            "id": 1,
+                            "title": "BẢNG TRA CỨU THUẬT NGỮ",
+                            "content": "",
+                            "numPage": 119
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 122,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    ""
+                ],
+                "bookEditor": [
+                    "NGUYỄN THỊ HỒNG NAM",
+                    "NGUYỄN THÀNH THI"
+                ],
+                "bookAuthor": [
+                    "NGUYỄN THÀNH NGỌC BẢO",
+                    "TRẦN LÊ DUY",
+                    "DƯƠNG THỊ HỒNG HIẾU",
+                    "TĂNG THỊ TUYẾT MAI",
+                    "NGUYỄN THỊ MINH NGỌC",
+                    "NGUYỄN THỊ NGỌC THUỶ"
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "name": "Tin học 7",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/images/tinhoc7.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/pdf/sgk-tin-hoc-lop-7-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "CHỦ ĐỀ 1. MÁY TÍNH VÀ CỘNG ĐỒNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Thiết bị vào và thiết bị ra",
+                            "numPage": 5
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Hệ điều hành và phần mềm ứng dụng",
+                            "numPage": 12
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Thực hành thao tác với tệp và thư mục",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 4",
+                            "content": "Phân loại tệp và bảo vệ dữ liệu trong máy tính",
+                            "numPage": 18
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "CHỦ ĐỀ 2. TỔ CHỨC LƯU TRỮ, TÌM KIẾM VÀ TRAO ĐỔI THÔNG TIN",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 5",
+                            "content": "Mạng xã hội",
+                            "numPage": 22
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "CHỦ ĐỀ 3. ĐẠO ĐỨC, PHÁP LUẬT VÀ VĂN HOÁ TRONG MÔI TRƯỜNG SỐ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 6",
+                            "content": "Văn hoá ứng xử qua phương tiện truyền thông số",
+                            "numPage": 28
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "CHỦ ĐỀ 4. ỨNG DỤNG TIN HỌC",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 7",
+                            "content": "Phần mềm bảng tính",
+                            "numPage": 33
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 8",
+                            "content": "Sử dụng địa chỉ ô tính trong công thức",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 9",
+                            "content": "Định dạng trang tính, chèn thêm và xoá hàng, cột",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 10",
+                            "content": "Sử dụng hàm để tính toán",
+                            "numPage": 51
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 11",
+                            "content": "Tạo bài trình chiếu",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 12",
+                            "content": "Sử dụng ảnh minh hoạ, hiệu ứng động trong bài trình chiếu",
+                            "numPage": 64
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "CHỦ ĐỀ 5. GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 13",
+                            "content": "Thuật toán tìm kiếm",
+                            "numPage": 71
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 14",
+                            "content": "Thuật toán sắp xếp",
+                            "numPage": 76
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 86,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "QUÁCH TẤT KIÊN"
+                ],
+                "bookEditor": [
+                    "QUÁCH TẤT KIÊN"
+                ],
+                "bookAuthor": [
+                    "PHẠM DUY PHƯỢNG CHI",
+                    "QUÁCH TẤT HOÀN",
+                    "HỒ THỊ HỒNG"
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "name": "Toán 7 - Tập một",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/images/toan7_tap1.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/pdf/sgk-toan-lop-7-tap-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "PHẦN SỐ VÀ ĐẠI SỐ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Chương 1",
+                            "content": "SỐ HỮU TỈ",
+                            "numPage": 5
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 1",
+                            "content": "Tập hợp các số hữu tỉ",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 2",
+                            "content": "Các phép tính với số hữu tỉ",
+                            "numPage": 11
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 3",
+                            "content": "Luỹ thừa của một số hữu tỉ",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 4",
+                            "content": "Quy tắc dấu ngoặc và quy tắc chuyển về",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 5",
+                            "content": "Hoạt động thực hành và trải nghiệm: Thực hành tính tiền điện",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 6,
+                            "title": "Bài tập cuối chương 1",
+                            "content": "",
+                            "numPage": 27
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "PHẦN SỐ VÀ ĐẠI SỐ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Chương 2",
+                            "content": "SỐ THỰC",
+                            "numPage": 29
+                        },
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Số vô tỉ. Căn bậc hai số học",
+                            "numPage": 30
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Số thực. Giá trị tuyệt đối của một số thực",
+                            "numPage": 35
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Làm tròn số và ước lượng kết quả",
+                            "numPage": 39
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 4",
+                            "content": "Hoạt động thực hành và trải nghiệm: Tính chỉ số đánh giá thể trạng BMI (Body mass index)",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài tập cuối chương 2",
+                            "content": "",
+                            "numPage": 45
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "PHẦN HÌNH HỌC VÀ ĐO LƯỜNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Chương 3",
+                            "content": "CÁC HÌNH KHỐI TRONG THỰC TIỄN",
+                            "numPage": 74
+                        },
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Hình hộp chữ nhật – Hình lập phương",
+                            "numPage": 47
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Diện tích xung quanh và thể tích của hình hộp chữ nhật, hình lập phương",
+                            "numPage": 51
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Hình lăng trụ đứng tam giác – Hình lăng trụ đứng tứ giác",
+                            "numPage": 55
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 4",
+                            "content": "Diện tích xung quanh và thể tích của hình lăng trụ đứng tam giác, lăng trụ đứng tử giác",
+                            "numPage": 59
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 5",
+                            "content": "Hoạt động thực hành và trải nghiệm: Các bài toán về đo đạc và gấp hình",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài tập cuối chương 3",
+                            "content": "",
+                            "numPage": 66
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": " PHẦN HÌNH HỌC VÀ ĐO LƯỜNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Chương 4",
+                            "content": "GÓC VÀ ĐƯỜNG THẲNG SONG SONG",
+                            "numPage": 69
+                        },
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Các góc ở vị trí đặc biệt",
+                            "numPage": 69
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Tia phân giác",
+                            "numPage": 73
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Hai đường thẳng song song",
+                            "numPage": 76
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 4",
+                            "content": "Định lí và chứng minh một định lí",
+                            "numPage": 82
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 5",
+                            "content": "Hoạt động thực hành và trải nghiệm: Vẽ hai đường thẳng song song và đo góc bằng phần mềm GeoGebra",
+                            "numPage": 85
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài tập cuối chương 4",
+                            "content": "",
+                            "numPage": 86
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "PHẦN MỘT SỐ YẾU TỐ THỐNG KÊ VÀ XÁC SUẤT",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Chương 5",
+                            "content": "MỘT SỐ YẾU TỐ THỐNG KÊ",
+                            "numPage": 88
+                        },
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Thu thập và phân loại dữ liệu",
+                            "numPage": 89
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Biểu đồ hình quạt tròn",
+                            "numPage": 96
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Biểu đồ đoạn thẳng",
+                            "numPage": 102
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 4",
+                            "content": "Hoạt động thực hành và trải nghiệm: Dùng biểu đồ để phân tích kết quả học tập môn Toán của lớp",
+                            "numPage": 108
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài tập cuối chương 5",
+                            "content": "",
+                            "numPage": 109
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bảng giải thích thuật ngữ",
+                            "content": "",
+                            "numPage": 111
+                        },
+                        {
+                            "id": 6,
+                            "title": "Bảng tra cứu thuật ngữ",
+                            "content": "",
+                            "numPage": 114
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 118,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "TRẦN NAM DŨNG"
+                ],
+                "bookEditor": [
+                    "TRẦN ĐỨC HUYÊN"
+                ],
+                "bookAuthor": [
+                    "NGUYỄN CAM",
+                    "NGUYỄN VĂN HIỂN",
+                    "NGÔ HOÀNG LONG",
+                    "HUỲNH NGỌC THANH"
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "name": "Toán 7 - Tập hai",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/images/toan7_tap2.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop7/pdf/sgk-toan-lop-7-tap-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "PHẦN SỐ VÀ ĐẠI SỐ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "CHƯƠNG 6",
+                            "content": "CÁC ĐẠI LƯỢNG TỈ LỆ",
+                            "numPage": 5
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 1",
+                            "content": "Tỉ lệ thức — Dãy tỉ số bằng nhau",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 2",
+                            "content": "Đại lượng tỉ lệ thuận",
+                            "numPage": 11
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 3",
+                            "content": "Đại lượng tỉ lệ nghịch",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 4",
+                            "content": "Hoạt động thực hành và trải nghiệm: Các đại lượng tỉ lệ trong thực tế",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài tập cuối chương 6",
+                            "content": "",
+                            "numPage": 23
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "PHẦN SỐ VÀ ĐẠI SỐ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "CHƯƠNG 7",
+                            "content": "BIỂU THỨC ĐẠI SỐ",
+                            "numPage": 24
+                        },
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Biểu thức số, biểu thức đại số",
+                            "numPage": 25
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Đa thức một biến",
+                            "numPage": 29
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Phép cộng và phép trừ đa thức một biến",
+                            "numPage": 33
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 4",
+                            "content": "Phép nhân và phép chia đa thức một biến",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 5",
+                            "content": "Hoạt động thực hành và trải nghiệm: Cách tính điểm trung bình môn học kì",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài tập cuối chương 7",
+                            "content": "",
+                            "numPage": 42
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "PHẦN HÌNH HỌC VÀ ĐO LƯỜNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "CHƯƠNG 8",
+                            "content": "TAM GIÁC",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Góc và cạnh của một tam giác",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Tam giác bằng nhau",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Tam giác cân",
+                            "numPage": 59
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 4",
+                            "content": "Đường vuông góc và đường xiên",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 5",
+                            "content": "Đường trung trực của một đoạn thẳng",
+                            "numPage": 67
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 6",
+                            "content": "Tính chất ba đường trung trực của tam giác",
+                            "numPage": 71
+                        },
+                        {
+                            "id": 6,
+                            "title": "Bài 7",
+                            "content": "Tính chất ba đường trung tuyến của tam giác",
+                            "numPage": 73
+                        },
+                        {
+                            "id": 7,
+                            "title": "Bài 8",
+                            "content": "Tính chất ba đường cao của tam giác",
+                            "numPage": 77
+                        },
+                        {
+                            "id": 8,
+                            "title": "Bài 9",
+                            "content": "Tính chất ba đường phân giác của tam giác",
+                            "numPage": 79
+                        },
+                        {
+                            "id": 9,
+                            "title": "Bài 10",
+                            "content": "Hoạt động thực hành và trải nghiệm: Làm giàn hoa tam giác để trang trí lớp học",
+                            "numPage": 83
+                        },
+                        {
+                            "id": 10,
+                            "title": "Bài tập cuối chương 8",
+                            "content": "",
+                            "numPage": 84
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "PHẦN MỘT SỐ YẾU TỐ THỐNG KÊ VÀ XÁC SUẤT",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "CHƯƠNG 9",
+                            "content": "MỘT SỐ YẾU TỐ XÁC SUẤT",
+                            "numPage": 85
+                        },
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Làm quen với biến cố ngẫu nhiên",
+                            "numPage": 86
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Làm quen với xác suất của biến cố ngẫu nhiên",
+                            "numPage": 90
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Hoạt động thực hành và trải nghiệm: Nhảy theo xúc xắc",
+                            "numPage": 95
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài tập cuối chương 9",
+                            "content": "",
+                            "numPage": 96
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bảng giải thích thuật ngữ",
+                            "content": "",
+                            "numPage": 97
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bảng tra cứu thuật ngữ",
+                            "content": "",
+                            "numPage": 99
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 102,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "TRẦN NAM DŨNG"
+                ],
+                "bookEditor": [
+                    "TRẦN ĐỨC HUYỆN"
+                ],
+                "bookAuthor": [
+                    "NGUYỄN CAM",
+                    "NGUYỄN VĂN HIỂN",
+                    "NGÔ HOÀNG LONG",
+                    "HUỲNH NGỌC THANH"
+                ]
+            }
+        }
+    ]
+}

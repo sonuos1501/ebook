@@ -1,0 +1,4 @@
+{
+    "pageNumber": 8,
+    "pageText": "```\n2 Có mấy nghìn, mấy trăm, mấy chục và mấy đơn vị?\nMẫu: \n 1000 - 10 \n 1000 - 10\n 1000 - 10 - 1 \n 1000 - 100 - 10 - 10 - 1 \n 1000 - 100 - 10 - 10 - 1\nHàng\nNghìn Trăm Chục Đơn vị\n4 2 7 3\n\na) 100 - 10 \n 100 - 10 \n 100 - 10 \n 1000 - 100 - 10 \n 1000 - 100 - 10 \n 1000 - 100 - 10 - 10 - 1\n\nHàng\nNghìn Trăm Chục Đơn vị\n?. ?. ?. ?.\n\nb) 1000 - 100 - 10 - 1\n 1000 - 100 - 10 - 1\n 1000 - 100 - 10 - 1\n 1000 - 100 - 10 - 1\n 1000 - 100 - 10 - 1\n\nHàng \nNghìn Trăm Chục Đơn vị\n?. ?. ?. ?.\n\n3 Lấy các thẻ 1000 100 10 1 phù hợp với mỗi bảng sau. \na)\nHàng \nNghìn Trăm Chục Đơn vị\n 1 9 5 4 \n\nb) \nHàng \nNghìn Trăm Chục Đơn vị\n 2 0 2 2\n```"
+}

@@ -1,0 +1,4 @@
+{
+    "pageNumber": 25,
+    "pageText": "BẢNG CHIA 5\n\nCó 20 cái kẹo, chia cho mỗi bạn 5 cái.\nHỏi có mấy bạn được chia?\n\n\nTính các thương trong bảng chia 5.\n20 : 5 = ?\n\nDùng \nDựa vào bảng nhân 5.\n\n5 : 5 = 1\n10 : 5 = 2\n15 : 5 = 3\n20 : 5 = 4\n25 : 5 = 5\n30 : 5 = 6\n35 : 5 = 7\n40 : 5 = 8\n45 : 5 = 9\n50 : 5 = 10\n \n5 x 4 = 20\n20 : 5 = 4\n\n1 Đọc phép nhân, phép chia trong bảng nhân 5, bảng chia 5.\nMẫu:\n \n5 x 3 = 15\n15 : 5 = 3\n\n\n2 Đố bạn tìm các thương trong bảng chia 5.\nMẫu:\n\n30 : 5 = ?\n5 x 6 = 30\n30 : 5 = 6 \n"
+}

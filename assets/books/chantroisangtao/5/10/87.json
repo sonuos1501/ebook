@@ -1,0 +1,4 @@
+{
+    "pageNumber": 87,
+    "pageText": "Bài 3\n## Chu vi và diện tích của một số hình trong thực tiễn \nTừ khóa: *Chu vi; Diện tích*.\n\nĐể tính chu vi và diện tích một số hình trong thực tiễn, thông thường ta chia hình đó thành các hình đã biết cách tính chu vi và diện tích. \n\n## 1. Nhắc lại về chu vi và diện tích một số hình đã học\n(Ta kí hiệu P là chu vi, S là diện tích)\n\n| Hình |  | Công thức |\n|:---|---:|---|\n|Hình chữ nhật| <img src=\"https://i.imgur.com/aX6M4zR.png\" width=\"100px\" /> | P = (a + b) . 2 <br> S = a . b|\n|Hình vuông| <img src=\"https://i.imgur.com/GytxyWM.png\" width=\"100px\" /> | P = a . 4 <br> S = a . a |\n|Hình tam giác| <img src=\"https://i.imgur.com/hG188Q3.png\" width=\"300px\" /> | P = a + b + c <br> S = a . h / 2 |\n|Hình thang| <img src=\"https://i.imgur.com/B6m1l0W.png\" width=\"200px\" /> | P = a + b + c + d <br> S = (a + b) . h / 2 | \n"
+}

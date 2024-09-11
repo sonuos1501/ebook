@@ -1,0 +1,4 @@
+{
+    "pageNumber": 135,
+    "pageText": "## TỔNG KẾT CHƯƠNG\n\n**1. RADIAN**\n\nRadian là đơn vị đo độ lớn của một góc (tương tự như độ): 1 radian là góc chắn cung có chiều dài bằng bán kính đường tròn.\n\n**2. TỐC ĐỘ GÓC**\n\nTốc độ góc đặc trưng cho tính nhanh chậm của chuyển động tròn, có biểu thức: \n\nω = Δα / Δt\n\nMối liên hệ giữa tốc độ góc và tốc độ:\n\nω = v / R\n\n**3. GIA TỐC HƯỚNG TÂM**\n\nGia tốc hướng tâm trong chuyển động tròn đều có độ lớn không đổi, hướng về tâm của quỹ đạo, có độ lớn được xác định bởi biểu thức:\n\na(ht) = v^2 / R\n\n**4. LỰC HƯỚNG TÂM**\n\nLực hướng tâm có phương bán kính, chiều hướng vào tâm quỹ đạo và có độ lớn được xác định bởi biểu thức:\n\nF(ht) = ma(ht) = m * v^2 / R = m * ω^2 * R\n\nMột vật chuyển động tròn đều khi chịu tác dụng của một lực hay hợp lực là lực hướng tâm. \n"
+}

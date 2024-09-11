@@ -1,0 +1,4 @@
+{
+    "pageNumber": 62,
+    "pageText": "Cụ thể đối với tam giác vuông ABC trong Hình 3, ta có:\nsin α = AC/BC = b/a; cosα = AB/BC = c/a \ntan α = AC/AB = b/c; cotα = AB/AC = c/b\n\nChú ý: Với góc nhọn α, ta có:\n• 0 < sinα < 1; 0 < cosα < 1.\n• cotα = 1/tanα\n\nVí dụ 1. Tính các tỉ số lượng giác của góc α trong tam giác ABC (Hình 4).\nGiải\nXét tam giác ABC, Â = 90°, B = α.\nTa có:\nsin α = AC/BC = 9/15 = 0,6; cosα = AB/BC = 12/15 = 0,8;\ntan α = AC/AB = 9/12 = 0,75; cotα = AB/AC = 12/9 = 4/3\n\nThực hành 1. Tính các tỉ số lượng giác của góc nhọn A trong mỗi tam giác vuông ABC\ncó B = 90° ở Hình 5 (kết quả làm tròn đến hàng phần trăm).\nVận dụng 1. Sử dụng tỉ số lượng giác để giải thích tình huống trong  (trang 60).\n"
+}

@@ -1,0 +1,4 @@
+{
+    "pageNumber": 45,
+    "pageText": "Bài 61: RÚT GỌN PHÂN SỐ\n12/18 số lá cờ là màu đỏ.\nTìm phân số bằng phân số này nhưng có tử số và mẫu số bé hơn.\nVí dụ: Tìm phân số bằng phân số 12/18 nhưng có tử số và mẫu số bé hơn.\nCách 1\n12/18 = 12 : 2/18 : 2 = 6/9\n6/9 = 6 : 3/9 : 3 = 2/3\nVậy 12/18 = 2/3\n12 và 18 cùng chia hết cho số nào?\n2 và 3 không cùng chia hết cho số nào lớn hơn 1, ta nói 2/3 là phân số tối giản.\nTa đã rút gọn phân số 12/18 thành phân số 2/3.\nCách 2\n12/18 = 12 : 6/18 : 6 = 2/3\nVậy 12/18 = 2/3.\nRút gọn phân số:\n- Xem tử số và mẫu số có cùng chia hết cho số tự nhiên nào lớn hơn 1.\n- Chia tử số và mẫu số cho số đó.\nCứ làm như thế cho đến khi nhận được phân số tối giản. \n"
+}

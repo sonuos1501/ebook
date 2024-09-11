@@ -1,0 +1,4 @@
+{
+    "pageNumber": 30,
+    "pageText": "Bài toán 2: Khối lớp 2 và khối lớp 5 trồng được 84 cây. Số cây của\nkhối lớp 5 trồng được gấp 3 lần số cây của khối lớp 2. Hỏi mỗi khối\nlớp đã trồng được bao nhiêu cây?\nBài giải\nTheo đề bài, ta có sơ đồ:\nKhối lớp 2:\n |\nKhối lớp 5:|---|---|---|\n 84 cây\nXác định số bé, số lớn,\ntổng số và tỉ số.\nEm hoàn thiện\nbài giải.\nTheo sơ đồ, tổng số phần bằng nhau là:\n1 + 3 = 4 (phần)\nGiá trị của một phần hay số cây khối lớp 2 trồng là:\n84 : 4 = 21 (cây)\nSố cây khối lớp 5 trồng là:\n 21 x 3 = 63\nĐáp số: 21; 63\n \nTìm hai số khi biết tổng và tỉ số của hai số đó.\n |Tổng | Tỉ số |Số bé |Số lớn|\n |---|---|---|---|\n |49|2/5|14|35|\n |128|5/3|  ?.  |  ?.  |\n |5 400|1/4|  ?.  |  ?.  | \n"
+}

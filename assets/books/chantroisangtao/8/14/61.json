@@ -1,0 +1,4 @@
+{
+    "pageNumber": 61,
+    "pageText": "## Sắp xếp clip\n\nThực hiện kéo thả để điểm bắt đầu của clip bài hát bên phải thẳng với điểm kết thúc của clip TNDL (Hình 6).\n\n## Lưu ý:\n\n- Chọn `Slice` > `Keep Left Side` để chia clip thành hai và chỉ giữ lại clip bên trái (clip bên phải sẽ được ẩn đi). Ngược lại, chọn `Slice` > `Keep Right Side` để chia clip thành hai và chỉ giữ lại clip bên phải (clip bên trái sẽ được ẩn đi).\n\n- Kéo thả cạnh phải (hoặc trái) của clip được giữ lại sang phải (hoặc trái) để khôi phục phần clip bên phải (hoặc trái) đã được ẩn đi.\n\n- Ở Hình 6, thực hiện điều chỉnh để không phát phần clip bài hát thừa trong video kết quả, ta có kết quả như ở Hình 7. \n"
+}

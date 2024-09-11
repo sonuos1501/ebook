@@ -1,0 +1,2510 @@
+{
+    "id": 0,
+    "name": "Lớp 1",
+    "books": [
+        {
+            "id": 0,
+            "name": "Âm nhạc 1",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/images/amnhac1.png",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/pdf/sgk-am-nhac-lop-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 1",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Chủ đề 1",
+                            "content": "Âm thanh ngày mới",
+                            "numPage": 8
+                        },
+                        {
+                            "id": 1,
+                            "title": "Chủ đề 2",
+                            "content": "Nhịp điệu tuổi thơ",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 2,
+                            "title": "Chủ đề 3",
+                            "content": "Bài ca lao động",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 3,
+                            "title": "Chủ đề 4",
+                            "content": "Tiếng ca muôn loài",
+                            "numPage": 30
+                        },
+                        {
+                            "id": 4,
+                            "title": "Ôn tập",
+                            "content": "Ôn tập học kỳ 1",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 5,
+                            "title": "Chủ đề 5",
+                            "content": "Âm thanh ngày Tết",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 6,
+                            "title": "Chủ đề 6",
+                            "content": "Âm nhạc quanh em",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 7,
+                            "title": "Chủ đề 7",
+                            "content": "Giai điệu quê hương",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 8,
+                            "title": "Chủ đề 8",
+                            "content": "Vui cùng âm nhạc ",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 9,
+                            "title": "Chủ đề 9",
+                            "content": "Vui cùng âm nhạc",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 10,
+                            "title": "Ôn tập",
+                            "content": "Ôn tập học kì 2",
+                            "numPage": 70
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2020,
+                "numPage": 72,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "Hồ Ngọc Khải"
+                ],
+                "bookEditor": [
+                    "Hồ Ngọc Khải"
+                ],
+                "bookAuthor": [
+                    "Nguyễn Đăng Bửu",
+                    "Trần Ngọc Hưng"
+                ]
+            }
+        },
+        {
+            "id": 1,
+            "name": "Đạo đức 1",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/images/daoduc1.png",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/pdf/sgk-dao-duc-lop-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 1",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Mái ấm gia đình",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Quan tâm, chăm sóc ông bà, cha mẹ",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Anh chị em quan tâm, giúp đỡ nhau",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 4",
+                            "content": "Tự giác làm việc ở trường",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 5",
+                            "content": "Tự giác làm việc ở nhà",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 6",
+                            "content": "không nói dối và biết nhận lỗi",
+                            "numPage": 25
+                        },
+                        {
+                            "id": 6,
+                            "title": "Bài 7",
+                            "content": "Không tự ý lấy và sử dụng đồ đạc của người khác",
+                            "numPage": 29
+                        },
+                        {
+                            "id": 7,
+                            "title": "Bài 8",
+                            "content": "Trả lại của rơi",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 8,
+                            "title": "Bài 9",
+                            "content": "Sinh hoạt nề nếp",
+                            "numPage": 36
+                        },
+                        {
+                            "id": 9,
+                            "title": "Bài 10",
+                            "content": "Cùng thực hiện nội quy trường, lớp",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 10,
+                            "title": "Bài 11",
+                            "content": "Tự chăm sóc bản thân",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 11,
+                            "title": "Bài 12",
+                            "content": "Phòng, trách đuối nước",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 12,
+                            "title": "Bài 13",
+                            "content": "Phòng, tránh tai nạn trong sinh hoạt",
+                            "numPage": 53
+                        },
+                        {
+                            "id": 13,
+                            "title": "Bài 14",
+                            "content": "Phòng, tránh tai nạn giao thông",
+                            "numPage": 59
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2020,
+                "numPage": 65,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "Đinh Phương Duy"
+                ],
+                "bookEditor": [
+                    "Trần Thanh Bình"
+                ],
+                "bookAuthor": [
+                    "Trần Minh Hường",
+                    "Lê Phương Trí",
+                    "Vũ Thị Thanh Hương",
+                    "Trần Hoàng Tuý"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "Giáo dục thể chất 1",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/images/giaoducthechat1.png",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/pdf/sgk-giao-duc-the-chat-lop-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 1",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Chủ đề",
+                            "content": "ĐỘI HÌNH ĐỘI NGŨ",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 1",
+                            "content": "Tư thế đứng nghiêm, đứng chỉ và tập hợp hàng dọc, dóng hàng dọc, điểm số",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 2",
+                            "content": "Tập hợp hàng ngang, dóng hàng ngang, điểm số, dàn hàng và dồn hàng",
+                            "numPage": 12
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 3",
+                            "content": "Động tác quay trái, quay phải và quay sau ",
+                            "numPage": 17
+                        },
+                        {
+                            "id": 4,
+                            "title": "Chủ đề",
+                            "content": "BÀI TẬP THỂ DỤC",
+                            "numPage": 20
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 1",
+                            "content": "Động tác vươn thở và động tác tay",
+                            "numPage": 21
+                        },
+                        {
+                            "id": 6,
+                            "title": "Bài 2",
+                            "content": "Động tác chân và động tác vặn mình",
+                            "numPage": 24
+                        },
+                        {
+                            "id": 7,
+                            "title": "Bài 3",
+                            "content": "Động tác bụng",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 8,
+                            "title": "Bài 4",
+                            "content": "Động tác phối hợp",
+                            "numPage": 30
+                        },
+                        {
+                            "id": 9,
+                            "title": "Bài 5",
+                            "content": "Động tác điều hoà",
+                            "numPage": 33
+                        },
+                        {
+                            "id": 10,
+                            "title": "Chủ đề",
+                            "content": "TƯ THẾ VÀ KĨ NĂNG VẬN ĐỘNG CƠ BẢN",
+                            "numPage": 36
+                        },
+                        {
+                            "id": 11,
+                            "title": "Bài 1",
+                            "content": "Tư thế vận động cơ bản của đầu, cổ",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 12,
+                            "title": "Bài 2",
+                            "content": "Tư thế vận động cơ bản của tay",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 13,
+                            "title": "Bài 3",
+                            "content": "Tư thế vận động cơ bản của chân",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 14,
+                            "title": "Bài 4",
+                            "content": "Vận động phối hợp của thân mình",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 15,
+                            "title": "Bài 5",
+                            "content": "Vận động phối hợp của các khớp",
+                            "numPage": 51
+                        },
+                        {
+                            "id": 16,
+                            "title": "Chủ đề",
+                            "content": "THỂ DỤC NHỊN ĐIỆU",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 17,
+                            "title": "Bài 1",
+                            "content": "Các động tác khởi động",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 18,
+                            "title": "Bài 2",
+                            "content": "Các tư thế tay cơ bản kết hợp kiễng gót và đẩy hông",
+                            "numPage": 60
+                        },
+                        {
+                            "id": 19,
+                            "title": "Bài 3",
+                            "content": "Các tư thế chân và tay cơ bản kết hợp nhún gối",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 20,
+                            "title": "Bài 4",
+                            "content": "Các bước nhún di chuyển kết hợp vũ đạo tay",
+                            "numPage": 70
+                        },
+                        {
+                            "id": 21,
+                            "title": "Chủ đề",
+                            "content": "BÓNG ĐÁ",
+                            "numPage": 74
+                        },
+                        {
+                            "id": 22,
+                            "title": "Bài 1",
+                            "content": "Hoạt động không bóng",
+                            "numPage": 75
+                        },
+                        {
+                            "id": 23,
+                            "title": "Bài 2",
+                            "content": "Làm quen với bóng",
+                            "numPage": 78
+                        },
+                        {
+                            "id": 24,
+                            "title": "Bài 3",
+                            "content": "Đá bóng",
+                            "numPage": 81
+                        },
+                        {
+                            "id": 25,
+                            "title": "Bài 4",
+                            "content": "Dẫn bóng",
+                            "numPage": 85
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2020,
+                "numPage": 93,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "Phạm Thị Lệ Hằng"
+                ],
+                "bookEditor": [
+                    "Phạm Thị Lệ Hằng"
+                ],
+                "bookAuthor": [
+                    "Bùi Ngọc Bích",
+                    "Trần Thanh Dũng",
+                    "Lê Hải",
+                    "Nguyễn Đình Phát",
+                    "Nguyễn Hoàng Minh Thuận",
+                    "Trần Minh Tuấn"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "name": "Hoạt động trải nghiệm 1",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/images/hoatdongtrainghiem1.png",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/pdf/sgk-hoat-dong-trai-nghiem-lop-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 1",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Phần một",
+                            "content": "NHỮNG VẤN ĐỀ CHUNG VỀ HOẠT ĐỘNG TRẢI NGHIỆM",
+                            "numPage": 5
+                        },
+                        {
+                            "id": 1,
+                            "title": "1",
+                            "content": "Hoat động trải nghiệm trong Chương trình giáo dục phổ thông 2018",
+                            "numPage": 5
+                        },
+                        {
+                            "id": 2,
+                            "title": "2",
+                            "content": "Tổ chức hoạt động trải nghiệm",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 3,
+                            "title": "3",
+                            "content": "Ma trận nội dung hoạt động trải nghiệm lớp 1",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 4,
+                            "title": "Phần hai",
+                            "content": "HOẠT ĐỘNG TRẢI NGHIỆM THEO CHỦ ĐỀ",
+                            "numPage": 17
+                        },
+                        {
+                            "id": 5,
+                            "title": "Chủ đề 1",
+                            "content": "Em và những người bạn",
+                            "numPage": 17
+                        },
+                        {
+                            "id": 6,
+                            "title": "Chủ đề 2",
+                            "content": "Một ngày của em",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 7,
+                            "title": "Chủ đề 3",
+                            "content": "Trường lớp thân yêu",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 8,
+                            "title": "Chủ đề 4",
+                            "content": "Em tự chăm sóc và phục vụ bản thân",
+                            "numPage": 58
+                        },
+                        {
+                            "id": 9,
+                            "title": "Chủ đề 5",
+                            "content": "Gia đình yêu thương",
+                            "numPage": 68
+                        },
+                        {
+                            "id": 10,
+                            "title": "Chủ đề 6",
+                            "content": "Cảm xúc của em",
+                            "numPage": 68
+                        },
+                        {
+                            "id": 11,
+                            "title": "Chủ đề 7",
+                            "content": "Em và những người xung quanh",
+                            "numPage": 89
+                        },
+                        {
+                            "id": 12,
+                            "title": "Chủ đề 8",
+                            "content": "Quê hương của em",
+                            "numPage": 103
+                        },
+                        {
+                            "id": 13,
+                            "title": "Phần ba",
+                            "content": "HOẠT ĐỘNG TRẢI NGHIỆM TRONG SINH HOẠT DƯỚI CỜ, SINH HOẠT LỚP VÀ CÂU LẠC BỘ",
+                            "numPage": 115
+                        },
+                        {
+                            "id": 14,
+                            "title": "I",
+                            "content": "Hoạt động trải nghiệm trong sinh hoạt dưới cờ",
+                            "numPage": 115
+                        },
+                        {
+                            "id": 15,
+                            "title": "II",
+                            "content": "Hoạt động trải nghiệm trong sinh hoạt lớp",
+                            "numPage": 119
+                        },
+                        {
+                            "id": 16,
+                            "title": "III",
+                            "content": "Hoạt động trải nghiệm trong sinh hoạt câu lạc bộ",
+                            "numPage": 125
+                        },
+                        {
+                            "id": 17,
+                            "title": "IV",
+                            "content": "Hoạt động trải nghiệm trong sinh hoạt dã ngoại",
+                            "numPage": 126
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2020,
+                "numPage": 153,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "Vũ Quang Tuyên"
+                ],
+                "bookEditor": [
+                    "Nguyễn Hữu Tâm"
+                ],
+                "bookAuthor": [
+                    "Nguyễn Thị Hà Liên",
+                    "Lê Phương Trí"
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "name": "Mỹ thuật 1",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/images/mythuat1.png",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/pdf/sgk-my-thuat-lop-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 1",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Chủ đề 1",
+                            "content": "Thế giới mĩ thuật",
+                            "numPage": 5
+                        },
+                        {
+                            "id": 1,
+                            "title": "Chủ đề 2",
+                            "content": "Ngôi nhà của em",
+                            "numPage": 13
+                        },
+                        {
+                            "id": 2,
+                            "title": "Chủ đề 3",
+                            "content": "Thiên nhiên và bầu trời",
+                            "numPage": 21
+                        },
+                        {
+                            "id": 3,
+                            "title": "Chủ đề 4",
+                            "content": "Khu vườn của em",
+                            "numPage": 29
+                        },
+                        {
+                            "id": 4,
+                            "title": "Chủ đề 5",
+                            "content": "Khéo tay hay làm",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 5,
+                            "title": "Chủ đề 6",
+                            "content": "Những người bạn",
+                            "numPage": 45
+                        },
+                        {
+                            "id": 6,
+                            "title": "Chủ đề 7",
+                            "content": "Con vật em yêu",
+                            "numPage": 53
+                        },
+                        {
+                            "id": 7,
+                            "title": "Chủ đề 8",
+                            "content": "Phong cảnh quê hương",
+                            "numPage": 61
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2020,
+                "numPage": 69,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "Nguyễn Xuân Tiên"
+                ],
+                "bookEditor": [
+                    "Hoàng Minh Phúc"
+                ],
+                "bookAuthor": [
+                    "Nguyễn Thị Hiền",
+                    "Nguyễn Minh Thiên Hoàng",
+                    "Nguyễn Hồng Ngọc",
+                    "Lâm Yến Như"
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "name": "Tiếng việt 1 - Tập một",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/images/tiengviet1_tap1.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/pdf/sgk-tieng-viet-lop-1-tap-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Em là học sinh lớp Một",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Chủ đề 1",
+                            "content": "Những bài học đầu tiên",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 1",
+                            "content": "A a",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 2",
+                            "content": "B b",
+                            "numPage": 12
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 3",
+                            "content": "C c ‘ ’",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 4",
+                            "content": "O o ˀ",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 6,
+                            "title": "Chủ đề 2",
+                            "content": "Bé và bà",
+                            "numPage": 20
+                        },
+                        {
+                            "id": 7,
+                            "title": "Bài 1",
+                            "content": "Ơ ơ .",
+                            "numPage": 20
+                        },
+                        {
+                            "id": 8,
+                            "title": "Bài 2",
+                            "content": "Ô ô ˜ ",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 9,
+                            "title": "Bài 3",
+                            "content": "V v",
+                            "numPage": 24
+                        },
+                        {
+                            "id": 10,
+                            "title": "Bài 4",
+                            "content": "E e Ê ê",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 11,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 12,
+                            "title": "Chủ đề 3",
+                            "content": "Đi chợ",
+                            "numPage": 30
+                        },
+                        {
+                            "id": 13,
+                            "title": "Bài 1",
+                            "content": "D d Đ đ",
+                            "numPage": 30
+                        },
+                        {
+                            "id": 14,
+                            "title": "Bài 2",
+                            "content": "I i K k",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 15,
+                            "title": "Bài 3",
+                            "content": "L l H h",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 16,
+                            "title": "Bài 4",
+                            "content": "ch kh",
+                            "numPage": 36
+                        },
+                        {
+                            "id": 17,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 18,
+                            "title": "Chủ đề 4",
+                            "content": "Kì nghỉ",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 19,
+                            "title": "Bài 1",
+                            "content": "N n M m",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 20,
+                            "title": "Bài 2",
+                            "content": "U u Ư ư",
+                            "numPage": 42
+                        },
+                        {
+                            "id": 21,
+                            "title": "Bài 3",
+                            "content": "G g gh",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 22,
+                            "title": "Bài 4",
+                            "content": "ng ngh",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 23,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 24,
+                            "title": "Chủ đề 5",
+                            "content": "Ở nhà",
+                            "numPage": 50
+                        },
+                        {
+                            "id": 25,
+                            "title": "Bài 1",
+                            "content": "T t th nh",
+                            "numPage": 50
+                        },
+                        {
+                            "id": 26,
+                            "title": "Bài 2",
+                            "content": "R r tr",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 27,
+                            "title": "Bài 3",
+                            "content": "ia",
+                            "numPage": 54
+                        },
+                        {
+                            "id": 28,
+                            "title": "Bài 4",
+                            "content": "ua ưa",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 29,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 58
+                        },
+                        {
+                            "id": 30,
+                            "title": "Chủ đề 6",
+                            "content": "Đi sở thú",
+                            "numPage": 60
+                        },
+                        {
+                            "id": 31,
+                            "title": "Bài 1",
+                            "content": "P p ph",
+                            "numPage": 60
+                        },
+                        {
+                            "id": 32,
+                            "title": "Bài 2",
+                            "content": "S s X x",
+                            "numPage": 62
+                        },
+                        {
+                            "id": 33,
+                            "title": "Bài 3",
+                            "content": "Q q qu Y y",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 34,
+                            "title": "Bài 4",
+                            "content": "gi",
+                            "numPage": 66
+                        },
+                        {
+                            "id": 35,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 68
+                        },
+                        {
+                            "id": 36,
+                            "title": "Chủ đề 7",
+                            "content": "Thể thao",
+                            "numPage": 70
+                        },
+                        {
+                            "id": 37,
+                            "title": "Bài 1",
+                            "content": "ao eo",
+                            "numPage": 70
+                        },
+                        {
+                            "id": 38,
+                            "title": "Bài 2",
+                            "content": "au êu",
+                            "numPage": 72
+                        },
+                        {
+                            "id": 39,
+                            "title": "Bài 3",
+                            "content": "â âu",
+                            "numPage": 74
+                        },
+                        {
+                            "id": 40,
+                            "title": "Bài 4",
+                            "content": "iu ưu",
+                            "numPage": 76
+                        },
+                        {
+                            "id": 41,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 78
+                        },
+                        {
+                            "id": 42,
+                            "title": "Chủ đề 8",
+                            "content": "Đồ chơi - trò chơi",
+                            "numPage": 80
+                        },
+                        {
+                            "id": 43,
+                            "title": "Bài 1",
+                            "content": "ai oi",
+                            "numPage": 80
+                        },
+                        {
+                            "id": 44,
+                            "title": "Bài 2",
+                            "content": "ôi ơi",
+                            "numPage": 82
+                        },
+                        {
+                            "id": 45,
+                            "title": "Bài 3",
+                            "content": "ui ưi",
+                            "numPage": 84
+                        },
+                        {
+                            "id": 46,
+                            "title": "Bài 4",
+                            "content": "ay ây",
+                            "numPage": 86
+                        },
+                        {
+                            "id": 47,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 88
+                        },
+                        {
+                            "id": 48,
+                            "title": "Chủ đề 9",
+                            "content": "Vui học",
+                            "numPage": 90
+                        },
+                        {
+                            "id": 49,
+                            "title": "Bài 1",
+                            "content": "ac âc",
+                            "numPage": 90
+                        },
+                        {
+                            "id": 50,
+                            "title": "Bài 2",
+                            "content": "ă ăc",
+                            "numPage": 92
+                        },
+                        {
+                            "id": 51,
+                            "title": "Bài 3",
+                            "content": "oc ôc",
+                            "numPage": 94
+                        },
+                        {
+                            "id": 53,
+                            "title": "Bài 4",
+                            "content": "uc ưc",
+                            "numPage": 96
+                        },
+                        {
+                            "id": 54,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 98
+                        },
+                        {
+                            "id": 55,
+                            "title": "Chủ đề 10",
+                            "content": "Ngày chủ nhật",
+                            "numPage": 100
+                        },
+                        {
+                            "id": 56,
+                            "title": "Bài 1",
+                            "content": "at ăt ât",
+                            "numPage": 100
+                        },
+                        {
+                            "id": 57,
+                            "title": "Bài 2",
+                            "content": "et êt it",
+                            "numPage": 102
+                        },
+                        {
+                            "id": 58,
+                            "title": "Bài 3",
+                            "content": "ot ôt ơt",
+                            "numPage": 104
+                        },
+                        {
+                            "id": 59,
+                            "title": "Bài 4",
+                            "content": "ut ưt",
+                            "numPage": 106
+                        },
+                        {
+                            "id": 60,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 108
+                        },
+                        {
+                            "id": 61,
+                            "title": "Chủ đề 11",
+                            "content": "Bạn bè",
+                            "numPage": 110
+                        },
+                        {
+                            "id": 62,
+                            "title": "Bài 1",
+                            "content": "an ăn ân",
+                            "numPage": 110
+                        },
+                        {
+                            "id": 63,
+                            "title": "Bài 2",
+                            "content": "en ên in",
+                            "numPage": 112
+                        },
+                        {
+                            "id": 64,
+                            "title": "Bài 3",
+                            "content": "on ôn",
+                            "numPage": 114
+                        },
+                        {
+                            "id": 65,
+                            "title": "Bài 4",
+                            "content": "ơn un",
+                            "numPage": 116
+                        },
+                        {
+                            "id": 66,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 118
+                        },
+                        {
+                            "id": 67,
+                            "title": "Chủ đề 12",
+                            "content": "Trung thu",
+                            "numPage": 120
+                        },
+                        {
+                            "id": 68,
+                            "title": "Bài 1",
+                            "content": "ang ăng âng",
+                            "numPage": 120
+                        },
+                        {
+                            "id": 69,
+                            "title": "Bài 2",
+                            "content": "ong ông",
+                            "numPage": 122
+                        },
+                        {
+                            "id": 70,
+                            "title": "Bài 3",
+                            "content": "ung ưng",
+                            "numPage": 124
+                        },
+                        {
+                            "id": 71,
+                            "title": "Bài 4",
+                            "content": "ach êch ich",
+                            "numPage": 126
+                        },
+                        {
+                            "id": 72,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 128
+                        },
+                        {
+                            "id": 73,
+                            "title": "Chủ đề 13",
+                            "content": "Thăm quê",
+                            "numPage": 130
+                        },
+                        {
+                            "id": 74,
+                            "title": "Bài 1",
+                            "content": "am ăm âm",
+                            "numPage": 130
+                        },
+                        {
+                            "id": 75,
+                            "title": "Bài 2",
+                            "content": "em êm",
+                            "numPage": 132
+                        },
+                        {
+                            "id": 76,
+                            "title": "Bài 3",
+                            "content": "om ôm ơm",
+                            "numPage": 134
+                        },
+                        {
+                            "id": 77,
+                            "title": "Bài 4",
+                            "content": "im um",
+                            "numPage": 136
+                        },
+                        {
+                            "id": 78,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 138
+                        },
+                        {
+                            "id": 79,
+                            "title": "Chủ đề 14",
+                            "content": "Lớp em",
+                            "numPage": 140
+                        },
+                        {
+                            "id": 80,
+                            "title": "Bài 1",
+                            "content": "ap ăp âp",
+                            "numPage": 140
+                        },
+                        {
+                            "id": 81,
+                            "title": "Bài 2",
+                            "content": "ep êp",
+                            "numPage": 142
+                        },
+                        {
+                            "id": 82,
+                            "title": "Bài 3",
+                            "content": "op ôp ơp",
+                            "numPage": 144
+                        },
+                        {
+                            "id": 83,
+                            "title": "Bài 4",
+                            "content": "ip up",
+                            "numPage": 146
+                        },
+                        {
+                            "id": 84,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 148
+                        },
+                        {
+                            "id": 85,
+                            "title": "Chủ đề 15",
+                            "content": "Sinh nhật",
+                            "numPage": 150
+                        },
+                        {
+                            "id": 86,
+                            "title": "Bài 1",
+                            "content": "anh ênh inh",
+                            "numPage": 150
+                        },
+                        {
+                            "id": 87,
+                            "title": "Bài 2",
+                            "content": "ươu",
+                            "numPage": 152
+                        },
+                        {
+                            "id": 88,
+                            "title": "Bài 3",
+                            "content": "iêu yêu",
+                            "numPage": 154
+                        },
+                        {
+                            "id": 89,
+                            "title": "Bài 4",
+                            "content": "uôi ươi",
+                            "numPage": 156
+                        },
+                        {
+                            "id": 90,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 158
+                        },
+                        {
+                            "id": 91,
+                            "title": "Chủ đề 16",
+                            "content": "Ước mơ",
+                            "numPage": 160
+                        },
+                        {
+                            "id": 92,
+                            "title": "Bài 1",
+                            "content": "iêc uôc ươc",
+                            "numPage": 160
+                        },
+                        {
+                            "id": 93,
+                            "title": "Bài 2",
+                            "content": "iêt yêt uôt ươt",
+                            "numPage": 162
+                        },
+                        {
+                            "id": 94,
+                            "title": "Bài 3",
+                            "content": "iên yên",
+                            "numPage": 164
+                        },
+                        {
+                            "id": 95,
+                            "title": "Bài 4",
+                            "content": "uôn ươn",
+                            "numPage": 166
+                        },
+                        {
+                            "id": 96,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 168
+                        },
+                        {
+                            "id": 97,
+                            "title": "Chủ đề 17",
+                            "content": "Vườn ươm",
+                            "numPage": 170
+                        },
+                        {
+                            "id": 98,
+                            "title": "Bài 1",
+                            "content": "iêng yêng",
+                            "numPage": 170
+                        },
+                        {
+                            "id": 99,
+                            "title": "Bài 2",
+                            "content": "uông ương",
+                            "numPage": 172
+                        },
+                        {
+                            "id": 100,
+                            "title": "Bài 3",
+                            "content": "iêm yêm uôm ươm",
+                            "numPage": 174
+                        },
+                        {
+                            "id": 101,
+                            "title": "Bài 4",
+                            "content": "iêp ươp",
+                            "numPage": 176
+                        },
+                        {
+                            "id": 102,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 178
+                        },
+                        {
+                            "id": 103,
+                            "title": "Chủ đề 18",
+                            "content": "Những điều em đã học",
+                            "numPage": 180
+                        },
+                        {
+                            "id": 104,
+                            "title": "Bài 1",
+                            "content": "Ôn tập 1",
+                            "numPage": 180
+                        },
+                        {
+                            "id": 105,
+                            "title": "Bài 2",
+                            "content": "Ôn tập 2",
+                            "numPage": 182
+                        },
+                        {
+                            "id": 106,
+                            "title": "Bài 3",
+                            "content": "Đánh giá cuối học kỳ I (Đề tham khảo)",
+                            "numPage": 186
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2020,
+                "numPage": 189,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "Bùi Mạnh Hùng"
+                ],
+                "bookEditor": [
+                    "Nguyễn Thị Ly Kha"
+                ],
+                "bookAuthor": [
+                    "Nguyễn Lương Hải Như",
+                    "Phạm Thị Kim Oanh",
+                    "Vũ Minh Tâm",
+                    "Nguyễn Xuân Tùng"
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "name": "Tiếng việt 1 - Tập hai",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/images/tiengviet1_tap2.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/pdf/sgk-tieng-viet-lop-1-tap-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 1",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Chủ đề 19",
+                            "content": "Ngàn hoa khoe sắc",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 1",
+                            "content": "oa oe",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 2",
+                            "content": "uê uy",
+                            "numPage": 8
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 3",
+                            "content": "oai oay oac",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 4",
+                            "content": "oat oan oang",
+                            "numPage": 12
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 6,
+                            "title": "Chủ đề 20",
+                            "content": "Ngày tuyệt vời",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 7,
+                            "title": "Bài 1",
+                            "content": "uân uyên uyt",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 8,
+                            "title": "Bài 2",
+                            "content": "oăt uât uyêt",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 9,
+                            "title": "Bài 3",
+                            "content": "oach uynh uych",
+                            "numPage": 20
+                        },
+                        {
+                            "id": 10,
+                            "title": "Bài 4",
+                            "content": "oăng oam oap",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 11,
+                            "title": "Bài 5",
+                            "content": "Ôn tập và kể chuyện",
+                            "numPage": 24
+                        },
+                        {
+                            "id": 12,
+                            "title": "Chủ đề 21",
+                            "content": "Những bông hoa nhỏ",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 13,
+                            "title": "Bài 1",
+                            "content": "Bông hoa niềm vui",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 14,
+                            "title": "Bài 2",
+                            "content": "Những bông hoa nhỏ trên sân",
+                            "numPage": 29
+                        },
+                        {
+                            "id": 15,
+                            "title": "Bài 3",
+                            "content": "Như bông hoa nhỏ",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 16,
+                            "title": "Bài 4",
+                            "content": "Câu chuyện về chú trống choai",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 17,
+                            "title": "Chủ đề 22",
+                            "content": "Mưa và nắng",
+                            "numPage": 35
+                        },
+                        {
+                            "id": 18,
+                            "title": "Bài 1",
+                            "content": "Mưa",
+                            "numPage": 35
+                        },
+                        {
+                            "id": 19,
+                            "title": "Bài 2",
+                            "content": "Mặt trời và hạt đậu",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 20,
+                            "title": "Bài 3",
+                            "content": "Cầu vồng",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 21,
+                            "title": "Bài 4",
+                            "content": "Thần mưa và thần nắng",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 22,
+                            "title": "Chủ đề 23",
+                            "content": "Tết quê em",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 23,
+                            "title": "Bài 1",
+                            "content": "Chào xuân",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 24,
+                            "title": "Bài 2",
+                            "content": "Chợ hoa ngày Tết ở Hà Nội",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 25,
+                            "title": "Bài 3",
+                            "content": "Mâm cơm ngày Tết ở Huế",
+                            "numPage": 49
+                        },
+                        {
+                            "id": 26,
+                            "title": "Bài 4",
+                            "content": "Đêm giao thừa ý nghĩa",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 27,
+                            "title": "Chủ đề 24",
+                            "content": "Những người bạn đầu tiên",
+                            "numPage": 53
+                        },
+                        {
+                            "id": 28,
+                            "title": "Bài 1",
+                            "content": "Gia đình thân thương",
+                            "numPage": 53
+                        },
+                        {
+                            "id": 29,
+                            "title": "Bài 2",
+                            "content": "Làm bạn với bố",
+                            "numPage": 55
+                        },
+                        {
+                            "id": 30,
+                            "title": "Bài 3",
+                            "content": "Những trò chơi cùng ông bà",
+                            "numPage": 58
+                        },
+                        {
+                            "id": 31,
+                            "title": "Bài 4",
+                            "content": "Vinh và chiếc gối mèo",
+                            "numPage": 61
+                        },
+                        {
+                            "id": 32,
+                            "title": "Chủ đề 25",
+                            "content": "Mẹ và cô",
+                            "numPage": 62
+                        },
+                        {
+                            "id": 33,
+                            "title": "Bài 1",
+                            "content": "Mẹ của thỏ bông",
+                            "numPage": 62
+                        },
+                        {
+                            "id": 34,
+                            "title": "Bài 2",
+                            "content": "Nói với em",
+                            "numPage": 65
+                        },
+                        {
+                            "id": 35,
+                            "title": "Bài 3",
+                            "content": "Mẹ và cô",
+                            "numPage": 68
+                        },
+                        {
+                            "id": 36,
+                            "title": "Bài 4",
+                            "content": "Cô giáo như mẹ hiền",
+                            "numPage": 70
+                        },
+                        {
+                            "id": 37,
+                            "title": "Chủ đề 26",
+                            "content": "Những người bạn im lặng",
+                            "numPage": 71
+                        },
+                        {
+                            "id": 38,
+                            "title": "Bài 1",
+                            "content": "Cô chổi rơm",
+                            "numPage": 71
+                        },
+                        {
+                            "id": 39,
+                            "title": "Bài 2",
+                            "content": "Ngưỡng cửa",
+                            "numPage": 74
+                        },
+                        {
+                            "id": 40,
+                            "title": "Bài 3",
+                            "content": "Mũ bảo hiểm",
+                            "numPage": 76
+                        },
+                        {
+                            "id": 41,
+                            "title": "Bài 4",
+                            "content": "Chuyện ghế và bàn",
+                            "numPage": 79
+                        },
+                        {
+                            "id": 42,
+                            "title": "Chủ đề 27",
+                            "content": "Bạn cùng học cùng chơi",
+                            "numPage": 80
+                        },
+                        {
+                            "id": 43,
+                            "title": "Bài 1",
+                            "content": "Mít học vẽ tranh",
+                            "numPage": 80
+                        },
+                        {
+                            "id": 44,
+                            "title": "Bài 2",
+                            "content": "Vui học ở Thảo cầm viên",
+                            "numPage": 83
+                        },
+                        {
+                            "id": 45,
+                            "title": "Bài 3",
+                            "content": "Cùng vui chơi",
+                            "numPage": 86
+                        },
+                        {
+                            "id": 46,
+                            "title": "Bài 4",
+                            "content": "Đôi bạn và hai chú chim non",
+                            "numPage": 88
+                        },
+                        {
+                            "id": 47,
+                            "title": "Chủ đề 28",
+                            "content": "Trong chiếc cặp của em",
+                            "numPage": 89
+                        },
+                        {
+                            "id": 48,
+                            "title": "Bài 1",
+                            "content": "Câu chuyện về giấy kẻ",
+                            "numPage": 89
+                        },
+                        {
+                            "id": 49,
+                            "title": "Bài 2",
+                            "content": "Trong chiếc cặp của em",
+                            "numPage": 92
+                        },
+                        {
+                            "id": 50,
+                            "title": "Bài 3",
+                            "content": "Những điều cần biết về bút chì",
+                            "numPage": 94
+                        },
+                        {
+                            "id": 51,
+                            "title": "Bài 4",
+                            "content": "Ai quan trọng nhất?",
+                            "numPage": 97
+                        },
+                        {
+                            "id": 52,
+                            "title": "Chủ đề 29",
+                            "content": "Đường đến trường",
+                            "numPage": 98
+                        },
+                        {
+                            "id": 53,
+                            "title": "Bài 1",
+                            "content": "Chuyện xảy ra trên đường",
+                            "numPage": 98
+                        },
+                        {
+                            "id": 54,
+                            "title": "Bài 2",
+                            "content": "Đi học",
+                            "numPage": 101
+                        },
+                        {
+                            "id": 55,
+                            "title": "Bài 3",
+                            "content": "Biển báo",
+                            "numPage": 103
+                        },
+                        {
+                            "id": 56,
+                            "title": "Bài 4",
+                            "content": "Chuyện hai chú thỏ",
+                            "numPage": 106
+                        },
+                        {
+                            "id": 57,
+                            "title": "Chủ đề 30",
+                            "content": "Làng quê yên bình",
+                            "numPage": 107
+                        },
+                        {
+                            "id": 58,
+                            "title": "Bài 1",
+                            "content": "Làng em buổi sáng",
+                            "numPage": 107
+                        },
+                        {
+                            "id": 59,
+                            "title": "Bài 2",
+                            "content": "Ban mai trên bản",
+                            "numPage": 109
+                        },
+                        {
+                            "id": 60,
+                            "title": "Bài 3",
+                            "content": "Làng gốm Bát Tràng",
+                            "numPage": 112
+                        },
+                        {
+                            "id": 61,
+                            "title": "Bài 4",
+                            "content": "Mong ước của Ngựa con",
+                            "numPage": 115
+                        },
+                        {
+                            "id": 62,
+                            "title": "Chủ đề 31",
+                            "content": "Phố xá nhộn nhịp",
+                            "numPage": 116
+                        },
+                        {
+                            "id": 63,
+                            "title": "Bài 1",
+                            "content": "Dạo phố",
+                            "numPage": 116
+                        },
+                        {
+                            "id": 64,
+                            "title": "Bài 2",
+                            "content": "Bưu điện Thành phố Hồ Chí Minh",
+                            "numPage": 118
+                        },
+                        {
+                            "id": 65,
+                            "title": "Bài 3",
+                            "content": "Hồ Gươm",
+                            "numPage": 121
+                        },
+                        {
+                            "id": 66,
+                            "title": "Bài 4",
+                            "content": "Xe lu và xe ca",
+                            "numPage": 124
+                        },
+                        {
+                            "id": 67,
+                            "title": "Chủ đề 32",
+                            "content": "Biển đảo yêu thương",
+                            "numPage": 125
+                        },
+                        {
+                            "id": 68,
+                            "title": "Bài 1",
+                            "content": "Khu rừng kì lạ dưới đáy biển",
+                            "numPage": 125
+                        },
+                        {
+                            "id": 69,
+                            "title": "Bài 2",
+                            "content": "Thư gửi bố ngoài đảo",
+                            "numPage": 128
+                        },
+                        {
+                            "id": 70,
+                            "title": "Bài 3",
+                            "content": "Nữ hoàng của đảo",
+                            "numPage": 130
+                        },
+                        {
+                            "id": 71,
+                            "title": "Bài 4",
+                            "content": "Tôm càng và cá con",
+                            "numPage": 133
+                        },
+                        {
+                            "id": 72,
+                            "title": "Chủ đề 33",
+                            "content": "Chúng mình thật đặc biệt",
+                            "numPage": 134
+                        },
+                        {
+                            "id": 73,
+                            "title": "Bài 1",
+                            "content": "Chuyện của Nam",
+                            "numPage": 134
+                        },
+                        {
+                            "id": 74,
+                            "title": "Bài 2",
+                            "content": "Mọi người đều khác biệt",
+                            "numPage": 137
+                        },
+                        {
+                            "id": 75,
+                            "title": "Bài 3",
+                            "content": "Ước mơ nào cũng quý",
+                            "numPage": 140
+                        },
+                        {
+                            "id": 76,
+                            "title": "Bài 4",
+                            "content": "Xe cứu hoả Tí Hon",
+                            "numPage": 142
+                        },
+                        {
+                            "id": 77,
+                            "title": "Chủ đề 34",
+                            "content": "Gửi lời chào lớp Một",
+                            "numPage": 143
+                        },
+                        {
+                            "id": 78,
+                            "title": "Bài 1",
+                            "content": "Buổi học cuối năm",
+                            "numPage": 143
+                        },
+                        {
+                            "id": 79,
+                            "title": "Bài 2",
+                            "content": "Gửi lời chào lớp Một",
+                            "numPage": 146
+                        },
+                        {
+                            "id": 80,
+                            "title": "Bài 3",
+                            "content": "Kì nghỉ hè của em",
+                            "numPage": 148
+                        },
+                        {
+                            "id": 81,
+                            "title": "Bài 4",
+                            "content": "Những phần thưởng đặc biệt",
+                            "numPage": 151
+                        },
+                        {
+                            "id": 82,
+                            "title": "Chủ đề 35",
+                            "content": "Những điều em đã học",
+                            "numPage": 152
+                        },
+                        {
+                            "id": 83,
+                            "title": "Bài 1",
+                            "content": "Ôn tập 1",
+                            "numPage": 152
+                        },
+                        {
+                            "id": 84,
+                            "title": "Bài 2",
+                            "content": "Ôn tập 2",
+                            "numPage": 154
+                        },
+                        {
+                            "id": 85,
+                            "title": "Bài 3",
+                            "content": "Ôn tập 3",
+                            "numPage": 156
+                        },
+                        {
+                            "id": 86,
+                            "title": "Bài 4",
+                            "content": "Đánh giá cuối học kì II (Đề tham khảo)",
+                            "numPage": 158
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2020,
+                "numPage": 165,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "Bùi Mạnh Hùng"
+                ],
+                "bookEditor": [
+                    "Nguyễn Thị Ly Kha"
+                ],
+                "bookAuthor": [
+                    "Nguyễn Thành Ngọc Bảo",
+                    "Phạm Vĩnh Lộc",
+                    "Nguyễn Lương Hải Như",
+                    "Nguyễn Thị Xuân Yến"
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "name": "Toán 1",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/images/toan1.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/pdf/sgk-toan-lop-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Lớp 1 của em",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Làm quen với một số hình",
+                            "numPage": 8
+                        },
+                        {
+                            "id": 1,
+                            "title": "1.1",
+                            "content": "Vị trí",
+                            "numPage": 9
+                        },
+                        {
+                            "id": 2,
+                            "title": "1.2",
+                            "content": "Khối hộp chữ nhật - khối lập phương",
+                            "numPage": 13
+                        },
+                        {
+                            "id": 3,
+                            "title": "1.3",
+                            "content": "Hình tròn - Hình tam giác - Hình vuông - Hình chữ nhật",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 4,
+                            "title": "1.4",
+                            "content": "Xếp hình",
+                            "numPage": 19
+                        },
+                        {
+                            "id": 5,
+                            "title": "1.5",
+                            "content": "Thực hành và trải nghiệm: Vui trung thu",
+                            "numPage": 21
+                        },
+                        {
+                            "id": 6,
+                            "title": "2",
+                            "content": "Các số đến 10",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 7,
+                            "title": "2.1",
+                            "content": "Các số 1, 2, 3",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 8,
+                            "title": "2.2",
+                            "content": "Các số 4, 5",
+                            "numPage": 25
+                        },
+                        {
+                            "id": 9,
+                            "title": "2.3",
+                            "content": "Tách - Gộp số",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 10,
+                            "title": "2.4",
+                            "content": "bằng nhau, nhiều hơn, ít hơn",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 11,
+                            "title": "2.5",
+                            "content": "So sánh các số: bằng, lớn hơn, bé hơn",
+                            "numPage": 33
+                        },
+                        {
+                            "id": 12,
+                            "title": "2.6",
+                            "content": "Các dấu =, >, <",
+                            "numPage": 35
+                        },
+                        {
+                            "id": 13,
+                            "title": "2.7",
+                            "content": "Số 6",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 14,
+                            "title": "2.8",
+                            "content": "Số 7",
+                            "numPage": 39
+                        },
+                        {
+                            "id": 15,
+                            "title": "2.9",
+                            "content": "Số 8",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 16,
+                            "title": "2.10",
+                            "content": "Số 9",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 17,
+                            "title": "2.11",
+                            "content": "Số 0",
+                            "numPage": 45
+                        },
+                        {
+                            "id": 18,
+                            "title": "2.12",
+                            "content": "Số 10",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 19,
+                            "title": "2.13",
+                            "content": "Em làm được những gì?",
+                            "numPage": 49
+                        },
+                        {
+                            "id": 20,
+                            "title": "2.14",
+                            "content": "Thực hành và trải nghiệm: Sông nước miền Tây",
+                            "numPage": 51
+                        },
+                        {
+                            "id": 21,
+                            "title": "3",
+                            "content": "Phép cộng, phép trừ trong phạm vi 10",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 22,
+                            "title": "3.1",
+                            "content": "Phép cộng",
+                            "numPage": 53
+                        },
+                        {
+                            "id": 23,
+                            "title": "3.2",
+                            "content": "Phép cộng trong phạm vi 10",
+                            "numPage": 55
+                        },
+                        {
+                            "id": 24,
+                            "title": "3.3",
+                            "content": "Cộng bằng cách đếm thêm",
+                            "numPage": 59
+                        },
+                        {
+                            "id": 25,
+                            "title": "3.4",
+                            "content": "Phép trừ",
+                            "numPage": 61
+                        },
+                        {
+                            "id": 26,
+                            "title": "3.5",
+                            "content": "Phép trừ trong phạm vi 10",
+                            "numPage": 63
+                        },
+                        {
+                            "id": 27,
+                            "title": "3.6",
+                            "content": "Trừ bằng cách đếm bớt",
+                            "numPage": 67
+                        },
+                        {
+                            "id": 28,
+                            "title": "3.7",
+                            "content": "Em làm được những gì?",
+                            "numPage": 69
+                        },
+                        {
+                            "id": 29,
+                            "title": "3.8",
+                            "content": "Ôn tập học kỳ 1",
+                            "numPage": 73
+                        },
+                        {
+                            "id": 30,
+                            "title": "3.9",
+                            "content": "thực hành và trải nghiệm:: Em đi bộ theo luật giao thông",
+                            "numPage": 77
+                        },
+                        {
+                            "id": 31,
+                            "title": "4",
+                            "content": "Các số đến 20",
+                            "numPage": 80
+                        },
+                        {
+                            "id": 32,
+                            "title": "4.1",
+                            "content": "Các số đến 20",
+                            "numPage": 81
+                        },
+                        {
+                            "id": 33,
+                            "title": "4.2",
+                            "content": "Các phép tính dạng 10 + 4. 14 - 4",
+                            "numPage": 87
+                        },
+                        {
+                            "id": 34,
+                            "title": "4.3",
+                            "content": "Các phép tính dạng 12 + 3, 15 - 3",
+                            "numPage": 89
+                        },
+                        {
+                            "id": 35,
+                            "title": "4.4",
+                            "content": "Chiềc đồng hồ của em",
+                            "numPage": 91
+                        },
+                        {
+                            "id": 36,
+                            "title": "4.5",
+                            "content": "Em làm được những gì?",
+                            "numPage": 95
+                        },
+                        {
+                            "id": 37,
+                            "title": "5",
+                            "content": "Các số đến 100",
+                            "numPage": 96
+                        },
+                        {
+                            "id": 38,
+                            "title": "5.1",
+                            "content": "Chục - Số tròn chục",
+                            "numPage": 97
+                        },
+                        {
+                            "id": 39,
+                            "title": "5.2",
+                            "content": "Các phép tính dạng 30 + 20, 50 - 20",
+                            "numPage": 100
+                        },
+                        {
+                            "id": 40,
+                            "title": "5.3",
+                            "content": "Chục - Đơn vị",
+                            "numPage": 101
+                        },
+                        {
+                            "id": 41,
+                            "title": "5.4",
+                            "content": "Các số đến 40",
+                            "numPage": 103
+                        },
+                        {
+                            "id": 42,
+                            "title": "5.5",
+                            "content": "So sánh các số",
+                            "numPage": 106
+                        },
+                        {
+                            "id": 43,
+                            "title": "5.6",
+                            "content": "Các số đến 100",
+                            "numPage": 108
+                        },
+                        {
+                            "id": 44,
+                            "title": "5.7",
+                            "content": "Bảng các số từ 1 đến 100",
+                            "numPage": 115
+                        },
+                        {
+                            "id": 45,
+                            "title": "5.7",
+                            "content": "Các phép tính dạng 34 + 23, 57 - 23",
+                            "numPage": 119
+                        },
+                        {
+                            "id": 46,
+                            "title": "5.8",
+                            "content": "Em làm được những gì?",
+                            "numPage": 122
+                        },
+                        {
+                            "id": 47,
+                            "title": "5.9",
+                            "content": "Các ngày trong tuần",
+                            "numPage": 125
+                        },
+                        {
+                            "id": 48,
+                            "title": "5.10",
+                            "content": "Tờ lịch của em",
+                            "numPage": 127
+                        },
+                        {
+                            "id": 49,
+                            "title": "5.11",
+                            "content": "Thực hành và trải nghiệm: Em và các bạn",
+                            "numPage": 129
+                        },
+                        {
+                            "id": 50,
+                            "title": "5.12",
+                            "content": "Độ dài",
+                            "numPage": 131
+                        },
+                        {
+                            "id": 51,
+                            "title": "5.13",
+                            "content": "Đo độ dài",
+                            "numPage": 135
+                        },
+                        {
+                            "id": 52,
+                            "title": "5.14",
+                            "content": "Xăng-ti-met. Đơn vị đo độ dài",
+                            "numPage": 139
+                        },
+                        {
+                            "id": 53,
+                            "title": "5.15",
+                            "content": "Em làm được những gì?",
+                            "numPage": 143
+                        },
+                        {
+                            "id": 54,
+                            "title": "5.16",
+                            "content": "Ôn tập cuối năm",
+                            "numPage": 147
+                        },
+                        {
+                            "id": 55,
+                            "title": "5.17",
+                            "content": "Thực hành và trải nghiệm: Ong và hoa",
+                            "numPage": 155
+                        },
+                        {
+                            "id": 56,
+                            "title": "5.18",
+                            "content": "Bảng từ ngữ",
+                            "numPage": 158
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2020,
+                "numPage": 160,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "Trần Nam Dũng"
+                ],
+                "bookEditor": [
+                    "Khúc Thành Chính"
+                ],
+                "bookAuthor": [
+                    "Đinh Thị Xuân Dung",
+                    "Nguyễn Kính Đức",
+                    "Đinh Thị Kim Lan",
+                    "Huỳnh Thị Kim Trang"
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "name": "Tự nhiên và xã hội 1",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/images/tunhienxahoi1.png",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop1/pdf/sgk-tu-nhien-xa-hoi-lop-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 1",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1. Chủ đề",
+                            "content": "GIA ĐÌNH",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 1",
+                            "content": "Gia đình của em",
+                            "numPage": 8
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 2",
+                            "content": "Sinh hoạt trong gia đình",
+                            "numPage": 12
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 3",
+                            "content": "Nhà ở của em",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 4",
+                            "content": "Đồ dùng trong nhà",
+                            "numPage": 20
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 5",
+                            "content": "Ôn tập chủ đề gia đình",
+                            "numPage": 24
+                        },
+                        {
+                            "id": 6,
+                            "title": "2. Chủ đề",
+                            "content": "TRƯỜNG HỌC",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 7,
+                            "title": "Bài 6",
+                            "content": "Trường học của em",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 8,
+                            "title": "Bài 7",
+                            "content": "Hoạt động ở trường em",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 9,
+                            "title": "Bài 8",
+                            "content": "Lớp học của em",
+                            "numPage": 36
+                        },
+                        {
+                            "id": 10,
+                            "title": "Bài 9",
+                            "content": "Hoạt động của lớp em",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 11,
+                            "title": "Bài 10",
+                            "content": "Ôn tập chủ đề Trường học",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 12,
+                            "title": "3. Chủ đề",
+                            "content": "CỘNG ĐỒNG ĐỊA PHƯƠNG",
+                            "numPage": 47
+                        },
+                        {
+                            "id": 13,
+                            "title": "Bài 11",
+                            "content": "Nơi em sinh sống",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 14,
+                            "title": "Bài 12",
+                            "content": "Công việc trong cộng đồng",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 15,
+                            "title": "Bài 13",
+                            "content": "Tết Nguyên đán",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 16,
+                            "title": "Bài 14",
+                            "content": "Đi đường an toàn",
+                            "numPage": 60
+                        },
+                        {
+                            "id": 17,
+                            "title": "Bài 15",
+                            "content": "Ôn tập chỉ đề Cộng đồng địa phương",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 18,
+                            "title": "4. Chủ đề",
+                            "content": "THỰC VẬT VÀ ĐỘNG VẬT",
+                            "numPage": 67
+                        },
+                        {
+                            "id": 19,
+                            "title": "Bài 16",
+                            "content": "Cây xung quanh em",
+                            "numPage": 68
+                        },
+                        {
+                            "id": 20,
+                            "title": "Bài 17",
+                            "content": "Em chăm sóc và bảo vệ cây trồng",
+                            "numPage": 72
+                        },
+                        {
+                            "id": 21,
+                            "title": "Bài 18",
+                            "content": "Con vật quanh em",
+                            "numPage": 76
+                        },
+                        {
+                            "id": 22,
+                            "title": "Bài 19",
+                            "content": "Chăm sóc và bảo vệ vật nuôi",
+                            "numPage": 80
+                        },
+                        {
+                            "id": 23,
+                            "title": "Bài 20",
+                            "content": "Giữ an toàn với một số con vật",
+                            "numPage": 84
+                        },
+                        {
+                            "id": 24,
+                            "title": "Bài 20",
+                            "content": "Ôn tập chỉ đề Thực vật và động vật",
+                            "numPage": 88
+                        },
+                        {
+                            "id": 25,
+                            "title": "5. Chủ đề",
+                            "content": "CON NGƯỜI VÀ SỨC KHOẺ",
+                            "numPage": 91
+                        },
+                        {
+                            "id": 26,
+                            "title": "Bài 22",
+                            "content": "Cơ thể của em",
+                            "numPage": 92
+                        },
+                        {
+                            "id": 27,
+                            "title": "Bài 23",
+                            "content": "Các giác quan của em",
+                            "numPage": 96
+                        },
+                        {
+                            "id": 28,
+                            "title": "Bài 24",
+                            "content": "Em giữ vệ sinh cơ thể",
+                            "numPage": 100
+                        },
+                        {
+                            "id": 29,
+                            "title": "Bài 25",
+                            "content": "Em ăn uống lành mạnh",
+                            "numPage": 104
+                        },
+                        {
+                            "id": 30,
+                            "title": "Bài 26",
+                            "content": "Em vận động và nghỉ ngơi",
+                            "numPage": 108
+                        },
+                        {
+                            "id": 31,
+                            "title": "Bài 27",
+                            "content": "Em biết tự bảo vệ",
+                            "numPage": 112
+                        },
+                        {
+                            "id": 32,
+                            "title": "Bài 28",
+                            "content": "Ôn tập chủ đề Con người và sức khoẻ",
+                            "numPage": 116
+                        },
+                        {
+                            "id": 33,
+                            "title": "6. Chủ đề",
+                            "content": "TRÁI ĐẤT VÀ BẦU TRỜI",
+                            "numPage": 119
+                        },
+                        {
+                            "id": 34,
+                            "title": "Bài 29",
+                            "content": "Ban ngày và ban đêm",
+                            "numPage": 120
+                        },
+                        {
+                            "id": 35,
+                            "title": "Bài 30",
+                            "content": "Ánh sáng mặt trời",
+                            "numPage": 124
+                        },
+                        {
+                            "id": 36,
+                            "title": "Bài 31",
+                            "content": "Hiện tượng thời tiết",
+                            "numPage": 128
+                        },
+                        {
+                            "id": 37,
+                            "title": "Bài 32",
+                            "content": "Ôn tập chủ đề Trái Đất và bầu trời",
+                            "numPage": 132
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2020,
+                "numPage": 137,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "Đỗ Xuân Hội"
+                ],
+                "bookEditor": [
+                    "Nguyễn Thị Thu Hằng"
+                ],
+                "bookAuthor": [
+                    "Phạm Phương Anh",
+                    "Lưu Phương Thanh Bình",
+                    "Trần Thị Thu Hiền",
+                    "Lý Khánh Hoa",
+                    "Mai Thị Kim Phượng"
+                ]
+            }
+        }
+    ]
+}

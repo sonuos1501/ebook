@@ -1,0 +1,4 @@
+{
+    "pageNumber": 78,
+    "pageText": "| Các bước thực hiện | Yêu cầu kĩ thuật | Hình minh hoạ |\n|---|---|---|\n| Bước 1. Kết nối cảm biến ánh sáng vào mô đun cảm biến. | Đảm bảo kết nối đúng vị trí và tiếp xúc tốt. |   |\n| Bước 2. Kết nối bóng đèn sợi đốt vào mô đun cảm biến. | Đảm bảo kết nối đúng vị trí tiếp điểm (đầu ra) của rơ le điện từ và tiếp xúc tốt. |   |\n| Bước 3. Kết nối Adapter vào cực nguồn mô đun cảm biến. | Đảm bảo kết nối đúng cực tính (+), cực tính (-) của nguồn với mô đun cảm biến và tiếp xúc tốt. |   |\n| Bước 4. Cài đặt mức ngưỡng ánh sáng tác động của mô đun cảm biến. | Đảm bảo mô đun cảm biến tác động theo đúng mức ngưỡng ánh sáng đã được chỉnh. |   |\n| Bước 5. Kiểm tra và vận hành. | Mạch hoạt động đúng nguyên lí và không bị sự cố. |   |\n"
+}

@@ -1,0 +1,4 @@
+{
+    "pageNumber": 33,
+    "pageText": "## Biến điệu tần số (FM – Frequency Modulation)\n\nNgoài cách biến điệu biên độ, người ta còn sử dụng cách biến điệu tần số của sóng mang. Khi biến điệu tần số, tần số của sóng mang bị thay đổi theo tần số của sóng thông tin, trong khi biên độ của sóng mang không bị ảnh hưởng (Hình 5.8).\n\n**Tương tự như quy trình phát tín hiệu của một sóng biến điệu biên độ, việc phát tín hiệu của sóng biến điệu tần số gồm các bước sau đây:**\n\n* Sóng thông tin được biến đổi thành sóng điện từ tần số thấp; \n* một dao động tử cung cấp sóng mang cao tần; \n* sóng điện từ thông tin được tích hợp vào sóng mang này nhờ thiết bị bộ trộn sóng; \n* tín hiệu đầu ra có tần số thay đổi theo tần số sóng thông tin và được khuếch đại trước khi được phát ra từ anten phát (Hình 5.9).\n\n**5. So sánh chức năng của mạch tách sóng và loa trong máy thu sóng với mạch trộn sóng và micro trong máy phát sóng.** \n"
+}

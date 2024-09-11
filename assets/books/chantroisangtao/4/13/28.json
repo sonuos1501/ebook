@@ -1,0 +1,4 @@
+{
+    "pageNumber": 28,
+    "pageText": "## Diện tích toàn phần\n\nDiện tích toàn phần của hình hộp chữ nhật là tổng diện tích sáu mặt của hình hộp chữ nhật.\n\nMuốn tính diện tích toàn phần của hình hộp chữ nhật, ta có thể lấy diện tích xung quanh cộng với diện tích hai đáy.\n\nChẳng hạn, ở ví dụ trên:\n\n* Diện tích hai mặt đáy của hình hộp chữ nhật là: 5 × 3 × 2 = 30 (cm²).\n* Diện tích toàn phần của hình hộp chữ nhật là: 32 + 30 = 62 (cm²).\n\n\n## Bài tập\n\nTính diện tích xung quanh và diện tích toàn phần của hình hộp chữ nhật có chiều dài 2 m, chiều rộng 1 m và chiều cao 0,8 m.\n\n**Bài giải**\n\n* Chu vi mặt đáy của hình hộp chữ nhật là: ? \n* Diện tích xung quanh của hình hộp chữ nhật là: ? \n* Diện tích hai mặt đáy của hình hộp chữ nhật là: ? \n* Diện tích toàn phần của hình hộp chữ nhật là: ? \n\n**Đáp số:** \n\n* Diện tích xung quanh: ? \n* Diện tích toàn phần: ? \n"
+}

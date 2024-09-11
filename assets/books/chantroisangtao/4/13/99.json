@@ -1,0 +1,4 @@
+{
+    "pageNumber": 99,
+    "pageText": "## Bài 96: ÔN TẬP CHU VI, DIỆN TÍCH, THỂ TÍCH\n\n**(a)** Thay ...? bằng từ thích hợp:\n\n- Muốn tính độ dài đường gấp khúc, ta tính **tổng** độ dài các đoạn thẳng của đường gấp khúc đó.\n\n- Muốn tính chu vi của hình tam giác, hình tứ giác, ta tính **tổng** độ dài các cạnh của mỗi hình.\n\n**(b)** Tính độ dài đường gấp khúc, tính chu vi hình tam giác dưới đây.\n\n![Hình vẽ](https://i.imgur.com/Q91xJ8j.png)\n\n**(2)** Chọn cách tính chu vi, diện tích phù hợp với hình (các kích thước cùng một đơn vị đo).\n\n| Hình | Công thức |\n|---|---|\n| Hình chữ nhật | **A** S = (a + b) x h / 2 <br> **B** S = a x a |\n| Hình vuông | **C** S = a x h / 2 |\n| Hình tròn | **C** C = r x 2 x 3,14 <br> **E** S = r x r x 3,14 |\n| Hình tam giác | |\n| Hình thang | **D** P = (a + b) x 2 <br> **S** S = a x b | \n"
+}

@@ -1,0 +1,4 @@
+{
+    "pageNumber": 173,
+    "pageText": "## 2. Phần mềm mô phỏng Flowgorithm \n\n**a) Tổng quan về phần mềm Flowgorithm 2.8**\n\nFlowgorithm là ngôn ngữ lập trình miễn phí dành cho người mới bắt đầu bằng cách sử dụng sơ đồ khối, giúp người học tập trung vào các khái niệm lập trình. Ngoài ra, Flowgorithm có thể chạy các chương trình trực tiếp để kiểm tra tính đúng đắn của thuật toán.\n\nHiểu logic lập trình sẽ giúp người học dễ dàng nắm được ngôn ngữ lập trình. Flowgorithm có thể chuyển đổi một cách tương ứng từ sơ đồ khối sang hơn 18 ngôn ngữ lập trình bao gồm: C#, C++, Java, JavaScript, Lua, Perl, Python, Ruby, Swift, Visual Basic .NET,...\n\n**b) Một số ứng dụng của phần mềm mô phỏng Flowgorithm**\n\n**Ví dụ 2: Lập sơ đồ khối kiểm tra một số nguyên a là chẳn hay lẻ.**\n\n● Ở vùng Workspace nhấp vào dấu mũi tên (Hình 8) sẽ hiện ra bảng chọn các khối lệnh (Hình 9).\n\n**Hình 8. Chọn khối lệnh**\n\n**Hình 9. Bảng chọn các khối lệnh** \n"
+}

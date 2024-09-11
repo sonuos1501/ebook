@@ -1,0 +1,4 @@
+{
+    "pageNumber": 42,
+    "pageText": "Bài 1. Elip\n\n**Từ khoá:** Elip; Trục đối xứng; Tâm đối xứng; Bán kính qua tiêu; Tâm sai; Đường chuẩn.\n\nHành tinh M chuyển động quanh\nMặt Trời theo một quỹ đạo hình\nelip nhận tâm Mặt Trời làm tiêu\nđiểm F. Làm thế nào để tính độ dài\ncủa đoạn FM khi biết phương trình\nchính tắc của elip?\n\n**1. Tính đối xứng của elip**\n\n**Ôn tập về elip**\n\nTa đã biết elip (E) với phương trình chính tắc x^2 / a^2 + y^2 / b^2 = 1 (0 < b < a) (Hình 1) có các yếu tố:\n\n- Bốn đỉnh là A₁(-a; 0), A₂(a; 0), B₁ (0; -b), B₂(0; b).\n- Trục lớn là A₁A₂ có độ dài 2a, trục nhỏ là B₁B₂ có độ dài 2b.\n- Hai tiêu điểm là F₁ (-c; 0), F₂(c; 0) với c = √(a^2 - b^2).\n- Tiêu cự 2c là khoảng cách giữa hai tiêu điểm. \n\nCho elip (E) có phương trình chính tắc x^2 / a^2 + y^2 / b^2 = 1\n(0 < b < a) và cho điểm M(x₀; y₀) nằm trên (E).\nCác điểm M₁(-x₀; y₀), M₂(x₀; -y₀), M₃(-x₀; -y₀) có\nthuộc (E) hay không? \n"
+}

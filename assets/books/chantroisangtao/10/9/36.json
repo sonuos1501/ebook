@@ -1,0 +1,4 @@
+{
+    "pageNumber": 36,
+    "pageText": "**Câu 1.**\n- Bộ phận khuếch đại có tác dụng làm tăng công suất của tín hiệu.\n- Thường được đặt ở **cuối** mạch phát.\n\n**Câu 2.**\n- Cần ít nhất một bộ phận khuếch đại ở mạch thu vì tín hiệu thu được thường rất yếu.\n- Bộ phận này thường được đặt ở **đầu** mạch thu.\n\n**Bài tập**\n\n**1.** Giới hạn tần số thấp là 60 MHz - 6 MHz = 54 MHz.\n\n**2.** \na) Dải biên tần số trên: 300 kHz + 400 Hz = 300,4 kHz\n     Dải biên tần số dưới: 300 kHz – 400 Hz = 299,6 kHz.\nb) Băng thông là 300,4 kHz – 299,6 kHz = 800 Hz. \n"
+}

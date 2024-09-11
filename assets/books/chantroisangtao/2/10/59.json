@@ -1,0 +1,4 @@
+{
+    "pageNumber": 59,
+    "pageText": "BẢNG NHÂN 6\n\nTính các tích trong bảng nhân 6.\n\n6 x 1 = 6\n6 x 2 = 12\n6 x 3 = 18\n6 x 4 = 24\n6 x 5 = 30\n6 x 6 = 36\n6 x 7 = 42\n6 x 8 = 48\n6 x 9 = 54\n6 x 10 = 60\n\n1  Số?\n6     12     18     ...?     ...?      36     ...?     48      ...?      60\n\n2  Đố bạn các phép nhân trong bảng nhân 6.\n\n6 x 3 = ...?\n6 x 3 = 18\n6 x ...? = 54\n6 x 9 = 54\n\n1  Tính nhẩm.\n\n6 x 3        6 x 7        6 x 2        6 x 8        6 x 1\n6 x 4        6 x 5        6 x 6        6 x 10      6 x 9\n\n2  Tính.\n\na)  6 x 5 x 4       b) 52 - 6 x 3       c) 6 x 8 : 3\n\n3  Số?\n\nMỗi tờ giấy màu dán được một mặt của hộp giấy (xem hình bên).\nĐể dán hết các mặt của 10 hộp giấy, cần ...? tờ giấy màu. \n"
+}

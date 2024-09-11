@@ -1,0 +1,4 @@
+{
+    "pageNumber": 27,
+    "pageText": "Nghiệm của phương trình mũ cơ bản\n\n2 Cho đồ thị của hai hàm số y = a^x và y = b như Hình 2a (với a > 0) hay Hình 2b (với 0 < a < 1). Từ đây, hãy nhận xét về số nghiệm và công thức nghiệm của phương trình a^x = b trong hai trường hợp b > 0 và b ≤ 0.\n\n*Hình ảnh*\n\nCho phương trình a^x = b (a > 0, a ≠ 1).\n\n* Nếu b > 0 thì phương trình luôn có nghiệm duy nhất x = log_a b.\n* Nếu b ≤ 0 thì phương trình vô nghiệm.\n\nChú ý:\na) Nếu b = a^α thì ta có a^x = a^α ⇔ x = α.\nb) Tổng quát hơn, a^u(x) = a^v(x) ⇔ u(x) = v(x).\n\nVí dụ 1. Giải các phương trình sau\n\na) 2^x = 1/8;\n\nb) 5 . 10^x = 1;\n\nc) (1/9)^x = 27.\n\nGiải\n\na) 2^x = 1/8 = 2^-3 ⇔ x = -3.\n\nb) 5 . 10^x = 1 ⇔ 10^x = 1/5 ⇔ x = log(1/5) = -log 5.\n\nc) (1/9)^x = 27 ⇔ (3^-2)^x = (3^3) ⇔ 3^-2x = 3^3x-1 → −2x = 3x−1 ⇔ 5x = 1 ⇔ x = 1/5.\n"
+}

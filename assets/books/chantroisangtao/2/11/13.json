@@ -1,0 +1,4 @@
+{
+    "pageNumber": 13,
+    "pageText": "**1. Trả lời các câu hỏi.**\na) Bể thứ hai chứa được nhiều nước hơn.\nb) Quãng đường anh Ba chạy dài hơn.\n\n**2. Quan sát bảng bên và cho biết:**\n| Tên núi | Chiều cao |\n|---|---|\n| Bà Đen | 986 m |\n| Bạch Mã | 1444 m |\n| Phan Xi Păng | 3143 m |\n| Pu Ta Leng | 3096 m |\n\na) Ngọn núi Bạch Mã cao hơn.\nb) Ngọn núi Phan Xi Păng cao nhất.\nc) Phan Xi Păng, Bạch Mã, Pu Ta Leng, Bà Đen.\n\n**3. Làm tròn số đến hàng nghìn.**\na) Làm tròn số 4521 đến hàng nghìn thì được số **5000**.\nb) Làm tròn số 6 480 đến hàng nghìn thì được số **6000**.\nc) Làm tròn số 2 634 đến hàng nghìn thì được số **3000**.\n\n**Thử thách**\nTrang trại có **9999** con bò. \n\nGiải thích:\n- Số con bò của trang trại là số có bốn chữ số.\n- Nếu làm tròn số này đến hàng nghìn thì được số 10000.\n- Nếu gạch bỏ chữ số hàng nghìn thì được số lớn nhất có ba chữ số.\n=> Số 9999 thỏa mãn các điều kiện trên. \n"
+}

@@ -1,0 +1,3856 @@
+{
+    "id": 1,
+    "name": "Lớp 2",
+    "books": [
+        {
+            "id": 0,
+            "name": "Âm nhạc 2",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/images/amnhac2.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/pdf/sgk-am-nhac-lop-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 2",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Chủ đề 1",
+                            "content": "Rộn ràng ngày mới",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 1,
+                            "title": "Chủ đề 2",
+                            "content": "Nhịp điệu bạn bè",
+                            "numPage": 12
+                        },
+                        {
+                            "id": 2,
+                            "title": "Chủ đề 3",
+                            "content": "Vui bước tới trường",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 3,
+                            "title": "Chủ đề 4",
+                            "content": "Thiên nhiên tươi đẹp",
+                            "numPage": 24
+                        },
+                        {
+                            "id": 4,
+                            "title": "Chủ đề 5",
+                            "content": "Mùa xuân hân hoan",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 5,
+                            "title": "Chủ đề 6",
+                            "content": "Lời ru yêu thương",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 6,
+                            "title": "Chủ đề 7",
+                            "content": "Giai điệu quê hương",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 7,
+                            "title": "Chủ đề 8",
+                            "content": "Vui cùng âm nhạc",
+                            "numPage": 52
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2021,
+                "numPage": 61,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "Hồ Ngọc Khải",
+                    "Lê Anh Tuấn"
+                ],
+                "bookEditor": [
+                    "Đăng Châu Anh"
+                ],
+                "bookAuthor": [
+                    "Lương DiệU Ánh",
+                    "Nguyễn Đăng Bửu",
+                    "Trần Ngọc Hưng",
+                    "Nguyễn Mai Kiên",
+                    "Hà Thị Thư",
+                    "Trịnh Mai Trang",
+                    "Tô Ngọc Tú",
+                    "Lâm Đức Vinh"
+                ]
+            }
+        },
+        {
+            "id": 1,
+            "name": "Đạo đức 2",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/images/daoduc2.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/pdf/sgk-dao-duc-lop-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 2",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1. Chủ đề",
+                            "content": "QUÝ TRỌNG THỜI GIAN",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 1",
+                            "content": "QUÝ TRỌNG THỜI GIAN",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 2,
+                            "title": "2. Chủ đề",
+                            "content": "NHẬN LỖI VÀ SỬA LỖI",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 2",
+                            "content": "NHẬN LỖI VÀ SỬA LỖI",
+                            "numPage": 12
+                        },
+                        {
+                            "id": 4,
+                            "title": "3. Chủ đề",
+                            "content": "BẢO QUẢN ĐỒ DÙNG CÁ NHÂN VÀ GIA ĐìNH",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 3",
+                            "content": "BẢO QUẢN ĐỒ DÙNG CÁ NHÂN",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 6,
+                            "title": "Bài 4",
+                            "content": "BẢO QUẢN ĐỒ DÙNG GIA ĐìNH",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 7,
+                            "title": "4. Chủ đề",
+                            "content": "KÍNH TRỌNG THỜI GIÁO, CÔ GIÁO VÀ YÊU QUÝ BẠN BÈ",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 8,
+                            "title": "Bài 5",
+                            "content": "KÍNH TRỌNG THỜI GIÁO, CÔ GIÁO",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 9,
+                            "title": "Bài 6",
+                            "content": "YÊU QUÝ BẠN BÈ",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 10,
+                            "title": "Bài 7",
+                            "content": "QUAN TÂM, GIÚP ĐỠ BẠN",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 11,
+                            "title": "Bài 8",
+                            "content": "CHIA SẺ YÊU THƯƠNG",
+                            "numPage": 35
+                        },
+                        {
+                            "id": 12,
+                            "title": "5. Chủ đề",
+                            "content": "THỰC HIỆN CẢM XÚC BẢN THÂN",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 13,
+                            "title": "Bài 9",
+                            "content": "NHỮNG SẮC MÀU CẢM XÚC",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 14,
+                            "title": "Bài 10",
+                            "content": "KIỀM CHẾ CẢM XÚC TIÊU CỰC",
+                            "numPage": 42
+                        },
+                        {
+                            "id": 15,
+                            "title": "6. Chủ đề",
+                            "content": "TÌM KIẾM SỰ HỖ TRỢ",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 16,
+                            "title": "Bài 11",
+                            "content": "TÌM KIẾM SỰ HỖ TRỢ KHI Ở NHÀ, Ở TRƯỜNG",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 17,
+                            "title": "Bài 12",
+                            "content": "TÌM KIẾM SỰ HỖ TRỢ KHI Ở NƠI CÔNG CỘNG",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 18,
+                            "title": "7. Chủ đề",
+                            "content": "QUÊ HƯƠNG EM",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 19,
+                            "title": "Bài 13",
+                            "content": "EM YÊU QUÊ HƯƠNG",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 20,
+                            "title": "Bài 14",
+                            "content": "GIỮ GÌN CẢNH ĐẸP QUÊ HƯƠNG",
+                            "numPage": 60
+                        },
+                        {
+                            "id": 21,
+                            "title": "8. Chủ đề",
+                            "content": "TUÂN THỦ QUY ĐỊNH NƠI CÔNG CỘNG",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 22,
+                            "title": "Bài 15",
+                            "content": "THỰC HIỆN QUY ĐịNH NƠI CÔNG CỘNG",
+                            "numPage": 64
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2021,
+                "numPage": 69,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "Trần Thanh Bình",
+                    "Đinh Phương Duy",
+                    "Phạm Quỳnh"
+                ],
+                "bookEditor": [
+                    "Trần Thanh Bình",
+                    "Đinh Phương Duy",
+                    "Phạm Quỳnh"
+                ],
+                "bookAuthor": [
+                    "Trần Thị Thuỳ Dung",
+                    "Nguyễn Hà My",
+                    "Lâm Hồng Lâm Thuý",
+                    "Nguyễn Huyền Trang",
+                    "Lê Phương Trí"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "Giáo dục thể chất 2",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/images/giaoducthechat2.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/pdf/sgk-giao-duc-the-chat-lop-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 2",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Phần một",
+                            "content": "Kiến thức chung",
+                            "numPage": 4
+                        },
+                        {
+                            "id": 1,
+                            "title": "Phần hai",
+                            "content": "Vận động cơ bản",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 2,
+                            "title": "1. Chủ đề",
+                            "content": "Đội hình đội ngũ",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 1",
+                            "content": "Chuyển đội hình hàng dọc, hàng ngang thành đội hình vòng tròn",
+                            "numPage": 8
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 2",
+                            "content": "Chuyển đội hình vòng tròn thành đội hình hàng dọc, hàng ngang",
+                            "numPage": 13
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 3",
+                            "content": "Giậm chân tại chỗ, đứng lại",
+                            "numPage": 17
+                        },
+                        {
+                            "id": 6,
+                            "title": "2. Chủ đề",
+                            "content": "Bài tập thể dục",
+                            "numPage": 20
+                        },
+                        {
+                            "id": 7,
+                            "title": "Bài 1",
+                            "content": "Động tác vươn thở và động tác tay",
+                            "numPage": 21
+                        },
+                        {
+                            "id": 8,
+                            "title": "Bài 2",
+                            "content": "Động tác chân và động tác lườn",
+                            "numPage": 24
+                        },
+                        {
+                            "id": 9,
+                            "title": "Bài 3",
+                            "content": "Động tác bụng và động tác toàn thân",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 10,
+                            "title": "Bài 4",
+                            "content": "Động tác nhảy và động tác điều hoà",
+                            "numPage": 30
+                        },
+                        {
+                            "id": 11,
+                            "title": "3. Chủ đề",
+                            "content": "Tư thế và kĩ năng vận động cơ bản",
+                            "numPage": 33
+                        },
+                        {
+                            "id": 12,
+                            "title": "Bài 1",
+                            "content": "Đi theo hướng thẳng",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 13,
+                            "title": "Bài 2",
+                            "content": "Đi thay đổi hướng",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 14,
+                            "title": "Bài 3",
+                            "content": "Chạy theo hướng thẳng",
+                            "numPage": 42
+                        },
+                        {
+                            "id": 15,
+                            "title": "Bài 4",
+                            "content": "Chạy thay đỔi hướng",
+                            "numPage": 45
+                        },
+                        {
+                            "id": 16,
+                            "title": "Bài 5",
+                            "content": "Các động tác ngồi cơ bản",
+                            "numPage": 49
+                        },
+                        {
+                            "id": 17,
+                            "title": "Bài 6",
+                            "content": "Các động tác quỳ cơ bản",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 18,
+                            "title": "Phần ba",
+                            "content": "Thể thao tự chọn",
+                            "numPage": 55
+                        },
+                        {
+                            "id": 19,
+                            "title": "4. Chủ đề",
+                            "content": "Thể dục nhịp điệu",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 20,
+                            "title": "Bài 1",
+                            "content": "Các tư thế đầu cổ kết hợp chân cơ bản",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 21,
+                            "title": "Bài 2",
+                            "content": "Các tư thế tay kết hợp chân cơ bản",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 22,
+                            "title": "Bài 3",
+                            "content": "Các tư thế của thân kết hợp nhún gối",
+                            "numPage": 62
+                        },
+                        {
+                            "id": 23,
+                            "title": "Bài 4",
+                            "content": "Các tư thế của chân kết hợp nhún gối",
+                            "numPage": 66
+                        },
+                        {
+                            "id": 24,
+                            "title": "5. Chủ đề",
+                            "content": "Bóng đá",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 25,
+                            "title": "Bài 1",
+                            "content": "Bài tập không bóng",
+                            "numPage": 71
+                        },
+                        {
+                            "id": 26,
+                            "title": "Bài 2",
+                            "content": "Làm quen với bóng",
+                            "numPage": 74
+                        },
+                        {
+                            "id": 27,
+                            "title": "Bài 3",
+                            "content": "Đá bóng",
+                            "numPage": 78
+                        },
+                        {
+                            "id": 28,
+                            "title": "Bài 4",
+                            "content": "Dẫn bóng",
+                            "numPage": 82
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2021,
+                "numPage": 89,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "PHẠM THỊ LỆ HẰNG"
+                ],
+                "bookEditor": [
+                    "PHẠM THỊ LỆ HẰNG"
+                ],
+                "bookAuthor": [
+                    "BÙI NGỌC BÍCH",
+                    "LÊ HẢI",
+                    "NGUYỄN ĐÌNH PHÁT",
+                    "TRẦN MINH TUẤN"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "name": "Hoạt động trải nghiệm 2",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/images/hoatdongtrainghiem2.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/pdf/sgk-hoat-dong-trai-nghiem-lop-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 2",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Chủ đề 1",
+                            "content": "Em và mái trường mến yêu",
+                            "numPage": 5
+                        },
+                        {
+                            "id": 1,
+                            "title": "1.1",
+                            "content": "Tuần 1",
+                            "numPage": 5
+                        },
+                        {
+                            "id": 2,
+                            "title": "1.2",
+                            "content": "Tuần 2",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 3,
+                            "title": "1.3",
+                            "content": "Tuần 3",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 4,
+                            "title": "1.4",
+                            "content": "Tuần 4",
+                            "numPage": 13
+                        },
+                        {
+                            "id": 5,
+                            "title": "Chủ đề 2",
+                            "content": "Vì một cuộc sống an toàn",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 6,
+                            "title": "2.1",
+                            "content": "Tuần 5",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 7,
+                            "title": "2.2",
+                            "content": "Tuần 6",
+                            "numPage": 19
+                        },
+                        {
+                            "id": 8,
+                            "title": "2.3",
+                            "content": "Tuần 7",
+                            "numPage": 21
+                        },
+                        {
+                            "id": 9,
+                            "title": "2.4",
+                            "content": "Tuần 8",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 10,
+                            "title": "Chủ đề 3",
+                            "content": "Kính yêu thầy cô. Thân thiện với bạn bè",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 11,
+                            "title": "3.1",
+                            "content": "Tuần 9",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 12,
+                            "title": "3.2",
+                            "content": "Tuần 10",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 13,
+                            "title": "3.3",
+                            "content": "Tuần 11",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 14,
+                            "title": "3.4",
+                            "content": "Tuần 12",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 15,
+                            "title": "Chủ đề 4",
+                            "content": "Truyền thống quê em",
+                            "numPage": 36
+                        },
+                        {
+                            "id": 16,
+                            "title": "4.1",
+                            "content": "Tuần 13",
+                            "numPage": 39
+                        },
+                        {
+                            "id": 17,
+                            "title": "4.2",
+                            "content": "Tuần 14",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 18,
+                            "title": "4.3",
+                            "content": "Tuần 15",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 19,
+                            "title": "Chủ đề 5",
+                            "content": "Chào năm mới",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 20,
+                            "title": "5.1",
+                            "content": "Tuần 17",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 21,
+                            "title": "5.2",
+                            "content": "Tuần 18",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 22,
+                            "title": "5.3",
+                            "content": "Tuần 19",
+                            "numPage": 50
+                        },
+                        {
+                            "id": 23,
+                            "title": "5.4",
+                            "content": "Tuần 20",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 24,
+                            "title": "Chủ đề 6",
+                            "content": "Chăm sóc và phục vụ bản thân",
+                            "numPage": 54
+                        },
+                        {
+                            "id": 25,
+                            "title": "6.1",
+                            "content": "Tuần 21",
+                            "numPage": 54
+                        },
+                        {
+                            "id": 26,
+                            "title": "6.2",
+                            "content": "Tuần 22",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 27,
+                            "title": "6.3",
+                            "content": "Tuần 23",
+                            "numPage": 59
+                        },
+                        {
+                            "id": 28,
+                            "title": "Chủ đề 7",
+                            "content": "Yêu thương gia đình. Quý trọng phụ nữ",
+                            "numPage": 62
+                        },
+                        {
+                            "id": 29,
+                            "title": "7.1",
+                            "content": "Tuần 24",
+                            "numPage": 62
+                        },
+                        {
+                            "id": 30,
+                            "title": "7.2",
+                            "content": "Tuần 25",
+                            "numPage": 65
+                        },
+                        {
+                            "id": 31,
+                            "title": "7.3",
+                            "content": "Tuần 26",
+                            "numPage": 67
+                        },
+                        {
+                            "id": 32,
+                            "title": "7.4",
+                            "content": "Tuần 27",
+                            "numPage": 69
+                        },
+                        {
+                            "id": 33,
+                            "title": "Chủ đề 8",
+                            "content": "Môi trường xanh. Cuộc sống xanh",
+                            "numPage": 72
+                        },
+                        {
+                            "id": 34,
+                            "title": "8.1",
+                            "content": "Tuần 28",
+                            "numPage": 72
+                        },
+                        {
+                            "id": 35,
+                            "title": "8.2",
+                            "content": "Tuần 29",
+                            "numPage": 74
+                        },
+                        {
+                            "id": 36,
+                            "title": "8.3",
+                            "content": "Tuần 30",
+                            "numPage": 77
+                        },
+                        {
+                            "id": 37,
+                            "title": "8.4",
+                            "content": "Tuần 31",
+                            "numPage": 79
+                        },
+                        {
+                            "id": 38,
+                            "title": "Chủ đề 9",
+                            "content": "Những người sống quanh em",
+                            "numPage": 81
+                        },
+                        {
+                            "id": 39,
+                            "title": "9.1",
+                            "content": "Tuần 32",
+                            "numPage": 81
+                        },
+                        {
+                            "id": 40,
+                            "title": "9.2",
+                            "content": "Tuần 33",
+                            "numPage": 83
+                        },
+                        {
+                            "id": 41,
+                            "title": "9.3",
+                            "content": "Tuần 34",
+                            "numPage": 86
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2021,
+                "numPage": 93,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "PHÓ ĐỨC HOÀ",
+                    "VŨ QUANG TUYÊN"
+                ],
+                "bookEditor": [
+                    "BÙI NGỌC DIỆP",
+                    "NGUYỄN HỮU TÂM",
+                    "ĐINH THỊ KIM THOA"
+                ],
+                "bookAuthor": [
+                    "NGUYỄN HỒNG KIÊN",
+                    "NGUYỄN THỊ BÍCH LIÊN",
+                    "NGUYỄN THỊ HÀ LIÊN",
+                    "VŨ PHƯƠNG LIÊN",
+                    "NGUYỄN HÀ MY",
+                    "LẠI THỊ YẾN NGỌC",
+                    "ĐẶNG THỊ THANH NHÀN",
+                    "NGUYỄN HUYỀN TRANG",
+                    "TRẦN THỊ QUỲNH TRANG",
+                    "LÊ PHƯƠNG TRÍ"
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "name": "Mĩ thuật 2",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/images/mithuat2.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/pdf/sgk-my-thuat-lop-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 2",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1. CHỦ ĐỀ",
+                            "content": "ĐẠI DƯƠNG MÊNH MÔNG",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 1",
+                            "content": "Bầu trời và biển",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 2",
+                            "content": "Những con vật dưới đại dương",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 3",
+                            "content": "Đại dương trong mắt em",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 4,
+                            "title": "2. CHỦ ĐỀ",
+                            "content": "ĐƯỜNG ĐẾN TRƯỜNG EM",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 1",
+                            "content": "Phương tiện giao thông",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 6,
+                            "title": "Bài 2",
+                            "content": "Cặp sách xinh xắn",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 7,
+                            "title": "Bài 3",
+                            "content": "Cổng trường nhộn nhịp",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 8,
+                            "title": "3. CHỦ ĐỀ",
+                            "content": "GIA ĐÌNH NHỎ",
+                            "numPage": 30
+                        },
+                        {
+                            "id": 9,
+                            "title": "Bài 1",
+                            "content": "Con mèo tinh nghịch",
+                            "numPage": 30
+                        },
+                        {
+                            "id": 10,
+                            "title": "Bài 2",
+                            "content": "Chiếc bánh sinh nhật",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 11,
+                            "title": "Bài 3",
+                            "content": "Sinh nhật vui vẻ",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 12,
+                            "title": "4. CHỦ ĐỀ",
+                            "content": "KHU RỪNG NHIỆT ĐỚI",
+                            "numPage": 42
+                        },
+                        {
+                            "id": 13,
+                            "title": "Bài 1",
+                            "content": "Rừng cây rậm rạp",
+                            "numPage": 42
+                        },
+                        {
+                            "id": 14,
+                            "title": "Bài 2",
+                            "content": "Chú chim nhỏ",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 15,
+                            "title": "Bài 3",
+                            "content": "Tắc kè hoa",
+                            "numPage": 50
+                        },
+                        {
+                            "id": 16,
+                            "title": "Bài 4",
+                            "content": "Chú hổ trong rừng",
+                            "numPage": 54
+                        },
+                        {
+                            "id": 17,
+                            "title": "Bài 5",
+                            "content": "Khu rừng thân thiện",
+                            "numPage": 58
+                        },
+                        {
+                            "id": 18,
+                            "title": "5. CHỦ ĐỀ",
+                            "content": "ĐỒ CHƠI THÚ VỊ",
+                            "numPage": 62
+                        },
+                        {
+                            "id": 19,
+                            "title": "Bài 1",
+                            "content": "Khuôn mặt ngộ nghĩnh",
+                            "numPage": 62
+                        },
+                        {
+                            "id": 20,
+                            "title": "Bài 2",
+                            "content": "Tạo hình rô-bốt",
+                            "numPage": 66
+                        },
+                        {
+                            "id": 21,
+                            "title": "Bài 3",
+                            "content": "Con rối đáng yêu",
+                            "numPage": 70
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2021,
+                "numPage": 81,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "NGUYỄN THỊ NHUNG",
+                    "NGUYỄN XUÂN TIÊN"
+                ],
+                "bookEditor": [
+                    "NGUYỄN TUẤN CƯỜNG",
+                    "HOÀNG MINH PHÚC"
+                ],
+                "bookAuthor": [
+                    "LƯƠNG THANH KHIẾT",
+                    "VŨ ĐỨC LONG",
+                    "NGUYỄN ÁNH PHƯƠNG NAM",
+                    "LÂM YẾN NHƯ",
+                    "PHẠM VĂN THUẬN",
+                    "ĐÀM THỊ HẢI UYÊN",
+                    "TRẦN THỊ VÂN"
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "name": "Tiếng việt 2 - Tập một",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/images/tiengviet2_tap1.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/pdf/sgk-tieng-viet-lop-2-tap-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 2",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "EM ĐÃ LỚN HƠN",
+                            "content": "Bài 1: Bé Mai đã lớn",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 1,
+                            "title": "1.1",
+                            "content": "Đọc Bé Mai đã lớn",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 2,
+                            "title": "1.2",
+                            "content": "Viết chữ hoa A",
+                            "numPage": 11
+                        },
+                        {
+                            "id": 3,
+                            "title": "1.3",
+                            "content": "Từ và câu",
+                            "numPage": 12
+                        },
+                        {
+                            "id": 4,
+                            "title": "EM ĐÃ LỚN HƠN",
+                            "content": "Bài 2: Thời gian biểu",
+                            "numPage": 13
+                        },
+                        {
+                            "id": 5,
+                            "title": "2.1",
+                            "content": "Đọc Thời gian biểu",
+                            "numPage": 13
+                        },
+                        {
+                            "id": 6,
+                            "title": "2.2",
+                            "content": "Nghe - viết Bé Mai đã lớn",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 7,
+                            "title": "2.3",
+                            "content": "Bảng chữ cái. Phân biệt c/k",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 8,
+                            "title": "2.4",
+                            "content": "Mở rộng vốn từ Trẻ em",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 9,
+                            "title": "2.5",
+                            "content": "Nói và đáp lời bày tỏ sự ngạc nhiên, lời khen ngợi",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 10,
+                            "title": "2.6",
+                            "content": "Nói, viết lời tự giới thiệu",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 11,
+                            "title": "EM ĐÃ LỚN HƠN",
+                            "content": "Bài 3: Ngày hôm qua đâu rồi?",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 12,
+                            "title": "3.1",
+                            "content": "Đọc Ngày hôm qua đâu rồi?",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 13,
+                            "title": "3.2",
+                            "content": "Viết chữ hoa Ă, Â",
+                            "numPage": 19
+                        },
+                        {
+                            "id": 14,
+                            "title": "3.3",
+                            "content": "Từ chỉ sự vật",
+                            "numPage": 20
+                        },
+                        {
+                            "id": 15,
+                            "title": "3.4",
+                            "content": "Câu kiểu Ai là gì?",
+                            "numPage": 20
+                        },
+                        {
+                            "id": 16,
+                            "title": "EM ĐÃ LỚN HƠN",
+                            "content": "Bài 4: Út Tin",
+                            "numPage": 21
+                        },
+                        {
+                            "id": 17,
+                            "title": "4.1",
+                            "content": "Nhìn – viết Ngày hôm qua đâu rồi?",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 18,
+                            "title": "4.2",
+                            "content": "Bảng chữ cái. Phân biệt g/gh",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 19,
+                            "title": "4.3",
+                            "content": "Mở rộng vốn từ Trẻ em (tiếp theo)",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 20,
+                            "title": "4.4",
+                            "content": "Nghe – kể Thử tài",
+                            "numPage": 24
+                        },
+                        {
+                            "id": 21,
+                            "title": "4.5",
+                            "content": "Viết thời gian biểu",
+                            "numPage": 25
+                        },
+                        {
+                            "id": 22,
+                            "title": "MỖI NGƯỜI MỘT VẺ",
+                            "content": "Bài 1: Tóc xoăn và tóc thẳng",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 23,
+                            "title": "1.1",
+                            "content": "Đọc Tóc xoăn và tóc thẳng",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 24,
+                            "title": "1.2",
+                            "content": "Viết chữ hoa B",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 25,
+                            "title": "1.3",
+                            "content": "Từ chỉ hoạt động",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 26,
+                            "title": "1.4",
+                            "content": "Câu kiểu Ai làm gì?",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 27,
+                            "title": "MỖI NGƯỜI MỘT VẺ",
+                            "content": "Bài 2: Làm việc thật là vui",
+                            "numPage": 29
+                        },
+                        {
+                            "id": 28,
+                            "title": "2.1",
+                            "content": "Đọc Làm việc thật là vui",
+                            "numPage": 29
+                        },
+                        {
+                            "id": 29,
+                            "title": "2.2",
+                            "content": "Nghe – viết Làm việc thật là vui",
+                            "numPage": 30
+                        },
+                        {
+                            "id": 30,
+                            "title": "2.3",
+                            "content": "Bảng chữ cái. Phân biệt s/x, en/eng",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 31,
+                            "title": "2.4",
+                            "content": "Mở rộng vốn từ Bạn bè",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 32,
+                            "title": "2.5",
+                            "content": "Nói và đáp lời bày tỏ sự ngạc nhiên, lời khen ngợi",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 33,
+                            "title": "2.6",
+                            "content": "Nói và đáp lời chúc mừng, lời khen ngợi",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 34,
+                            "title": "2.7",
+                            "content": "Nói, viết lời cảm ơn",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 35,
+                            "title": "MỖI NGƯỜI MỘT VẺ",
+                            "content": "Bài 3: Những cái tên",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 36,
+                            "title": "3.1",
+                            "content": "Đọc Những cái tên",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 37,
+                            "title": "3.2",
+                            "content": "Viết chữ hoa C",
+                            "numPage": 35
+                        },
+                        {
+                            "id": 38,
+                            "title": "3.3",
+                            "content": "Viết hoa tên người",
+                            "numPage": 36
+                        },
+                        {
+                            "id": 39,
+                            "title": "MỖI NGƯỜI MỘT VẺ",
+                            "content": "Bài 4: Cô gió",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 40,
+                            "title": "4.1",
+                            "content": "Đọc Cô gió",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 41,
+                            "title": "4.2",
+                            "content": "Nghe – viết Ai dậy sớm",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 42,
+                            "title": "4.3",
+                            "content": "Phân biệt ai/a",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 43,
+                            "title": "4.4",
+                            "content": "Mở rộng vốn từ Bạn bè",
+                            "numPage": 39
+                        },
+                        {
+                            "id": 44,
+                            "title": "4.5",
+                            "content": "Nghe – kể Chuyện ở phố Cây Xanh",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 45,
+                            "title": "4.6",
+                            "content": "Đặt tên cho bức tranh",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 46,
+                            "title": "BỐ MẸ YÊU THƯƠNG",
+                            "content": "Bài 1: Bọ rùa tìm mẹ",
+                            "numPage": 42
+                        },
+                        {
+                            "id": 47,
+                            "title": "1.1",
+                            "content": "Đọc Bọ rùa tìm mẹ",
+                            "numPage": 42
+                        },
+                        {
+                            "id": 48,
+                            "title": "1.2",
+                            "content": "Viết chữ hoa D, Đ",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 49,
+                            "title": "1.3",
+                            "content": "Từ chỉ đặc điểm",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 50,
+                            "title": "1.4",
+                            "content": "Câu kiểu Ai thế nào?",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 51,
+                            "title": "BỐ MẸ YÊU THƯƠNG",
+                            "content": "Bài 2: Cánh đồng của bố",
+                            "numPage": 45
+                        },
+                        {
+                            "id": 52,
+                            "title": "2.1",
+                            "content": "Đọc Cánh đồng của bố",
+                            "numPage": 45
+                        },
+                        {
+                            "id": 53,
+                            "title": "2.2",
+                            "content": "Nghe – viết Bọ rùa tìm mẹ",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 54,
+                            "title": "2.3",
+                            "content": "Phân biệt ng/ngh; I/n, dấu hỏi/ dấu ngã",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 55,
+                            "title": "2.4",
+                            "content": "Mở rộng vốn từ Gia đình",
+                            "numPage": 47
+                        },
+                        {
+                            "id": 56,
+                            "title": "2.5",
+                            "content": "Nói và đáp lời chia tay, lời từ chối",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 57,
+                            "title": "2.6",
+                            "content": "Viết hoa tên người",
+                            "numPage": 36
+                        },
+                        {
+                            "id": 58,
+                            "title": "2.7",
+                            "content": "Viết tin nhắn",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 59,
+                            "title": "BỐ MẸ YÊU THƯƠNG",
+                            "content": "Bài 3: Mẹ",
+                            "numPage": 50
+                        },
+                        {
+                            "id": 60,
+                            "title": "3.1",
+                            "content": "Đọc Mẹ",
+                            "numPage": 50
+                        },
+                        {
+                            "id": 61,
+                            "title": "3.2",
+                            "content": "Viết chữ hoa E, Ê",
+                            "numPage": 51
+                        },
+                        {
+                            "id": 62,
+                            "title": "3.3",
+                            "content": "Từ chỉ sự vật",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 63,
+                            "title": "3.4",
+                            "content": "Dấu chấm",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 64,
+                            "title": "BỐ MẸ YÊU THƯƠNG",
+                            "content": "Bài 4: Con lợn đất",
+                            "numPage": 53
+                        },
+                        {
+                            "id": 65,
+                            "title": "4.1",
+                            "content": "Đọc Con lợn đất",
+                            "numPage": 53
+                        },
+                        {
+                            "id": 66,
+                            "title": "4.2",
+                            "content": "Nhìn – viết Mẹ",
+                            "numPage": 54
+                        },
+                        {
+                            "id": 67,
+                            "title": "4.3",
+                            "content": "Phân biệt c/k; iu/ưu, d/u",
+                            "numPage": 54
+                        },
+                        {
+                            "id": 68,
+                            "title": "4.4",
+                            "content": "Mở rộng vốn từ Gia đình (tiếp theo)",
+                            "numPage": 54
+                        },
+                        {
+                            "id": 69,
+                            "title": "4.5",
+                            "content": "Nghe – kể Sự tích hoa cúc trắng",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 70,
+                            "title": "4.6",
+                            "content": "Luyện tập đặt tên cho bức tranh",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 71,
+                            "title": "ÔNG BÀ YÊU QUÝ",
+                            "content": "Bài 1: Cô chủ nhà tí hon",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 72,
+                            "title": "1.1",
+                            "content": "Đọc Cô chủ nhà tí hon",
+                            "numPage": 58
+                        },
+                        {
+                            "id": 73,
+                            "title": "1.2",
+                            "content": "Viết chữ hoa G",
+                            "numPage": 59
+                        },
+                        {
+                            "id": 74,
+                            "title": "1.3",
+                            "content": "Từ chỉ hoạt động",
+                            "numPage": 60
+                        },
+                        {
+                            "id": 75,
+                            "title": "1.4",
+                            "content": "Câu kiểu Ai làm gì?",
+                            "numPage": 60
+                        },
+                        {
+                            "id": 76,
+                            "title": "ÔNG BÀ YÊU QUÝ",
+                            "content": "Bài 2: Bưu thiếp",
+                            "numPage": 61
+                        },
+                        {
+                            "id": 77,
+                            "title": "2.1",
+                            "content": "Đọc Bưu thiếp",
+                            "numPage": 61
+                        },
+                        {
+                            "id": 78,
+                            "title": "2.2",
+                            "content": "Nhìn – viết Ông tôi",
+                            "numPage": 62
+                        },
+                        {
+                            "id": 79,
+                            "title": "2.3",
+                            "content": "Phân biệt ng/ngh; iu/ưu, g/r",
+                            "numPage": 62
+                        },
+                        {
+                            "id": 80,
+                            "title": "2.4",
+                            "content": "Mở rộng vốn từ Gia đình (tiếp theo)",
+                            "numPage": 63
+                        },
+                        {
+                            "id": 81,
+                            "title": "2.5",
+                            "content": "Nói và đáp lời chào hỏi",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 82,
+                            "title": "2.6",
+                            "content": "Nói, viết lời xin lỗi",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 83,
+                            "title": "ÔNG BÀ YÊU QUÝ",
+                            "content": "Bài 3: Bà nội, bà ngoại",
+                            "numPage": 66
+                        },
+                        {
+                            "id": 84,
+                            "title": "3.1",
+                            "content": "Đọc Bà nội, bà ngoại",
+                            "numPage": 66
+                        },
+                        {
+                            "id": 85,
+                            "title": "3.2",
+                            "content": "Viết chữ hoa H",
+                            "numPage": 67
+                        },
+                        {
+                            "id": 86,
+                            "title": "3.3",
+                            "content": "Từ chỉ hoạt động",
+                            "numPage": 68
+                        },
+                        {
+                            "id": 87,
+                            "title": "3.4",
+                            "content": "Câu kiểu Ai thế nào?",
+                            "numPage": 68
+                        },
+                        {
+                            "id": 88,
+                            "title": "ÔNG BÀ YÊU QUÝ",
+                            "content": "Bài 4: Bà tôi",
+                            "numPage": 69
+                        },
+                        {
+                            "id": 89,
+                            "title": "4.1",
+                            "content": "Đọc Bà tôi",
+                            "numPage": 69
+                        },
+                        {
+                            "id": 90,
+                            "title": "4.2",
+                            "content": "Nghe – viết Bà tôi",
+                            "numPage": 70
+                        },
+                        {
+                            "id": 91,
+                            "title": "4.3",
+                            "content": "Bảng chữ cái. Phân biệt Vn, uôn/uông",
+                            "numPage": 70
+                        },
+                        {
+                            "id": 92,
+                            "title": "4.4",
+                            "content": "Mở rộng vốn từ Gia đình (tiếp theo)",
+                            "numPage": 71
+                        },
+                        {
+                            "id": 93,
+                            "title": "4.5",
+                            "content": "Xem – kể Những quả đào",
+                            "numPage": 72
+                        },
+                        {
+                            "id": 94,
+                            "title": "Ôn tập",
+                            "content": "ÔN TẬP GIỮA HỌC KÌ I",
+                            "numPage": 74
+                        },
+                        {
+                            "id": 95,
+                            "title": "NHỮNG NGƯỜI BẠN NHỎ",
+                            "content": "Bài 1: Cô chủ không biết quý tình bạn",
+                            "numPage": 82
+                        },
+                        {
+                            "id": 96,
+                            "title": "1.1",
+                            "content": "Đọc Cô chủ không biết quý tình bạn",
+                            "numPage": 82
+                        },
+                        {
+                            "id": 97,
+                            "title": "1.2",
+                            "content": "Viết chữ hoa J",
+                            "numPage": 83
+                        },
+                        {
+                            "id": 98,
+                            "title": "1.3",
+                            "content": "Từ chỉ đặc điểm",
+                            "numPage": 84
+                        },
+                        {
+                            "id": 99,
+                            "title": "1.4",
+                            "content": "Dấu chấm hỏi",
+                            "numPage": 84
+                        },
+                        {
+                            "id": 100,
+                            "title": "NHỮNG NGƯỜI BẠN NHỎ",
+                            "content": "Bài 2: Đồng hồ báo thức",
+                            "numPage": 85
+                        },
+                        {
+                            "id": 101,
+                            "title": "2.1",
+                            "content": "Đọc Đồng hồ báo thức",
+                            "numPage": 85
+                        },
+                        {
+                            "id": 102,
+                            "title": "2.2",
+                            "content": "Nghe – viết Đồng hồ báo thức. Phân biệt c/k; ay/ây, âc/",
+                            "numPage": 86
+                        },
+                        {
+                            "id": 103,
+                            "title": "2.3",
+                            "content": "Mở rộng vốn từ Đồ vật",
+                            "numPage": 87
+                        },
+                        {
+                            "id": 104,
+                            "title": "2.4",
+                            "content": "Nói và đáp lời xin lỗi, lời từ chối",
+                            "numPage": 88
+                        },
+                        {
+                            "id": 104,
+                            "title": "2.5",
+                            "content": "Giới thiệu đồ vật quen thuộc",
+                            "numPage": 88
+                        },
+                        {
+                            "id": 106,
+                            "title": "NHỮNG NGƯỜI BẠN NHỎ",
+                            "content": "Bài 3: Đồ đạc trong nhà",
+                            "numPage": 90
+                        },
+                        {
+                            "id": 107,
+                            "title": "3.1",
+                            "content": "Đọc Đồ đạc trong nhà",
+                            "numPage": 90
+                        },
+                        {
+                            "id": 108,
+                            "title": "3.2",
+                            "content": "Viết chữ hoa K",
+                            "numPage": 91
+                        },
+                        {
+                            "id": 109,
+                            "title": "3.3",
+                            "content": "Từ chỉ đặc điểm. Câu kiểu Ai thế nào?",
+                            "numPage": 92
+                        },
+                        {
+                            "id": 110,
+                            "title": "NHỮNG NGƯỜI BẠN NHỎ",
+                            "content": "Bài 4: Cái bàn học của tôi",
+                            "numPage": 93
+                        },
+                        {
+                            "id": 111,
+                            "title": "4.1",
+                            "content": "Đọc Cái bàn học của tôi",
+                            "numPage": 93
+                        },
+                        {
+                            "id": 112,
+                            "title": "4.2",
+                            "content": "Nghe – viết Chị tẩy và em bút chi. Phân biệt c/k; d/r, ươn/ương",
+                            "numPage": 94
+                        },
+                        {
+                            "id": 113,
+                            "title": "4.3",
+                            "content": "Mở rộng vốn từ Đồ vật",
+                            "numPage": 95
+                        },
+                        {
+                            "id": 114,
+                            "title": "4.4",
+                            "content": "Xem – kể Con chó nhà hàng xóm",
+                            "numPage": 96
+                        },
+                        {
+                            "id": 115,
+                            "title": "4.5",
+                            "content": "Luyện tập giới thiệu đồ vật quen thuộc",
+                            "numPage": 97
+                        },
+                        {
+                            "id": 116,
+                            "title": "NGÔI NHÀ THỨ HAI",
+                            "content": "Bài 1: Bàn tay dịu dàng",
+                            "numPage": 98
+                        },
+                        {
+                            "id": 117,
+                            "title": "1.1",
+                            "content": "Đọc Bàn tay dịu dàng",
+                            "numPage": 98
+                        },
+                        {
+                            "id": 118,
+                            "title": "1.2",
+                            "content": "Viết chữ hoa L",
+                            "numPage": 99
+                        },
+                        {
+                            "id": 119,
+                            "title": "1.3",
+                            "content": "Từ chỉ đặc điểm. Dấu chấm than",
+                            "numPage": 100
+                        },
+                        {
+                            "id": 120,
+                            "title": "NGÔI NHÀ THỨ HAI",
+                            "content": "Bài 2: Danh sách tổ em",
+                            "numPage": 101
+                        },
+                        {
+                            "id": 121,
+                            "title": "2.1",
+                            "content": "Đọc Danh sách tổ em",
+                            "numPage": 101
+                        },
+                        {
+                            "id": 122,
+                            "title": "2.2",
+                            "content": "Nghe – viết Bàn tay dịu dàng. Bảng chữ cái. Phân biệt ch/tr, ăc/ặt",
+                            "numPage": 102
+                        },
+                        {
+                            "id": 123,
+                            "title": "2.3",
+                            "content": "Mở rộng vốn từ Trường học",
+                            "numPage": 103
+                        },
+                        {
+                            "id": 124,
+                            "title": "2.4",
+                            "content": "Nói và đáp lời chia buồn, lời chia tay",
+                            "numPage": 104
+                        },
+                        {
+                            "id": 125,
+                            "title": "2.5",
+                            "content": "Luyện tập giới thiệu đồ vật quen thuộc (tiếp theo)",
+                            "numPage": 104
+                        },
+                        {
+                            "id": 126,
+                            "title": "NGÔI NHÀ THỨ HAI",
+                            "content": "Bài 3: Yêu lắm trường ơi!",
+                            "numPage": 83
+                        },
+                        {
+                            "id": 127,
+                            "title": "3.1",
+                            "content": "Đọc Yêu lắm trường ơi!",
+                            "numPage": 106
+                        },
+                        {
+                            "id": 128,
+                            "title": "3.2",
+                            "content": "Viết chữ hoa M",
+                            "numPage": 107
+                        },
+                        {
+                            "id": 129,
+                            "title": "3.3",
+                            "content": "Từ chỉ đặc điểm. Câu kiểu Ai thế nào?",
+                            "numPage": 108
+                        },
+                        {
+                            "id": 130,
+                            "title": "NGÔI NHÀ THỨ HAI",
+                            "content": "Bài 4: Góc nhỏ yêu thương",
+                            "numPage": 109
+                        },
+                        {
+                            "id": 131,
+                            "title": "4.1",
+                            "content": "Đọc Góc nhỏ yêu thương",
+                            "numPage": 109
+                        },
+                        {
+                            "id": 132,
+                            "title": "4.2",
+                            "content": "Nghe – viết Ngôi trường mới. Phân biệt g/gh; au/âu, ac/at",
+                            "numPage": 110
+                        },
+                        {
+                            "id": 133,
+                            "title": "4.3",
+                            "content": "Mở rộng vốn từ Trường học",
+                            "numPage": 111
+                        },
+                        {
+                            "id": 134,
+                            "title": "4.4",
+                            "content": "Nghe – kể Loài chim học xây tổ",
+                            "numPage": 112
+                        },
+                        {
+                            "id": 135,
+                            "title": "4.5",
+                            "content": "Luyện tập giới thiệu đồ vật quen thuộc (tiếp theo)",
+                            "numPage": 113
+                        },
+                        {
+                            "id": 136,
+                            "title": "BẠN THÂN Ở TRƯỜNG",
+                            "content": "Bài 1: Chuyện của thước kẻ",
+                            "numPage": 114
+                        },
+                        {
+                            "id": 137,
+                            "title": "1.1",
+                            "content": "Đọc Chuyện của thước kẻ",
+                            "numPage": 114
+                        },
+                        {
+                            "id": 138,
+                            "title": "1.2",
+                            "content": "Viết chữ hoa N",
+                            "numPage": 115
+                        },
+                        {
+                            "id": 139,
+                            "title": "1.3",
+                            "content": "Từ chỉ sự vật. Câu kiểu Ai thế nào?",
+                            "numPage": 116
+                        },
+                        {
+                            "id": 140,
+                            "title": "BẠN THÂN Ở TRƯỜNG",
+                            "content": "Bài 2: Thời khoá biểu",
+                            "numPage": 117
+                        },
+                        {
+                            "id": 141,
+                            "title": "2.1",
+                            "content": "Đọc Thời khoá biểu",
+                            "numPage": 117
+                        },
+                        {
+                            "id": 142,
+                            "title": "2.2",
+                            "content": "Nghe – viết Chuyện của thước kẻ. Phân biệt g/gh; ch/tr, ao/au",
+                            "numPage": 118
+                        },
+                        {
+                            "id": 143,
+                            "title": "2.3",
+                            "content": "Mở rộng vốn từ Trường học (tiếp theo)",
+                            "numPage": 119
+                        },
+                        {
+                            "id": 144,
+                            "title": "2.4",
+                            "content": "Nói và đáp lời chào, lời khuyên bảo",
+                            "numPage": 120
+                        },
+                        {
+                            "id": 145,
+                            "title": "2.5",
+                            "content": "Tả đồ vật quen thuộc",
+                            "numPage": 120
+                        },
+                        {
+                            "id": 146,
+                            "title": "BẠN THÂN Ở TRƯỜNG",
+                            "content": "Bài 3: Khi trang sách mở ra",
+                            "numPage": 122
+                        },
+                        {
+                            "id": 147,
+                            "title": "3.1",
+                            "content": "Đọc Khi trang sách mở ra ",
+                            "numPage": 122
+                        },
+                        {
+                            "id": 148,
+                            "title": "3.2",
+                            "content": "Viết chữ hoa Q",
+                            "numPage": 123
+                        },
+                        {
+                            "id": 149,
+                            "title": "3.3",
+                            "content": "Từ chỉ sự vật. Câu kiểu Ai thế nào?",
+                            "numPage": 124
+                        },
+                        {
+                            "id": 150,
+                            "title": "BẠN THÂN Ở TRƯỜNG",
+                            "content": "Bài 4: Bạn mới",
+                            "numPage": 125
+                        },
+                        {
+                            "id": 151,
+                            "title": "4.1",
+                            "content": "Đọc Bạn mới",
+                            "numPage": 125
+                        },
+                        {
+                            "id": 152,
+                            "title": "4.2",
+                            "content": "Nghe – viết Mỗi người một vẻ",
+                            "numPage": 126
+                        },
+                        {
+                            "id": 153,
+                            "title": "4.3",
+                            "content": "Phân biệt g/gh; ay/ây, an/ang",
+                            "numPage": 127
+                        },
+                        {
+                            "id": 154,
+                            "title": "4.4",
+                            "content": "Mở rộng vốn từ Trường học (tiếp theo)",
+                            "numPage": 127
+                        },
+                        {
+                            "id": 155,
+                            "title": "4.5",
+                            "content": "Đọc – kể Chuyện của thước kẻ",
+                            "numPage": 128
+                        },
+                        {
+                            "id": 156,
+                            "title": "4.6",
+                            "content": "Luyện tập tả đồ vật quen thuộc",
+                            "numPage": 129
+                        },
+                        {
+                            "id": 157,
+                            "title": "NGHỀ NÀO CŨNG QUÝ",
+                            "content": "Bài 1: Mẹ của Oanh",
+                            "numPage": 130
+                        },
+                        {
+                            "id": 158,
+                            "title": "1.1",
+                            "content": "Đọc Mẹ của Oanh",
+                            "numPage": 130
+                        },
+                        {
+                            "id": 159,
+                            "title": "1.2",
+                            "content": "Viết chữ hoa Ô, Ơ",
+                            "numPage": 131
+                        },
+                        {
+                            "id": 160,
+                            "title": "1.3",
+                            "content": "Từ chỉ hoạt động. Đặt câu hỏi Ở đâu?",
+                            "numPage": 132
+                        },
+                        {
+                            "id": 161,
+                            "title": "NGHỀ NÀO CŨNG QUÝ",
+                            "content": "Bài 2: Mục lục sách",
+                            "numPage": 133
+                        },
+                        {
+                            "id": 162,
+                            "title": "2.1",
+                            "content": "Đọc Mục lục sách",
+                            "numPage": 133
+                        },
+                        {
+                            "id": 163,
+                            "title": "2.2",
+                            "content": "Nghe – viết Mẹ của Oanh. Phân biệt eo/oeo; d/r, ăc/ặt",
+                            "numPage": 134
+                        },
+                        {
+                            "id": 164,
+                            "title": "2.3",
+                            "content": "Mở rộng vốn từ Nghề nghiệp",
+                            "numPage": 135
+                        },
+                        {
+                            "id": 165,
+                            "title": "2.4",
+                            "content": "Nói và đáp lời cảm ơn",
+                            "numPage": 136
+                        },
+                        {
+                            "id": 166,
+                            "title": "2.5",
+                            "content": "Luyện tập tả đồ vật quen thuộc (tiếp theo)",
+                            "numPage": 136
+                        },
+                        {
+                            "id": 167,
+                            "title": "NGHỀ NÀO CŨNG QUÝ",
+                            "content": "Bài 3: Cô giáo lớp em",
+                            "numPage": 138
+                        },
+                        {
+                            "id": 168,
+                            "title": "3.1",
+                            "content": "Đọc Cô giáo lớp em",
+                            "numPage": 138
+                        },
+                        {
+                            "id": 169,
+                            "title": "3.2",
+                            "content": "Viết chữ hoa P",
+                            "numPage": 139
+                        },
+                        {
+                            "id": 170,
+                            "title": "3.3",
+                            "content": "Từ chỉ người, hoạt động. Đặt câu hỏi Ở đâu?",
+                            "numPage": 140
+                        },
+                        {
+                            "id": 171,
+                            "title": "NGHỀ NÀO CŨNG QUÝ",
+                            "content": "Bài 4: Người nặn tò he",
+                            "numPage": 141
+                        },
+                        {
+                            "id": 172,
+                            "title": "4.1",
+                            "content": "Đọc Người nặn tò he",
+                            "numPage": 141
+                        },
+                        {
+                            "id": 173,
+                            "title": "4.2",
+                            "content": "Nghe – viết Vượt qua lốc dữ. Phân biệt ng/ngh; s/x, uôc/uôt",
+                            "numPage": 142
+                        },
+                        {
+                            "id": 174,
+                            "title": "4.3",
+                            "content": "Mở rộng vốn từ Nghề nghiệp",
+                            "numPage": 143
+                        },
+                        {
+                            "id": 175,
+                            "title": "4.4",
+                            "content": "Đọc – kể Mẹ của Oanh",
+                            "numPage": 144
+                        },
+                        {
+                            "id": 176,
+                            "title": "4.5",
+                            "content": "Luyện tập tả đồ vật quen thuộc (tiếp theo)",
+                            "numPage": 145
+                        },
+                        {
+                            "id": 177,
+                            "title": "Ôn tập",
+                            "content": "ÔN TẬP CUỐI HỌC KÌ I",
+                            "numPage": 146
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 20211,
+                "numPage": 157,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "NGUYỄN THỊ LY KHA"
+                ],
+                "bookEditor": [
+                    "NGUYỄN THỊ LY KHA"
+                ],
+                "bookAuthor": [
+                    "NGUYỄN THỊ THU HUYỀN",
+                    "TRỊNH CAM LY",
+                    "PHẠM THỊ KIM OANH",
+                    "BÙI THANH TRUYỀN",
+                    "NGUYỄN THỊ XUÂN YẾN"
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "name": "Tiếng việt 2 - Tập hai",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/images/tiengviet2_tap2.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/pdf/sgk-tieng-viet-lop-2-tap-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 2",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "NƠI CHỐN THÂN QUEN",
+                            "content": "Bài 1: Khu vườn tuổi thơ",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 1,
+                            "title": "1.1",
+                            "content": "Đọc Khu vườn tuổi thơ",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 2,
+                            "title": "1.2",
+                            "content": "Viết chữ hoa 2",
+                            "numPage": 11
+                        },
+                        {
+                            "id": 3,
+                            "title": "1.3",
+                            "content": "Từ chỉ người, chỉ hoạt động. Dấu chấm than",
+                            "numPage": 12
+                        },
+                        {
+                            "id": 4,
+                            "title": "NƠI CHỐN THÂN QUEN",
+                            "content": "Bài 2: Con suối bản tôi",
+                            "numPage": 13
+                        },
+                        {
+                            "id": 5,
+                            "title": "2.1",
+                            "content": "Đọc Con suối bản tôi",
+                            "numPage": 13
+                        },
+                        {
+                            "id": 6,
+                            "title": "2.2",
+                            "content": "Nghe – viết Con suối bản tôi. Phân biệt eo/oe; iêu/ươu, ui/uôi",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 7,
+                            "title": "2.3",
+                            "content": "Mở rộng vốn từ Nơi thân quen",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 8,
+                            "title": "2.4",
+                            "content": "Nói và đáp lời đề nghị, lời đồng ý. Thuật việc được chứng kiến ",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 9,
+                            "title": "NƠI CHỐN THÂN QUEN",
+                            "content": "Bài 3: Con đường làng",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 10,
+                            "title": "3.1",
+                            "content": "Đọc Con đường làng",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 11,
+                            "title": "3.2",
+                            "content": "Viết chữ hoa R",
+                            "numPage": 19
+                        },
+                        {
+                            "id": 12,
+                            "title": "3.3",
+                            "content": "Từ chỉ sự vật. Dấu phẩy",
+                            "numPage": 20
+                        },
+                        {
+                            "id": 13,
+                            "title": "NƠI CHỐN THÂN QUEN",
+                            "content": "Bài 4: Bên cửa sổ",
+                            "numPage": 21
+                        },
+                        {
+                            "id": 14,
+                            "title": "4.1",
+                            "content": "Đọc Bên cửa sổ",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 15,
+                            "title": "4.2",
+                            "content": "Nghe – viết Bên cửa sổ. Viết hoa tên địa lí; phân biệt ch/tr, ong/ông",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 16,
+                            "title": "4.3",
+                            "content": "Mở rộng vốn từ Nơi thân quen (tiếp theo)",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 17,
+                            "title": "4.4",
+                            "content": "Đọc – kể Khu vườn tuổi thơ",
+                            "numPage": 24
+                        },
+                        {
+                            "id": 18,
+                            "title": "4.5",
+                            "content": "Luyện tập thuật việc được chứng kiến",
+                            "numPage": 25
+                        },
+                        {
+                            "id": 19,
+                            "title": "BỐN MÙA TƯƠI ĐẸP",
+                            "content": "Bài 1: Chuyện bốn mùa",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 20,
+                            "title": "1.1",
+                            "content": "Đọc Chuyện bốn mùa",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 21,
+                            "title": "1.2",
+                            "content": "Viết chữ hoa L",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 22,
+                            "title": "1.3",
+                            "content": "Từ chỉ đặc điểm. Câu kiểu Ai thế nào?",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 23,
+                            "title": "BỐN MÙA TƯƠI ĐẸP",
+                            "content": "Bài 2: Đầm sen",
+                            "numPage": 29
+                        },
+                        {
+                            "id": 24,
+                            "title": "2.1",
+                            "content": "Đọc Đầm sen",
+                            "numPage": 29
+                        },
+                        {
+                            "id": 25,
+                            "title": "2.2",
+                            "content": "Nghe – viết Đầm sen. Phân biệt êu/uê; I/n, in/inh",
+                            "numPage": 30
+                        },
+                        {
+                            "id": 26,
+                            "title": "2.3",
+                            "content": "Mở rộng vốn từ Bốn mùa",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 27,
+                            "title": "2.4",
+                            "content": "Nói và đáp lời mời, lời khen ngợi",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 28,
+                            "title": "2.5",
+                            "content": "Luyện tập thuật việc được chứng kiến (tiếp theo)",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 29,
+                            "title": "BỐN MÙA TƯƠI ĐẸP",
+                            "content": "Bài 3: Dàn nhạc mùa hè",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 30,
+                            "title": "3.1",
+                            "content": "Đọc Dàn nhạc mùa hè",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 31,
+                            "title": "3.2",
+                            "content": "Viết chữ hoa T",
+                            "numPage": 35
+                        },
+                        {
+                            "id": 32,
+                            "title": "3.3",
+                            "content": "Từ chỉ đặc điểm. Dấu chấm",
+                            "numPage": 36
+                        },
+                        {
+                            "id": 33,
+                            "title": "BỐN MÙA TƯƠI ĐẸP",
+                            "content": "Bài 4: Mùa đông ở vùng cao",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 34,
+                            "title": "4.1",
+                            "content": "Đọc Mùa đông ở vùng cao",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 35,
+                            "title": "4.2",
+                            "content": "Nghe – viết Mưa cuối mùa. Phân biệt d/gi; iu/iêu, oăn/oăng",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 36,
+                            "title": "4.3",
+                            "content": "Mở rộng vốn từ Bốn mùa (tiếp theo)",
+                            "numPage": 39
+                        },
+                        {
+                            "id": 37,
+                            "title": "4.4",
+                            "content": "Nghe – kể Sự tích mùa xuân và bộ lông trắng của thỏ",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 38,
+                            "title": "4.5",
+                            "content": "Luyện tập thuật việc được chứng kiến (tiếp theo)",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 39,
+                            "title": "THIÊN NHIÊN MUÔN MÀU",
+                            "content": "Bài 1: Chuyện của vàng anh",
+                            "numPage": 42
+                        },
+                        {
+                            "id": 40,
+                            "title": "1.1",
+                            "content": "Đọc Chuyện của vàng anh",
+                            "numPage": 42
+                        },
+                        {
+                            "id": 41,
+                            "title": "1.2",
+                            "content": "Viết chữ hoa U Ư",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 42,
+                            "title": "1.3",
+                            "content": "Từ chỉ sự vật. Câu kiểu Ai làm gì?",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 43,
+                            "title": "THIÊN NHIÊN MUÔN MÀU",
+                            "content": "Bài 2: Ong xây tổ",
+                            "numPage": 45
+                        },
+                        {
+                            "id": 44,
+                            "title": "2.2",
+                            "content": "Đọc Ông xây tổ",
+                            "numPage": 45
+                        },
+                        {
+                            "id": 45,
+                            "title": "2.3",
+                            "content": "Nghe – viết Ong xây tổ. Phân biệt ua/uơ; r/d/gi, ên/ênh",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 46,
+                            "title": "2.4",
+                            "content": "Mở rộng vốn từ Thiên nhiên",
+                            "numPage": 47
+                        },
+                        {
+                            "id": 47,
+                            "title": "2.5",
+                            "content": "Nói và đáp lời đồng ý, lời không đồng ý",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 48,
+                            "title": "2.6",
+                            "content": "Thuật việc được tham gia",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 49,
+                            "title": "THIÊN NHIÊN MUÔN MÀU",
+                            "content": "Bài 3: Trái chín",
+                            "numPage": 50
+                        },
+                        {
+                            "id": 50,
+                            "title": "3.1",
+                            "content": "Đọc Trái chín",
+                            "numPage": 50
+                        },
+                        {
+                            "id": 51,
+                            "title": "3.2",
+                            "content": "Viết chữ hoa V",
+                            "numPage": 51
+                        },
+                        {
+                            "id": 52,
+                            "title": "3.2",
+                            "content": "Từ chỉ đặc điểm. Câu kiểu Ai thế nào?; dấu chấm, dấu chấm than",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 53,
+                            "title": "THIÊN NHIÊN MUÔN MÀU",
+                            "content": "Bài 4: Hoa mai vàng",
+                            "numPage": 53
+                        },
+                        {
+                            "id": 54,
+                            "title": "4.1",
+                            "content": "Đọc Hoa mai vàng",
+                            "numPage": 53
+                        },
+                        {
+                            "id": 55,
+                            "title": "4.2",
+                            "content": "Nghe – viết Hoa mai vàng. Phân biệt ao/oa; ch/tr, ich/it",
+                            "numPage": 54
+                        },
+                        {
+                            "id": 56,
+                            "title": "4.3",
+                            "content": "Mở rộng vốn từ Thiên nhiên (tiếp theo)",
+                            "numPage": 55
+                        },
+                        {
+                            "id": 57,
+                            "title": "4.4",
+                            "content": "Nghe – kể Sự tích cả thờn bơn",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 58,
+                            "title": "4.5",
+                            "content": "Luyện tập thuật việc được tham gia",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 59,
+                            "title": "SẮC MÀU QUÊ HƯƠNG",
+                            "content": "Bài 1: Quê mình đẹp nhất",
+                            "numPage": 58
+                        },
+                        {
+                            "id": 60,
+                            "title": "1.1",
+                            "content": "Đọc Quê mình đẹp nhất",
+                            "numPage": 58
+                        },
+                        {
+                            "id": 61,
+                            "title": "1.2",
+                            "content": "Viết chữ hoa X",
+                            "numPage": 59
+                        },
+                        {
+                            "id": 62,
+                            "title": "1.3",
+                            "content": "Từ chỉ hoạt động. Dấu chấm than",
+                            "numPage": 60
+                        },
+                        {
+                            "id": 63,
+                            "title": "SẮC MÀU QUÊ HƯƠNG",
+                            "content": "Bài 2: Rừng ngập mặn Cà Mau",
+                            "numPage": 61
+                        },
+                        {
+                            "id": 64,
+                            "title": "2.1",
+                            "content": "Đọc Rừng ngập mặn Cà Mau",
+                            "numPage": 61
+                        },
+                        {
+                            "id": 65,
+                            "title": "2.2",
+                            "content": "Nghe – viết Rừng ngập mặn Cà Mau. Viết hoa tên địa lí; phân biệt r/d/gi, im/iêm",
+                            "numPage": 62
+                        },
+                        {
+                            "id": 66,
+                            "title": "2.3",
+                            "content": "Mở rộng vốn từ Quê hương",
+                            "numPage": 63
+                        },
+                        {
+                            "id": 67,
+                            "title": "2.4",
+                            "content": "Nói và đáp lời cảm ơn",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 68,
+                            "title": "2.5",
+                            "content": "Luyện tập thuật việc được tham gia (tiếp theo)",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 69,
+                            "title": "SẮC MÀU QUÊ HƯƠNG",
+                            "content": "Bài 3: Mùa lúa chín",
+                            "numPage": 66
+                        },
+                        {
+                            "id": 70,
+                            "title": "3.1",
+                            "content": "Đọc Mùa lúa chín",
+                            "numPage": 66
+                        },
+                        {
+                            "id": 71,
+                            "title": "3.2",
+                            "content": "Viết chữ hoa Y",
+                            "numPage": 67
+                        },
+                        {
+                            "id": 72,
+                            "title": "3.2",
+                            "content": "Từ chỉ sự vật, chỉ đặc điểm. Câu kiểu Ai thế nào?",
+                            "numPage": 68
+                        },
+                        {
+                            "id": 73,
+                            "title": "SẮC MÀU QUÊ HƯƠNG",
+                            "content": "Bài 4: Sông Hương",
+                            "numPage": 69
+                        },
+                        {
+                            "id": 74,
+                            "title": "4.1",
+                            "content": "Đọc Sông Hương",
+                            "numPage": 69
+                        },
+                        {
+                            "id": 75,
+                            "title": "4.2",
+                            "content": "Nghe – viết Sông Hương. Phân biệt eo/oe; iu/iêu, an/ang",
+                            "numPage": 70
+                        },
+                        {
+                            "id": 76,
+                            "title": "4.3",
+                            "content": "Mở rộng vốn từ Quê hương (tiếp theo)",
+                            "numPage": 71
+                        },
+                        {
+                            "id": 77,
+                            "title": "4.4",
+                            "content": "Nghe – kể Sự tích Hồ Gươm",
+                            "numPage": 72
+                        },
+                        {
+                            "id": 78,
+                            "title": "4.5",
+                            "content": "Luyện tập thuật việc được tham gia (tiếp theo)",
+                            "numPage": 73
+                        },
+                        {
+                            "id": 79,
+                            "title": "Ôn tập",
+                            "content": "ÔN TẬP GIỮA HỌC KÌ II",
+                            "numPage": 74
+                        },
+                        {
+                            "id": 80,
+                            "title": "BÁC HỒ KÍNH YÊU",
+                            "content": "Bài 1: Ai ngoan sẽ được thưởng",
+                            "numPage": 82
+                        },
+                        {
+                            "id": 81,
+                            "title": "1.1",
+                            "content": "Đọc Ai ngoan sẽ được thưởng",
+                            "numPage": 82
+                        },
+                        {
+                            "id": 82,
+                            "title": "1.2",
+                            "content": "Viết chữ hoa A",
+                            "numPage": 83
+                        },
+                        {
+                            "id": 83,
+                            "title": "1.3",
+                            "content": "Từ chỉ đặc điểm. Câu kiểu Ai thế nào?",
+                            "numPage": 84
+                        },
+                        {
+                            "id": 84,
+                            "title": "BÁC HỒ KÍNH YÊU",
+                            "content": "Bài 2: Thư Trung thu",
+                            "numPage": 85
+                        },
+                        {
+                            "id": 85,
+                            "title": "2.1",
+                            "content": "Đọc Thư Trung thu",
+                            "numPage": 85
+                        },
+                        {
+                            "id": 86,
+                            "title": "2.2",
+                            "content": "Nghe – viết Thư Trung thu. Phân biệt uy/ugu; I/n, ươn/ương",
+                            "numPage": 86
+                        },
+                        {
+                            "id": 87,
+                            "title": "2.3",
+                            "content": "Mở rộng vốn từ Bác Hồ kính yêu",
+                            "numPage": 87
+                        },
+                        {
+                            "id": 88,
+                            "title": "2.4",
+                            "content": "Nói và đáp lời từ chối, lời bày tỏ sự ngạc nhiên, vui mừng",
+                            "numPage": 88
+                        },
+                        {
+                            "id": 89,
+                            "title": "2.5",
+                            "content": "Nói, viết về tình cảm với người em yêu quý",
+                            "numPage": 88
+                        },
+                        {
+                            "id": 90,
+                            "title": "BÁC HỒ KÍNH YÊU",
+                            "content": "Bài 3: Cháu thăm nhà Bác",
+                            "numPage": 90
+                        },
+                        {
+                            "id": 91,
+                            "title": "3.1",
+                            "content": "Đọc Cháu thăm nhà Bác",
+                            "numPage": 90
+                        },
+                        {
+                            "id": 92,
+                            "title": "3.2",
+                            "content": "Viết chữ hoa Ă",
+                            "numPage": 91
+                        },
+                        {
+                            "id": 93,
+                            "title": "3.3",
+                            "content": "Từ chỉ tình cảm. Câu kiểu Ai làm gì?, Ai thế nào?",
+                            "numPage": 92
+                        },
+                        {
+                            "id": 94,
+                            "title": "BÁC HỒ KÍNH YÊU",
+                            "content": "Bài 4: Cây và hoa bên lăng Bác",
+                            "numPage": 93
+                        },
+                        {
+                            "id": 95,
+                            "title": "4.1",
+                            "content": "Đọc Cây và hoa bên lăng Bác",
+                            "numPage": 93
+                        },
+                        {
+                            "id": 96,
+                            "title": "4.2",
+                            "content": "Nghe – viết Cây và hoa bên lăng Bác. Phân biệt ui/uy; s/x, ic/ut",
+                            "numPage": 94
+                        },
+                        {
+                            "id": 97,
+                            "title": "4.3",
+                            "content": "Mở rộng vốn từ Bác Hồ kính yêu (tiếp theo)",
+                            "numPage": 95
+                        },
+                        {
+                            "id": 98,
+                            "title": "4.4",
+                            "content": "Đọc – kể Ai ngoan sẽ được thưởng",
+                            "numPage": 96
+                        },
+                        {
+                            "id": 99,
+                            "title": "4.5",
+                            "content": "Nói, viết về tình cảm với bạn bè",
+                            "numPage": 97
+                        },
+                        {
+                            "id": 100,
+                            "title": "VIỆT NAM MẾN YÊU",
+                            "content": "Bài 1: Chuyện quả bầu",
+                            "numPage": 98
+                        },
+                        {
+                            "id": 101,
+                            "title": "1.1",
+                            "content": "Đọc Chuyện quả bầu",
+                            "numPage": 98
+                        },
+                        {
+                            "id": 102,
+                            "title": "1.2",
+                            "content": "Viết chữ hoa Â",
+                            "numPage": 99
+                        },
+                        {
+                            "id": 103,
+                            "title": "1.3",
+                            "content": "Từ chỉ sự vật, chỉ đặc điểm. Dấu chấm, dấu phẩy",
+                            "numPage": 100
+                        },
+                        {
+                            "id": 104,
+                            "title": "VIỆT NAM MẾN YÊU",
+                            "content": "Bài 2: Sóng và cát ở Trường Sa",
+                            "numPage": 101
+                        },
+                        {
+                            "id": 105,
+                            "title": "2.1",
+                            "content": "Đọc Sóng và cát ở Trường Sa",
+                            "numPage": 101
+                        },
+                        {
+                            "id": 106,
+                            "title": "2.2",
+                            "content": "Nghe – viết Chim rừng Tây Nguyên. Phân biệt d/gi; iêu/ươu, oan/oang",
+                            "numPage": 102
+                        },
+                        {
+                            "id": 107,
+                            "title": "2.3",
+                            "content": "Mở rộng vốn từ Đất nước",
+                            "numPage": 103
+                        },
+                        {
+                            "id": 108,
+                            "title": "2.4",
+                            "content": "Nói và đáp lời an ủi, lời mời",
+                            "numPage": 104
+                        },
+                        {
+                            "id": 109,
+                            "title": "2.5",
+                            "content": "Nói, viết về tình cảm với người thân",
+                            "numPage": 104
+                        },
+                        {
+                            "id": 110,
+                            "title": "VIỆT NAM MẾN YÊU",
+                            "content": "Bài 3: Cây dừa",
+                            "numPage": 106
+                        },
+                        {
+                            "id": 111,
+                            "title": "3.1",
+                            "content": "Đọc Cây dừa",
+                            "numPage": 106
+                        },
+                        {
+                            "id": 112,
+                            "title": "3.2",
+                            "content": "Viết chữ hoa Q",
+                            "numPage": 107
+                        },
+                        {
+                            "id": 113,
+                            "title": "3.3",
+                            "content": "Từ chỉ sự vật, chỉ hoạt động. Câu kiểu Ai làm gì?; dấu chấm, dấu phẩy",
+                            "numPage": 108
+                        },
+                        {
+                            "id": 114,
+                            "title": "VIỆT NAM MẾN YÊU",
+                            "content": "Bài 4: Tôi yêu Sài Gòn",
+                            "numPage": 109
+                        },
+                        {
+                            "id": 115,
+                            "title": "4.1",
+                            "content": "Đọc Tôi yêu Sài Gòn",
+                            "numPage": 109
+                        },
+                        {
+                            "id": 116,
+                            "title": "4.2",
+                            "content": "Nghe – viết Tôi yêu Sài Gòn. Phân biệt eo/oe; s/x, ac/at",
+                            "numPage": 110
+                        },
+                        {
+                            "id": 117,
+                            "title": "4.3",
+                            "content": "Mở rộng vốn từ Đất nước (tiếp theo)",
+                            "numPage": 111
+                        },
+                        {
+                            "id": 118,
+                            "title": "4.4",
+                            "content": "Đọc – kể Chuyện quả bầu",
+                            "numPage": 112
+                        },
+                        {
+                            "id": 119,
+                            "title": "4.5",
+                            "content": "Luyện tập nói, viết về tình cảm với người thân",
+                            "numPage": 113
+                        },
+                        {
+                            "id": 120,
+                            "title": "BÀI CA TRÁI ĐẤT",
+                            "content": "Bài 1: Cây nhút nhát",
+                            "numPage": 114
+                        },
+                        {
+                            "id": 121,
+                            "title": "1.1",
+                            "content": "Đọc Cây nhút nhát",
+                            "numPage": 114
+                        },
+                        {
+                            "id": 122,
+                            "title": "1.2",
+                            "content": "Viết chữ hoa N",
+                            "numPage": 115
+                        },
+                        {
+                            "id": 123,
+                            "title": "1.3",
+                            "content": "Từ chỉ đặc điểm. Câu kiểu Ai thế nào?",
+                            "numPage": 116
+                        },
+                        {
+                            "id": 124,
+                            "title": "BÀI CA TRÁI ĐẤT",
+                            "content": "Bài 2: Bạn có biết?",
+                            "numPage": 117
+                        },
+                        {
+                            "id": 125,
+                            "title": "2.1",
+                            "content": "Đọc Bạn có biết?",
+                            "numPage": 117
+                        },
+                        {
+                            "id": 126,
+                            "title": "2.2",
+                            "content": "Nghe – viết Cây nhút nhát. Phân biệt eo/oe; ch/tr, an/ang",
+                            "numPage": 118
+                        },
+                        {
+                            "id": 127,
+                            "title": "2.3",
+                            "content": "Mở rộng vốn từ Trái Đất",
+                            "numPage": 119
+                        },
+                        {
+                            "id": 128,
+                            "title": "2.4",
+                            "content": "Nói và đáp lời không đồng ý, lời đề nghị",
+                            "numPage": 120
+                        },
+                        {
+                            "id": 129,
+                            "title": "2.5",
+                            "content": "Nói, viết về tình cảm với một sự việc",
+                            "numPage": 120
+                        },
+                        {
+                            "id": 130,
+                            "title": "BÀI CA TRÁI ĐẤT",
+                            "content": "Bài 3: Trái Đất xanh của em",
+                            "numPage": 122
+                        },
+                        {
+                            "id": 131,
+                            "title": "3.1",
+                            "content": "Đọc Trái Đất xanh của em",
+                            "numPage": 122
+                        },
+                        {
+                            "id": 132,
+                            "title": "3.2",
+                            "content": "Viết chữ hoa M",
+                            "numPage": 123
+                        },
+                        {
+                            "id": 133,
+                            "title": "3.3",
+                            "content": "Từ chỉ sự vật. Câu kiểu Ai là gì?",
+                            "numPage": 124
+                        },
+                        {
+                            "id": 134,
+                            "title": "BÀI CA TRÁI ĐẤT",
+                            "content": "Bài 4: Hừng đông mặt biển",
+                            "numPage": 125
+                        },
+                        {
+                            "id": 135,
+                            "title": "4.1",
+                            "content": "Đọc Hừng đông mặt biển",
+                            "numPage": 125
+                        },
+                        {
+                            "id": 136,
+                            "title": "4.2",
+                            "content": "Nghe – viết Hừng đông mặt biển. Phân biệt ui/uy; r/d/gi, iêc/iêt",
+                            "numPage": 126
+                        },
+                        {
+                            "id": 137,
+                            "title": "4.3",
+                            "content": "Mở rộng vốn từ Trái Đất (tiếp theo)",
+                            "numPage": 127
+                        },
+                        {
+                            "id": 138,
+                            "title": "4.4",
+                            "content": "Nghe – kể Chuyện của cây sồi",
+                            "numPage": 128
+                        },
+                        {
+                            "id": 139,
+                            "title": "4.5",
+                            "content": "Luyện tập nói, viết về tình cảm với một sự việc",
+                            "numPage": 129
+                        },
+                        {
+                            "id": 140,
+                            "title": "BÀI CA TRÁI ĐẤT",
+                            "content": "Bài 5: Bạn biết phân loại rác không?",
+                            "numPage": 130
+                        },
+                        {
+                            "id": 141,
+                            "title": "5.1",
+                            "content": "Đọc Bạn biết phân loại rác không?",
+                            "numPage": 130
+                        },
+                        {
+                            "id": 142,
+                            "title": "5.2",
+                            "content": "Viết chữ hoa V",
+                            "numPage": 131
+                        },
+                        {
+                            "id": 143,
+                            "title": "5.3",
+                            "content": "Từ chỉ sự vật, hoạt động. Câu kiểu Ai làm gì?",
+                            "numPage": 132
+                        },
+                        {
+                            "id": 144,
+                            "title": "BÀI CA TRÁI ĐẤT",
+                            "content": "Bài 6: Cuộc giải cứu bên bờ biển",
+                            "numPage": 133
+                        },
+                        {
+                            "id": 145,
+                            "title": "6.1",
+                            "content": "Đọc Cuộc giải cứu bên bờ biển",
+                            "numPage": 133
+                        },
+                        {
+                            "id": 146,
+                            "title": "6.2",
+                            "content": "Nghe – viết Rừng trưa. Phân biệt d/gi; ch/tr, dấu hỏi/ dấu ngã",
+                            "numPage": 134
+                        },
+                        {
+                            "id": 147,
+                            "title": "6.3",
+                            "content": "Mở rộng vốn từ Trái Đất (tiếp theo)",
+                            "numPage": 135
+                        },
+                        {
+                            "id": 148,
+                            "title": "6.4",
+                            "content": "Xem – kể Ngày như thế nào là đẹp?",
+                            "numPage": 136
+                        },
+                        {
+                            "id": 149,
+                            "title": "6.5",
+                            "content": "Luyện tập nói, viết về tình cảm với một sự việc (tiếp theo)",
+                            "numPage": 137
+                        },
+                        {
+                            "id": 150,
+                            "title": "Ôn tập",
+                            "content": "ÔN TẬP CUỐI HỌC KÌ II",
+                            "numPage": 138
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2021,
+                "numPage": 149,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "NGUYỄN THỊ LY KHA"
+                ],
+                "bookEditor": [
+                    "NGUYỄN THỊ LY KHA"
+                ],
+                "bookAuthor": [
+                    "NGUYỄN THÀNH NGỌC BẢO",
+                    "TRỊNH CAM LY",
+                    "PHẠM THỊ KIM OANH",
+                    "BÙI THANH TRUYỀN",
+                    "NGUYỄN THỊ XUÂN YẾN"
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "name": "Toán 2 - Tập một",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/images/toan2_tap1.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/pdf/sgk-toan-lop-2-tap-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 2",
+                    "bookTables": [
+                        {
+                            "id": 1,
+                            "title": "1",
+                            "content": "ÔN TẬP VÀ BỔ SUNG",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 2,
+                            "title": "1.1",
+                            "content": "Ôn tập các số đến 100",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 3,
+                            "title": "1.2",
+                            "content": "Ước lượng..",
+                            "numPage": 11
+                        },
+                        {
+                            "id": 4,
+                            "title": "1.3",
+                            "content": "Số hạng – Tổng",
+                            "numPage": 13
+                        },
+                        {
+                            "id": 5,
+                            "title": "1.4",
+                            "content": "Số bị trừ – Số trừ – Hiệu",
+                            "numPage": 17
+                        },
+                        {
+                            "id": 6,
+                            "title": "1.5",
+                            "content": "Nhiều hơn hay ít hơn bao nhiêu",
+                            "numPage": 19
+                        },
+                        {
+                            "id": 7,
+                            "title": "1.6",
+                            "content": "Em làm được những gì?",
+                            "numPage": 21
+                        },
+                        {
+                            "id": 8,
+                            "title": "1.7",
+                            "content": "Điểm – Đoạn thẳng",
+                            "numPage": 24
+                        },
+                        {
+                            "id": 9,
+                            "title": "1.8",
+                            "content": "Tia số – Số liền trước, số liền sau",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 10,
+                            "title": "1.9",
+                            "content": "Đề-xi-mét",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 11,
+                            "title": "1.10",
+                            "content": "Em làm được những gì?",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 12,
+                            "title": "1.11",
+                            "content": "Thực hành và trải nghiệm: Tìm hiểu về chiều cao của cây ở trường em",
+                            "numPage": 36
+                        },
+                        {
+                            "id": 13,
+                            "title": "2",
+                            "content": "PHÉP CỘNG, PHÉP TRỪ QUA 10 TRONG PHẠM VI 20",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 14,
+                            "title": "2.1",
+                            "content": "Phép cộng có tổng bằng 10",
+                            "numPage": 39
+                        },
+                        {
+                            "id": 15,
+                            "title": "2.2",
+                            "content": "9 cộng với một số",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 16,
+                            "title": "2.3",
+                            "content": "8 cộng với một số",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 17,
+                            "title": "2.4",
+                            "content": "7 cộng với một số, 6 cộng với một số",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 18,
+                            "title": "2.5",
+                            "content": "Bảng cộng",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 19,
+                            "title": "2.6",
+                            "content": "Đường thẳng – Đường cong",
+                            "numPage": 50
+                        },
+                        {
+                            "id": 20,
+                            "title": "2.7",
+                            "content": "Đường gấp khúc",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 21,
+                            "title": "2.8",
+                            "content": "Ba điểm thẳng hàng",
+                            "numPage": 54
+                        },
+                        {
+                            "id": 22,
+                            "title": "2.9",
+                            "content": "Em làm được những gì?",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 23,
+                            "title": "2.10",
+                            "content": "Phép trừ có hiệu bằng 10",
+                            "numPage": 59
+                        },
+                        {
+                            "id": 24,
+                            "title": "2.11",
+                            "content": "11 trừ đi một số",
+                            "numPage": 60
+                        },
+                        {
+                            "id": 25,
+                            "title": "2.12",
+                            "content": "12 trừ đi một số",
+                            "numPage": 62
+                        },
+                        {
+                            "id": 26,
+                            "title": "2.13",
+                            "content": "13 trừ đi một số",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 27,
+                            "title": "2.14",
+                            "content": "14, 15, 16, 17, 18 trừ đi một số",
+                            "numPage": 65
+                        },
+                        {
+                            "id": 28,
+                            "title": "2.15",
+                            "content": "Bảng trừ",
+                            "numPage": 67
+                        },
+                        {
+                            "id": 29,
+                            "title": "2.16",
+                            "content": "Em giải bài toán",
+                            "numPage": 71
+                        },
+                        {
+                            "id": 30,
+                            "title": "2.17",
+                            "content": "Bài toán nhiều hơn",
+                            "numPage": 73
+                        },
+                        {
+                            "id": 31,
+                            "title": "2.18",
+                            "content": "Bài toán ít hơn",
+                            "numPage": 74
+                        },
+                        {
+                            "id": 32,
+                            "title": "2.19",
+                            "content": "Đựng nhiều nước, đựng ít nước",
+                            "numPage": 75
+                        },
+                        {
+                            "id": 33,
+                            "title": "2.20",
+                            "content": "Lit",
+                            "numPage": 76
+                        },
+                        {
+                            "id": 34,
+                            "title": "2.21",
+                            "content": "Em làm được những gì?",
+                            "numPage": 77
+                        },
+                        {
+                            "id": 35,
+                            "title": "2.22",
+                            "content": "Thực hành và trải nghiệm: Chơi cắm cờ",
+                            "numPage": 81
+                        },
+                        {
+                            "id": 36,
+                            "title": "3",
+                            "content": "PHÉP CỘNG, PHÉP TRỪ CÓ NHỚ TRONG PHẠM VI 100",
+                            "numPage": 82
+                        },
+                        {
+                            "id": 37,
+                            "title": "3.1",
+                            "content": "Phép cộng có tổng là số tròn chục",
+                            "numPage": 83
+                        },
+                        {
+                            "id": 38,
+                            "title": "3.2",
+                            "content": "Phép cộng có nhớ trong phạm vi 100",
+                            "numPage": 86
+                        },
+                        {
+                            "id": 39,
+                            "title": "3.3",
+                            "content": "Em làm được những gì?",
+                            "numPage": 89
+                        },
+                        {
+                            "id": 40,
+                            "title": "3.4",
+                            "content": "Phép trừ có số bị trừ là số tròn chục",
+                            "numPage": 91
+                        },
+                        {
+                            "id": 41,
+                            "title": "3.5",
+                            "content": "Phép trừ có nhớ trong phạm vi 100",
+                            "numPage": 93
+                        },
+                        {
+                            "id": 42,
+                            "title": "3.6",
+                            "content": "Em làm được những gì?",
+                            "numPage": 96
+                        },
+                        {
+                            "id": 43,
+                            "title": "3.7",
+                            "content": "Thu thập, phân loại, kiểm đếm",
+                            "numPage": 98
+                        },
+                        {
+                            "id": 44,
+                            "title": "3.8",
+                            "content": "Biểu đồ tranh",
+                            "numPage": 99
+                        },
+                        {
+                            "id": 45,
+                            "title": "3.9",
+                            "content": "Có thể, chắc chắn, không thể",
+                            "numPage": 105
+                        },
+                        {
+                            "id": 46,
+                            "title": "3.10",
+                            "content": "Ngày, giờ",
+                            "numPage": 106
+                        },
+                        {
+                            "id": 47,
+                            "title": "3.11",
+                            "content": "Ngày, tháng",
+                            "numPage": 110
+                        },
+                        {
+                            "id": 48,
+                            "title": "3.12",
+                            "content": "Em làm được những gì?",
+                            "numPage": 112
+                        },
+                        {
+                            "id": 49,
+                            "title": "4",
+                            "content": "ÔN TẬP HỌC KÌ 1",
+                            "numPage": 115
+                        },
+                        {
+                            "id": 50,
+                            "title": "4.1",
+                            "content": "Thực hành và trải nghiệm: Đi tàu trên sông",
+                            "numPage": 127
+                        },
+                        {
+                            "id": 51,
+                            "title": "4.2",
+                            "content": "Bảng thuật ngữ",
+                            "numPage": 131
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2021,
+                "numPage": 133,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "TRẦN NAM DŨNG"
+                ],
+                "bookEditor": [
+                    "KHÚC THÀNH CHÍNH"
+                ],
+                "bookAuthor": [
+                    "ĐINH THỊ XUÂN DUNG",
+                    "NGUYỄN KÍNH ĐỨC",
+                    "ĐINH THỊ KIM LAN",
+                    "HUỲNH THỊ KIM TRANG"
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "name": "Toán 2 - Tập hai",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/images/toan2_tap2.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/pdf/sgk-toan-lop-2-tap-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 2",
+                    "bookTables": [
+                        {
+                            "id": 1,
+                            "title": "1",
+                            "content": "PHÉP NHÂN, PHÉP CHIA",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 2,
+                            "title": "1.1",
+                            "content": "Tổng các số hạng bằng nhau",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 3,
+                            "title": "1.2",
+                            "content": "Phép nhân",
+                            "numPage": 9
+                        },
+                        {
+                            "id": 4,
+                            "title": "1.3",
+                            "content": "Thừa số – Tích",
+                            "numPage": 13
+                        },
+                        {
+                            "id": 5,
+                            "title": "1.4",
+                            "content": "Bảng nhân 2",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 6,
+                            "title": "1.5",
+                            "content": "Bảng nhân 5",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 7,
+                            "title": "1.6",
+                            "content": "Phép chia",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 8,
+                            "title": "1.7",
+                            "content": "Số bị chia – Số chia – Thương",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 9,
+                            "title": "1.8",
+                            "content": "Bảng chia 2",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 10,
+                            "title": "1.9",
+                            "content": "Bảng chia 5",
+                            "numPage": 25
+                        },
+                        {
+                            "id": 11,
+                            "title": "1.10",
+                            "content": "Giờ, phút, xem đồng hồ",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 12,
+                            "title": "1.11",
+                            "content": "Em làm được những gì?",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 13,
+                            "title": "1.12",
+                            "content": "Thực hành và trải nghiệm: Bạn đến nơi nào?",
+                            "numPage": 35
+                        },
+                        {
+                            "id": 14,
+                            "title": "2",
+                            "content": "CÁC SỐ ĐẾN 1000",
+                            "numPage": 36
+                        },
+                        {
+                            "id": 15,
+                            "title": "2.1",
+                            "content": "Đơn vị, chục, trăm, nghìn",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 16,
+                            "title": "2.2",
+                            "content": "Các số từ 101 đến 110",
+                            "numPage": 42
+                        },
+                        {
+                            "id": 17,
+                            "title": "2.3",
+                            "content": "Các số từ 111 đến 200",
+                            "numPage": 45
+                        },
+                        {
+                            "id": 18,
+                            "title": "2.4",
+                            "content": "Các số có ba chữ số",
+                            "numPage": 47
+                        },
+                        {
+                            "id": 19,
+                            "title": "2.5",
+                            "content": "Viết số thành tổng các trăm, chục, đơn vị",
+                            "numPage": 51
+                        },
+                        {
+                            "id": 20,
+                            "title": "2.6",
+                            "content": "So sánh các số có ba chữ số",
+                            "numPage": 53
+                        },
+                        {
+                            "id": 21,
+                            "title": "2.7",
+                            "content": "Em làm được những gì?",
+                            "numPage": 55
+                        },
+                        {
+                            "id": 22,
+                            "title": "2.8",
+                            "content": "Mét",
+                            "numPage": 59
+                        },
+                        {
+                            "id": 23,
+                            "title": "2.9",
+                            "content": "Ki-lô-mét",
+                            "numPage": 63
+                        },
+                        {
+                            "id": 24,
+                            "title": "2.10",
+                            "content": "Khối trụ – Khối cầu",
+                            "numPage": 66
+                        },
+                        {
+                            "id": 25,
+                            "title": "2.11",
+                            "content": "Hình tứ giác",
+                            "numPage": 70
+                        },
+                        {
+                            "id": 26,
+                            "title": "2.12",
+                            "content": "Xếp hình, gấp hình",
+                            "numPage": 71
+                        },
+                        {
+                            "id": 27,
+                            "title": "2.13",
+                            "content": "Em làm được những gì?",
+                            "numPage": 73
+                        },
+                        {
+                            "id": 28,
+                            "title": "2.14",
+                            "content": "Thực hành và trải nghiệm: Đo bằng gang tay để biết vật dài bao nhiêu mét",
+                            "numPage": 77
+                        },
+                        {
+                            "id": 29,
+                            "title": "3",
+                            "content": "PHÉP CỘNG, PHÉP TRỪ TRONG PHẠM VI 1000",
+                            "numPage": 78
+                        },
+                        {
+                            "id": 30,
+                            "title": "3.1",
+                            "content": "Phép cộng không nhớ trong phạm vi 1000",
+                            "numPage": 79
+                        },
+                        {
+                            "id": 31,
+                            "title": "3.2",
+                            "content": "Phép trừ không nhớ trong phạm vi 1000",
+                            "numPage": 82
+                        },
+                        {
+                            "id": 32,
+                            "title": "3.3",
+                            "content": "Nặng hơn, nhẹ hơn",
+                            "numPage": 85
+                        },
+                        {
+                            "id": 33,
+                            "title": "3.4",
+                            "content": "Ki-lô-gam",
+                            "numPage": 87
+                        },
+                        {
+                            "id": 34,
+                            "title": "3.5",
+                            "content": "Phép cộng có nhớ trong phạm vi 1000",
+                            "numPage": 89
+                        },
+                        {
+                            "id": 35,
+                            "title": "3.6",
+                            "content": "Phép trừ có nhớ trong phạm vi 1000",
+                            "numPage": 92
+                        },
+                        {
+                            "id": 36,
+                            "title": "3.7",
+                            "content": "Tiền Việt Nam",
+                            "numPage": 95
+                        },
+                        {
+                            "id": 37,
+                            "title": "3.8",
+                            "content": "Em làm được những gì?",
+                            "numPage": 96
+                        },
+                        {
+                            "id": 38,
+                            "title": "4",
+                            "content": "ÔN TẬP CUỐI NĂM",
+                            "numPage": 99
+                        },
+                        {
+                            "id": 39,
+                            "title": "4.1",
+                            "content": "Thực hành và trải nghiệm: Dùng tay nhận biết các hình khối đã học",
+                            "numPage": 113
+                        },
+                        {
+                            "id": 40,
+                            "title": "4.2",
+                            "content": "Bảng thuật ngữ",
+                            "numPage": 115
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2021,
+                "numPage": 117,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "TRẦN NAM DŨNG"
+                ],
+                "bookEditor": [
+                    "KHÚC THÀNH CHÍNH"
+                ],
+                "bookAuthor": [
+                    "ĐINH THỊ XUÂN DUNG",
+                    "NGUYỄN KÍNH ĐỨC",
+                    "ĐINH THỊ KIM LAN",
+                    "HUỲNH THỊ KIM TRANG"
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "name": "Tự nhiên và xã hội 2",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/images/tunhienxahoi2.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop2/pdf/sgk-tu-nhien-xa-hoi-lop-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 2",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1. Chủ đề",
+                            "content": "GIA ĐÌNH",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 1",
+                            "content": "Các thế hệ trong gia đình",
+                            "numPage": 8
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 2",
+                            "content": "Nghề nghiệp của người thân trong gia đình",
+                            "numPage": 12
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 3",
+                            "content": "Phòng tránh ngộ độc khi ở nhà",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 4",
+                            "content": "Giữ vệ sinh nhà ở",
+                            "numPage": 20
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 5",
+                            "content": "Ôn tập chủ đề Gia đình",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 6,
+                            "title": "2. Chủ đề",
+                            "content": "TRƯỜNG HỌC",
+                            "numPage": 25
+                        },
+                        {
+                            "id": 7,
+                            "title": "Bài 6",
+                            "content": "Một số sự kiện ở trường em",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 8,
+                            "title": "Bài 7",
+                            "content": "Ngày Nhà giáo Việt Nam",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 9,
+                            "title": "Bài 8",
+                            "content": "An toàn và giữ vệ sinh khi tham gia các hoạt động ở trường",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 10,
+                            "title": "Bài 9",
+                            "content": "Ôn tập chủ đề Trường học",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 11,
+                            "title": "3. Chủ đề",
+                            "content": "CỘNG ĐỒNG ĐỊA PHƯƠNG",
+                            "numPage": 39
+                        },
+                        {
+                            "id": 12,
+                            "title": "Bài 10",
+                            "content": "Đường giao thông",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 13,
+                            "title": "Bài 11",
+                            "content": "Tham gia giao thông an toàn",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 14,
+                            "title": "Bài 12",
+                            "content": "Hoạt động mua bán hàng hoa",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 15,
+                            "title": "Bài 13",
+                            "content": "Ôn tập chủ đề Cộng đồng địa phương",
+                            "numPage": 55
+                        },
+                        {
+                            "id": 16,
+                            "title": "4. Chủ đề",
+                            "content": "THỰC VẬT VÀ ĐỘNG VẬT",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 17,
+                            "title": "Bài 14",
+                            "content": "Thực vật sống ở đâu?",
+                            "numPage": 58
+                        },
+                        {
+                            "id": 18,
+                            "title": "Bài 15",
+                            "content": "Động vật sống ở đâu?",
+                            "numPage": 62
+                        },
+                        {
+                            "id": 19,
+                            "title": "Bài 16",
+                            "content": "Bảo vệ môi trường sống của thực vật và động vật",
+                            "numPage": 66
+                        },
+                        {
+                            "id": 20,
+                            "title": "Bài 17",
+                            "content": "Thực hành tìm hiểu môi trường sống của thực vật và động vật",
+                            "numPage": 70
+                        },
+                        {
+                            "id": 21,
+                            "title": "Bài 18",
+                            "content": "Ôn tập chủ đề Thực vật và động vật",
+                            "numPage": 73
+                        },
+                        {
+                            "id": 22,
+                            "title": "5. Chủ đề",
+                            "content": "CON NGƯỜI VÀ SỨC KHOẺ",
+                            "numPage": 75
+                        },
+                        {
+                            "id": 23,
+                            "title": "Bài 19",
+                            "content": "Cơ quan vận động",
+                            "numPage": 76
+                        },
+                        {
+                            "id": 24,
+                            "title": "Bài 20",
+                            "content": "Chăm sóc, bảo vệ cơ quan vận động",
+                            "numPage": 80
+                        },
+                        {
+                            "id": 25,
+                            "title": "Bài 21",
+                            "content": "Cơ quan hô hấp",
+                            "numPage": 84
+                        },
+                        {
+                            "id": 26,
+                            "title": "Bài 22",
+                            "content": "Chăm sóc, bảo vệ cơ quan hô hấp",
+                            "numPage": 88
+                        },
+                        {
+                            "id": 27,
+                            "title": "Bài 23",
+                            "content": "Cơ quan bài tiết nước tiểu",
+                            "numPage": 92
+                        },
+                        {
+                            "id": 28,
+                            "title": "Bài 24",
+                            "content": "Chăm sóc, bảo vệ cơ quan bài tiết nước tiểu",
+                            "numPage": 96
+                        },
+                        {
+                            "id": 29,
+                            "title": "Bài 25",
+                            "content": "Ôn tập chủ đề Con người và sức khoẻ",
+                            "numPage": 100
+                        },
+                        {
+                            "id": 30,
+                            "title": "6. Chủ đề",
+                            "content": "TRÁI ĐẤT VÀ BẦU",
+                            "numPage": 103
+                        },
+                        {
+                            "id": 31,
+                            "title": "Bài 26",
+                            "content": "Các mùa trong năm",
+                            "numPage": 104
+                        },
+                        {
+                            "id": 32,
+                            "title": "Bài 27",
+                            "content": "Một số hiện tượng thiên tai",
+                            "numPage": 110
+                        },
+                        {
+                            "id": 33,
+                            "title": "Bài 28",
+                            "content": "Phòng tránh rủi ro thiên tại",
+                            "numPage": 114
+                        },
+                        {
+                            "id": 34,
+                            "title": "Bài 29",
+                            "content": "Ôn tập chủ đề Trái Đất và bầu trời",
+                            "numPage": 118
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2021,
+                "numPage": 125,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "ĐỖ XUÂN HỘI"
+                ],
+                "bookEditor": [
+                    "NGUYỄN THỊ THU HẰNG"
+                ],
+                "bookAuthor": [
+                    "LƯU PHƯƠNG THANH BÌNH",
+                    "TRẦN THỊ THU HIỀN",
+                    "LÝ KHÁNH HOA",
+                    "MAI THỊ KIM PHƯỢNG"
+                ]
+            }
+        }
+    ]
+}

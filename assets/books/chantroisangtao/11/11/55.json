@@ -1,0 +1,4 @@
+{
+    "pageNumber": 55,
+    "pageText": "| Cài đặt | Giá trị |\n|---|---|\n| Port Status | On |\n| Bandwidth | 100 Mbps - 10 Mbps - Auto |\n| Duplex | Half Duplex - Full Duplex - Auto |\n| MAC Address | 000A.F3C2.3114 |\n| IP Configuration | Static |\n| IPv4 Address | 192.168.1.2 |\n| Subnet Mask | 255.255.255.0 |\n| IPv6 Configuration | Automatic |\n| Link Local Address | FE80::20A:F3FF:FEC2:3114 |\n\n**Hình 14. Thêm máy chủ**\n- Đặt IP và Subnet Mask của máy chủ Server0 là: 192.168.1.2/255.255.255.0 bằng cách nhấp chuột vào máy chủ Server0, chọn thẻ Config - FastEthernet0, sau đó nhập IP và Subnet Mask vào 2 ô IPv4 Address và Subnet Mask (xem Hình 15).\n**Hình 15. Đặt IP và Subnet Mask cho máy chủ**\n- Kiểm tra máy chủ Server0 đã bật dịch vụ web HTTP và HTTPS (Hình 16) qua thẻ Services - HTTP. \n"
+}

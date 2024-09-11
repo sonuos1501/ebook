@@ -1,0 +1,4 @@
+{
+    "pageNumber": 147,
+    "pageText": "HOẠT ĐỘNG 2. Dùng đồ thị để giải thích tính chất của các hàm số lượng giác\n\n**Ví dụ**\n\n| Hàm số | y = sin x | y = cos x | y = tan x |\n|---|---|---|---|\n| Tập xác định | R | R | R \\ {π/2 + kπ | k ∈ Z} |\n| Tập giá trị | [-1; 1] | [-1; 1] | R |\n| Tính chẵn lẻ | Lẻ | Chẵn | Lẻ |\n| Chu kì tuần hoàn | T = 2π | T = 2π | T = π |\n| Khoảng đồng biến trong một chu kì | (0; π/2), (3π/2; 2π) | (π; 2π) | (-π/2; π/2) |\n| Khoảng nghịch biến trong một chu kì | (π/2; 3π/2) | (0; π) |  |\n\nDùng đồ thị giải thích tập xác định; tập giá trị; tính chất chẵn lẻ; tính tuần hoàn; chu kì; khoảng đồng biến, nghịch biến của hàm số y = cot x.\n\nBài 2. Dùng công thức cấp số nhân để dự báo dân số\nDỰ BÁO DÂN SỐ VIỆT NAM ĐẾN NĂM 2040\n- Dân số (triệu người): 67,989 (1990), 79,918 (2000), 87,968 (2010), 97,339 (2020), 104,164 (2030), 107,795 (2040). \n- Dân số tiếp tục tăng\n- Nguồn: danso.org \n"
+}

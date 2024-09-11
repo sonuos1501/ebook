@@ -1,0 +1,4 @@
+{
+    "pageNumber": 44,
+    "pageText": "**Ví dụ 3**\n\na) Cho hàm số y = f(x) = 1/8 x² xác định trên D = [-3; 5] có đồ thị (C) như Hình 4.\n\n* Điểm A(4; f(4)) có thuộc đồ thị (C) không?\n* Lấy điểm B tuỳ ý trên đồ thị (C). Nêu nhận xét về hoành độ của điểm B.\n\nb) Vẽ đồ thị hàm số y = f(x) được cho bởi bảng sau:\n\n| x    | 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n| ---- | - | - | - | - | - | - | - |\n| f(x) | 1 | 1 | 2 | 3 | 5 | 8 | 13|\n\n\n**Giải**\n\na) Vì 4 ∈ [-3; 5] nên điểm A có hoành độ bằng 4 và có tung độ y = 1/8 . 4² = 2 là điểm thuộc đồ thị (C).\n\nKhi lấy điểm B tuỳ ý trên đồ thị (C) thì hoành độ xB của điểm này thuộc tập xác định D, nghĩa là -3 ≤ xB ≤ 5.\n\nb) Đồ thị của hàm số gồm 7 điểm như Hình 5.\n\n**(Hình 5)** (hình vẽ đồ thị hàm số với 7 điểm được đánh dấu)\n\n**Vẽ đồ thị hàm số f(x) = 3x + 8.**\n"
+}

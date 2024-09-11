@@ -1,0 +1,4 @@
+{
+    "pageNumber": 10,
+    "pageText": "## Ghép ngón tay và phím số\n\n2. Hãy ghép mỗi ngón tay phụ trách với các phím số tương ứng ở Hình 4. \n\n**(Hình ảnh)**\n\n*Hình 4. Ghép ngón tay phụ trách với các phím số tương ứng*\n\n## Chức năng của phím\n\n3. Em hãy ghép mỗi phím ở cột bên trái với chức năng tương ứng khi soạn thảo văn bản ở cột bên phải.\n\n| Tên phím | Chức năng  |\n|---|---|\n| 1) Enter | a) Xoá kí tự ở bên phải con trỏ soạn thảo. |\n| 2) Delete | b) Ngắt dòng và đưa con trỏ soạn thảo xuống đầu dòng tiếp theo. |\n| 3) Backspace | c) Dịch con trỏ soạn thảo sang phải 1 kí tự. |\n| 4) → | d) Xoá kí tự ở bên trái con trỏ soạn thảo. |\n| 5) ← | e) Đưa con trỏ soạn thảo xuống dòng dưới. |\n| 6) ↓ | g) Dịch con trỏ soạn thảo sang trái 1 kí tự. |\n| 7) ↑ | h) Đưa con trỏ soạn thảo lên dòng trên. | \n"
+}

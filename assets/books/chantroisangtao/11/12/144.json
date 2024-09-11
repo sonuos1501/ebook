@@ -1,0 +1,4 @@
+{
+    "pageNumber": 144,
+    "pageText": "| Thuộc tính | Mô tả | Giá trị |\n|---|---|---|\n| vertical-align | Căn chỉnh theo phương dọc | top, bottom, middle, sub, super,... |\n| text-decoration | Thêm đường gạch ngang vào văn bản | overline, line-through, underline. |\n| text- transformation | Biển đổi thành chữ thường hoặc in hoa | uppercase, lowercase, capitalize. |\n| text-shadow | Đổ bóng cho văn bản | Gồm 4 giá trị lần lượt là phương ngang, phương dọc, hiệu ứng mờ và màu sắc của bóng. Ví dụ: text-shadow: 2px 2px 4px grey |\n| letter-spacing | Khoảng cách giữa các kí tự | Số dương hoặc âm. |\n| word-spacing | Khoảng cách giữa các từ | Số dương hoặc âm. |\n\n\n* Nền của các phần tử HTML được định kiểu bằng thuộc tính `background-color` và `background-image`. Với thuộc tính `background-image`, giá trị là đường dẫn của tệp hình ảnh được đặt trong hàm url(). \n\n* Ngoài ra, có thể dùng thuộc tính `background` để định kiểu nền cho các phần tử HTML. \n"
+}

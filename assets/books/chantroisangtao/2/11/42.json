@@ -1,0 +1,4 @@
+{
+    "pageNumber": 42,
+    "pageText": "## Bảng Thống Kê Số Liệu\nDưới đây là những món quà của học sinh khối lớp 3 gửi tặng đồng bào vùng lũ.\n* Gạo: 8 bao.\n* Mì ăn liền: 12 thùng\n* Đường: 7 gói\n* Nước uống: 8 bình\n* Dầu ăn: 5 can\n* Sữa: 9 hộp\n\n### Bảng thống kê các món quà của khối lớp 3\n\n| Loại quà | Gạo (bao) | Nước uống (bình) | Mì ăn liền (thùng) | Dầu ăn (can) | Đường (gói) | Sữa (hộp) |\n|---|---|---|---|---|---|---|\n| Số lượng | 8 | 8 | 12 | 5 | 7 | 9 |\n\n### Trả lời câu hỏi\n\n* Có 6 loại quà: gạo, mì ăn liền, đường, nước uống, dầu ăn, sữa.\n* Mỗi loại quà có số lượng như sau:\n    * Gạo: 8 bao\n    * Mì ăn liền: 12 thùng\n    * Đường: 7 gói\n    * Nước uống: 8 bình\n    * Dầu ăn: 5 can\n    * Sữa: 9 hộp \n"
+}

@@ -1,0 +1,4649 @@
+{
+    "id": 4,
+    "name": "Lớp 5",
+    "books": [
+        {
+            "id": 0,
+            "name": "Âm nhạc 5",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/images/amnhac5.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/pdf/sgk-am-nhac-lop-5-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 4",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Chủ đề 1",
+                            "content": "Vui ngày khai trường",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 1,
+                            "title": "1.1",
+                            "content": "Hát: Đường đến trường vui lắm!",
+                            "numPage": 8
+                        },
+                        {
+                            "id": 2,
+                            "title": "1.2",
+                            "content": "Nghe nhạc: Ngôi trường giữa ngàn mây",
+                            "numPage": 9
+                        },
+                        {
+                            "id": 3,
+                            "title": "1.3",
+                            "content": "Lí thuyết âm nhạc",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 4,
+                            "title": "1.4",
+                            "content": "Nhạc cụ: Nhạc cụ tiết tấu",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 5,
+                            "title": "1.5",
+                            "content": "Thường thức âm nhạc: Giới thiệu nhạc cụ nước ngoài",
+                            "numPage": 11
+                        },
+                        {
+                            "id": 6,
+                            "title": "1.6",
+                            "content": "Nhà ga âm nhạc",
+                            "numPage": 12
+                        },
+                        {
+                            "id": 7,
+                            "title": "Chủ đề 2",
+                            "content": "Bức tranh đồng quê",
+                            "numPage": 13
+                        },
+                        {
+                            "id": 8,
+                            "title": "2.1",
+                            "content": "Hát: Dắt trâu ra đồng",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 9,
+                            "title": "2.2",
+                            "content": "Nhạc cụ: Nhạc cụ tiết tấu",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 10,
+                            "title": "2.3",
+                            "content": "Nhạc cụ: Nhạc cụ giai điệu",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 11,
+                            "title": "2.4",
+                            "content": "Đọc nhạc: Bài đọc nhạc số 1",
+                            "numPage": 17
+                        },
+                        {
+                            "id": 12,
+                            "title": "2.5",
+                            "content": "Thường thức âm nhạc: Một số hình thức biểu diễn nhạc cụ",
+                            "numPage": 17
+                        },
+                        {
+                            "id": 13,
+                            "title": "2.6",
+                            "content": "Nhà ga âm nhạc",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 14,
+                            "title": "Chủ đề 3",
+                            "content": "Thắp sáng tương lai",
+                            "numPage": 19
+                        },
+                        {
+                            "id": 15,
+                            "title": "3.1",
+                            "content": "Hát: Những bông hoa những bài ca",
+                            "numPage": 20
+                        },
+                        {
+                            "id": 16,
+                            "title": "3.2",
+                            "content": "Nghe nhạc: Chim sơn ca",
+                            "numPage": 21
+                        },
+                        {
+                            "id": 17,
+                            "title": "3.3",
+                            "content": "Lí thuyết âm nhạc",
+                            "numPage": 21
+                        },
+                        {
+                            "id": 18,
+                            "title": "3.4",
+                            "content": "Nhạc cụ: Nhạc cụ tiết tấu",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 19,
+                            "title": "3.5",
+                            "content": "Nhạc cụ: Nhạc cụ giai điệu",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 20,
+                            "title": "3.6",
+                            "content": "Nhà ga âm nhạc",
+                            "numPage": 24
+                        },
+                        {
+                            "id": 14,
+                            "title": "Chủ đề 4",
+                            "content": "Kết nối yêu thương",
+                            "numPage": 25
+                        },
+                        {
+                            "id": 15,
+                            "title": "4.1",
+                            "content": "Hát: Arirang khúc hát quê hươn",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 16,
+                            "title": "4.2",
+                            "content": "Đọc nhạc: Bài đọc nhạc số 2",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 17,
+                            "title": "4.3",
+                            "content": "Thường thức âm nhạc: Giới thiệu hai nhạc sĩ Hoàng Long Hoàng Lân",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 18,
+                            "title": "4.4",
+                            "content": "Nhà ga âm nhạc",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 19,
+                            "title": "Ôn tập",
+                            "content": "Chủ đề 1, 2, 3, 4",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 20,
+                            "title": "Chủ đề 5",
+                            "content": "Mùa xuân tình bạn",
+                            "numPage": 33
+                        },
+                        {
+                            "id": 21,
+                            "title": "5.1",
+                            "content": "Hát: Mùa xuân tình bạn",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 22,
+                            "title": "5.2",
+                            "content": "Nghe nhạc: Điệu nhảy hài hước",
+                            "numPage": 35
+                        },
+                        {
+                            "id": 23,
+                            "title": "5.3",
+                            "content": "Lí thuyết âm nhạc",
+                            "numPage": 35
+                        },
+                        {
+                            "id": 24,
+                            "title": "5.4",
+                            "content": "Thường thức âm nhạc: Giới thiệu nhạc cụ Việt Nam",
+                            "numPage": 36
+                        },
+                        {
+                            "id": 25,
+                            "title": "5.5",
+                            "content": "Nhà ga âm nhạc",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 26,
+                            "title": "Chủ đề 6",
+                            "content": "Vui cùng âm nhạc",
+                            "numPage": 39
+                        },
+                        {
+                            "id": 27,
+                            "title": "6.1",
+                            "content": "Hát: Đi theo ánh sao âm nhạc",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 28,
+                            "title": "6.2",
+                            "content": "Nhạc cụ: Nhạc cụ giai điệu",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 29,
+                            "title": "6.3",
+                            "content": "Đọc nhạc: Bài đọc nhạc số 3",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 30,
+                            "title": "6.4",
+                            "content": "Nhà ga âm nhạc",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 31,
+                            "title": "Chủ đề 7",
+                            "content": "Giai điệu quê hương",
+                            "numPage": 45
+                        },
+                        {
+                            "id": 32,
+                            "title": "7.1",
+                            "content": "Hát: Trống cơm",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 33,
+                            "title": "7.2",
+                            "content": "Nghe nhạc: Cây trúc xinh",
+                            "numPage": 47
+                        },
+                        {
+                            "id": 34,
+                            "title": "7.3",
+                            "content": "Lí thuyết âm nhạc",
+                            "numPage": 47
+                        },
+                        {
+                            "id": 35,
+                            "title": "7.4",
+                            "content": "Nhạc cụ: Nhạc cụ tiết tấu",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 36,
+                            "title": "7.5",
+                            "content": "Đọc nhạc: Bài đọc nhạc số 4",
+                            "numPage": 49
+                        },
+                        {
+                            "id": 37,
+                            "title": "7.6",
+                            "content": "Nhà ga âm nhạc",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 38,
+                            "title": "Chủ đề 8",
+                            "content": "Hoa thơm dâng Bác",
+                            "numPage": 53
+                        },
+                        {
+                            "id": 39,
+                            "title": "8.1",
+                            "content": "Hát: Hoa thơm dâng Bác",
+                            "numPage": 54
+                        },
+                        {
+                            "id": 40,
+                            "title": "8.2",
+                            "content": "Nhạc cụ: Nhạc cụ tiết tấu và Nhạc cụ giai điệu",
+                            "numPage": 55
+                        },
+                        {
+                            "id": 41,
+                            "title": "8.3",
+                            "content": "Thường thức âm nhạc: Trí tưởng tượng của nhạc sĩ F. Su-be",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 42,
+                            "title": "8.4",
+                            "content": "Nhà ga âm nhạc",
+                            "numPage": 58
+                        },
+                        {
+                            "id": 43,
+                            "title": "Ôn tập",
+                            "content": "Ôn tập chủ đề 5, 6, 7, 8",
+                            "numPage": 59
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 63,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "HỒ NGỌC KHẢI",
+                    "LÊ ANH TUẤN"
+                ],
+                "bookEditor": [
+                    "ĐẶNG CHÂU ANH"
+                ],
+                "bookAuthor": [
+                    "HÀ THỊ THƯ",
+                    "NGUYỄN ĐÌNH TÌNH",
+                    "TÔ NGỌC TÚ",
+                    "LÂM ĐỨC VINH"
+                ]
+            }
+        },
+        {
+            "id": 1,
+            "name": "Công nghệ 5",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/images/congnghe5.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/pdf/sgk-cong-nghe-lop-5-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "PHẦN 1. CÔNG NGHỆ VÀ ĐỜI SỐNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Công nghệ trong đời sống",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Nhà sáng chế",
+                            "numPage": 11
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Tìm hiểu thiết kế",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 4",
+                            "content": "Thực hành thiết kế nhà đồ chơi",
+                            "numPage": 20
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 5",
+                            "content": "Sử dụng điện thoại",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 6",
+                            "content": "Sử dụng tủ lạnh",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 6,
+                            "title": "Ôn tập",
+                            "content": "Phần 1",
+                            "numPage": 47
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "PHẦN 2. THỦ CÔNG KĨ THUẬT",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 7",
+                            "content": "Lắp ráp mô hình xe điện chạy bằng pin",
+                            "numPage": 42
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 8",
+                            "content": "Mô hình máy phát điện gió",
+                            "numPage": 51
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 9",
+                            "content": "Mô hình điện mặt trời",
+                            "numPage": 59
+                        },
+                        {
+                            "id": 3,
+                            "title": "Dự án",
+                            "content": "Em làm mô hình xe chạy bằng năng lượng mặt trời",
+                            "numPage": 66
+                        },
+                        {
+                            "id": 4,
+                            "title": "Ôn tập",
+                            "content": "Phần 2",
+                            "numPage": 68
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 72,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "BÙI VĂN HỒNG"
+                ],
+                "bookEditor": [
+                    "BÙI VĂN HỒNG"
+                ],
+                "bookAuthor": [
+                    "NGUYỄN THỊ HỒNG CHIẾM",
+                    "LÊ THỊ MỸ NGA",
+                    "LÊ THỊ XINH"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "Đạo đức 5",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/images/daoduc5.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/pdf/sgk-dao-duc-lop-5-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chủ đề: BIẾT ƠN NHỮNG NGƯỜI CÓ CÔNG VỚI QUÊ HƯƠNG, ĐẤT NƯỚC",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "NGƯỜI CÓ CÔNG VỚI QUÊ HƯƠNG, ĐẤT NƯỚC",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "EM BIẾT ƠN NGƯỜI CÓ CÔNG VỚI QUÊ HƯƠNG, ĐẤT NƯỚC",
+                            "numPage": 11
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Chủ đề: TÔN TRỌNG SỰ KHÁC BIỆT CỦA NGƯỜI KHÁC",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 3",
+                            "content": "EM TÔN TRỌNG SỰ KHÁC BIỆT CỦA NGƯỜI KHÁC",
+                            "numPage": 17
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Chủ đề: VƯỢT QUA KHÓ KHĂN",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 4",
+                            "content": "EM NHẬN BIẾT KHÓ KHĂN TRONG HỌC TẬP VÀ CUỘC SỐNG",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 5",
+                            "content": "EM VƯỢT QUA KHÓ KHĂN TRONG HỌC TẬP VÀ CUỘC SỐNG",
+                            "numPage": 27
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Chủ đề: BẢO VỆ CÁI ĐÚNG, CÁI TỐT",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 6",
+                            "content": "EM BẢO VỆ CÁI ĐÚNG, CÁI TỐT",
+                            "numPage": 31
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Chủ để: BẢO VỆ MÔI TRƯỜNG SỐNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 7",
+                            "content": "MÔI TRƯỜNG SỐNG QUANH EM",
+                            "numPage": 36
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 8",
+                            "content": "EM BẢO VỆ MÔI TRƯỜNG",
+                            "numPage": 40
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Chủ đề: LẬP KẾ HOẠCH CÁ NHÂN",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 9",
+                            "content": "EM LẬP KẾ HOẠCH CÁ NHÂN",
+                            "numPage": 44
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Chủ đề: PHÒNG, TRÁNH XÂM HẠI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 10",
+                            "content": "EM NHẬN DIỆN BIỂU HIỆN XÂM HẠI",
+                            "numPage": 50
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 11",
+                            "content": "EM CHỦ ĐỘNG PHÒNG, TRÁNH XÂM HẠI",
+                            "numPage": 54
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "Chủ đề: SỬ DỤNG TIỀN HỢP LÍ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 12",
+                            "content": "EM SỬ DỤNG TIỀN HỢP LÍ",
+                            "numPage": 60
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2022,
+                "numPage": 67,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "HUỲNH VĂN SƠN"
+                ],
+                "bookEditor": [
+                    "MAI MỸ HẠNH"
+                ],
+                "bookAuthor": [
+                    "TRẦN THANH DỰ",
+                    "NGUYỄN THANH HUÂN",
+                    "LÂM THỊ KIM LIÊN",
+                    "GIANG THIÊN VŨ"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "name": "Giáo dục thể chất 5",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/images/giaoducthechat5.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/pdf/sgk-giao-duc-the-chat-lop-5-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 5",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Phần một",
+                            "content": "KIẾN THỨC CHUNG",
+                            "numPage": 5
+                        },
+                        {
+                            "id": 1,
+                            "title": "Phần hai",
+                            "content": "VẬN ĐỘNG CƠ BẢN",
+                            "numPage": 8
+                        },
+                        {
+                            "id": 2,
+                            "title": "1. Chủ đề",
+                            "content": "ĐỘI HÌNH ĐỘI NGŨ",
+                            "numPage": 9
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 1",
+                            "content": "Phối hợp đội hình đội ngũ",
+                            "numPage": 9
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 2",
+                            "content": "Biến đổi đội hình",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 3",
+                            "content": "Phối hợp đi đều vòng các hướng",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 6,
+                            "title": "2. Chủ đề",
+                            "content": "BÀI TẬP THỂ DỤC",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 7,
+                            "title": "Bài 1",
+                            "content": "Động tác vươn thở và động tác tay kết hợp với bóng",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 8,
+                            "title": "Bài 2",
+                            "content": "Động tác chân và động tác lưng bụng kết hợp với bóng",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 9,
+                            "title": "Bài 3",
+                            "content": "Động tác vặn mình và động tác toàn thân kết hợp với bóng",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 10,
+                            "title": "Bài 4",
+                            "content": "Động tác nhảy và động tác điều hoà kết hợp với bóng",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 11,
+                            "title": "3. Chủ đề",
+                            "content": "TƯ THẾ VÀ KĨ NĂNG VẬN ĐỘNG CƠ BẢN",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 12,
+                            "title": "Bài 1",
+                            "content": "Lăn nửa vòng",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 13,
+                            "title": "Bài 2",
+                            "content": "Lăn một vòng",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 14,
+                            "title": "Bài 3",
+                            "content": "Động tác lộn xuôi",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 15,
+                            "title": "Bài 4",
+                            "content": "Động tác leo",
+                            "numPage": 49
+                        },
+                        {
+                            "id": 16,
+                            "title": "Bài 5",
+                            "content": "Động tác trèo",
+                            "numPage": 53
+                        },
+                        {
+                            "id": 17,
+                            "title": "Phần ba",
+                            "content": "THỂ THAO TỰ CHỌN",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 18,
+                            "title": "4. Chủ đề",
+                            "content": "THỂ DỤC NHỊP ĐIỆU",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 19,
+                            "title": "Bài 1",
+                            "content": "Giậm chân phối hợp bước chân cơ bản",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 20,
+                            "title": "Bài 2",
+                            "content": "Bật nhảy chân co trước phối hợp các bước cơ bản",
+                            "numPage": 61
+                        },
+                        {
+                            "id": 21,
+                            "title": "Bài 3",
+                            "content": "Bật nhảy chân co sau phối hợp các bước cơ bản",
+                            "numPage": 65
+                        },
+                        {
+                            "id": 22,
+                            "title": "Bài 4",
+                            "content": "Bật nhảy phối hợp các bước cơ bản",
+                            "numPage": 69
+                        },
+                        {
+                            "id": 23,
+                            "title": "5. Chủ đề",
+                            "content": "BÓNG ĐÁ",
+                            "numPage": 73
+                        },
+                        {
+                            "id": 24,
+                            "title": "Bài 1",
+                            "content": "Dừng bóng bổng",
+                            "numPage": 73
+                        },
+                        {
+                            "id": 25,
+                            "title": "Bài 2",
+                            "content": "Dẫn bóng bằng lòng bàn chân",
+                            "numPage": 76
+                        },
+                        {
+                            "id": 26,
+                            "title": "Bài 3",
+                            "content": "Đá bóng bằng má trong bàn chân",
+                            "numPage": 79
+                        },
+                        {
+                            "id": 27,
+                            "title": "Bài 4",
+                            "content": "Phối hợp dẫn và đá bóng",
+                            "numPage": 82
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2023,
+                "numPage": 91,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "PHẠM THỊ LỆ HẰNG"
+                ],
+                "bookEditor": [
+                    "PHẠM THỊ LỆ HẰNG"
+                ],
+                "bookAuthor": [
+                    "BÙI NGỌC BÍCH",
+                    "LÊ HẢI",
+                    "TRẦN MINH TUẤN"
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "name": "Hoạt động trải nghiệm 5 - Bản một",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/images/hoatdongtrainghiem5_ban1.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/pdf/sgk-hoat-dong-trai-nghiem-lop-5-ban-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chủ đề 1: Em và trường tiểu học thân yêu",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 1",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 2",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 3",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 3,
+                            "title": "4",
+                            "content": "Tuần 4",
+                            "numPage": 13
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "Chủ đề 2: An toàn cho em – An toàn cho mọi người",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 5",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 6",
+                            "numPage": 21
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 7",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 3,
+                            "title": "4",
+                            "content": "Tuần 8",
+                            "numPage": 25
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Chủ đề 3: Tri ân thầy cô. Kết nối bạn bỏ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 9",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 10",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 11",
+                            "numPage": 33
+                        },
+                        {
+                            "id": 3,
+                            "title": "4",
+                            "content": "Tuần 12",
+                            "numPage": 35
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Chủ đề 4: Hành động vì cộng đồng",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 13",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 14",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 15",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 3,
+                            "title": "4",
+                            "content": "Tuần 16",
+                            "numPage": 45
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Chủ đề 5: Hội chợ xuân và quản lí chi tiêu",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 17",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 18",
+                            "numPage": 51
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 19",
+                            "numPage": 53
+                        },
+                        {
+                            "id": 3,
+                            "title": "4",
+                            "content": "Tuần 20",
+                            "numPage": 54
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Chủ đề 6: Phát triển bản thân, thích ứng với môi trường môi",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 21",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 22",
+                            "numPage": 60
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 23",
+                            "numPage": 63
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Chủ đề 7: Yêu thương gia đình. Tôn trọng phụ nữ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 24",
+                            "numPage": 65
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 25",
+                            "numPage": 68
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 26",
+                            "numPage": 71
+                        },
+                        {
+                            "id": 3,
+                            "title": "4",
+                            "content": "Tuần 27",
+                            "numPage": 73
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Chủ đề 8: Em và môi trường xanh",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 28",
+                            "numPage": 76
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 29",
+                            "numPage": 80
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 30",
+                            "numPage": 82
+                        },
+                        {
+                            "id": 3,
+                            "title": "4",
+                            "content": "Tuần 31",
+                            "numPage": 84
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "Chủ đề 9: Nghề em mơ ước",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 32",
+                            "numPage": 87
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 33",
+                            "numPage": 89
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 34",
+                            "numPage": 92
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2023,
+                "numPage": 99,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "PHÓ ĐỨC HOÀ"
+                ],
+                "bookEditor": [
+                    "BÙI NGỌC DIỆP"
+                ],
+                "bookAuthor": [
+                    "LÊ THỊ THU HUYỀN",
+                    "NGUYỄN HÀ MY",
+                    "ĐẶNG THỊ THANH NHÀN",
+                    "NGUYỄN HỮU TÂM",
+                    "NGUYỄN HUYỀN TRANG"
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "name": "Hoạt động trải nghiệm 5 - Bản hai",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/images/hoatdongtrainghiem5_ban2.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/pdf/sgk-hoat-dong-trai-nghiem-lop-5-ban-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chủ đề 1: KHÁM PHÁ SỰ THAY ĐỔI CỦA BẢN THÂN",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 1",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 2",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 3",
+                            "numPage": 12
+                        },
+                        {
+                            "id": 3,
+                            "title": "4",
+                            "content": "Tuần 4",
+                            "numPage": 15
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "Chủ đề 2: THỂ HIỆN TRÁCH VỚI GIA ĐÌNH",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 5",
+                            "numPage": 19
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 6",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 7",
+                            "numPage": 25
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Chủ đề 3: GIỮ GÌN TÌNH BẠN, TÌNH THẦY TRÒ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 8",
+                            "numPage": 29
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 9",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 10",
+                            "numPage": 35
+                        },
+                        {
+                            "id": 3,
+                            "title": "4",
+                            "content": "Tuần 11",
+                            "numPage": 38
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Chủ đề 4: THAM GIA CÁC HOẠT ĐỘNG XÃ HỘI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 12",
+                            "numPage": 42
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 13",
+                            "numPage": 45
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 14",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 3,
+                            "title": "4",
+                            "content": "Tuần 15",
+                            "numPage": 50
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Chủ đề 5: TẬP LÀM KINH DOANH VÀ QUẢN LÍ CHI TIÊU",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 16",
+                            "numPage": 54
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 17",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 18",
+                            "numPage": 58
+                        },
+                        {
+                            "id": 3,
+                            "title": "4",
+                            "content": "Tuần 19",
+                            "numPage": 60
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Chủ đề 6: PHÒNG TRÁNH VÀ ỨNG PHÓ VỚI HOẢ HOẠN",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 20",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 21",
+                            "numPage": 67
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 22",
+                            "numPage": 70
+                        },
+                        {
+                            "id": 3,
+                            "title": "4",
+                            "content": "Tuần 23",
+                            "numPage": 72
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Chủ đề 7: TỰ CHỦ VÀ THÍCH ỨNG VỚI MÔI TRƯỜNG HỌC TẬP MỚI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 24",
+                            "numPage": 76
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 25",
+                            "numPage": 79
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 26",
+                            "numPage": 81
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Chủ đề 8: BẢO TỒN CẢNH QUAN THIÊN NHIÊN VÀ MÔI TRƯỜNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 27",
+                            "numPage": 85
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 28",
+                            "numPage": 87
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 29",
+                            "numPage": 89
+                        },
+                        {
+                            "id": 3,
+                            "title": "4",
+                            "content": "Tuần 30",
+                            "numPage": 91
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "Chủ đề 9: ƯỚC MƠ NGHỀ NGHIỆP CỦA EM",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "1",
+                            "content": "Tuần 31",
+                            "numPage": 95
+                        },
+                        {
+                            "id": 1,
+                            "title": "2",
+                            "content": "Tuần 32",
+                            "numPage": 97
+                        },
+                        {
+                            "id": 2,
+                            "title": "3",
+                            "content": "Tuần 33",
+                            "numPage": 99
+                        },
+                        {
+                            "id": 3,
+                            "title": "4",
+                            "content": "Tuần 34",
+                            "numPage": 101
+                        },
+                        {
+                            "id": 4,
+                            "title": "5",
+                            "content": "Tuần 35",
+                            "numPage": 104
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2023,
+                "numPage": 112,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "ĐINH THỊ KIM THOA"
+                ],
+                "bookEditor": [
+                    "PHẠM THUỲ LIÊM",
+                    "LẠI THỊ YỄN NGỌC"
+                ],
+                "bookAuthor": [
+                    "VŨ PHƯƠNG LIÊN",
+                    "NGUYỄN THỊ THANH LOAN",
+                    "LÊ HOÀI THU",
+                    "TRẦN THỊ QUỲNH TRANG"
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "name": "Lịch sử và địa lý 5",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/images/lichsudiali5.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/pdf/sgk-lich-su-dia-li-lop-5-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "CHỦ ĐỀ 1: ĐẤT NƯỚC VÀ CON NGƯỜI VIỆT NAM",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Vị trí địa lí, lãnh thổ, đơn vị hành chính, Quốc kì, Quốc huy, Quốc ca",
+                            "numPage": 6
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Thiên nhiên Việt Nam",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Biển, đảo Việt Nam",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 4",
+                            "content": "Dân cư và dân tộc ở Việt Nam",
+                            "numPage": 19
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "CHỦ ĐỀ 2: NHỮNG QUỐC GIA ĐẦU TIÊN TRÊN LÃNH THỔ VIỆT NAM",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 5",
+                            "content": "Nước Văn Lang, Âu Lạc",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 6",
+                            "content": "Vương quốc Phù Nam",
+                            "numPage": 28
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 7",
+                            "content": "Vương quốc Chăm-pa",
+                            "numPage": 31
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "CHỦ ĐỀ 3: XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 8",
+                            "content": "Đấu tranh giành độc lập thời kì Bắc thuộc",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 9",
+                            "content": "Triều Lý và việc định đô ở Thăng Long",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 10",
+                            "content": "Triều Trần và kháng chiến chống Mông – Nguyên",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 11",
+                            "content": "Khởi nghĩa Lam Sơn và Triều Hậu Lê",
+                            "numPage": 45
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 12",
+                            "content": "Triều Nguyễn",
+                            "numPage": 49
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 13",
+                            "content": "Cách mạng tháng Tám năm 1945",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 6,
+                            "title": "Bài 14",
+                            "content": "Chiến dịch Điện Biên Phủ năm 1954",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 7,
+                            "title": "Bài 15",
+                            "content": "Chiến dịch Hồ Chí Minh năm 1975",
+                            "numPage": 61
+                        },
+                        {
+                            "id": 8,
+                            "title": "Bài 16",
+                            "content": "Đất nước đổi mới",
+                            "numPage": 64
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "CHỦ ĐỀ 4: CÁC NƯỚC LÁNG GIỀNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 17",
+                            "content": "Nước Cộng hoà Nhân dân Trung Hoa",
+                            "numPage": 68
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 18",
+                            "content": "Nước Cộng hoà Dân chủ Nhân dân Lào",
+                            "numPage": 73
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 19",
+                            "content": "Vương quốc Cam-pu-chia",
+                            "numPage": 77
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 20",
+                            "content": "Hiệp hội các quốc gia Đông Nam Á (ASEAN)",
+                            "numPage": 81
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "CHỦ ĐỀ 5: TÌM HIỂU THẾ GIỚI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 21",
+                            "content": "Các châu lục và đại dương trên thế giới",
+                            "numPage": 84
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 22",
+                            "content": "Dân số và các chủng tộc trên thế giới",
+                            "numPage": 90
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 23",
+                            "content": "Văn minh Ai Cập",
+                            "numPage": 93
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 24",
+                            "content": "Văn minh Hy Lạp",
+                            "numPage": 96
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "CHỦ ĐỀ 6: CHUNG TAY XÂY DỰNG THẾ GIỚI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 25",
+                            "content": "Xây dựng thế giới xanh – sạch – đẹp",
+                            "numPage": 100
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 26",
+                            "content": "Xây dựng thế giới hoà bình",
+                            "numPage": 104
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2023,
+                "numPage": 115,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "NGUYỄN TRÀ MY",
+                    "PHẠM ĐỖ VĂN TRUNG"
+                ],
+                "bookEditor": [
+                    "NGUYỄN TRÀ MY",
+                    "PHẠM ĐỖ VĂN TRUNG"
+                ],
+                "bookAuthor": [
+                    "NGUYỄN KHÁNH BẰNG",
+                    "TRẦN THỊ NGỌC HÂN",
+                    "TRẦN VĂN NHÂN",
+                    "NGUYỄN CHÍ TUẤN"
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "name": "Mĩ thuật 5 - Bản một",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/images/mithuat5_ban1.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/pdf/sgk-mi-thuat-lop-5-ban-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "CHỦ ĐỀ: NGÔI TRƯỜNG THÂN YÊU",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Quang cảnh trường em",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Bạn cùng học của em",
+                            "numPage": 11
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "CHỦ ĐỀ: THIÊN NHIÊN TƯƠI ĐẸP",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Tranh vẽ với các hình nối tiếp nhau",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Những sắc màu thiên nhiên",
+                            "numPage": 19
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Động vật hoang dã ở Châu Phi",
+                            "numPage": 23
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "CHỦ ĐỀ: GIA ĐÌNH VÀ ĐỒ VẬT THÂN QUEN",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Đồ gốm sứ trong gia đình",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Hoạ tiết trang trí từ hình cắt giấy",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Ngày Tết trong gia đình",
+                            "numPage": 35
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "CHỦ ĐỀ: KHÁM PHÁ THẾ GIỚI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Kì quan thế giới",
+                            "numPage": 39
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Thiếu nhi thế giới với hoà bình",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Linh vật thể thao",
+                            "numPage": 47
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "CHỦ ĐỀ: CUỘC SỐNG QUANH EM",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Mùa thu hoạch",
+                            "numPage": 51
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Sáng tác truyện tranh",
+                            "numPage": 55
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Vẻ đẹp của mặt trước ngồi nhà",
+                            "numPage": 59
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "CHỦ ĐỀ: NÉT ĐẸP TRUYỀN THỐNG QUÊ HƯƠNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Lễ hội truyền thống",
+                            "numPage": 63
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Đồ chơi dân gian",
+                            "numPage": 67
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 3",
+                            "content": "Mô hình nhạc cụ dân tộc",
+                            "numPage": 71
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài tổng kết",
+                            "content": "Giới thiệu các bài học trong sách giáo khoa Mĩ thuật 5",
+                            "numPage": 75
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2023,
+                "numPage": 83,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "NGUYỄN THỊ NHUNG"
+                ],
+                "bookEditor": [
+                    "NGUYỄN TUẤN CƯỜNG"
+                ],
+                "bookAuthor": [
+                    "LƯƠNG THANH KHIẾT",
+                    "NGUYỄN ÁNH PHƯƠNG NAM",
+                    "PHẠM VĂN THUẬN"
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "name": "Mĩ thuật 5 - Bản hai",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/images/mithuat5_ban2.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/pdf/sgk-mi-thuat-lop-5-ban-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chủ đề 1: THẾ GIỚI TUỔI THƠ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Ngày hè",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 2",
+                            "content": "Cánh diều tuổi thơ",
+                            "numPage": 11
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "Chủ đề 2: CUỘC SỐNG QUANH EM",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 3",
+                            "content": "Quê ngoại",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 4",
+                            "content": "Vòng quanh thế giới",
+                            "numPage": 19
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "CHỦ ĐỀ 3: LỄ HỘI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 5",
+                            "content": "Lễ hội hoa",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 6",
+                            "content": "Trang phục lễ hội",
+                            "numPage": 27
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Chủ đề 4: HOẠT ĐỘNG THỂ THAO",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 7",
+                            "content": "Cùng nhau đạp xe",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 8",
+                            "content": "Em là nhà vô địch",
+                            "numPage": 35
+                        },
+                        {
+                            "id": 2,
+                            "title": "Thực hành",
+                            "content": "TRƯNG BÀY CUỐI HỌC KÌ I",
+                            "numPage": 39
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Chủ đề 5: EM LÀ NHÀ SÁNG TẠO",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 9",
+                            "content": "Đôi bàn tay khéo léo",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 10",
+                            "content": "Em tập làm nghệ nhân",
+                            "numPage": 45
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Chủ đề 6: HÀNH TINH XANH",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 11",
+                            "content": "Bảo vệ không gian xanh",
+                            "numPage": 49
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 12",
+                            "content": "Em yêu cây xanh",
+                            "numPage": 53
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Chủ đề 7: KHÔNG GIAN VUI CHƠI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 13",
+                            "content": "Khu vui chơi",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 14",
+                            "content": "Tạo hình đồ chơi",
+                            "numPage": 61
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Chủ đề 8: VUI TỚI TRƯỜNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 15",
+                            "content": "Tranh tường ở trường em",
+                            "numPage": 65
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 16",
+                            "content": "Trang trí lớp học",
+                            "numPage": 69
+                        },
+                        {
+                            "id": 2,
+                            "title": "Tổng kết",
+                            "content": "TRƯNG BÀY CUỐI NĂM",
+                            "numPage": 73
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2023,
+                "numPage": 79,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "HOÀNG MINH PHÚC"
+                ],
+                "bookEditor": [
+                    "NGUYỄN THỊ MAY"
+                ],
+                "bookAuthor": [
+                    "VŨ ĐỨC LONG",
+                    "TRẦN ĐOÀN THANH NGỌC",
+                    "TRẦN THỊ TUYẾT NHUNG"
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "name": "Tiếng việt 5 - Tập một",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/images/tiengviet5_tap1.png",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/pdf/sgk-tieng-viet-lop-5-tap-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Tuần 1: KHUNG TRỜI TUỔI THƠ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Chiều dưới chân núi",
+                            "numPage": 11
+                        },
+                        {
+                            "id": 1,
+                            "title": "1.1",
+                            "content": "Đọc: Chiều dưới chân núi",
+                            "numPage": 11
+                        },
+                        {
+                            "id": 2,
+                            "title": "1.2",
+                            "content": "Luyện từ và câu: Từ đồng nghĩa",
+                            "numPage": 13
+                        },
+                        {
+                            "id": 3,
+                            "title": "1.3",
+                            "content": "Viết: Bài văn tả phong cảnh",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 2",
+                            "content": "Quà tặng mùa hè",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 5,
+                            "title": "2.1",
+                            "content": "Đọc: Quà tặng mùa hè",
+                            "numPage": 16
+                        },
+                        {
+                            "id": 6,
+                            "title": "2.2",
+                            "content": "Nói và nghe: Kể về một kỉ niệm đáng nhớ",
+                            "numPage": 17
+                        },
+                        {
+                            "id": 7,
+                            "title": "2.3",
+                            "content": "Viết: Quan sát, tìm ý cho bài văn tả phong cảnh",
+                            "numPage": 18
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "Tuần 2: KHUNG TRỜI TUỔI THƠ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 3",
+                            "content": "Tiếng gà trưa",
+                            "numPage": 20
+                        },
+                        {
+                            "id": 1,
+                            "title": "3.1",
+                            "content": "Đọc: Tiếng gà trưa",
+                            "numPage": 20
+                        },
+                        {
+                            "id": 2,
+                            "title": "3.2",
+                            "content": "Luyện từ và câu: Luyện tập về từ đồng nghĩa",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 3,
+                            "title": "3.3",
+                            "content": "Viết: Lập dàn ý cho bài văn tả phong cảnh",
+                            "numPage": 24
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 4",
+                            "content": "Rét ngọt",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 5,
+                            "title": "4.1",
+                            "content": "Đọc: Rét ngọt",
+                            "numPage": 26
+                        },
+                        {
+                            "id": 6,
+                            "title": "4.2",
+                            "content": "Luyện từ và câu: Luyện tập về từ đồng nghĩa",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 7,
+                            "title": "4.3",
+                            "content": "Viết: Viết đoạn mở bài cho bài văn tả phong cảnh",
+                            "numPage": 28
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Tuần 3: KHUNG TRỜI TUỔI THƠ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 5",
+                            "content": "Quà sinh nhật",
+                            "numPage": 30
+                        },
+                        {
+                            "id": 1,
+                            "title": "5.1",
+                            "content": "Đọc: Quà sinh nhật",
+                            "numPage": 30
+                        },
+                        {
+                            "id": 2,
+                            "title": "5.2",
+                            "content": "Luyện từ và câu: Từ đa nghĩa",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 3,
+                            "title": "5.3",
+                            "content": "Viết: Viết đoạn văn cho bài văn tả phong cảnh",
+                            "numPage": 33
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 6",
+                            "content": "Tiếng vườn",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 5,
+                            "title": "6.1",
+                            "content": "Đọc: Tiếng vườn",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 6,
+                            "title": "6.2",
+                            "content": "Nói và nghe: Giới thiệu một chương trình truyền hình hoặc một hoạt động dành cho thiếu nhi",
+                            "numPage": 35
+                        },
+                        {
+                            "id": 7,
+                            "title": "6.3",
+                            "content": "Viết: Viết đoạn kết bài cho bài văn tả phong cảnh",
+                            "numPage": 36
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Tuần 4: KHUNG TRỜI TUỔI THƠ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 7",
+                            "content": "Chớm thu",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 1,
+                            "title": "7.1",
+                            "content": "Đọc: Chớm thu",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 2,
+                            "title": "7.2",
+                            "content": "Luyện từ và câu: LuyệnSử dụng từ điển",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 3,
+                            "title": "7.3",
+                            "content": "Viết: Viết bài văn tả phong cảnh (Bài viết số 1)",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 8",
+                            "content": "Ban mai",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 5,
+                            "title": "8.1",
+                            "content": "Đọc: Ban mai",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 6,
+                            "title": "8.2",
+                            "content": "Luyện từ và câu: Mở rộMở rộng vốn từ Tuổi thơ",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 7,
+                            "title": "8.3",
+                            "content": "Viết: Luyện tập quan sát, tìm ý cho bài văn tả phong cảnh",
+                            "numPage": 45
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Tuần 5: CHỦ NHÂN TƯƠNG LAI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Trạng nguyên nhỏ tuổi",
+                            "numPage": 47
+                        },
+                        {
+                            "id": 1,
+                            "title": "1.1",
+                            "content": "Đọc: Trạng nguyên nhỏ tuổi",
+                            "numPage": 47
+                        },
+                        {
+                            "id": 2,
+                            "title": "1.2",
+                            "content": "Luyện từ và câu: Luyện tập về từ đa nghĩa",
+                            "numPage": 49
+                        },
+                        {
+                            "id": 3,
+                            "title": "1.3",
+                            "content": "Viết: Luyện tập lập dàn ý cho bài văn tả phong cảnh",
+                            "numPage": 49
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 2",
+                            "content": "Thư gửi các học sinh",
+                            "numPage": 51
+                        },
+                        {
+                            "id": 5,
+                            "title": "2.1",
+                            "content": "Đọc: Thư gửi các học sinh",
+                            "numPage": 51
+                        },
+                        {
+                            "id": 6,
+                            "title": "2.2",
+                            "content": "Nói và nghe: Thảo luận về ích lợi của việc đọc sách",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 7,
+                            "title": "2.3",
+                            "content": "Viết: Trả bài văn tả phong cảnh (Bài viết số 1)",
+                            "numPage": 53
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Tuần 6: CHỦ NHÂN TƯƠNG LAI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 3",
+                            "content": "Nay em mười tuổi",
+                            "numPage": 54
+                        },
+                        {
+                            "id": 1,
+                            "title": "3.1",
+                            "content": "Đọc: Nay em mười tuổi",
+                            "numPage": 54
+                        },
+                        {
+                            "id": 2,
+                            "title": "3.2",
+                            "content": "Luyện từ và câu: Luyện tập về từ đa nghĩa",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 3,
+                            "title": "3.3",
+                            "content": "Viết: Luyện tập viết đoạn văn cho bài văn tả phong cảnh",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 4",
+                            "content": "Cậu bé say mê toán học",
+                            "numPage": 58
+                        },
+                        {
+                            "id": 5,
+                            "title": "4.1",
+                            "content": "Đọc: Cậu bé say mê toán học",
+                            "numPage": 58
+                        },
+                        {
+                            "id": 6,
+                            "title": "4.2",
+                            "content": "Luyện tập về từ đồng nghĩa và từ đa nghĩa",
+                            "numPage": 59
+                        },
+                        {
+                            "id": 7,
+                            "title": "4.3",
+                            "content": "Viết bài văn tả phong cảnh (Bài viết số 2)",
+                            "numPage": 60
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Tuần 7: CHỦ NHÂN TƯƠNG LAI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 5",
+                            "content": "Lớp học trên đường",
+                            "numPage": 61
+                        },
+                        {
+                            "id": 1,
+                            "title": "5.1",
+                            "content": "Đọc: Lớp học trên đường",
+                            "numPage": 61
+                        },
+                        {
+                            "id": 2,
+                            "title": "5.2",
+                            "content": "Viết hoa thể hiện sự tôn trọng đặc biệt",
+                            "numPage": 63
+                        },
+                        {
+                            "id": 3,
+                            "title": "5.3",
+                            "content": "Viết: Viết chương trình hoạt động",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 6",
+                            "content": "Luật Trẻ em",
+                            "numPage": 66
+                        },
+                        {
+                            "id": 5,
+                            "title": "6.1",
+                            "content": "Đọc: Luật Trẻ em",
+                            "numPage": 66
+                        },
+                        {
+                            "id": 6,
+                            "title": "6.2",
+                            "content": "Nói và nghe: Tranh luận theo chủ đề Bổn phận của trẻ em",
+                            "numPage": 67
+                        },
+                        {
+                            "id": 7,
+                            "title": "6.3",
+                            "content": "Viết: Luyện tập viết chương trình hoạt động",
+                            "numPage": 68
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Tuần 8: CHỦ NHÂN TƯƠNG LAI",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 7",
+                            "content": "Bức tranh đồng quê",
+                            "numPage": 69
+                        },
+                        {
+                            "id": 1,
+                            "title": "7.1",
+                            "content": "Đọc: Bức tranh đồng quê",
+                            "numPage": 69
+                        },
+                        {
+                            "id": 2,
+                            "title": "7.2",
+                            "content": "Luyện từ và câu: Luyện tập sử dụng từ điển",
+                            "numPage": 71
+                        },
+                        {
+                            "id": 3,
+                            "title": "7.3",
+                            "content": "Viết: Trả bài văn tả phong cảnh (Bài viết số 2)",
+                            "numPage": 72
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 8",
+                            "content": "Lễ ra mắt Hội Nhi đồng Cứu quốc",
+                            "numPage": 73
+                        },
+                        {
+                            "id": 5,
+                            "title": "8.1",
+                            "content": "Đọc: Lễ ra mắt Hội Nhi đồng Cứu quốc",
+                            "numPage": 73
+                        },
+                        {
+                            "id": 6,
+                            "title": "8.2",
+                            "content": "Luyện từ và câu: Mở rộng vốn từ Công dân",
+                            "numPage": 74
+                        },
+                        {
+                            "id": 7,
+                            "title": "8.3",
+                            "content": "Viết: Viết báo cáo công việc",
+                            "numPage": 75
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "Tuần 9",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Ôn tập",
+                            "content": "ÔN TẬP GIỮA HỌC KÌ I ",
+                            "numPage": 78
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "Tuần 10: CHUNG SỐNG YÊU THƯƠNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Tết nhớ thương",
+                            "numPage": 85
+                        },
+                        {
+                            "id": 1,
+                            "title": "1.1",
+                            "content": "Đọc: Tết nhớ thương",
+                            "numPage": 85
+                        },
+                        {
+                            "id": 2,
+                            "title": "1.2",
+                            "content": "Luyện từ và câu: Đại từ",
+                            "numPage": 87
+                        },
+                        {
+                            "id": 3,
+                            "title": "1.3",
+                            "content": "Viết: Luyện tập viết báo cáo công việc",
+                            "numPage": 88
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 2",
+                            "content": "Mặn mòi vị muối Bạc Liêu",
+                            "numPage": 89
+                        },
+                        {
+                            "id": 5,
+                            "title": "2.1",
+                            "content": "Đọc: Mặn mòi vị muối Bạc Liêu",
+                            "numPage": 89
+                        },
+                        {
+                            "id": 6,
+                            "title": "2.2",
+                            "content": "Nói và nghe: Giới thiệu về một làng nghề",
+                            "numPage": 90
+                        },
+                        {
+                            "id": 7,
+                            "title": "2.3",
+                            "content": "Viết : Bài văn kể chuyện sáng tạo",
+                            "numPage": 91
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "Tuần 11: CHUNG SỐNG YÊU THƯƠNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 3",
+                            "content": "Nụ cười mang tên mùa xuân",
+                            "numPage": 93
+                        },
+                        {
+                            "id": 1,
+                            "title": "3.1",
+                            "content": "Đọc: Nụ cười mang tên mùa xuân",
+                            "numPage": 93
+                        },
+                        {
+                            "id": 2,
+                            "title": "3.2",
+                            "content": "Luyện từ và câu: Đại từ xưng hô",
+                            "numPage": 95
+                        },
+                        {
+                            "id": 3,
+                            "title": "3.3",
+                            "content": "Viết: Tìm ý, lập dàn ý cho bài văn kể chuyện sáng tạo",
+                            "numPage": 97
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 4",
+                            "content": "Mùa vừng",
+                            "numPage": 99
+                        },
+                        {
+                            "id": 5,
+                            "title": "4.1",
+                            "content": "Đọc: Mùa vừng",
+                            "numPage": 99
+                        },
+                        {
+                            "id": 6,
+                            "title": "4.2",
+                            "content": "Luyện từ và câu: Luyện tập về đại từ",
+                            "numPage": 101
+                        },
+                        {
+                            "id": 7,
+                            "title": "4.3",
+                            "content": "Viết: Viết đoạn văn cho bài văn kể chuyện sáng tạo",
+                            "numPage": 102
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "name": "Tuần 12: CHUNG SỐNG YÊU THƯƠNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 5",
+                            "content": "Trước ngày Giáng sinh",
+                            "numPage": 103
+                        },
+                        {
+                            "id": 1,
+                            "title": "5.1",
+                            "content": "Đọc: Trước ngày Giáng sinh",
+                            "numPage": 103
+                        },
+                        {
+                            "id": 2,
+                            "title": "5.2",
+                            "content": "Luyện từ và câu: Luyện tập về đại từ",
+                            "numPage": 105
+                        },
+                        {
+                            "id": 3,
+                            "title": "5.3",
+                            "content": "Viết: Viết bài văn kể chuyện sáng tạo (Bài viết số 1)",
+                            "numPage": 106
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 6",
+                            "content": "Buổi sáng ở Thành phố Hồ Chí Minh",
+                            "numPage": 107
+                        },
+                        {
+                            "id": 5,
+                            "title": "6.1",
+                            "content": "Đọc: Buổi sáng ở Thành phố Hồ Chí Minh",
+                            "numPage": 107
+                        },
+                        {
+                            "id": 6,
+                            "title": "6.2",
+                            "content": "Nói và nghe: Thảo luận theo chủ đề Ý nghĩa của sự chia sẻ",
+                            "numPage": 108
+                        },
+                        {
+                            "id": 7,
+                            "title": "6.3",
+                            "content": "Viết: Luyện tập tìm ý, lập dàn ý cho bài văn kể chuyện sáng tạo",
+                            "numPage": 109
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "name": "Tuần 13: CHUNG SỐNG YÊU THƯƠNG",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 7",
+                            "content": "Về ngôi nhà đang xây",
+                            "numPage": 110
+                        },
+                        {
+                            "id": 1,
+                            "title": "7.1",
+                            "content": "Đọc: Về ngôi nhà đang xây",
+                            "numPage": 110
+                        },
+                        {
+                            "id": 2,
+                            "title": "7.2",
+                            "content": "Luyện từ và câu: Kết từ",
+                            "numPage": 112
+                        },
+                        {
+                            "id": 3,
+                            "title": "7.3",
+                            "content": "Viết: Trả bài văn kể chuyện sáng tạo (Bài viết số 1)",
+                            "numPage": 113
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 8",
+                            "content": "Hãy lắng nghe",
+                            "numPage": 114
+                        },
+                        {
+                            "id": 5,
+                            "title": "8.1",
+                            "content": "Đọc: Hãy lắng nghe",
+                            "numPage": 114
+                        },
+                        {
+                            "id": 6,
+                            "title": "8.2",
+                            "content": "Luyện từ và câu: Mở rộng vốn từ Hạnh phúc",
+                            "numPage": 115
+                        },
+                        {
+                            "id": 7,
+                            "title": "8.3",
+                            "content": "Viết: Viết bài văn kể chuyện sáng tạo (Bài viết số 2)",
+                            "numPage": 116
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "Tuần 14: CỘNG ĐỒNG GẮN BÓ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Tiếng rao đêm",
+                            "numPage": 117
+                        },
+                        {
+                            "id": 1,
+                            "title": "1.1",
+                            "content": "Đọc: Tiếng rao đêm",
+                            "numPage": 117
+                        },
+                        {
+                            "id": 2,
+                            "title": "1.2",
+                            "content": "Luyện từ và câu: Luyện tập về kết từ",
+                            "numPage": 118
+                        },
+                        {
+                            "id": 3,
+                            "title": "1.3",
+                            "content": "Viết: Bài văn kể chuyện sáng tạo (tiếp theo)",
+                            "numPage": 119
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 2",
+                            "content": "Một ngày ở Đê Ba",
+                            "numPage": 122
+                        },
+                        {
+                            "id": 5,
+                            "title": "2.1",
+                            "content": "Đọc: Một ngày ở Đê Ba",
+                            "numPage": 122
+                        },
+                        {
+                            "id": 6,
+                            "title": "2.2",
+                            "content": "Nói và nghe: Trao đổi ý kiến với người thân Chung tay vì cộng đồng",
+                            "numPage": 123
+                        },
+                        {
+                            "id": 7,
+                            "title": "2.3",
+                            "content": "Viết: Luyện tập tìm ý, lập dàn ý cho bài văn kể chuyện sáng tạo (tiếp theo)",
+                            "numPage": 124
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "name": "Tuần 15: CỘNG ĐỒNG GẮN BÓ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 3",
+                            "content": "Ca dao về lễ hội",
+                            "numPage": 126
+                        },
+                        {
+                            "id": 1,
+                            "title": "3.1",
+                            "content": "Đọc: Ca dao về lễ hội",
+                            "numPage": 126
+                        },
+                        {
+                            "id": 2,
+                            "title": "3.2",
+                            "content": "Luyện từ và câu: Luyện tập về kết từ",
+                            "numPage": 129
+                        },
+                        {
+                            "id": 3,
+                            "title": "3.3",
+                            "content": "Viết: Trả bài văn kể chuyện sáng tạo (Bài viết số 2)",
+                            "numPage": 130
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 4",
+                            "content": "Ngày xuân Phố Cáo",
+                            "numPage": 131
+                        },
+                        {
+                            "id": 5,
+                            "title": "4.1",
+                            "content": "Đọc: Ngày xuân Phố Cáo",
+                            "numPage": 131
+                        },
+                        {
+                            "id": 6,
+                            "title": "4.2",
+                            "content": "Luyện từ và câu: Luyện tập về kết từ",
+                            "numPage": 132
+                        },
+                        {
+                            "id": 7,
+                            "title": "4.3",
+                            "content": "Viết: Viết bài văn kể chuyện sáng tạo (Bài viết số 3)",
+                            "numPage": 134
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "name": "Tuần 16: CỘNG ĐỒNG GẮN BÓ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 5",
+                            "content": "Những lá thư",
+                            "numPage": 134
+                        },
+                        {
+                            "id": 1,
+                            "title": "5.1",
+                            "content": "Đọc: Những lá thư",
+                            "numPage": 134
+                        },
+                        {
+                            "id": 2,
+                            "title": "5.2",
+                            "content": "Luyện từ và câu: Luyện tập về đại từ và kết từ",
+                            "numPage": 136
+                        },
+                        {
+                            "id": 3,
+                            "title": "5.3",
+                            "content": "Viết: Đoạn văn giới thiệu nhân vật trong phim hoạt hình",
+                            "numPage": 138
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 6",
+                            "content": "Ngôi nhà chung của buôn làng",
+                            "numPage": 136
+                        },
+                        {
+                            "id": 5,
+                            "title": "6.1",
+                            "content": "Đọc: Ngôi nhà chung của buôn làng",
+                            "numPage": 136
+                        },
+                        {
+                            "id": 6,
+                            "title": "6.2",
+                            "content": "Nói và nghe: Giới thiệu về một hoạt động cộng đồng",
+                            "numPage": 137
+                        },
+                        {
+                            "id": 7,
+                            "title": "6.3",
+                            "content": "Viết: Tìm ý cho đoạn văn giới thiệu nhân vật trong phim hoạt hình",
+                            "numPage": 140
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "name": "Tuần 17: CỘNG ĐỒNG GẮN BÓ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 7",
+                            "content": "Dáng hình ngọn gió",
+                            "numPage": 141
+                        },
+                        {
+                            "id": 1,
+                            "title": "7.1",
+                            "content": "Đọc: Dáng hình ngọn gió",
+                            "numPage": 141
+                        },
+                        {
+                            "id": 2,
+                            "title": "7.2",
+                            "content": "Luyện từ và câu: Mở rộng vốn từ Ước mơLuyện tập sử dụng từ ngữ",
+                            "numPage": 143
+                        },
+                        {
+                            "id": 3,
+                            "title": "7.3",
+                            "content": "Viết: Trả bài văn kể chuyện sáng tạo (Bài viết số 3)",
+                            "numPage": 144
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 8",
+                            "content": "Từ những cánh đồng xanh",
+                            "numPage": 145
+                        },
+                        {
+                            "id": 5,
+                            "title": "8.1",
+                            "content": "Đọc: Từ những cánh đồng xanh",
+                            "numPage": 145
+                        },
+                        {
+                            "id": 6,
+                            "title": "8.2",
+                            "content": "Luyện từ và câu: Mở rộng vốn từ Cộng đồng",
+                            "numPage": 147
+                        },
+                        {
+                            "id": 7,
+                            "title": "8.3",
+                            "content": "Viết: Viết đoạn văn giới thiệu nhân vật trong phim hoạt hình",
+                            "numPage": 148
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "name": "Tuần 18",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Ôn tập",
+                            "content": "ÔN TẬP CUỐI HỌC KÌ I",
+                            "numPage": 144
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2023,
+                "numPage": 160,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "NGUYỄN THỊ LY KHA",
+                    "TRỊNH CAM LY"
+                ],
+                "bookEditor": [
+                    "NGUYỄN THỊ LY KHA",
+                    "TRỊNH CAM LY"
+                ],
+                "bookAuthor": [
+                    "VŨ THỊ ÂN",
+                    "TRẦN VĂN CHUNG",
+                    "PHẠM THỊ KIM OANH",
+                    "HOÀNG THỤY THANH TÂM"
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "name": "Tiếng việt 5 - Tập hai",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/images/tiengviet5_tap2.png",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/pdf/sgk-tieng-viet-lop-5-tap-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Tuần 19: GIỮ MÃI MÀU XANH",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Điều kì diệu dưới những gốc anh đào",
+                            "numPage": 9
+                        },
+                        {
+                            "id": 1,
+                            "title": "1.1",
+                            "content": "Đọc: Điều kì diệu dưới những gốc anh đào",
+                            "numPage": 9
+                        },
+                        {
+                            "id": 2,
+                            "title": "1.2",
+                            "content": "Luyện từ và câu: Câu đơn và câu ghép",
+                            "numPage": 11
+                        },
+                        {
+                            "id": 3,
+                            "title": "1.3",
+                            "content": "Viết: Bài văn tả người",
+                            "numPage": 12
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 2",
+                            "content": "Giờ Trái Đất",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 5,
+                            "title": "2.1",
+                            "content": "Đọc: Giờ Trái Đất",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 6,
+                            "title": "2.2",
+                            "content": "Nói và nghe: Thảo luận theo chủ đề Vì môi trường xanh",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 7,
+                            "title": "2.3",
+                            "content": "Viết: Quan sát, tìm ý cho bài văn tả người",
+                            "numPage": 16
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "Tuần 20: KHUNG TRỜI TUỔI THƠGIỮ MÃI MÀU XANH",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 3",
+                            "content": "Mùa xuân em đi trồng cây",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 1,
+                            "title": "3.1",
+                            "content": "Đọc: Mùa xuân em đi trồng cây",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 2,
+                            "title": "3.2",
+                            "content": "Luyện từ và câu: Cách nối các vế trong câu ghép",
+                            "numPage": 20
+                        },
+                        {
+                            "id": 3,
+                            "title": "3.3",
+                            "content": "Viết: Lập dàn ý cho bài văn tả người",
+                            "numPage": 21
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 4",
+                            "content": "Rừng xuân",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 5,
+                            "title": "4.1",
+                            "content": "Đọc: Rừng xuân",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 6,
+                            "title": "4.2",
+                            "content": "Luyện từ và câu: Luyện tập về cách nối các vế trong câu ghép",
+                            "numPage": 24
+                        },
+                        {
+                            "id": 7,
+                            "title": "4.3",
+                            "content": "Viết: Viết đoạn mở bài cho bài văn tả người",
+                            "numPage": 25
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Tuần 21: GIỮ MÃI MÀU XANH",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 5",
+                            "content": "Bầy chim mùa xuân",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 1,
+                            "title": "5.1",
+                            "content": "Đọc: Bầy chim mùa xuân",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 2,
+                            "title": "5.2",
+                            "content": "Luyện từ và câu: Luyện tập về cách nối các vế trong câu ghép",
+                            "numPage": 29
+                        },
+                        {
+                            "id": 3,
+                            "title": "5.3",
+                            "content": "Viết: Viết đoạn văn cho bài văn tả người",
+                            "numPage": 29
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 6",
+                            "content": "Thiên đường của các loài động vật hoang dã",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 5,
+                            "title": "6.1",
+                            "content": "Đọc: Thiên đường của các loài động vật hoang dã",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 6,
+                            "title": "6.2",
+                            "content": "Nói và nghe: Trao đổi ý kiến với người thân Trồng và chăm sóc cây cối, vật nuôi",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 7,
+                            "title": "6.3",
+                            "content": "Viết: Viết đoạn kết bài cho bài văn tả người",
+                            "numPage": 33
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Tuần 22: GIỮ MÃI MÀU XANH",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 7",
+                            "content": "Lộc vừng mùa xuân",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 1,
+                            "title": "7.1",
+                            "content": "Đọc: Lộc vừng mùa xuân",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 2,
+                            "title": "7.2",
+                            "content": "Luyện từ và câu: Luyện tập về cách nối các vế trong câu ghép",
+                            "numPage": 36
+                        },
+                        {
+                            "id": 3,
+                            "title": "7.3",
+                            "content": "Viết: Viết bài văn tả người (Bài viết số 1)",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 8",
+                            "content": "Dưới những tán xanh",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 5,
+                            "title": "8.1",
+                            "content": "Đọc: Dưới những tán xanh",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 6,
+                            "title": "8.2",
+                            "content": "Luyện từ và câu: Mở rộng vốn từ Môi trường",
+                            "numPage": 39
+                        },
+                        {
+                            "id": 7,
+                            "title": "8.3",
+                            "content": "Viết: Luyện tập quan sát, tìm ý cho bài văn tả người",
+                            "numPage": 41
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Tuần 23: ĐẤT NƯỚC NGÀN NĂM",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Sự tích con Rồng cháu Tiên",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 1,
+                            "title": "1.1",
+                            "content": "Đọc: Sự tích con Rồng cháu Tiên",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 2,
+                            "title": "1.2",
+                            "content": "Luyện từ và câu: Luyện tập về câu ghép",
+                            "numPage": 45
+                        },
+                        {
+                            "id": 3,
+                            "title": "1.3",
+                            "content": "Viết: Luyện tập lập dàn ý cho bài văn tả người",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 2",
+                            "content": "Những con mắt của biển",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 5,
+                            "title": "2.1",
+                            "content": "Đọc: Những con mắt của biển",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 6,
+                            "title": "2.2",
+                            "content": "Nói và nghe: Giới thiệu về một nét đẹp truyền thống",
+                            "numPage": 49
+                        },
+                        {
+                            "id": 7,
+                            "title": "2.3",
+                            "content": "Viết: Trả bài văn tả người (Bài viết số 1)",
+                            "numPage": 51
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Tuần 24: ĐẤT NƯỚC NGÀN NĂM",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 3",
+                            "content": "Ngàn lời sử xanh",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 1,
+                            "title": "3.1",
+                            "content": "Đọc: Ngàn lời sử xanh",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 2,
+                            "title": "3.2",
+                            "content": "Luyện từ và câu: Luyện tập về câu đơn và câu ghép",
+                            "numPage": 54
+                        },
+                        {
+                            "id": 3,
+                            "title": "3.3",
+                            "content": "Viết: Luyện tập viết đoạn văn cho bài văn tả người",
+                            "numPage": 55
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 4",
+                            "content": "Vịnh Hạ Long",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 5,
+                            "title": "4.1",
+                            "content": "Đọc: Vịnh Hạ Long",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 6,
+                            "title": "4.2",
+                            "content": "Luyện từ và câu: Biện pháp điệp từ, điệp ngữ",
+                            "numPage": 58
+                        },
+                        {
+                            "id": 7,
+                            "title": "4.3",
+                            "content": "Viết: Viết bài văn tả người (Bài viết số 2)",
+                            "numPage": 60
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Tuần 25: ĐẤT NƯỚC NGÀN NĂM",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 5",
+                            "content": "Ông Trạng Nồi",
+                            "numPage": 61
+                        },
+                        {
+                            "id": 1,
+                            "title": "5.1",
+                            "content": "Đọc: Ông Trạng Nồi",
+                            "numPage": 61
+                        },
+                        {
+                            "id": 2,
+                            "title": "5.2",
+                            "content": "Luyện từ và câu: Luyện tập về biện pháp điệp từ, điệp ngữ",
+                            "numPage": 63
+                        },
+                        {
+                            "id": 3,
+                            "title": "5.3",
+                            "content": "Viết: Đoạn văn thể hiện tình cảm, cảm xúc trước một sự việc",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 6",
+                            "content": "Một bản hùng ca",
+                            "numPage": 66
+                        },
+                        {
+                            "id": 5,
+                            "title": "6.1",
+                            "content": "Đọc: Một bản hùng ca",
+                            "numPage": 66
+                        },
+                        {
+                            "id": 6,
+                            "title": "6.2",
+                            "content": "Nói và nghe: Giới thiệu về một di tích hoặc danh lam thắng cảnh",
+                            "numPage": 68
+                        },
+                        {
+                            "id": 7,
+                            "title": "6.3",
+                            "content": "Viết: Tìm ý cho đoạn văn thể hiện tình cảm, cảm xúc trước một sự việc",
+                            "numPage": 69
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Tuần 26: ĐẤT NƯỚC NGÀN NĂM",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 7",
+                            "content": "Việt Nam",
+                            "numPage": 70
+                        },
+                        {
+                            "id": 1,
+                            "title": "7.1",
+                            "content": "Đọc: Việt Nam",
+                            "numPage": 70
+                        },
+                        {
+                            "id": 2,
+                            "title": "7.2",
+                            "content": "Luyện từ và câu: Dấu gạch ngang",
+                            "numPage": 72
+                        },
+                        {
+                            "id": 3,
+                            "title": "7.3",
+                            "content": "Viết: Trả bài văn tả người (Bài viết số 2)",
+                            "numPage": 74
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 8",
+                            "content": "Tranh làng Hồ",
+                            "numPage": 75
+                        },
+                        {
+                            "id": 5,
+                            "title": "8.1",
+                            "content": "Đọc: Tranh làng Hồ",
+                            "numPage": 75
+                        },
+                        {
+                            "id": 6,
+                            "title": "8.2",
+                            "content": "Luyện từ và câu: Mở rộng vốn từ Đất nước",
+                            "numPage": 76
+                        },
+                        {
+                            "id": 7,
+                            "title": "8.3",
+                            "content": "Viết: Viết đoạn văn thể hiện tình cảm, cảm xúc trước một sự việc",
+                            "numPage": 77
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "Tuần 27",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Ôn tập",
+                            "content": "ÔN TẬP GIỮA HỌC KÌ II ",
+                            "numPage": 78
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "Tuần 28: KHÚC CA HOÀ BÌNH",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Vì đại dương trong xanh thương",
+                            "numPage": 86
+                        },
+                        {
+                            "id": 1,
+                            "title": "1.1",
+                            "content": "Đọc: Vì đại dương trong xanh thương",
+                            "numPage": 86
+                        },
+                        {
+                            "id": 2,
+                            "title": "1.2",
+                            "content": "Luyện từ và câu: Luyện tập về dấu gạch ngang",
+                            "numPage": 88
+                        },
+                        {
+                            "id": 3,
+                            "title": "1.3",
+                            "content": "Viết: Đoạn văn thể hiện tình cảm, cảm xúc về một câu chuyện",
+                            "numPage": 89
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 2",
+                            "content": "Thành phố Vì hoà bình",
+                            "numPage": 91
+                        },
+                        {
+                            "id": 5,
+                            "title": "2.1",
+                            "content": "Đọc: Thành phố Vì hoà bình",
+                            "numPage": 91
+                        },
+                        {
+                            "id": 6,
+                            "title": "2.2",
+                            "content": "Nói và nghe: Nói về cuộc sống thanh bình",
+                            "numPage": 92
+                        },
+                        {
+                            "id": 7,
+                            "title": "2.3",
+                            "content": "Viết : Tìm ý cho đoạn văn thể hiện tình cảm, cảm xúc về một câu chuyện",
+                            "numPage": 93
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "Tuần 29: KHÚC CA HOÀ BÌNH",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 3",
+                            "content": "Bài ca Trái Đất",
+                            "numPage": 94
+                        },
+                        {
+                            "id": 1,
+                            "title": "3.1",
+                            "content": "Đọc: Bài ca Trái Đất",
+                            "numPage": 94
+                        },
+                        {
+                            "id": 2,
+                            "title": "3.2",
+                            "content": "Luyện từ và câu: Liên kết các câu trong đoạn văn bằng cách lặp từ ngữ",
+                            "numPage": 96
+                        },
+                        {
+                            "id": 3,
+                            "title": "3.3",
+                            "content": "Viết: Viết đoạn văn thể hiện tình cảm, cảm xúc về một câu chuyện",
+                            "numPage": 98
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 4",
+                            "content": "Miền đất xanh",
+                            "numPage": 99
+                        },
+                        {
+                            "id": 5,
+                            "title": "4.1",
+                            "content": "Đọc: Miền đất xanh",
+                            "numPage": 99
+                        },
+                        {
+                            "id": 6,
+                            "title": "4.2",
+                            "content": "Luyện từ và câu: Liên kết các câu trong đoạn văn bằng cách thay thế từ ngữ",
+                            "numPage": 100
+                        },
+                        {
+                            "id": 7,
+                            "title": "4.3",
+                            "content": "Viết: Đoạn văn thể hiện tình cảm, cảm xúc về một bài thơ",
+                            "numPage": 101
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "name": "Tuần 30: KHÚC CA HOÀ BÌNH",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 5",
+                            "content": "Những con hạc giấy",
+                            "numPage": 103
+                        },
+                        {
+                            "id": 1,
+                            "title": "5.1",
+                            "content": "Đọc: Những con hạc giấy",
+                            "numPage": 103
+                        },
+                        {
+                            "id": 2,
+                            "title": "5.2",
+                            "content": "Luyện từ và câu: Liên kết các câu trong đoạn văn bằng cách dùng từ ngữ nối",
+                            "numPage": 105
+                        },
+                        {
+                            "id": 3,
+                            "title": "5.3",
+                            "content": "Viết: Tìm ý cho đoạn văn thể hiện tình cảm, cảm xúc",
+                            "numPage": 106
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 6",
+                            "content": "Lễ hội đèn lồng nổi",
+                            "numPage": 107
+                        },
+                        {
+                            "id": 5,
+                            "title": "6.1",
+                            "content": "Đọc: Lễ hội đèn lồng nổi",
+                            "numPage": 107
+                        },
+                        {
+                            "id": 6,
+                            "title": "6.2",
+                            "content": "Nói và nghe: Thảo luận theo chủ đề Bạn bè mến thương",
+                            "numPage": 108
+                        },
+                        {
+                            "id": 7,
+                            "title": "6.3",
+                            "content": "Viết: Viết đoạn văn thể hiện tình cảm, cảm xúc về một bài thơ",
+                            "numPage": 109
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "name": "Tuần 31: KHÚC CA HOÀ BÌNH",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 7",
+                            "content": "Theo chân Bác",
+                            "numPage": 110
+                        },
+                        {
+                            "id": 1,
+                            "title": "7.1",
+                            "content": "Đọc: Theo chân Bác",
+                            "numPage": 110
+                        },
+                        {
+                            "id": 2,
+                            "title": "7.2",
+                            "content": "Luyện từ và câu: Luyện tập về liên kết câu trong đoạn văn",
+                            "numPage": 112
+                        },
+                        {
+                            "id": 3,
+                            "title": "7.3",
+                            "content": "Viết: Đoạn văn giới thiệu về nhân vật trong một cuốn sách đã đọc",
+                            "numPage": 113
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 8",
+                            "content": "Sự sụp đổ của chế độ a-pác thai",
+                            "numPage": 115
+                        },
+                        {
+                            "id": 5,
+                            "title": "8.1",
+                            "content": "Đọc: Sự sụp đổ của chế độ a-pác thai",
+                            "numPage": 115
+                        },
+                        {
+                            "id": 6,
+                            "title": "8.2",
+                            "content": "Luyện từ và câu: Mở rộng vốn từ Hoà bình",
+                            "numPage": 116
+                        },
+                        {
+                            "id": 7,
+                            "title": "8.3",
+                            "content": "Viết: Tìm ý cho đoạn văn giới thiệu về nhân vật trong một cuốn sách đã đọc",
+                            "numPage": 117
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "Tuần 32: CHÂN TRỜI RỘNG MỞ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Lời hứa",
+                            "numPage": 118
+                        },
+                        {
+                            "id": 1,
+                            "title": "1.1",
+                            "content": "Đọc: Lời hứa",
+                            "numPage": 118
+                        },
+                        {
+                            "id": 2,
+                            "title": "1.2",
+                            "content": "Luyện từ và câu: Viết tên người, tên địa lí nước ngoài",
+                            "numPage": 120
+                        },
+                        {
+                            "id": 3,
+                            "title": "1.3",
+                            "content": "Viết: Viết đoạn văn giới thiệu về nhân vật trong một cuốn sách đã đọc",
+                            "numPage": 121
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 2",
+                            "content": "Chiền chiện bay lên",
+                            "numPage": 122
+                        },
+                        {
+                            "id": 5,
+                            "title": "2.1",
+                            "content": "Đọc: Chiền chiện bay lên",
+                            "numPage": 122
+                        },
+                        {
+                            "id": 6,
+                            "title": "2.2",
+                            "content": "Nói và nghe: Giới thiệu một địa điểm vui chơi",
+                            "numPage": 123
+                        },
+                        {
+                            "id": 7,
+                            "title": "2.3",
+                            "content": "Viết: Đoạn văn nêu lí do tán thành hoặc phản đối một hiện tượng, sự việc",
+                            "numPage": 124
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "name": "Tuần 33: CHÂN TRỜI RỘNG MỞ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 3",
+                            "content": "Thơ viết cho ngày mai",
+                            "numPage": 126
+                        },
+                        {
+                            "id": 1,
+                            "title": "3.1",
+                            "content": "Đọc: Thơ viết cho ngày mai",
+                            "numPage": 126
+                        },
+                        {
+                            "id": 2,
+                            "title": "3.2",
+                            "content": "Luyện từ và câu: Luyện tập viết tên người, tên địa lí nước ngoài",
+                            "numPage": 128
+                        },
+                        {
+                            "id": 3,
+                            "title": "3.3",
+                            "content": "Viết: Tìm ý cho đoạn văn nêu lí do tán thành hoặc phản đối một hiện tượng, sự việc",
+                            "numPage": 129
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 4",
+                            "content": "Bài ca về mặt trời",
+                            "numPage": 130
+                        },
+                        {
+                            "id": 5,
+                            "title": "4.1",
+                            "content": "Đọc: Bài ca về mặt trời",
+                            "numPage": 130
+                        },
+                        {
+                            "id": 6,
+                            "title": "4.2",
+                            "content": "Luyện từ và câu: Luyện tập sử dụng từ ngữ",
+                            "numPage": 131
+                        },
+                        {
+                            "id": 7,
+                            "title": "4.3",
+                            "content": "Viết: Viết đoạn văn nêu lí do tán thành hoặc phản đối một hiện tượng, sự việc (Bài viết số 1)",
+                            "numPage": 132
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "name": "Tuần 34: CHÂN TRỜI RỘNG MỞ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 5",
+                            "content": "Bên ngoài Trái Đất",
+                            "numPage": 134
+                        },
+                        {
+                            "id": 1,
+                            "title": "5.1",
+                            "content": "Đọc: Bên ngoài Trái Đất",
+                            "numPage": 134
+                        },
+                        {
+                            "id": 2,
+                            "title": "5.2",
+                            "content": "Luyện từ và câu: Mở rộng vốn từ Khám phá",
+                            "numPage": 136
+                        },
+                        {
+                            "id": 3,
+                            "title": "5.3",
+                            "content": "Viết: Luyện tập tìm ý cho đoạn văn nêu lí do tán thành hoặc phản đối một hiện tượng, sự việc",
+                            "numPage": 137
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 6",
+                            "content": "Vào hạ",
+                            "numPage": 138
+                        },
+                        {
+                            "id": 5,
+                            "title": "6.1",
+                            "content": "Đọc: Vào hạ",
+                            "numPage": 138
+                        },
+                        {
+                            "id": 6,
+                            "title": "6.2",
+                            "content": "Nói và nghe: Chia sẻ theo chủ đề Điều em muốn nói",
+                            "numPage": 139
+                        },
+                        {
+                            "id": 7,
+                            "title": "6.3",
+                            "content": "Viết: Viết đoạn văn nêu lí do tán thành hoặc phản đối một hiện tượng, sự việc (Bài viết số 2)",
+                            "numPage": 140
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "name": "Tuần 35: CHÂN TRỜI RỘNG MỞ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Ôn tập",
+                            "content": "ÔN TẬP CUỐI NĂM HỌC",
+                            "numPage": 141
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2023,
+                "numPage": 152,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "NGUYỄN THỊ LY KHA",
+                    "TRỊNH CAM LY"
+                ],
+                "bookEditor": [
+                    "NGUYỄN THỊ LY KHA",
+                    "TRỊNH CAM LY"
+                ],
+                "bookAuthor": [
+                    "VŨ THỊ ÂN",
+                    "TRẦN VĂN CHUNG",
+                    "PHẠM THỊ KIM OANH",
+                    "HOÀNG THỤY THANH TÂM"
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "name": "Tin học 5",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/images/tinhoc5.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/pdf/sgk-tieng-viet-lop-5-tap-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "CHỦ ĐỀ A. MÁY TÍNH VÀ EM",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 1",
+                            "content": "Máy tính có thể giúp em làm những việc gì?",
+                            "numPage": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "CHỦ ĐỀ B. MẠNG MÁY TÍNH VÀ INTERNET",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 2",
+                            "content": "Tìm thông tin trên website",
+                            "numPage": 9
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "CHỦ ĐỀ C.TỔ CHỨC LƯU TRỮ, TÌM KIẾM VÀ TRAO ĐỔI THÔNG TIN",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 3",
+                            "content": "Thông tin trong giải quyết vấn đề",
+                            "numPage": 12
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 4",
+                            "content": "Tổ chức, lưu trữ và tìm tệp, thư mục trong máy tính",
+                            "numPage": 15
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "CHỦ ĐỀ D. ĐẠO ĐỨC, PHÁP LUẬT VÀ VĂN HOÁ TRONG MÔI TRƯỜNG SỐ",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 5",
+                            "content": "Bản quyền nội dung thông tin",
+                            "numPage": 19
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "CHỦ ĐỀ E. ỨNG DỤNG TIN HỌC",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 6",
+                            "content": "Chỉnh sửa văn bản",
+                            "numPage": 22
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 7",
+                            "content": "Định dạng kí tự",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 8A",
+                            "content": "Thực hành tạo thiệp chúc mừng",
+                            "numPage": 31
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 8B",
+                            "content": "Thực hành tạo sản phẩm thủ công theo video hướng dẫn",
+                            "numPage": 36
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "CHỦ ĐỀ F.GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+                    "bookTables": [
+                        {
+                            "id": 0,
+                            "title": "Bài 9",
+                            "content": "Cấu trúc tuần tự",
+                            "numPage": 39
+                        },
+                        {
+                            "id": 1,
+                            "title": "Bài 10",
+                            "content": "Cấu trúc rẽ nhánh",
+                            "numPage": 43
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 11",
+                            "content": "Cấu trúc lặp",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 12",
+                            "content": "Viết chương trình để tính toán",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 13",
+                            "content": "Chạy thử chương trình",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 14",
+                            "content": "Viết kịch bản chương trình máy tính",
+                            "numPage": 61
+                        },
+                        {
+                            "id": 6,
+                            "title": "Bài 15",
+                            "content": "Thực hành tạo chương trình theo kịch bản",
+                            "numPage": 64
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2024,
+                "numPage": 71,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "QUÁCH TẤT KIÊN"
+                ],
+                "bookEditor": [
+                    "QUÁCH TẤT KIÊN",
+                    "PHẠM THỊ QUỲNH ANH"
+                ],
+                "bookAuthor": [
+                    "NGUYỄN NHẬT MINH ĐĂNG",
+                    "LÊ TẤN HỒNG HẢI",
+                    "TRỊNH THANH HẢI"
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "name": "Toán 5 - Tập một",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/images/toan5_tap1.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/pdf/sgk-toan-lop-5-tap-1-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 5",
+                    "bookTables": [
+                        {
+                            "id": 1,
+                            "title": "1",
+                            "content": "ÔN TẬP VÀ BỔ SUNG",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 1",
+                            "content": "Ôn tập số tự nhiên và các phép tính",
+                            "numPage": 8
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 2",
+                            "content": "Ôn tập phân số",
+                            "numPage": 11
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 3",
+                            "content": "Ôn tập và bổ sung các phép tính với phân số",
+                            "numPage": 13
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 4",
+                            "content": "Phân số thập phân",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 6,
+                            "title": "Bài 5",
+                            "content": "Tỉ số",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 7,
+                            "title": "Bài 6",
+                            "content": "Tỉ số của số lần lặp lại một sự kiện so với tổng số lần thực hiện",
+                            "numPage": 21
+                        },
+                        {
+                            "id": 8,
+                            "title": "Bài 7",
+                            "content": "Em làm được những gì?",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 9,
+                            "title": "Bài 8",
+                            "content": "Ôn tập và bổ sung bài toán liên quan đến rút về đơn vị",
+                            "numPage": 25
+                        },
+                        {
+                            "id": 10,
+                            "title": "Bài 9",
+                            "content": "Bài toán giải bằng bốn bước tính",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 11,
+                            "title": "Bài 10",
+                            "content": "Tìm hai số khi biết tổng và tỉ số của hai số đó",
+                            "numPage": 29
+                        },
+                        {
+                            "id": 12,
+                            "title": "Bài 11",
+                            "content": "Tìm hai số khi biết hiệu và tỉ số của hai số đó",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 13,
+                            "title": "Bài 12",
+                            "content": "Em làm được những gì?",
+                            "numPage": 35
+                        },
+                        {
+                            "id": 14,
+                            "title": "Bài 13",
+                            "content": "Héc-ta",
+                            "numPage": 37
+                        },
+                        {
+                            "id": 15,
+                            "title": "Bài 14",
+                            "content": "Ki-lô-mét vuông",
+                            "numPage": 39
+                        },
+                        {
+                            "id": 16,
+                            "title": "Bài 15",
+                            "content": "Tỉ lệ bản đồ",
+                            "numPage": 41
+                        },
+                        {
+                            "id": 17,
+                            "title": "Bài 16",
+                            "content": "Em làm được những gì?",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 18,
+                            "title": "Bài 17",
+                            "content": "Thực hành và trải nghiệm",
+                            "numPage": 47
+                        },
+                        {
+                            "id": 19,
+                            "title": "2",
+                            "content": "SỐ THẬP PHÂN",
+                            "numPage": 48
+                        },
+                        {
+                            "id": 20,
+                            "title": "Bài 18",
+                            "content": "Số thập phân",
+                            "numPage": 49
+                        },
+                        {
+                            "id": 21,
+                            "title": "Bài 19",
+                            "content": "Hàng của số thập phân. Đọc, viết số thập phân",
+                            "numPage": 53
+                        },
+                        {
+                            "id": 22,
+                            "title": "Bài 20",
+                            "content": "Số thập phân bằng nhau",
+                            "numPage": 55
+                        },
+                        {
+                            "id": 23,
+                            "title": "Bài 21",
+                            "content": "So sánh hai số thập phân",
+                            "numPage": 56
+                        },
+                        {
+                            "id": 24,
+                            "title": "Bài 22",
+                            "content": "Làm tròn số thập phân",
+                            "numPage": 58
+                        },
+                        {
+                            "id": 25,
+                            "title": "Bài 23",
+                            "content": "Em làm được những gì?",
+                            "numPage": 61
+                        },
+                        {
+                            "id": 26,
+                            "title": "Bài 24",
+                            "content": "Viết các số đo độ dài dưới dạng số thập phân",
+                            "numPage": 64
+                        },
+                        {
+                            "id": 27,
+                            "title": "Bài 25",
+                            "content": "Viết các số đo khối lượng dưới dạng số thập phân",
+                            "numPage": 65
+                        },
+                        {
+                            "id": 28,
+                            "title": "Bài 26",
+                            "content": "Viết các số đo diện tích dưới dạng số thập phân",
+                            "numPage": 66
+                        },
+                        {
+                            "id": 29,
+                            "title": "Bài 27",
+                            "content": "Em làm được những gì?",
+                            "numPage": 67
+                        },
+                        {
+                            "id": 30,
+                            "title": "Bài 28",
+                            "content": "Cộng hai số thập phân",
+                            "numPage": 69
+                        },
+                        {
+                            "id": 31,
+                            "title": "Bài 29",
+                            "content": "Trừ hai số thập phân",
+                            "numPage": 71
+                        },
+                        {
+                            "id": 32,
+                            "title": "Bài 30",
+                            "content": "Em làm được những gì?",
+                            "numPage": 73
+                        },
+                        {
+                            "id": 33,
+                            "title": "Bài 31",
+                            "content": "Nhân một số thập phân với một số tự nhiên",
+                            "numPage": 74
+                        },
+                        {
+                            "id": 34,
+                            "title": "Bài 32",
+                            "content": "Nhân hai số thập phân",
+                            "numPage": 75
+                        },
+                        {
+                            "id": 35,
+                            "title": "Bài 33",
+                            "content": "Nhân một số thập phân với 10; 100; 1000. Nhân một số thập phân với 0,1; 0,01; 0,001;",
+                            "numPage": 77
+                        },
+                        {
+                            "id": 36,
+                            "title": "Bài 34",
+                            "content": "Em làm được những gì?",
+                            "numPage": 79
+                        },
+                        {
+                            "id": 37,
+                            "title": "Bài 35",
+                            "content": "Chia một số thập phân cho một số tự nhiên",
+                            "numPage": 80
+                        },
+                        {
+                            "id": 38,
+                            "title": "Bài 36",
+                            "content": "Chia một số tự nhiên cho một số tự nhiên mà thương là một số thập phân",
+                            "numPage": 81
+                        },
+                        {
+                            "id": 39,
+                            "title": "Bài 37",
+                            "content": "Chia một số thập phân cho 10; 100; 1000; Chia một số thập phân cho 0,1; 0,01; 0,001",
+                            "numPage": 82
+                        },
+                        {
+                            "id": 40,
+                            "title": "Bài 38",
+                            "content": "Em làm được những gì?",
+                            "numPage": 83
+                        },
+                        {
+                            "id": 41,
+                            "title": "Bài 39",
+                            "content": "Chia một số tự nhiên cho một số thập phân",
+                            "numPage": 84
+                        },
+                        {
+                            "id": 42,
+                            "title": "Bài 40",
+                            "content": "Chia một số thập phân cho một số thập phân",
+                            "numPage": 85
+                        },
+                        {
+                            "id": 43,
+                            "title": "Bài 41",
+                            "content": "Em làm được những gì?",
+                            "numPage": 86
+                        },
+                        {
+                            "id": 44,
+                            "title": "Bài 42",
+                            "content": "Thực hành và trải nghiệm",
+                            "numPage": 88
+                        },
+                        {
+                            "id": 45,
+                            "title": "3",
+                            "content": "HÌNH TAM GIÁC, HÌNH THANG, HÌNH TRÒN",
+                            "numPage": 89
+                        },
+                        {
+                            "id": 46,
+                            "title": "Bài 43",
+                            "content": "Hình tam giác",
+                            "numPage": 90
+                        },
+                        {
+                            "id": 47,
+                            "title": "Bài 44",
+                            "content": "Diện tích hình tam giác",
+                            "numPage": 92
+                        },
+                        {
+                            "id": 48,
+                            "title": "Bài 45",
+                            "content": "Hình thang",
+                            "numPage": 95
+                        },
+                        {
+                            "id": 49,
+                            "title": "Bài 46",
+                            "content": "Diện tích hình thang",
+                            "numPage": 97
+                        },
+                        {
+                            "id": 50,
+                            "title": "Bài 47",
+                            "content": "Đường tròn, hình tròn",
+                            "numPage": 100
+                        },
+                        {
+                            "id": 51,
+                            "title": "Bài 48",
+                            "content": "Chu vi hình tròn",
+                            "numPage": 102
+                        },
+                        {
+                            "id": 52,
+                            "title": "Bài 49",
+                            "content": "Diện tích hình tròn",
+                            "numPage": 104
+                        },
+                        {
+                            "id": 53,
+                            "title": "Bài 50",
+                            "content": "Em làm được những gì?",
+                            "numPage": 106
+                        },
+                        {
+                            "id": 54,
+                            "title": "Bài 51",
+                            "content": "Thực hành và trải nghiệm",
+                            "numPage": 107
+                        },
+                        {
+                            "id": 55,
+                            "title": "4",
+                            "content": "ÔN TẬP HỌC KÌ 1",
+                            "numPage": 108
+                        },
+                        {
+                            "id": 56,
+                            "title": "Bài 52",
+                            "content": "Ôn tập số thập phân",
+                            "numPage": 109
+                        },
+                        {
+                            "id": 57,
+                            "title": "Bài 53",
+                            "content": "Ôn tập các phép tính với số thập phân",
+                            "numPage": 111
+                        },
+                        {
+                            "id": 58,
+                            "title": "Bài 54",
+                            "content": "Ôn tập hình học và đo lường",
+                            "numPage": 114
+                        },
+                        {
+                            "id": 59,
+                            "title": "Bài 55",
+                            "content": "Ôn tập một số yếu tố thống kê và xác suất",
+                            "numPage": 119
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2023,
+                "numPage": 121,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "TRẦN NAM DŨNG"
+                ],
+                "bookEditor": [
+                    "KHÚC THÀNH CHÍNH"
+                ],
+                "bookAuthor": [
+                    "ĐINH THỊ XUÂN DUNG",
+                    "NGUYỄN KÍNH ĐỨC",
+                    "ĐẬU THỊ HUẾ",
+                    "ĐINH THỊ KIM LAN",
+                    "HUỲNH THỊ KIM TRANG"
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "name": "Toán 5 - Tập hai",
+            "image": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/images/toan5_tap2.jpg",
+            "link": "https://s3.gkebooks.edu.vn/books/chantroisangtao/lop5/pdf/sgk-toan-lop-5-tap-2-chan-troi-sang-tao.pdf",
+            "currentPage": null,
+            "maxPage": null,
+            "groupBookTable": [
+                {
+                    "id": 0,
+                    "name": "Chào em vào lớp 5",
+                    "bookTables": [
+                        {
+                            "id": 1,
+                            "title": "5",
+                            "content": "TỈ SỐ PHẦN TRĂM",
+                            "numPage": 7
+                        },
+                        {
+                            "id": 2,
+                            "title": "Bài 56",
+                            "content": "Tỉ số phần trăm",
+                            "numPage": 8
+                        },
+                        {
+                            "id": 3,
+                            "title": "Bài 57",
+                            "content": "Tính tỉ số phần trăm của hai số",
+                            "numPage": 10
+                        },
+                        {
+                            "id": 4,
+                            "title": "Bài 58",
+                            "content": "Tìm giá trị phần trăm của một số",
+                            "numPage": 12
+                        },
+                        {
+                            "id": 5,
+                            "title": "Bài 59",
+                            "content": "Em làm được những gì?",
+                            "numPage": 14
+                        },
+                        {
+                            "id": 6,
+                            "title": "Bài 60",
+                            "content": "Sử dụng máy tính cầm tay",
+                            "numPage": 15
+                        },
+                        {
+                            "id": 7,
+                            "title": "Bài 61",
+                            "content": "Viết các số liệu dưới dạng tỉ số phần trăm",
+                            "numPage": 17
+                        },
+                        {
+                            "id": 8,
+                            "title": "Bài 62",
+                            "content": "Biểu đồ hình quạt tròn",
+                            "numPage": 18
+                        },
+                        {
+                            "id": 9,
+                            "title": "Bài 63",
+                            "content": "Em làm được những gì?",
+                            "numPage": 25
+                        },
+                        {
+                            "id": 10,
+                            "title": "6",
+                            "content": "HÌNH HỘP CHỮ NHẬT. HÌNH LẬP PHƯƠNG. HÌNH TRỤ",
+                            "numPage": 23
+                        },
+                        {
+                            "id": 11,
+                            "title": "Bài 64",
+                            "content": "Hình hộp chữ nhật, hình lập phương",
+                            "numPage": 24
+                        },
+                        {
+                            "id": 12,
+                            "title": "Bài 65",
+                            "content": "Diện tích xung quanh và diện tích toàn phần của hình hộp chữ nhật",
+                            "numPage": 27
+                        },
+                        {
+                            "id": 13,
+                            "title": "Bài 66",
+                            "content": "Diện tích xung quanh và diện tích toàn phần ủa hình lập phương",
+                            "numPage": 30
+                        },
+                        {
+                            "id": 14,
+                            "title": "Bài 67",
+                            "content": "Hình trụ",
+                            "numPage": 32
+                        },
+                        {
+                            "id": 15,
+                            "title": "Bài 68",
+                            "content": "Em làm được những gì?",
+                            "numPage": 34
+                        },
+                        {
+                            "id": 16,
+                            "title": "Bài 69",
+                            "content": "Thể tích của một hình",
+                            "numPage": 35
+                        },
+                        {
+                            "id": 17,
+                            "title": "Bài 70",
+                            "content": "Xăng-ti-mét khối",
+                            "numPage": 38
+                        },
+                        {
+                            "id": 18,
+                            "title": "Bài 71",
+                            "content": "Đề-ti-mét khối",
+                            "numPage": 40
+                        },
+                        {
+                            "id": 19,
+                            "title": "Bài 72",
+                            "content": "Mét khối",
+                            "numPage": 42
+                        },
+                        {
+                            "id": 20,
+                            "title": "Bài 73",
+                            "content": "Thể tích hình hộp chữ nhật",
+                            "numPage": 44
+                        },
+                        {
+                            "id": 21,
+                            "title": "Bài 74",
+                            "content": "Thể tích hình lập phương",
+                            "numPage": 46
+                        },
+                        {
+                            "id": 22,
+                            "title": "Bài 75",
+                            "content": "Em làm được những gì?",
+                            "numPage": 47
+                        },
+                        {
+                            "id": 23,
+                            "title": "Bài 76",
+                            "content": "Thực hành và trải nghiệm",
+                            "numPage": 49
+                        },
+                        {
+                            "id": 24,
+                            "title": "7",
+                            "content": "SỐ ĐO THỜI GIAN. VẬN TỐC, QUÃNG ĐƯỜNG, THỜI GIAN",
+                            "numPage": 51
+                        },
+                        {
+                            "id": 25,
+                            "title": "Bài 77",
+                            "content": " Các đơn vị đo thời gian",
+                            "numPage": 52
+                        },
+                        {
+                            "id": 26,
+                            "title": "Bài 78",
+                            "content": "Cộng số đo thời gian",
+                            "numPage": 55
+                        },
+                        {
+                            "id": 27,
+                            "title": "Bài 79",
+                            "content": "Trừ số đo thời gian",
+                            "numPage": 57
+                        },
+                        {
+                            "id": 28,
+                            "title": "Bài 80",
+                            "content": "Nhân số đo thời gian",
+                            "numPage": 58
+                        },
+                        {
+                            "id": 29,
+                            "title": "Bài 81",
+                            "content": "Chia số đo thời gian",
+                            "numPage": 59
+                        },
+                        {
+                            "id": 30,
+                            "title": "Bài 82",
+                            "content": "Em làm được những gì?",
+                            "numPage": 61
+                        },
+                        {
+                            "id": 31,
+                            "title": "Bài 83",
+                            "content": "Vận tốc",
+                            "numPage": 63
+                        },
+                        {
+                            "id": 32,
+                            "title": "Bài 84",
+                            "content": "Quãng đường",
+                            "numPage": 65
+                        },
+                        {
+                            "id": 33,
+                            "title": "Bài 86",
+                            "content": "Thời gian",
+                            "numPage": 67
+                        },
+                        {
+                            "id": 34,
+                            "title": "Bài 87",
+                            "content": "Em làm được những gì?",
+                            "numPage": 69
+                        },
+                        {
+                            "id": 35,
+                            "title": "8",
+                            "content": "ÔN TẬP CUỐI NĂM",
+                            "numPage": 71
+                        },
+                        {
+                            "id": 36,
+                            "title": "Bài 87",
+                            "content": "Ôn tập số tự nhiên",
+                            "numPage": 72
+                        },
+                        {
+                            "id": 37,
+                            "title": "Bài 88",
+                            "content": "Ôn tập phân số",
+                            "numPage": 75
+                        },
+                        {
+                            "id": 38,
+                            "title": "Bài 89",
+                            "content": "Ôn tập số thập phân",
+                            "numPage": 77
+                        },
+                        {
+                            "id": 39,
+                            "title": "Bài 90",
+                            "content": "Ôn tập phép cộng, phép trừ",
+                            "numPage": 80
+                        },
+                        {
+                            "id": 40,
+                            "title": "Bài 91",
+                            "content": "Ôn tập phép cộng, phép trừ (tiếp theo)",
+                            "numPage": 82
+                        },
+                        {
+                            "id": 41,
+                            "title": "Bài 92",
+                            "content": "Ôn tập phép nhân, phép chia",
+                            "numPage": 83
+                        },
+                        {
+                            "id": 42,
+                            "title": "Bài 93",
+                            "content": "Ôn tập phép nhân, phép chia tiếp theo)",
+                            "numPage": 87
+                        },
+                        {
+                            "id": 43,
+                            "title": "Bài 94",
+                            "content": "Ôn tập hình phẳng và hình khối",
+                            "numPage": 90
+                        },
+                        {
+                            "id": 44,
+                            "title": "Bài 95",
+                            "content": "Ôn tập độ dài, khối lượng, dung tích, nhiệt độ, tiền Việt Nam ",
+                            "numPage": 94
+                        },
+                        {
+                            "id": 45,
+                            "title": "Bài 96",
+                            "content": "Ôn tập chu vi, diện tích, thể tích",
+                            "numPage": 99
+                        },
+                        {
+                            "id": 46,
+                            "title": "Bài 97",
+                            "content": "Ôn tập chu vi, diện tích, thể tích (tiếp theo",
+                            "numPage": 103
+                        },
+                        {
+                            "id": 47,
+                            "title": "Bài 98",
+                            "content": "Ôn tập số đo thời gianvận tốc, quãng đường, thời gian",
+                            "numPage": 106
+                        },
+                        {
+                            "id": 48,
+                            "title": "Bài 99",
+                            "content": "Ôn tập số đo thời gian, vận tốc, quãng đường, thời gian (tiếp theo)",
+                            "numPage": 109
+                        },
+                        {
+                            "id": 49,
+                            "title": "Bài 100",
+                            "content": "Ôn tập một số yếu tố xác suất",
+                            "numPage": 110
+                        },
+                        {
+                            "id": 50,
+                            "title": "Bài 101",
+                            "content": "Ôn tập một số yếu tố thống kê",
+                            "numPage": 111
+                        },
+                        {
+                            "id": 51,
+                            "title": "Bài 102",
+                            "content": "Thực hành và trải nghiệm",
+                            "numPage": 116
+                        }
+                    ]
+                }
+            ],
+            "infoBook": {
+                "nameBooks": "Chân trời sáng tạo",
+                "bookPublisher": "Nhà xuất bản Giáo dục Việt Nam",
+                "yearPublish": 2023,
+                "numPage": 122,
+                "introduction": "Bộ sách \"Chân trời sáng tạo\" được biên soạn chú trọng vai trò của kiến thức gắn liền với thực tế, Cập nhật thành tựu khoa học hiện đại, phù hợp nền tảng văn hoá, thực tiễn Việt Nam, giúp người đọc học vận dụng để giải quyết các vấn đề của đời sống, đời sống cá nhân và xã hội, đời sống tinh thần và vật chất.",
+                "bookEditorInChief": [
+                    "TRẤN NAM DŨNG"
+                ],
+                "bookEditor": [
+                    "KHÚC THÀNH CHÍNH"
+                ],
+                "bookAuthor": [
+                    "ĐINH THỊ XUÂN DUNG",
+                    "NGUYỄN KÍNH ĐỨC",
+                    "ĐẬU THỊ HUẾ",
+                    "ĐINH THỊ KIM LAN",
+                    "HUỲNH THỊ KIM TRANG"
+                ]
+            }
+        }
+    ]
+}

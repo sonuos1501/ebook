@@ -1,0 +1,4 @@
+{
+    "pageNumber": 56,
+    "pageText": "- Kiểm tra hoạt động của máy chủ từ PC0: Nhấp chuột vào máy PC0, chọn thẻ Desktop, \nchọn Web Browser (Hình 17).\n\n\nHình 16. Bật 2 dịch vụ HTTP và HTTPS trên máy chủ Hình 17. Bật 2 dịch vụ HTTP và HTTPS trên máy chủ\n– Sau đó nhập vào hộp văn bản URL trong cửa sổ Web Browser nội dung: http://192.168.1.2. \nNếu kết quả xuất hiện như Hình 18 nghĩa là Server0 đã được cài đặt và hoạt động như \nmột máy chủ web.\n\n\nHình 18. Kiểm tra hoạt động của máy chủ Server0\n④ Lưu và chia sẻ mạng.\n– Lưu sơ đồ mô phỏng mạng của các em bằng cách chọn File, chọn Save As và đặt tên cho tệp tin. \n"
+}

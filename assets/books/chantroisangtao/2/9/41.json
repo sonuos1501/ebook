@@ -1,0 +1,4 @@
+{
+    "pageNumber": 41,
+    "pageText": "**Trong máy tính có thể có nhiều ổ đĩa được đặt tên là (C:), (D:), (E:), ...**\n**Trong ổ đĩa có thư mục và tệp.**\n**Trong thư mục có thể có thư mục con và tệp.**\n\n**2. Cây thư mục**\nỞ bài 7 em đã biết có thể mô tả mỗi cách sắp xếp đồ vật theo sơ đồ hình cây. Tương tự, cách sắp xếp thông tin trong máy tính cũng có thể được mô tả bằng sơ đồ hình cây. Sơ đồ hình cây biểu diễn việc lưu trữ tệp trong các ổ đĩa, thư mục được gọi là *cây thư mục*.\nHình 4 là cây thư mục mô tả cách sắp xếp, lưu trữ thông tin trong ổ đĩa (D:) mà em đã tìm hiểu ở mục 1.\nCây thư mục giúp em dễ dàng hình dung được việc tổ chức lưu trữ, sắp xếp thông tin trong máy tính.\n\n**Trên máy tính, để tìm đến tệp *Tieng Viet 3* em thực hiện các bước như sau:**\n1. Mở ổ đĩa (D:).\n2. Mở thư mục *Gia sach*.\n3. Mở thư mục *Sach*.\n4. Tìm tệp *Tieng Viet 3*. \n"
+}

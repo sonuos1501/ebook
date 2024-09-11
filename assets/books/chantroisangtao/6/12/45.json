@@ -1,0 +1,4 @@
+{
+    "pageNumber": 45,
+    "pageText": "| STT | Tên hàng hoá | Số lương | Gia nhập | Giá bán | Chênh lệch |\n|---|---|---|---|---|---|\n| 1 | Điều hoà | 34 | 7540000 | 8294000 |  |\n| 2 | Tủ lạnh | 45 | 4650000 | 5208000 |  |\n| 3 | Máy giặt | 25 | 9670000 | 11410600 |  |\n| 4 | Quạt sưởi | 70 | 680000 | 816000 |  |\n| 5 | Tivi | 28 | 8932000 | 9735800 |  |\n| 6 | Lò nướng | 15 | 3257000 | 3712980 |  |\n| 7 | Âm điện | 97 | 97000 | 126100 |  |\n| 8 | Nồi áp suất | 42 | 1652000 | 1916320 |  |\n| 9 | Bếp từ | 54 | 1256000 | 1570000 |  |\n\nCông thức tính chênh lệch: **=Số lượng * Giá bán - Số lượng * Giá nhập** \n\nVí dụ:\n-  Chênh lệch của mặt hàng Điều hoà: **=34*8294000-34*7540000** \n-  Chênh lệch của mặt hàng Tủ lạnh: **=45*5208000-45*4650000**\n \n Áp dụng công thức tương tự cho các mặt hàng còn lại.\n"
+}

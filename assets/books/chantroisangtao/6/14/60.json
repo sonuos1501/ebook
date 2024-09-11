@@ -1,0 +1,4 @@
+{
+    "pageNumber": 60,
+    "pageText": "Ví dụ 1: Tìm các tam giác cân trong Hình 3.\n\n**Giải**\n\nTa có:\n* DG = DH = 2,6 cm, suy ra tam giác DGH cân tại D.\n* DE = DF = 1,5 + 2,6 = 4,1 (cm), suy ra tam giác DEF cân tại D.\n\nThực hành 1: Tìm các tam giác cân trong Hình 4.\nKể tên các cạnh bên, cạnh đáy, góc ở đỉnh, góc ở đáy\ncủa mỗi tam giác cân đó.\n\n\n**2. TÍNH CHẤT CỦA TAM GIÁC CÂN**\n\nCho tam giác ABC cân tại A (Hình 5). Gọi M là trung điểm cạnh BC. Nối A với M.\nEm hãy làm theo gợi ý sau để chứng minh ABC = ACB.\n\nXét ΔAMB và ΔAMC có:\nAB = ? (?)\nMB = MC (?)\nAM là cạnh ?\n\nVậy ΔAMB = ΔAMC (c.c.c).\nSuy ra ABC = ACB.\n\nHoạt động trên là gợi ý chứng minh định lí sau:\n\n**Định lí 1:**\nTrong một tam giác cân, hai góc ở đáy bằng nhau.\n\nVí dụ 2: Tìm số đo góc B của tam giác ABC\ntrong Hình 6.\n\n**Giải**\n\nTam giác ABC cân tại A, nên có hai góc ở đáy\nbằng nhau. Vậy ta có: B = C = 40°. \n"
+}

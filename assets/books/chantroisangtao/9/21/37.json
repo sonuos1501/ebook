@@ -1,0 +1,4 @@
+{
+    "pageNumber": 37,
+    "pageText": "## Báo cáo kết quả thí nghiệm\n\n**Tính tốc độ tức thời của viên bi, ghi kết quả vào Bảng 6.2.**\n\n**Bảng 6.1. Bảng kết quả đo đường kính viên bi**\n\n| Lần đo | Lần 1 | Lần 2 | Lần 3 | Lần 4 | Lần 5 | Đường kính trung bình  d (cm) | Sai số Δd (cm) |\n|---|---|---|---|---|---|---|---|\n| Đường kính d (cm) | 2,02 | 2,01 | 2,01 | 2,01 | 2,02 | | |\n\n**Bảng 6.2. Bảng số liệu thí nghiệm đo tốc độ tức thời**\n\n| Lần đo | Lần 1 | Lần 2 | Lần 3 | Lần 4 | Lần 5 | Thời gian trung bình T (s) | Tốc độ tức thời v = d/t (cm/s) | Sai số Δv (cm/s) |\n|---|---|---|---|---|---|---|---|---|\n| Thời gian t (s) | 0,044 | 0,045 | 0,045 | 0,044 | 0,044 |  |  |  |\n\n**Dựa vào bộ dụng cụ thí nghiệm được gợi ý, thảo luận để thiết kế (và thực hiện) phương án tốt nhất để xác định tốc độ trung bình của viên bi khi viên bị di chuyển từ cổng quang điện A đến cổng quang điện B.** \n"
+}

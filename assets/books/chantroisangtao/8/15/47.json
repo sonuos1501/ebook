@@ -1,0 +1,4 @@
+{
+    "pageNumber": 47,
+    "pageText": "Bài 3: TÍNH CHẤT CỦA PHÉP KHAI PHƯƠNG\n\n**Một hình chữ nhật và một hình vuông được vẽ trên lưới ô vuông như hình bên.\nDiện tích hai hình này có bằng nhau không?\nGiải thích bằng nhiều cách khác nhau.**\n\n## 1. CĂN THỨC BẬC HAI CỦA MỘT BÌNH PHƯƠNG\n\n1. Hoàn thành bảng sau vào vở:\n\n|  a  | -3 |  3 | 11 | -11 | 100 | -1005 |  0 |\n|---|---|---|---|---|---|---|---|\n| √a² | 3 | ? | ? | ? | ? | ? | ? |\n\nTừ đó, nhận xét gì về căn bậc hai số học của bình phương của một số?\n\n**Tổng quát kết quả của  ta có tính chất:**\n\n**Với mọi số thực a, ta có √a² = |a|.**\n\n**Tổng quát hơn, ta có tính chất sau đây:**\n\n**Với biểu thức A bất kì, ta có √A² = |A|, nghĩa là**\n\n* **√A² = A khi A ≥ 0 (tức là khi A nhận giá trị không âm);**\n* **√A² = -A khi A < 0 (tức là khi A nhận giá trị âm).**\n\n**Ví dụ 1. Tính:**\n\na) √16² ;\nb) (-√9)² + √(-9)².\n\n**Giải**\n\na) √16² = |16| = 16;\nb) (-√9)² + √(-9)² = 9 + |-9| = 9 + 9 = 18. \n"
+}

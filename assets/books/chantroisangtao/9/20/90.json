@@ -1,0 +1,4 @@
+{
+    "pageNumber": 90,
+    "pageText": "HOẠT ĐỘNG 3. Vẽ cổng chào hình parabol\nMột cổng chào hình parabol có chiều cao là 7,6 m và khoảng cách giữa hai chân cổng là 9 m.\nHãy vẽ parabol đó.\nHướng dẫn:\n– Ta chọn hệ toạ độ để parabol có phương trình y = -ax²+h.\nTa có: h = 7,6 m; d = 9 m, suy ra điểm M(4,5; 0) thuộc\nparabol.\n– Thay toạ độ điểm M vào phương trình parabol ta tính được\na= \n7,6\n4,5²\n≈ 0,38.\nVậy phương trình của parabol là y = -0,38x²+7,6.\n- Dùng GeoGebra theo cách vẽ đồ thị hàm số bậc hai đã hướng dẫn trong Hoạt động 1, ta vẽ\nđược parabol biểu diễn cổng chào như Hình 8.\nHãy tự thiết kế một cổng chào hình parabol. \n"
+}

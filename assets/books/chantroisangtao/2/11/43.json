@@ -1,0 +1,4 @@
+{
+    "pageNumber": 43,
+    "pageText": "1\nDưới đây là bảng thống kê số sản phẩm mỗi lớp đã làm từ các chai\nnhựa đã qua sử dụng.\n\n\n| Sản phẩm     | Lớp | 3A | 3B | 3C |\n|:--------------|:----:|:---:|:---:|:---:|\n| Chậu cây     |      |  5  |  8  |  7  |\n| Hộp đựng bút |      |  7  |  6  |  8  |\n\n\na) Mỗi lớp đã làm được bao nhiêu sản phẩm từng loại?\nb) Lớp nào làm được nhiều hộp đựng bút nhất?\nc) Tổng số chậu cây cả ba lớp làm được là bao nhiêu?\n\n\n\n2 Trong buổi liên hoan cuối năm, lớp 3D có 36 người tham dự. Các bạn\ndự tính: mỗi người ăn 1 quả chuối, 2 cái bánh và 5 quả chôm chôm.\nHãy thống kê số thức ăn lớp 3D cần chuẩn bị cho buổi liên hoan.\n\n| Thức ăn      | Chuối (quả) | Bánh (cái) | Chôm chôm (quả) |\n|:---------------|:------------:|:-----------:|:-----------------:|\n| Số lượng      |      ...?      |      ...?     |        ...?         | \n"
+}
