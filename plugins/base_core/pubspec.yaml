@@ -97,6 +97,8 @@ dependencies:
   flutter_easyloading: any
   shared_preferences: ^2.0.15
   synchronized: ^3.1.0
+  ebook:
+    path: ../../
 
 dev_dependencies:
   flutter_test:

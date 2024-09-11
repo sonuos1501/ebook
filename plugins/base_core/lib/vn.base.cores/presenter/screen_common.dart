@@ -1,4 +1,6 @@
 // ignore_for_file: avoid_print
+import 'package:ebook/vn.app.common/presenter/loading.dart';
+
 import '../res/colors.dart';
 import 'viewmodel/base/base_vm.dart';
 import 'dart:async';
@@ -84,7 +86,7 @@ abstract class ScreenCommonState<T extends StatefulWidget,
           color: const Color(0x64000000),
           child: Stack(children: [
             initWidget(context, height),
-            // loading(isShow),
+            loading(isShow),
           ]),
         );
       },
@@ -146,5 +148,4 @@ abstract class ScreenCommonState<T extends StatefulWidget,
     // logScreenView(baseRouters.login, 'Login screen');
     // Get.offAndToNamed(baseRouters.login);
   }
-
 }
