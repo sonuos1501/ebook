@@ -61,14 +61,14 @@ public final class GeneratedPluginRegistrant {
       Log.e(TAG, "Error registering plugin flutter_notification_channel, com.softmaestri.notification.channel.flutter_notification_channel.FlutterNotificationChannelPlugin", e);
     }
     try {
+      flutterEngine.getPlugins().add(new de.gigadroid.flutter_udid.FlutterUdidPlugin());
+    } catch (Exception e) {
+      Log.e(TAG, "Error registering plugin flutter_udid, de.gigadroid.flutter_udid.FlutterUdidPlugin", e);
+    }
+    try {
       flutterEngine.getPlugins().add(new io.github.ponnamkarthik.toast.fluttertoast.FlutterToastPlugin());
     } catch (Exception e) {
       Log.e(TAG, "Error registering plugin fluttertoast, io.github.ponnamkarthik.toast.fluttertoast.FlutterToastPlugin", e);
-    }
-    try {
-      flutterEngine.getPlugins().add(new com.example.imagegallerysaver.ImageGallerySaverPlugin());
-    } catch (Exception e) {
-      Log.e(TAG, "Error registering plugin image_gallery_saver, com.example.imagegallerysaver.ImageGallerySaverPlugin", e);
     }
     try {
       flutterEngine.getPlugins().add(new io.flutter.plugins.pathprovider.PathProviderPlugin());

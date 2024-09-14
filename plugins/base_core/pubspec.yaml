@@ -72,9 +72,9 @@ dependencies:
   # equatable là một thư viện Dart giúp đơn giản hóa việc so sánh các đối tượng bằng cách chỉ định các trường mà bạn muốn so sánh
   equatable: 2.0.3
   # injectable là một thư viện Dart giúp quản lý Dependency Injection (DI) một cách dễ dàng và mạnh mẽ, đặc biệt khi kết hợp với các công cụ tạo mã tự động như injectable_generator và build_runner
-  injectable: 1.5.0
+  injectable: ^2.3.5
   # json_annotation là một thư viện Dart hỗ trợ việc chuyển đổi giữa đối tượng Dart và JSON, rất hữu ích cho việc serialize và deserialize dữ liệu
-  json_annotation: ^4.8.0
+  json_annotation: ^4.6.0
   # get là một thư viện Dart cho Flutter, cung cấp các công cụ cho quản lý trạng thái, điều hướng, và dependency injection
   get: ^4.6.1
   # fluttertoast là một thư viện Flutter cho phép bạn hiển thị các thông báo dạng toast trên màn hình. Phiên bản 8.0.1-nullsafety.0
@@ -105,9 +105,9 @@ dev_dependencies:
     sdk: flutter
 
   injectable_generator: any
-  floor_generator: 1.2.0
-  build_runner: any
-  json_serializable: any
+  floor_generator: ^1.2.0
+  build_runner: ^2.3.0
+  json_serializable: ^6.1.0
   built_value_generator: any
   flutter_lints: ^3.0.0
 

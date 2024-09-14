@@ -5,18 +5,18 @@ packages:
     dependency: transitive
     description:
       name: _fe_analyzer_shared
-      sha256: "4826f97faae3af9761f26c52e56b2aa5ffd18d2c1721d984ad85137721c25f43"
+      sha256: "4897882604d919befd350648c7f91926a9d5de99e67b455bf0917cc2362f4bb8"
       url: "https://pub.dev"
     source: hosted
-    version: "31.0.0"
+    version: "47.0.0"
   analyzer:
     dependency: transitive
     description:
       name: analyzer
-      sha256: "7337610c3f9cd13e6b7c6bb0f410644091cf63c9a1436e73352a70f3286abb03"
+      sha256: "690e335554a8385bc9d787117d9eb52c0c03ee207a607e593de3c9d71b1cfe80"
       url: "https://pub.dev"
     source: hosted
-    version: "2.8.0"
+    version: "4.7.0"
   ansicolor:
     dependency: transitive
     description:
@@ -69,26 +69,26 @@ packages:
     dependency: transitive
     description:
       name: build_daemon
-      sha256: "757153e5d9cd88253cb13f28c2fb55a537dc31fefd98137549895b5beb7c6169"
+      sha256: "0343061a33da9c5810b2d6cee51945127d8f4c060b7fbdd9d54917f0a3feaaa1"
       url: "https://pub.dev"
     source: hosted
-    version: "3.1.1"
+    version: "4.0.1"
   build_resolvers:
     dependency: transitive
     description:
       name: build_resolvers
-      sha256: "4666aef1d045c5ca15ebba63e400bd4e4fbd9f0dd06e791b51ab210da78a27f7"
+      sha256: "687cf90a3951affac1bd5f9ecb5e3e90b60487f3d9cdc359bb310f8876bb02a6"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.6"
+    version: "2.0.10"
   build_runner:
     dependency: "direct dev"
     description:
       name: build_runner
-      sha256: "56942f8114731d1e79942cd981cfef29501937ff1bccf4dbdce0273f31f13640"
+      sha256: "3ac61a79bfb6f6cc11f693591063a7f19a7af628dc52f141743edac5c16e8c22"
       url: "https://pub.dev"
     source: hosted
-    version: "2.2.0"
+    version: "2.4.9"
   build_runner_core:
     dependency: transitive
     description:
@@ -137,14 +137,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.3"
-  cli_util:
-    dependency: transitive
-    description:
-      name: cli_util
-      sha256: "66f86e916d285c1a93d3b79587d94bd71984a66aac4ff74e524cfa7877f1395c"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.3.5"
   clock:
     dependency: transitive
     description:
@@ -197,10 +189,10 @@ packages:
     dependency: transitive
     description:
       name: dart_style
-      sha256: "6e8086e1d3c2f6bc15056ee248c4ddc48c2bc71287c0961bf801a08633ed4333"
+      sha256: "7a03456c3490394c8e7665890333e91ae8a49be43542b616e414449ac358acd4"
       url: "https://pub.dev"
     source: hosted
-    version: "2.2.1"
+    version: "2.2.4"
   dio:
     dependency: transitive
     description:
@@ -261,10 +253,10 @@ packages:
     dependency: "direct dev"
     description:
       name: floor_generator
-      sha256: "4dc87508d662242a50950beb807a8bf7e7adb911fb8e75898778a1d43578699d"
+      sha256: d1e7d7896737cf10f1e2bc31c39cfcf17ae450dc141610158f8883f6cec286da
       url: "https://pub.dev"
     source: hosted
-    version: "1.2.0"
+    version: "1.3.0"
   fluro:
     dependency: "direct main"
     description:
@@ -282,10 +274,10 @@ packages:
     dependency: "direct dev"
     description:
       name: flutter_lints
-      sha256: a25a15ebbdfc33ab1cd26c63a6ee519df92338a9c10f122adda92938253bef04
+      sha256: "9e8c3858111da373efc5aa341de011d9bd23e2c5c5e0c62bccf32438e192d7b1"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.3"
+    version: "3.0.2"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -295,10 +287,10 @@ packages:
     dependency: transitive
     description:
       name: frontend_server_client
-      sha256: "4f4a162323c86ffc1245765cfe138872b8f069deb42f7dbb36115fa27f31469b"
+      sha256: f64a0333a82f30b0cca061bc3d143813a486dc086b574bfb233b7c1372427694
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.3"
+    version: "4.0.0"
   get_it:
     dependency: transitive
     description:
@@ -351,18 +343,18 @@ packages:
     dependency: "direct main"
     description:
       name: injectable
-      sha256: "1dbd23da870268800bfe5e0a7e2e38feab681649f20dee50ee145a35b9346f0a"
+      sha256: "3c8355a29d11ff28c0311bed754649761f345ef7a13ff66a714380954af51226"
       url: "https://pub.dev"
     source: hosted
-    version: "1.5.0"
+    version: "2.4.2"
   injectable_generator:
     dependency: "direct dev"
     description:
       name: injectable_generator
-      sha256: "17273a7446775178ed9cda21efd891496ab541278906a8b2ed46e2de39e9eb60"
+      sha256: b206de637c1960007b0beebe447a6ee3cf30c9e5f14542083024a9d0c49a7a09
       url: "https://pub.dev"
     source: hosted
-    version: "1.5.2"
+    version: "2.1.4"
   io:
     dependency: transitive
     description:
@@ -423,10 +415,10 @@ packages:
     dependency: transitive
     description:
       name: lints
-      sha256: "0a217c6c989d21039f1498c3ed9f3ed71b354e69873f13a8dfc3c9fe76f1b452"
+      sha256: cbf8d4b858bb0134ef3ef87841abdf8d63bfc255c266b7bf6b39daa1085c4290
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.1"
+    version: "3.0.0"
   lists:
     dependency: transitive
     description:
@@ -523,6 +515,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.2.1"
+  recase:
+    dependency: transitive
+    description:
+      name: recase
+      sha256: e4eb4ec2dcdee52dcf99cb4ceabaffc631d7424ee55e56f280bc039737f89213
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.1.0"
   retrofit:
     dependency: transitive
     description:
@@ -535,10 +535,10 @@ packages:
     dependency: "direct dev"
     description:
       name: retrofit_generator
-      sha256: "7d45c729a14df4a5190b0717245e9c0363dff57552c3cb75c2bd5c31ad4a62a7"
+      sha256: "4c8b19a385daad9c407240da1f96e6e2de4094a6810f19572f20459134b87ddf"
       url: "https://pub.dev"
     source: hosted
-    version: "3.0.1+1"
+    version: "4.0.3+2"
   shelf:
     dependency: transitive
     description:
@@ -753,5 +753,5 @@ packages:
     source: hosted
     version: "3.1.2"
 sdks:
-  dart: ">=3.2.0-0 <4.0.0"
+  dart: ">=3.3.2 <4.0.0"
   flutter: ">=3.3.0"

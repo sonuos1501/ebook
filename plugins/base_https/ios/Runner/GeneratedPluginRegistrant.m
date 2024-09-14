@@ -60,16 +60,16 @@
 @import flutter_notification_channel;
 #endif
 
+#if __has_include(<flutter_udid/FlutterUdidPlugin.h>)
+#import <flutter_udid/FlutterUdidPlugin.h>
+#else
+@import flutter_udid;
+#endif
+
 #if __has_include(<fluttertoast/FluttertoastPlugin.h>)
 #import <fluttertoast/FluttertoastPlugin.h>
 #else
 @import fluttertoast;
-#endif
-
-#if __has_include(<image_gallery_saver/ImageGallerySaverPlugin.h>)
-#import <image_gallery_saver/ImageGallerySaverPlugin.h>
-#else
-@import image_gallery_saver;
 #endif
 
 #if __has_include(<path_provider_ios/FLTPathProviderPlugin.h>)
@@ -132,8 +132,8 @@
   [FLTFirebaseMessagingPlugin registerWithRegistrar:[registry registrarForPlugin:@"FLTFirebaseMessagingPlugin"]];
   [FlutterLocalNotificationsPlugin registerWithRegistrar:[registry registrarForPlugin:@"FlutterLocalNotificationsPlugin"]];
   [FlutterNotificationChannelPlugin registerWithRegistrar:[registry registrarForPlugin:@"FlutterNotificationChannelPlugin"]];
+  [FlutterUdidPlugin registerWithRegistrar:[registry registrarForPlugin:@"FlutterUdidPlugin"]];
   [FluttertoastPlugin registerWithRegistrar:[registry registrarForPlugin:@"FluttertoastPlugin"]];
-  [ImageGallerySaverPlugin registerWithRegistrar:[registry registrarForPlugin:@"ImageGallerySaverPlugin"]];
   [FLTPathProviderPlugin registerWithRegistrar:[registry registrarForPlugin:@"FLTPathProviderPlugin"]];
   [PermissionHandlerPlugin registerWithRegistrar:[registry registrarForPlugin:@"PermissionHandlerPlugin"]];
   [SharedPreferencesPlugin registerWithRegistrar:[registry registrarForPlugin:@"SharedPreferencesPlugin"]];

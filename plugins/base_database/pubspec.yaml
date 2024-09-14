@@ -5,13 +5,13 @@ description: A new Flutter project.
 version: 1.0.0+1
 
 environment:
-  sdk: '>=2.18.0 <3.0.0'
+  sdk: '>=3.3.2 <4.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
   sqflite: ^2.0.2
-  injectable: 1.5.0
+  injectable: ^2.3.5
   fluro: 2.0.3
   floor: 1.2.0
   gson: ^0.1.4
@@ -21,12 +21,12 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   injectable_generator: any
-  floor_generator: 1.2.0
-  retrofit_generator: any
-  build_runner: any
-  json_serializable: any
+  floor_generator: ^1.2.0
+  build_runner: ^2.3.0
+  json_serializable: ^6.1.0
   built_value_generator: any
-  flutter_lints: ^2.0.0
+  flutter_lints: ^3.0.0
+  retrofit_generator: any
 
 flutter:
 

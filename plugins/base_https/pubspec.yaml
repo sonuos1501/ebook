@@ -4,12 +4,11 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+100
 
 environment:
-  sdk: ">=2.18.0 <3.0.0"
-  flutter: ">=1.12.13+hotfix.6"
+  sdk: '>=3.3.2 <4.0.0'
 
 #E:\flutter\flutter\bin\flutter packages pub run build_runner build --delete-conflicting-outputs
 dependencies:
-  injectable: 1.5.0
+  injectable: ^2.3.5
   flutter:
     sdk: flutter
   base_core:
@@ -21,12 +20,12 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   injectable_generator: any
-  floor_generator: 1.2.0
-  retrofit_generator: any
-  build_runner: any
-  json_serializable: any
+  floor_generator: ^1.2.0
+  build_runner: ^2.3.0
+  json_serializable: ^6.1.0
   built_value_generator: any
-  flutter_lints: 1.0.0
+  flutter_lints: ^3.0.0
+  retrofit_generator: any
 
 # The following section is specific to Flutter.
 flutter:
