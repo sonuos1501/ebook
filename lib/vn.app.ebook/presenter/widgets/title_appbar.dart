@@ -14,7 +14,7 @@ class TitleAppBarBig extends StatelessWidget {
   Widget build(BuildContext context) {
     return Text(
       title,
-      style: textSize20.copyWith(
+      style: textSize30.copyWith(
         fontFamily: fontBold,
         color: Colours.bard[600],
       ),

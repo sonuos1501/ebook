@@ -11,6 +11,8 @@ class _DesignSizes {
   final width = ScreenUtil.getInstance().screenWidth;
   // h
   final height = ScreenUtil.getInstance().screenHeight;
+  // padding horizontal
+  final horizontal = ScreenUtil.getInstance().getWidth(30);
 
   final statusBarHeight = ScreenUtil.getInstance().statusBarHeight;
   final bottomBarHeight = ScreenUtil.getInstance().bottomBarHeight;
@@ -30,6 +32,7 @@ extension DoubleExtension on double {
   double get dp {
     return ScreenUtil.getInstance().getWidth(this);
   }
+
   double get sp {
     return ScreenUtil.getInstance().getSp(this);
   }

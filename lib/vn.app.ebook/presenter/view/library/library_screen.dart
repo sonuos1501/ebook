@@ -26,13 +26,14 @@ class LibraryScreen {
 
   Widget mainBody() {
     return SafeArea(
-      child: SizedBox(
-        width: MediaQuery.of(context).size.width,
-        height: MediaQuery.of(context).size.height,
+      child: Container(
+        width: ds.width,
+        height: ds.height,
+        padding: EdgeInsets.symmetric(horizontal: ds.horizontal),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
-            Gaps.vGap30,
+            Gaps.vGap40,
             const TitleAppBarBig(title: 'Thư viện'),
             Gaps.vGap15,
             Expanded(
@@ -41,7 +42,7 @@ class LibraryScreen {
                   crossAxisCount: 2,
                   mainAxisSpacing: 10.dp,
                   crossAxisSpacing: 10.dp,
-                  mainAxisExtent: 230.dp,
+                  mainAxisExtent: 450.dp,
                 ),
                 itemCount: main.vm.library.length,
                 itemBuilder: (context, index) {
