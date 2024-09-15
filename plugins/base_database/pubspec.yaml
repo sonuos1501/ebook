@@ -12,8 +12,8 @@ dependencies:
     sdk: flutter
   sqflite: ^2.0.2
   injectable: ^2.3.5
-  fluro: 2.0.3
-  floor: 1.2.0
+  fluro: ^2.0.5
+  floor: ^1.5.0
   gson: ^0.1.4
   cupertino_icons: ^1.0.2
 
@@ -25,8 +25,9 @@ dev_dependencies:
   build_runner: ^2.3.0
   json_serializable: ^6.1.0
   built_value_generator: any
-  flutter_lints: ^3.0.0
-  retrofit_generator: any
+  analyzer: ^6.4.1
+  flutter_lints: ^4.0.0
+  # retrofit_generator: any
 
 flutter:
 

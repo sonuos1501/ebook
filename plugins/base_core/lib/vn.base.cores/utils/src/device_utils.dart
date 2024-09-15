@@ -42,7 +42,7 @@ class Device {
       return '';
     }
     if (isAndroid) {
-      return '${_androidInfo.fingerprint}/${_androidInfo.androidId}';
+      return '${_androidInfo.fingerprint}/${_androidInfo.id}';
     } else {
       return _iosInfo.utsname.machine!;
     }
