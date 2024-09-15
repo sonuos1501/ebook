@@ -335,24 +335,6 @@ List<Map<String, dynamic>> listBookPublisherToJson(
 class BookPublisherData {
   static List<BookPublisher> listBookPublisher = [];
 
-  static Future<void> init() async {
-    // final jsonString = await rootBundle.loadString('assets/data.json');
-    // final isNewData = (await sl<Repository>().dataBook) == jsonString;
-    // if (!isNewData) {
-    //   listBookPublisher.addAll(
-    //     listBookPublisherFromJson(
-    //       (jsonDecode(jsonString) as List).cast<Map<String, dynamic>>(),
-    //     ),
-    //   );
-    //   await sl<Repository>().saveListBookPublisher(listBookPublisher);
-    //   unawaited(sl<Repository>().saveDataBook(jsonString));
-    // } else {
-    //   await sl<Repository>()
-    //       .listBookPublisher
-    //       .then((value) => listBookPublisher.addAll(value));
-    // }
-  }
-
   static Future<String> downloadFile(
     String url, {
     ProgressCallback? onReceiveProgress,

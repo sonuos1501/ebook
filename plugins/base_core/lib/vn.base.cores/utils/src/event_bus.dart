@@ -3,28 +3,26 @@ part of utils;
 class EventBus {
   static EventBus get to => _getInstance();
   static EventBus? _to;
-  Map<String, List<void Function(dynamic)>> _listener = {};
+  final Map<String, List<void Function(dynamic)>> _listener = {};
 
   EventBus._internal();
 
   static EventBus _getInstance() {
-    if (_to == null) {
-      _to = EventBus._internal();
-    }
+    _to ??= EventBus._internal();
     return _to!;
   }
 
   void addListener(void Function(dynamic) fn, {String? name}) async {
     if (name == null || name.isEmpty) {
       var dl = _listener[defaultNotification];
-      if (dl == null || dl.length == 0) {
+      if (dl == null || dl.isEmpty) {
         _listener[defaultNotification] = [fn];
       } else {
         _listener[defaultNotification] = dl..add(fn);
       }
     } else {
       var otherLst = _listener[name];
-      if (otherLst == null || otherLst.length == 0) {
+      if (otherLst == null || otherLst.isEmpty) {
         _listener[name] = [fn];
       } else {
         _listener[name] = otherLst..add(fn);
@@ -36,16 +34,16 @@ class EventBus {
     if (name == null || name.isEmpty) {
       var dl = _listener[defaultNotification];
       if (dl != null) {
-        dl.forEach((fn) {
+        for (var fn in dl) {
           fn(parameter);
-        });
+        }
       }
     } else {
       var dl = _listener[name];
       if (dl != null) {
-        dl.forEach((fn) {
+        for (var fn in dl) {
           fn(parameter);
-        });
+        }
       }
     }
   }

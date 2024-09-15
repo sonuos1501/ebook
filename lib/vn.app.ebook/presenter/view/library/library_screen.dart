@@ -5,7 +5,7 @@ import 'package:base_core/vn.base.cores/utils/utils.dart';
 import 'package:ebook/vn.app.common/presenter/view/splash/splash_vm.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import '../../widgets/item_library.dart';
+import 'widgets/item_library.dart';
 import '../../widgets/title_appbar.dart';
 import 'library.dart';
 

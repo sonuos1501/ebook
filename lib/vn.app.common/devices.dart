@@ -56,6 +56,6 @@ Map<String, dynamic> _readAndroidBuildData(AndroidDeviceInfo build) {
     'type': build.type,
     'isPhysicalDevice': build.isPhysicalDevice,
     'systemFeatures': build.systemFeatures,
-    'deviceId': build.androidId,
+    'deviceId': build.id,
   };
 }

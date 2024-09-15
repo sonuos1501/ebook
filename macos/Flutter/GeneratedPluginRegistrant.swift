@@ -7,12 +7,12 @@ import Foundation
 
 import connectivity_macos
 import connectivity_plus
-import device_info_plus_macos
+import device_info_plus
 import firebase_core
 import firebase_messaging
 import flutter_local_notifications
 import flutter_udid
-import path_provider_macos
+import path_provider_foundation
 import shared_preferences_foundation
 import sqflite
 import url_launcher_macos

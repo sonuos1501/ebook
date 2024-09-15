@@ -222,6 +222,10 @@ class R {
   static const commonImgCheckCircle =
       'assets/images/common/img_check_circle.webp';
 
+  /// ![](http://127.0.0.1:9527/assets/images/text_book/book_knowledge.png)
+  static const textBookbookKnowledge =
+      'assets/images/text_book/book_knowledge.png';
+
   /// ![](http://127.0.0.1:9527/assets/images/avartar/img_male_4.webp)
   static const avartarImgMale4 = 'assets/images/avartar/img_male_4.webp';
 

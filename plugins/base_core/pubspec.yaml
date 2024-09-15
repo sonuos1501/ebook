@@ -97,6 +97,7 @@ dependencies:
   flutter_easyloading: any
   shared_preferences: ^2.0.15
   synchronized: ^3.1.0
+  shimmer: ^3.0.0
   ebook:
     path: ../../
 
