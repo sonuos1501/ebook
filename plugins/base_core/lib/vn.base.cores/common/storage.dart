@@ -2,23 +2,14 @@ import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class StorageService extends GetxService {
-  static const keyCurrentStudentId = 'keyCurrentStudentId';
-  static const keyDurationUsages = 'keyDurationUsages';
-  static const keyStartCountTime = 'keyStartCountTime';
-  static const keyCountTimesUsages = 'keyCountTimesUsages';
-  static const keyTypeTime = 'keyTypeTime';
-  static const keyListAccount = 'keyListAccount';
-  static const keyListWeb = 'keyListWeb';
   static const keyToken = 'keyToken';
   static const keyRefreshToken = 'keyRefreshToken';
   static const keyDeviceId = 'keyDeviceId';
   static const keyPackageName = 'keyPackageName';
-  static const keyReportDailyDataStudent = 'keyReportDailyDataStudent';
-  static const keyReportWeeklyDataStudent = 'keyReportWeeklyDataStudent';
-  static const keyReportMonthlyDataStudent = 'keyReportMonthlyDataStudent';
-  static const keyEnableAppStudent = 'keyEnableAppStudent';
-  static const keyDisEnableAppStudent = 'keyDisEnableAppStudent';
-  static const keyAppParent = 'keyAppParent';
+  static const keyIdBookPublisher = 'keyIdBookPublisher';
+  static const keyDataBook = 'keyDataBook';
+  static const keyBooksReadRecently = 'keyBooksReadRecently';
+  static const keyChildrenEntity = 'keyChildrenEntity';
 
   static StorageService get to => Get.find();
   static Future<String?> getTokenBG() async {

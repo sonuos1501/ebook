@@ -56,7 +56,9 @@ class LibraryScreen {
                       height: 500.dp,
                       fit: BoxFit.fill,
                     ),
-                    callback: (v) {},
+                    callback: (v) {
+                      main.choseLibrary(library.id);
+                    },
                   );
                 },
               ),
