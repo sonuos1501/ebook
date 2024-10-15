@@ -1,4 +1,4 @@
-part of resources;
+part of '../resources.dart';
 
 final ds = _DesignSizes();
 
@@ -16,6 +16,24 @@ class _DesignSizes {
 
   final statusBarHeight = ScreenUtil.getInstance().statusBarHeight;
   final bottomBarHeight = ScreenUtil.getInstance().bottomBarHeight;
+
+  DeviceType deviceType(BuildContext context) {
+    double screenWidth = MediaQuery.of(context).size.width;
+
+    if (screenWidth >= 1024) {
+      return DeviceType.pc;
+    } else if (screenWidth >= 600) {
+      return DeviceType.tablet;
+    } else {
+      return DeviceType.phone;
+    }
+  }
+}
+
+enum DeviceType {
+  phone,
+  tablet,
+  pc,
 }
 
 extension IntExtension on int {

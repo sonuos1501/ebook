@@ -1,4 +1,4 @@
-part of resources;
+part of '../resources.dart';
 
 final TextStyle textSize8 = TextStyle(
   fontSize: fontSize8,

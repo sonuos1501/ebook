@@ -1,4 +1,4 @@
-part of resources;
+part of '../resources.dart';
 
 final fontSize8 = ScreenUtil.getInstance().getSp(8.0);
 final fontSize10 = ScreenUtil.getInstance().getSp(10.0);

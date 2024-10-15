@@ -1,4 +1,4 @@
-part of resources;
+part of '../resources.dart';
 
 const regular = FontWeight.w400;
 const semiBold = FontWeight.w600;

@@ -1,4 +1,4 @@
-part of resources;
+part of '../resources.dart';
 
 class Gaps {
   static Widget hGap2 = SizedBox(width: 2.dp);

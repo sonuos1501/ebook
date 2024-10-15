@@ -1,4 +1,4 @@
-part of resources;
+part of '../resources.dart';
 
 class Colours {
   static const Map<int, Color> bard = <int, Color>{

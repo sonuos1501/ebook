@@ -87,7 +87,7 @@ class SelectAccountScreen {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   CircleAvatar(
-                    radius: 65.dp,
+                    radius: 60.dp,
                     //Todo was 96px on figma, need to check if dp conversion is incorrect
                     backgroundColor: Colors.transparent,
                     foregroundImage: AssetImage(element.avatar ?? ''),

@@ -1,5 +1,8 @@
 library resources;
 
+import 'dart:developer';
+
+import 'package:ebook/main.dart';
 import 'package:flustars/flustars.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';

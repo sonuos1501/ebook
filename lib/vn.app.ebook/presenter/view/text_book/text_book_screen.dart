@@ -59,10 +59,10 @@ class TextBookScreen {
         Expanded(
           child: GridView.builder(
             gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-              crossAxisCount: 2,
+              crossAxisCount: ds.deviceType(context) == DeviceType.phone ? 2 : 4,
               mainAxisSpacing: 10.dp,
               crossAxisSpacing: 10.dp,
-              mainAxisExtent: 400.dp,
+              mainAxisExtent: ds.deviceType(context) == DeviceType.phone ? 400.dp : 220.dp,
             ),
             itemCount: books.isEmpty ? 7 : books.length,
             itemBuilder: (context, index) {

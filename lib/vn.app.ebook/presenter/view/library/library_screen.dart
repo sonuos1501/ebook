@@ -1,5 +1,7 @@
 // ignore_for_file: depend_on_referenced_packages
 
+import 'dart:developer';
+
 import 'package:base_core/vn.base.cores/res/resources.dart';
 import 'package:base_core/vn.base.cores/utils/utils.dart';
 import 'package:ebook/vn.app.common/presenter/view/splash/splash_vm.dart';
@@ -39,10 +41,10 @@ class LibraryScreen {
             Expanded(
               child: GridView.builder(
                 gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                  crossAxisCount: 2,
+                  crossAxisCount: ds.deviceType(context) == DeviceType.phone ? 2 : 4,
                   mainAxisSpacing: 10.dp,
                   crossAxisSpacing: 10.dp,
-                  mainAxisExtent: 450.dp,
+                  mainAxisExtent: ds.deviceType(context) == DeviceType.phone ? 450.dp : 250.dp,
                 ),
                 itemCount: main.vm.library.length,
                 itemBuilder: (context, index) {
