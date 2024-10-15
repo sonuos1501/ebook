@@ -1,7 +1,4 @@
 class R {
-  /// ![](http://127.0.0.1:9527/assets/.DS_Store)
-  static const assets = 'assets/.DS_Store';
-
   /// ![](http://127.0.0.1:9527/assets/images/settings/img_reading_mode.webp)
   static const settingsImgReadingMode =
       'assets/images/settings/img_reading_mode.webp';

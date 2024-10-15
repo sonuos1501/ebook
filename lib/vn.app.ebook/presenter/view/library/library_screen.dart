@@ -1,7 +1,4 @@
 // ignore_for_file: depend_on_referenced_packages
-
-import 'dart:developer';
-
 import 'package:base_core/vn.base.cores/res/resources.dart';
 import 'package:base_core/vn.base.cores/utils/utils.dart';
 import 'package:ebook/vn.app.common/presenter/view/splash/splash_vm.dart';

@@ -1,11 +1,9 @@
-import 'package:base_https/vn.base.https/domain/model/ParrentProfileEntity.dart';
 import 'package:ebook/r.dart';
-import 'package:ebook/vn.app.common/presenter/view/base_view.dart';
+import 'package:ebook/vn.app.ebook/presenter/view/ebook_host/ebook_host_vm.dart';
 
 import '../../model/books.dart';
 
-class LibraryViewModel extends BaseViewModel {
-  late ChildrenEntity currentUser;
+class LibraryViewModel extends EbookHostViewModel {
   final library = [
     const BookPublisher(
       id: 0,
