@@ -1,4 +1,4 @@
-part of utils;
+part of '../utils.dart';
 
 bool isPhone(String text) {
   RegExp regExp = RegExp(

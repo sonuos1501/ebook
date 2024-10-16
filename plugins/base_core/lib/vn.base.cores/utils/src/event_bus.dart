@@ -1,4 +1,4 @@
-part of utils;
+part of '../utils.dart';
 
 class EventBus {
   static EventBus get to => _getInstance();

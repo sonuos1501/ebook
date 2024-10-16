@@ -1,4 +1,4 @@
-part of utils;
+part of '../utils.dart';
 
 Future<Res> sendToNative({key, data}) async {
   Req request = Req()

@@ -1,4 +1,4 @@
-part of utils;
+part of '../utils.dart';
 
 /// https://medium.com/gskinner-team/flutter-simplify-platform-screen-size-detection-4cb6fc4f7ed1
 class Device {
@@ -31,7 +31,7 @@ class Device {
       return -1;
     }
     if (isAndroid) {
-      return _androidInfo.version.sdkInt ?? -1;
+      return _androidInfo.version.sdkInt;
     } else {
       return -1;
     }
@@ -53,7 +53,7 @@ class Device {
       return '';
     }
     if (isAndroid) {
-      return _androidInfo.brand ?? '';
+      return _androidInfo.brand;
     } else {
       return _iosInfo.name!;
     }

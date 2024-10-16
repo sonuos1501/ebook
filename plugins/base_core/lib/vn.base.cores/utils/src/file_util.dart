@@ -1,4 +1,4 @@
-part of utils;
+part of '../utils.dart';
 
 const kb = 1024;
 const mb = 1024 * kb;

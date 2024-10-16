@@ -1,4 +1,4 @@
-part of utils;
+part of '../utils.dart';
 
 void traceError(void body) {
   FlutterError.onError = (FlutterErrorDetails details) {

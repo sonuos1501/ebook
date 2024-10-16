@@ -3,11 +3,13 @@ library utils;
 import 'dart:async';
 import 'dart:io';
 
+import 'package:base_https/vn.base.https/domain/model/ParrentProfileEntity.dart';
 import 'package:bridge_native/pigeon.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:convert/convert.dart';
 import 'package:crypto/crypto.dart' as c;
 import 'package:device_info_plus/device_info_plus.dart';
+import 'package:ebook/vn.app.ebook/presenter/model/books.dart';
 import 'package:flustars/flustars.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
@@ -34,3 +36,5 @@ part 'src/validations.dart';
 part 'src/version.dart';
 
 part 'src/color_extends.dart';
+
+part 'src/storages/storages_helper.dart';

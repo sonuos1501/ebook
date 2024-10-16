@@ -1,6 +1,6 @@
 // ignore_for_file: non_nullable_equals_parameter
 
-part of utils;
+part of '../utils.dart';
 
 class Version implements Comparable<Version> {
   static final RegExp _versionRegex =

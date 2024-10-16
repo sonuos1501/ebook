@@ -1,4 +1,4 @@
-part of utils;
+part of '../utils.dart';
 
 Uint8List md5(Uint8List data) => Uint8List.fromList(c.md5.convert(data).bytes);
 

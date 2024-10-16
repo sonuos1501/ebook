@@ -1,5 +1,5 @@
 // ignore_for_file: file_names, prefer_single_quotes, avoid_final_parameters, parameter_assignments
-part of utils;
+part of '../utils.dart';
 
 class ColorExtends extends Color {
   ColorExtends(String hexColor) : super(_getColorFromHex(hexColor));

@@ -1,4 +1,4 @@
-part of utils;
+part of '../utils.dart';
 
 class ImageUtils {
   static ImageProvider getAssetImage(String name,
