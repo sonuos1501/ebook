@@ -43,15 +43,15 @@ dependencies:
   # Thư viện pin_code_fields là một công cụ hữu ích trong Flutter để tạo ra các trường nhập mã PIN, OTP (One-Time Password), hoặc bất kỳ loại mã nào yêu cầu người dùng nhập một chuỗi ký tự ngắn
   pin_code_fields: ^8.0.1
   # Thư viện flutter_notification_channel cung cấp các công cụ để tạo và quản lý các kênh thông báo (notification channels) trên Android trong ứng dụng Flutter
-  flutter_notification_channel: ^3.1.0
+  # flutter_notification_channel: ^3.1.0
   # Thư viện flutter_local_notifications cung cấp các công cụ để hiển thị thông báo cục bộ trên cả Android và iOS trong ứng dụng Flutter
-  flutter_local_notifications: ^17.2.2
+  # flutter_local_notifications: ^17.2.2
   # Thư viện firebase_messaging cho phép bạn tích hợp dịch vụ thông báo đẩy (push notifications) của Firebase vào ứng dụng Flutter
-  firebase_messaging: ^15.1.0
+  # firebase_messaging: ^15.1.0
   # Thư viện firebase_core_platform_interface là một phần của bộ công cụ Firebase dành cho Flutter, cung cấp giao diện nền tảng để các thư viện Firebase khác có thể hoạt động trên các nền tảng khác nhau (Android, iOS)
-  firebase_core_platform_interface: ^5.2.1
+  # firebase_core_platform_interface: ^5.2.1
   # Thư viện firebase_messaging_platform_interface là một phần của hệ sinh thái Firebase dành cho Flutter, cung cấp giao diện nền tảng cho các thư viện Firebase Messaging
-  firebase_messaging_platform_interface: ^4.5.43
+  # firebase_messaging_platform_interface: ^4.5.43
   # Thư viện flutter_styled_toast là một công cụ hữu ích trong Flutter giúp bạn dễ dàng hiển thị các thông báo (toast) với thiết kế tùy chỉnh và linh hoạt
   flutter_styled_toast: ^2.0.0
   # Thư viện flutter_svg là một công cụ phổ biến trong Flutter dùng để hiển thị và quản lý các tệp hình ảnh SVG (Scalable Vector Graphics)
@@ -101,7 +101,7 @@ dependencies:
   ebook:
     path: ../../
   base_https:
-    path: ../
+    path: ../base_https
 
 dev_dependencies:
   flutter_test:

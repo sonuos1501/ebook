@@ -13,5 +13,7 @@ class EbookHostViewModel extends BaseViewModel {
   String? nameBookPublisher;
   bool disableTabTextBook = false;
 
-  
+  void readBookRecently(Book book) {
+    final booksReadReacently = 
+  }
 }
