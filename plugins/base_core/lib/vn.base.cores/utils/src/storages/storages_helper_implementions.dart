@@ -4,48 +4,49 @@ import 'dart:convert';
 
 import 'package:base_https/vn.base.https/domain/model/ParrentProfileEntity.dart';
 import 'package:ebook/vn.app.ebook/presenter/model/books.dart';
-
 import '../../../common/storage.dart';
 import '../../utils.dart';
 import 'constants/storages.dart';
 
 class StoragesHelperImpl implements StoragesHelper {
-  @override
-  void changeBrightnessToDark({required bool value})  =>
-     StorageService.to.setBool(Storages.is_dark_mode, value);
+  StoragesHelperImpl._();
+  static final StoragesHelperImpl _instance = StoragesHelperImpl._();
+
+  static StoragesHelperImpl get instance => _instance;
 
   @override
-  void changeLanguage(String language)  =>
+  void changeBrightnessToDark({required bool value}) =>
+      StorageService.to.setBool(Storages.is_dark_mode, value);
+
+  @override
+  void changeLanguage(String language) =>
       StorageService.to.setString(Storages.current_language, language);
 
   @override
-  String get currentLanguage  =>
+  String get currentLanguage =>
       StorageService.to.getString(Storages.current_language) ?? '';
 
   @override
-  bool get isDarkMode  =>
-      StorageService.to.getBool(Storages.is_dark_mode);
+  bool get isDarkMode => StorageService.to.getBool(Storages.is_dark_mode);
 
   @override
-  bool get appNewInstall  =>
+  bool get appNewInstall =>
       StorageService.to.getBool(Storages.app_new_installed);
 
   @override
-  void saveAppNewInstall(bool appNewInstall)  =>
+  void saveAppNewInstall(bool appNewInstall) =>
       StorageService.to.setBool(Storages.app_new_installed, appNewInstall);
 
   @override
-  int? get idBookPublisher  =>
-      StorageService.to.getInt(Storages.book_publisher);
+  int? get idBookPublisher => StorageService.to.getInt(Storages.book_publisher);
 
   @override
-  void saveBookPublisher(int id)  =>
+  void saveBookPublisher(int id) =>
       StorageService.to.setInt(Storages.book_publisher, id);
 
   @override
-  List<Book> get booksReadRecently  {
-    final result =
-        StorageService.to.getList(Storages.books_read_recently);
+  List<Book> get booksReadRecently {
+    final result = StorageService.to.getList(Storages.books_read_recently);
     final books = result.map((e) {
       return Book.fromJson(jsonDecode(e));
     }).toList();
@@ -54,7 +55,7 @@ class StoragesHelperImpl implements StoragesHelper {
   }
 
   @override
-  void saveBooksReadRecently(List<Book> booksReadRecently)  {
+  void saveBooksReadRecently(List<Book> booksReadRecently) {
     final books = booksReadRecently.map((e) {
       return jsonEncode(e.toJson());
     }).toList();
@@ -65,7 +66,7 @@ class StoragesHelperImpl implements StoragesHelper {
   }
 
   @override
-  void saveChildrenEntity(ChildrenEntity childrenEntity)  {
+  void saveChildrenEntity(ChildrenEntity childrenEntity) {
     StorageService.to.setString(
       Storages.childrenEntity,
       jsonEncode(childrenEntity.toJson()),
@@ -73,7 +74,7 @@ class StoragesHelperImpl implements StoragesHelper {
   }
 
   @override
-  ChildrenEntity? get childrenEntity  {
+  ChildrenEntity? get childrenEntity {
     final result = StorageService.to.getString(Storages.childrenEntity) ?? '';
     final user =
         result.isEmpty ? null : ChildrenEntity.fromJson(jsonDecode(result));
@@ -81,8 +82,9 @@ class StoragesHelperImpl implements StoragesHelper {
   }
 
   @override
-  List<BookPublisher> get listBookPublisher  {
-    final result = StorageService.to.getString(Storages.list_book_publisher) ?? '';
+  List<BookPublisher> get listBookPublisher {
+    final result =
+        StorageService.to.getString(Storages.list_book_publisher) ?? '';
     final booksPublisher = result.isEmpty
         ? <BookPublisher>[]
         : listBookPublisherFromJson(
@@ -96,7 +98,7 @@ class StoragesHelperImpl implements StoragesHelper {
   @override
   void saveListBookPublisher(
     List<BookPublisher> listBookPublisher,
-  )  {
+  ) {
     StorageService.to.setString(
       Storages.list_book_publisher,
       jsonEncode(listBookPublisherToJson(listBookPublisher)),
@@ -104,13 +106,13 @@ class StoragesHelperImpl implements StoragesHelper {
   }
 
   @override
-  String get dataBook  {
+  String get dataBook {
     final result = StorageService.to.getString(Storages.data_book) ?? '';
     return result;
   }
 
   @override
-  void saveDataBook(String dataBook)  {
+  void saveDataBook(String dataBook) {
     StorageService.to.setString(Storages.data_book, dataBook);
   }
 
@@ -118,7 +120,7 @@ class StoragesHelperImpl implements StoragesHelper {
   List<Book> booksByClass({
     required int idBookPublisher,
     required int idClass,
-  })  {
+  }) {
     final result = StorageService.to.getList(
       '${Storages.data_book}_${idBookPublisher}_$idClass',
     );
@@ -134,7 +136,7 @@ class StoragesHelperImpl implements StoragesHelper {
     List<Book> books, {
     required int idBookPublisher,
     required int idClass,
-  })  {
+  }) {
     final data = books.map((e) {
       return jsonEncode(e.toJson());
     }).toList();
