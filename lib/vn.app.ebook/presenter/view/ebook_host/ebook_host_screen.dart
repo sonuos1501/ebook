@@ -57,7 +57,7 @@ class EbookHostScreen {
             child: BuildTab(
               index: e.index,
               title: e.title ?? '',
-              selectedIndex: main.selectedIndex,
+              selectedIndex: main.vm.selectedIndex,
               selectedTab: (selectedIndex) async {
                 main.onItemSelected(selectedIndex);
               },

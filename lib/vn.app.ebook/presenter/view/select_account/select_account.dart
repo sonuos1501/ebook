@@ -26,7 +26,7 @@ class SelectAccount
 
   void onAccountSelected(String id) {
     final selectedUserIndex = vm.users.indexWhere((e) => e.id == id);
-    final user = vm.currentUser(selectedUserIndex);
-    Get.toNamed(Routers.library, arguments: user);
+    vm.chooseUser(selectedUserIndex);
+    Get.toNamed(Routers.library, arguments: vm.currentUser);
   }
 }

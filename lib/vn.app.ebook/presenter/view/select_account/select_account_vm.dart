@@ -1,8 +1,10 @@
+import 'package:base_core/vn.base.cores/utils/src/storages/storages_helper_implementions.dart';
 import 'package:base_https/vn.base.https/domain/model/ParrentProfileEntity.dart';
 import 'package:ebook/r.dart';
-import 'package:ebook/vn.app.common/presenter/view/base_view.dart';
 
-class SelectAccountViewModel extends BaseViewModel {
+import '../ebook_host/ebook_host_vm.dart';
+
+class SelectAccountViewModel extends EbookHostViewModel {
   final users = [
     ChildrenEntity(
       id: '0',
@@ -20,5 +22,23 @@ class SelectAccountViewModel extends BaseViewModel {
     ),
   ];
 
-  ChildrenEntity currentUser(userIndex) => users[userIndex];
+  void chooseUser(userIndex) {
+    currentUser = users[userIndex];
+    if (StoragesHelperImpl.instance.childrenEntity?.grade !=
+        currentUser.grade) {
+      StoragesHelperImpl.instance.saveBooksReadRecently([]);
+      booksReadRecently = [];
+    }
+
+    StoragesHelperImpl.instance.saveChildrenEntity(currentUser);
+    booksByClass = StoragesHelperImpl.instance.booksByClass(
+      idBookPublisher: StoragesHelperImpl.instance.idBookPublisher ?? 0,
+      idClass: (currentUser.grade ?? 1) - 1,
+    );
+    booksReadRecently =
+        StoragesHelperImpl.instance.childrenEntity?.id != currentUser.id
+            ? []
+            : booksReadRecently;
+    update();
+  }
 }

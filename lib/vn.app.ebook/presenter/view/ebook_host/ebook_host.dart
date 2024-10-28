@@ -1,3 +1,4 @@
+import 'package:base_core/vn.base.cores/utils/src/storages/storages_helper_implementions.dart';
 import 'package:ebook/routers.dart';
 import 'package:ebook/vn.app.common/presenter/model/bottom_bar_model.dart';
 import 'package:ebook/vn.app.common/presenter/view/base_view.dart';
@@ -19,7 +20,6 @@ class EbookHostState extends StatefulWidget {
 
 class EbookHost extends BaseScreen<EbookHostState, EbookHostViewModel> {
   late List<BottomBarItemModel> listTab;
-  int selectedIndex = 0;
   final PageStorageBucket _bucket = PageStorageBucket();
 
   @override
@@ -30,10 +30,14 @@ class EbookHost extends BaseScreen<EbookHostState, EbookHostViewModel> {
   @override
   void initState() {
     super.initState();
-    vm.currentUser = Get.arguments;
+    vm.currentUser =
+        StoragesHelperImpl.instance.childrenEntity ?? Get.arguments;
     _initTabBarData();
     final param = Get.parameters;
-    selectedIndex = _getTabIndex(param['screenName']);
+    vm.selectedIndex = _getTabIndex(param['screenName']);
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      vm.loaded();
+    });
   }
 
   @override
@@ -70,12 +74,11 @@ class EbookHost extends BaseScreen<EbookHostState, EbookHostViewModel> {
   }
 
   void onItemSelected(int index) {
-    setState(() {
-      selectedIndex = index;
-    });
+    vm.selectedIndex = index;
+    vm.update();
   }
 
   Widget getCurrentPage() {
-    return PageStorage(bucket: _bucket, child: listTab[selectedIndex].child);
+    return PageStorage(bucket: _bucket, child: listTab[vm.selectedIndex].child);
   }
 }
