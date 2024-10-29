@@ -7,6 +7,7 @@ import 'package:get/get.dart';
 
 import '../../../../vn.app.common/presenter/widgets/build_tab.dart';
 import 'ebook_host.dart';
+import 'package:fluttertoast/fluttertoast.dart';
 
 class EbookHostScreen {
   final EbookHost main;
@@ -59,6 +60,14 @@ class EbookHostScreen {
               title: e.title ?? '',
               selectedIndex: main.vm.selectedIndex,
               selectedTab: (selectedIndex) async {
+                if (main.vm.disableTabTextBook && selectedIndex == 0) {
+                  Fluttertoast.showToast(
+                      gravity: ToastGravity.CENTER,
+                      msg: "Bạn cần chọn bộ sách",
+                      backgroundColor: Colours.bard[500],
+                    );
+                    return;
+                  }
                 main.onItemSelected(selectedIndex);
               },
             ),
